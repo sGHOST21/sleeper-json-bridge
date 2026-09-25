@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-25T14:29:04.694Z",
+  "fetched_at": "2026-09-25T15:28:18.998Z",
   "current_week": 3,
   "league": {
     "name": "Brass City League",
@@ -6339,7 +6339,7 @@
       "team": "NYJ",
       "age": 22,
       "status": "Active",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "fantasy_positions": [
         "TE"
       ]
@@ -6941,7 +6941,7 @@
       "team": "MIA",
       "age": 23,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ]
