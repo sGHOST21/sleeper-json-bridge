@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-25T18:28:56.561Z",
+  "fetched_at": "2026-09-25T19:25:18.038Z",
   "current_week": 3,
   "league": {
     "name": "The D-League",
@@ -7243,7 +7243,7 @@
       "team": "LAC",
       "age": 24,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "DL",
         "LB"
@@ -7281,7 +7281,7 @@
       "team": "KC",
       "age": 26,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "DB"
       ]
@@ -10097,7 +10097,7 @@
       "team": "MIN",
       "age": 31,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "RB"
       ]
@@ -11388,7 +11388,7 @@
       "team": "NO",
       "age": 27,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "RB"
       ]
