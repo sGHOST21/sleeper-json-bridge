@@ -1,1 +1,3742 @@
-{"fetched_at":"2026-09-25T00:47:34.780Z","current_week":3,"league":{"name":"HouseOfWolves Fantasy League","status":"in_season","metadata":{"auto_continue":"on","keeper_deadline":"0"},"settings":{"best_ball":0,"last_report":2,"waiver_budget":100,"disable_adds":0,"capacity_override":0,"waiver_bid_min":0,"taxi_deadline":0,"draft_rounds":3,"reserve_allow_na":1,"start_week":1,"playoff_seed_type":1,"playoff_teams":6,"veto_votes_needed":4,"num_teams":8,"daily_waivers_hour":0,"playoff_type":1,"taxi_slots":0,"sub_start_time_eligibility":0,"last_scored_leg":2,"daily_waivers_days":5461,"sub_lock_if_starter_active":0,"playoff_week_start":14,"waiver_clear_days":2,"reserve_allow_doubtful":0,"commissioner_direct_invite":0,"veto_auto_poll":0,"reserve_allow_dnr":1,"taxi_allow_vets":0,"waiver_day_of_week":2,"playoff_round_type":1,"reserve_allow_out":0,"reserve_allow_sus":1,"veto_show_votes":0,"trade_deadline":10,"taxi_years":0,"daily_waivers":0,"faab_suggestions":1,"disable_trades":0,"pick_trading":1,"type":0,"max_keepers":1,"waiver_type":2,"max_subs":0,"league_average_match":0,"trade_review_days":2,"bench_lock":0,"offseason_adds":0,"leg":3,"reserve_slots":3,"reserve_allow_cov":0,"daily_waivers_last_ran":6},"avatar":"3a2a8f32f6fec7c6b6663d1495cf1168","company_id":null,"shard":949,"season":"2026","season_type":"regular","sport":"nfl","scoring_settings":{"sack":1,"fgm_40_49":4,"pass_int":-1,"pts_allow_0":10,"pass_2pt":2,"st_td":6,"rec_td":6,"fgm_30_39":3,"fgm_50_59":5,"xpmiss":-1,"rush_td":6,"rec_2pt":2,"st_fum_rec":1,"fgmiss":-1,"ff":1,"rec":1,"pts_allow_14_20":1,"fgm_0_19":3,"int":2,"def_st_fum_rec":1,"fum_lost":-2,"pts_allow_1_6":7,"fgm_60p":6,"fgm_20_29":3,"pts_allow_21_27":0,"xpm":1,"rush_2pt":2,"fum_rec":2,"def_st_td":6,"def_td":6,"safe":2,"pass_yd":0.04,"blk_kick":2,"pass_td":4,"rush_yd":0.1,"fum":0,"pts_allow_28_34":-1,"pts_allow_35p":-4,"fum_rec_td":6,"rec_yd":0.1,"def_st_ff":1,"pts_allow_7_13":4,"st_ff":1},"last_message_id":"1408668244671299584","last_author_avatar":null,"last_author_display_name":"sys","last_author_id":"166666666666666666","last_author_is_bot":true,"last_message_attachment":null,"last_message_text_map":null,"last_message_time":1790215190622,"draft_id":"1400845992303022080","last_pinned_message_id":null,"last_read_id":null,"league_id":"1400845991007019008","previous_league_id":null,"bracket_id":null,"bracket_overrides_id":null,"group_id":null,"loser_bracket_id":null,"loser_bracket_overrides_id":null,"roster_positions":["QB","RB","RB","WR","WR","TE","FLEX","SUPER_FLEX","K","DEF","BN","BN","BN","BN","BN","BN","BN","BN","BN"],"total_rosters":8},"users":[{"avatar":"e9e60299e9e4d98d837e7b64f2118586","display_name":"Shanei","is_bot":false,"is_owner":true,"league_id":"1400845991007019008","metadata":{"allow_pn":"on","avatar":"https://sleepercdn.com/uploads/f3e3fdaf07922369bc6f58b6af3c3e1c.jpg","mention_pn":"on","team_name":"MeLOVEuLongTime"},"settings":null,"user_id":"737708656518385664"},{"avatar":"b9ab8ce919d8f9896a5d18a052ccef25","display_name":"WOLFxTru","is_bot":false,"is_owner":null,"league_id":"1400845991007019008","metadata":{"allow_pn":"on","mention_pn":"on","team_name":"Hole Digger"},"settings":null,"user_id":"1400852933964230656"},{"avatar":"bd3529d15120dd74d534b02bafe2125f","display_name":"DaDuehiccie","is_bot":false,"is_owner":null,"league_id":"1400845991007019008","metadata":{"allow_pn":"on","allow_sms":"on","mention_pn":"on","team_name":"DueHicksters"},"settings":null,"user_id":"1400879577995206656"},{"avatar":"d7f3e061493481b4d3b1581cbf307a7d","display_name":"DJAY363","is_bot":false,"is_owner":null,"league_id":"1400845991007019008","metadata":{"allow_pn":"on","allow_sms":"on","mention_pn":"on","team_name":"URGENT CARE "},"settings":null,"user_id":"1400900697192439808"},{"avatar":"15043537570e936f25e0ae413b9d8db6","display_name":"SIGMYDART","is_bot":false,"is_owner":null,"league_id":"1400845991007019008","metadata":{"allow_pn":"on","mention_pn":"on"},"settings":null,"user_id":"1401030298161950720"},{"avatar":"494d97104f118d2421e8db834dd899d5","display_name":"NotoriousZAE","is_bot":false,"is_owner":null,"league_id":"1400845991007019008","metadata":{"allow_pn":"on","mention_pn":"on"},"settings":null,"user_id":"1401314114613022720"},{"avatar":"578c6b253dd7b4bab45382e1af102204","display_name":"Brooklynknights43","is_bot":false,"is_owner":null,"league_id":"1400845991007019008","metadata":{"allow_pn":"on","avatar":"https://sleepercdn.com/uploads/829bc8b12bc8fe2f6505d75025e2042d.jpg","mention_pn":"on","team_name":"Brooklyn knights "},"settings":null,"user_id":"1401317827809398784"},{"avatar":"d55d1f7075eda01948318de4af616075","display_name":"xOREO43","is_bot":false,"is_owner":null,"league_id":"1400845991007019008","metadata":{"allow_pn":"on","mention_pn":"on","team_name":"NoFuck$GivenBoyz"},"settings":null,"user_id":"1401343543036882944"}],"rosters":[{"co_owners":null,"keepers":null,"league_id":"1400845991007019008","metadata":{"p_nick_8183":"GlockPurdy","record":"WW","streak":"2W"},"owner_id":"737708656518385664","player_map":null,"players":["11620","11632","12501","12518","12529","13281","13287","13346","3163","4866","7523","7525","7547","7839","8146","8183","9221","9225","9997","MIN"],"reserve":["13281"],"roster_id":1,"settings":{"fpts":351,"fpts_against":340,"fpts_against_decimal":2,"fpts_decimal":38,"losses":0,"ppts":395,"ppts_decimal":86,"ties":0,"total_moves":0,"waiver_budget_used":100,"waiver_position":8,"wins":2},"starters":["3163","9221","13287","7547","8146","12518","7525","8183","7839","MIN"],"taxi":null},{"co_owners":null,"keepers":null,"league_id":"1400845991007019008","metadata":{"record":"LW","streak":"1W"},"owner_id":"1400852933964230656","player_map":null,"players":["11563","1166","11786","12526","12527","13414","4037","5927","5967","6770","7021","7543","7571","8112","8130","8138","8161","HOU","PIT"],"reserve":null,"roster_id":2,"settings":{"fpts":250,"fpts_against":255,"fpts_against_decimal":2,"fpts_decimal":80,"losses":1,"ppts":315,"ppts_decimal":86,"ties":0,"total_moves":0,"waiver_budget_used":0,"waiver_position":3,"wins":1},"starters":["6770","8138","12527","8112","12526","8130","5927","11563","11786","PIT"],"taxi":null},{"co_owners":null,"keepers":null,"league_id":"1400845991007019008","metadata":{"record":"WL","streak":"1L"},"owner_id":"1400879577995206656","player_map":null,"players":["11583","11628","11635","12507","12512","12517","421","4881","6650","6794","7567","8110","8136","8144","8167","9226","9754","DEN","PHI"],"reserve":null,"roster_id":3,"settings":{"fpts":239,"fpts_against":241,"fpts_against_decimal":12,"fpts_decimal":6,"losses":1,"ppts":317,"ppts_decimal":64,"ties":0,"total_moves":0,"waiver_budget_used":0,"waiver_position":5,"wins":1},"starters":["4881","9226","12507","6794","8144","12517","11635","8167","0","PHI"],"taxi":null},{"co_owners":null,"keepers":null,"league_id":"1400845991007019008","metadata":{"record":"LL","streak":"2L"},"owner_id":"1400900697192439808","player_map":null,"players":["10236","11560","11564","11624","11646","12481","12489","12523","2747","4217","4943","4983","5854","5859","5872","5892","7526","7611","8134","SEA"],"reserve":["5859"],"roster_id":4,"settings":{"fpts":194,"fpts_against":256,"fpts_against_decimal":12,"fpts_decimal":86,"losses":2,"ppts":333,"ppts_decimal":88,"ties":0,"total_moves":0,"waiver_budget_used":0,"waiver_position":1,"wins":0},"starters":["11564","5892","12481","7526","11646","4217","10236","5854","2747","SEA"],"taxi":null},{"co_owners":null,"keepers":null,"league_id":"1400845991007019008","metadata":{"record":"WL","streak":"1L"},"owner_id":"1401030298161950720","player_map":null,"players":["10222","11604","11631","12490","12508","12545","1466","2133","2449","3451","4034","5045","6801","6813","6904","7569","7594","8228","BAL"],"reserve":null,"roster_id":5,"settings":{"fpts":311,"fpts_against":286,"fpts_against_decimal":14,"fpts_decimal":68,"losses":1,"ppts":379,"ppts_decimal":34,"ties":0,"total_moves":0,"waiver_budget_used":0,"waiver_position":4,"wins":1},"starters":["6904","6813","4034","2133","6801","1466","10222","12508","3451","BAL"],"taxi":null},{"co_owners":null,"keepers":null,"league_id":"1400845991007019008","metadata":{"record":"WL","streak":"1L"},"owner_id":"1401314114613022720","player_map":null,"players":["10229","10859","11533","11637","13269","13337","3198","4035","4039","4046","4984","5001","5947","6130","6804","8137","9484","9758","LAR"],"reserve":null,"roster_id":6,"settings":{"fpts":307,"fpts_against":290,"fpts_against_decimal":64,"fpts_decimal":12,"losses":1,"ppts":336,"ppts_decimal":2,"ties":0,"total_moves":0,"waiver_budget_used":0,"waiver_position":2,"wins":1},"starters":["4984","3198","13337","8137","10229","10859","5001","4046","11533","LAR"],"taxi":null},{"co_owners":null,"keepers":null,"league_id":"1400845991007019008","metadata":{"record":"LW","streak":"1W"},"owner_id":"1401317827809398784","player_map":null,"players":["11539","11584","12514","12534","13286","4199","5849","6797","7553","7564","8131","8150","8408","8676","9224","9228","9487","9493","9756","LAC"],"reserve":["8408"],"roster_id":7,"settings":{"fpts":224,"fpts_against":221,"fpts_against_decimal":26,"fpts_decimal":76,"losses":1,"ppts":286,"ppts_decimal":34,"ties":0,"total_moves":0,"waiver_budget_used":10,"waiver_position":7,"wins":1},"starters":["6797","8150","9224","7564","9487","8131","11584","9228","11539","LAC"],"taxi":null},{"co_owners":null,"keepers":null,"league_id":"1400845991007019008","metadata":{"record":"LW","streak":"1W"},"owner_id":"1401343543036882944","player_map":null,"players":["10232","11566","12015","12506","12519","2216","3294","5012","5850","6786","6790","7588","8142","8148","8151","8155","9488","9509","NE"],"reserve":null,"roster_id":8,"settings":{"fpts":366,"fpts_against":355,"fpts_against_decimal":64,"fpts_decimal":30,"losses":1,"ppts":408,"ppts_decimal":76,"ties":0,"total_moves":0,"waiver_budget_used":0,"waiver_position":6,"wins":1},"starters":["3294","9509","8151","9488","6786","5012","7588","8155","12015","NE"],"taxi":null}],"traded_picks":[],"recent_transactions":[{"status":"failed","type":"waiver","metadata":{"notes":"Unfortunately, your roster will have too many players after this transaction."},"created":1789518837392,"settings":{"seq":4,"waiver_bid":0},"leg":1,"draft_picks":[],"creator":"737708656518385664","transaction_id":"1405747527537401856","adds":{"12509":1},"consenter_ids":[1],"drops":null,"roster_ids":[1],"status_updated":1789542865961,"waiver_budget":[]},{"status":"complete","type":"waiver","metadata":{"notes":"Your waiver claim was processed successfully!"},"created":1789498292415,"settings":{"seq":3,"waiver_bid":0},"leg":1,"draft_picks":[],"creator":"737708656518385664","transaction_id":"1405661355653996544","adds":{"12501":1},"consenter_ids":[1],"drops":{"11581":1},"roster_ids":[1],"status_updated":1789542865961,"waiver_budget":[]},{"status":"complete","type":"waiver","metadata":{"notes":"Your waiver claim was processed successfully!"},"created":1789475675777,"settings":{"seq":2,"waiver_bid":10},"leg":1,"draft_picks":[],"creator":"1401317827809398784","transaction_id":"1405566494598832128","adds":{"9228":7},"consenter_ids":[7],"drops":{"4892":7},"roster_ids":[7],"status_updated":1789542865961,"waiver_budget":[]},{"status":"failed","type":"waiver","metadata":{"notes":"This player was claimed by another owner."},"created":1789461003536,"settings":{"seq":1,"waiver_bid":20},"leg":1,"draft_picks":[],"creator":"1401317827809398784","transaction_id":"1405504954763939840","adds":{"13287":7},"consenter_ids":[7],"drops":null,"roster_ids":[7],"status_updated":1789542865961,"waiver_budget":[]},{"status":"complete","type":"waiver","metadata":{"notes":"Your waiver claim was processed successfully!"},"created":1789329710945,"settings":{"seq":0,"waiver_bid":100},"leg":1,"draft_picks":[],"creator":"737708656518385664","transaction_id":"1404954273724235776","adds":{"13287":1},"consenter_ids":[1],"drops":{"12493":1},"roster_ids":[1],"status_updated":1789542865961,"waiver_budget":[]},{"status":"complete","type":"free_agent","metadata":null,"created":1789328994284,"settings":null,"leg":1,"draft_picks":[],"creator":"1401314114613022720","transaction_id":"1404951267830226944","adds":{"13337":6},"consenter_ids":[6],"drops":{"13287":6},"roster_ids":[6],"status_updated":1789328994284,"waiver_budget":[]},{"status":"complete","type":"free_agent","metadata":null,"created":1789328259342,"settings":null,"leg":1,"draft_picks":[],"creator":"1401314114613022720","transaction_id":"1404948185259986944","adds":null,"consenter_ids":[6],"drops":{"12524":6},"roster_ids":[6],"status_updated":1789328259342,"waiver_budget":[]},{"status":"complete","type":"free_agent","metadata":null,"created":1788795749466,"settings":null,"leg":1,"draft_picks":[],"creator":"1400900697192439808","transaction_id":"1402714676957040640","adds":{"11646":4},"consenter_ids":[4],"drops":null,"roster_ids":[4],"status_updated":1788795749466,"waiver_budget":[]},{"status":"complete","type":"free_agent","metadata":null,"created":1788795599882,"settings":null,"leg":1,"draft_picks":[],"creator":"1400900697192439808","transaction_id":"1402714049552060416","adds":null,"consenter_ids":[4],"drops":{"12487":4},"roster_ids":[4],"status_updated":1788795599882,"waiver_budget":[]},{"status":"complete","type":"free_agent","metadata":null,"created":1788745804881,"settings":null,"leg":1,"draft_picks":[],"creator":"1400852933964230656","transaction_id":"1402505194184384512","adds":null,"consenter_ids":[2],"drops":{"1945":2},"roster_ids":[2],"status_updated":1788745804881,"waiver_budget":[]},{"status":"complete","type":"free_agent","metadata":null,"created":1788745719471,"settings":null,"leg":1,"draft_picks":[],"creator":"1400852933964230656","transaction_id":"1402504835944734720","adds":null,"consenter_ids":[2],"drops":{"7600":2},"roster_ids":[2],"status_updated":1788745719471,"waiver_budget":[]},{"status":"complete","type":"free_agent","metadata":null,"created":1788745456504,"settings":null,"leg":1,"draft_picks":[],"creator":"737708656518385664","transaction_id":"1402503732981141504","adds":{"6819":1},"consenter_ids":[1],"drops":null,"roster_ids":[1],"status_updated":1788745456504,"waiver_budget":[]},{"status":"complete","type":"free_agent","metadata":null,"created":1788745403229,"settings":null,"leg":1,"draft_picks":[],"creator":"737708656518385664","transaction_id":"1402503509533855744","adds":{"11581":1},"consenter_ids":[1],"drops":null,"roster_ids":[1],"status_updated":1788745403229,"waiver_budget":[]},{"status":"complete","type":"trade","metadata":null,"created":1788742753457,"settings":null,"leg":1,"draft_picks":[],"creator":"1400852933964230656","transaction_id":"1402492395580329984","adds":{"3163":1,"5967":2,"8161":2,"13279":2},"consenter_ids":[1,2],"drops":{"3163":2,"5967":1,"8161":1,"13279":1},"roster_ids":[1,2],"status_updated":1788745367433,"waiver_budget":[]},{"status":"complete","type":"free_agent","metadata":null,"created":1788735041950,"settings":null,"leg":1,"draft_picks":[],"creator":"1401317827809398784","transaction_id":"1402460051179872257","adds":{"8676":7},"consenter_ids":[7],"drops":{"12534":7},"roster_ids":[7],"status_updated":1788735041950,"waiver_budget":[]},{"status":"complete","type":"free_agent","metadata":null,"created":1788734918908,"settings":null,"leg":1,"draft_picks":[],"creator":"737708656518385664","transaction_id":"1402459535104319488","adds":{"12711":1},"consenter_ids":[1],"drops":{"13346":1},"roster_ids":[1],"status_updated":1788734918908,"waiver_budget":[]},{"status":"complete","type":"free_agent","metadata":null,"created":1788734771281,"settings":null,"leg":1,"draft_picks":[],"creator":"737708656518385664","transaction_id":"1402458915911839744","adds":{"JAX":1},"consenter_ids":[1],"drops":null,"roster_ids":[1],"status_updated":1788734771281,"waiver_budget":[]},{"status":"complete","type":"waiver","metadata":{"notes":"Your waiver claim was processed successfully!"},"created":1790104625639,"settings":{"priority":1,"seq":1,"waiver_bid":0},"leg":2,"draft_picks":[],"creator":"737708656518385664","transaction_id":"1408204501524987904","adds":{"13346":1},"drops":{"6819":1},"consenter_ids":[1],"roster_ids":[1],"status_updated":1790147625536,"waiver_budget":[]},{"status":"failed","type":"waiver","metadata":{"notes":"Unfortunately, your roster will have too many players after this transaction."},"created":1790043066013,"settings":{"priority":2,"seq":2,"waiver_bid":0},"leg":2,"draft_picks":[],"creator":"737708656518385664","transaction_id":"1407946301735198720","adds":{"13345":1},"drops":null,"consenter_ids":[1],"roster_ids":[1],"status_updated":1790147625536,"waiver_budget":[]},{"status":"complete","type":"waiver","metadata":{"notes":"Your waiver claim was processed successfully!"},"created":1790043053413,"settings":{"priority":0,"seq":0,"waiver_bid":0},"leg":2,"draft_picks":[],"creator":"737708656518385664","transaction_id":"1407946248891240448","adds":{"9225":1},"drops":{"6806":1},"consenter_ids":[1],"roster_ids":[1],"status_updated":1790147625536,"waiver_budget":[]},{"status":"complete","type":"free_agent","metadata":null,"created":1789763147105,"settings":null,"leg":2,"draft_picks":[],"creator":"1401314114613022720","transaction_id":"1406772236743897088","adds":{"6130":6},"drops":null,"consenter_ids":[6],"roster_ids":[6],"status_updated":1789763147105,"waiver_budget":[]},{"status":"complete","type":"free_agent","metadata":null,"created":1789653228571,"settings":null,"leg":2,"draft_picks":[],"creator":"1400900697192439808","transaction_id":"1406311204992868352","adds":null,"drops":{"13294":4},"consenter_ids":[4],"roster_ids":[4],"status_updated":1789653228571,"waiver_budget":[]},{"status":"complete","type":"free_agent","metadata":null,"created":1789653160670,"settings":null,"leg":2,"draft_picks":[],"creator":"1400900697192439808","transaction_id":"1406310920199626752","adds":{"12523":4},"drops":null,"consenter_ids":[4],"roster_ids":[4],"status_updated":1789653160670,"waiver_budget":[]},{"status":"complete","type":"free_agent","metadata":null,"created":1789614804823,"settings":null,"leg":2,"draft_picks":[],"creator":"1400852933964230656","transaction_id":"1406150044117155840","adds":{"13414":2},"drops":{"13279":2},"consenter_ids":[2],"roster_ids":[2],"status_updated":1789614804823,"waiver_budget":[]},{"status":"complete","type":"free_agent","metadata":null,"created":1789614707826,"settings":null,"leg":2,"draft_picks":[],"creator":"1400852933964230656","transaction_id":"1406149637282213888","adds":{"1166":2},"drops":{"13298":2},"consenter_ids":[2],"roster_ids":[2],"status_updated":1789614707826,"waiver_budget":[]},{"status":"complete","type":"free_agent","metadata":null,"created":1789601255658,"settings":null,"leg":2,"draft_picks":[],"creator":"1401317827809398784","transaction_id":"1406093214795964416","adds":{"4199":7},"drops":null,"consenter_ids":[7],"roster_ids":[7],"status_updated":1789601255658,"waiver_budget":[]},{"status":"complete","type":"free_agent","metadata":null,"created":1789545450747,"settings":null,"leg":2,"draft_picks":[],"creator":"1401317827809398784","transaction_id":"1405859152038739968","adds":{"12534":7},"drops":{"11586":7},"consenter_ids":[7],"roster_ids":[7],"status_updated":1789545450747,"waiver_budget":[]},{"status":"complete","type":"free_agent","metadata":null,"created":1790215190589,"settings":null,"leg":3,"draft_picks":[],"creator":"1401314114613022720","transaction_id":"1408668244537069568","adds":{"11637":6},"drops":{"5846":6},"consenter_ids":[6],"roster_ids":[6],"status_updated":1790215190589,"waiver_budget":[]},{"status":"complete","type":"free_agent","metadata":null,"created":1790200258692,"settings":null,"leg":3,"draft_picks":[],"creator":"1400900697192439808","transaction_id":"1408605615617548288","adds":{"5854":4},"drops":null,"consenter_ids":[4],"roster_ids":[4],"status_updated":1790200258692,"waiver_budget":[]},{"status":"complete","type":"free_agent","metadata":null,"created":1790196220840,"settings":null,"leg":3,"draft_picks":[],"creator":"1400852933964230656","transaction_id":"1408588679638679552","adds":{"7571":2},"drops":null,"consenter_ids":[2],"roster_ids":[2],"status_updated":1790196220840,"waiver_budget":[]},{"status":"complete","type":"free_agent","metadata":null,"created":1790196159081,"settings":null,"leg":3,"draft_picks":[],"creator":"1400852933964230656","transaction_id":"1408588420606943232","adds":null,"drops":{"5022":2},"consenter_ids":[2],"roster_ids":[2],"status_updated":1790196159081,"waiver_budget":[]},{"status":"complete","type":"free_agent","metadata":null,"created":1790176665880,"settings":null,"leg":3,"draft_picks":[],"creator":"737708656518385664","transaction_id":"1408506660196016128","adds":{"7839":1},"drops":{"12711":1},"consenter_ids":[1],"roster_ids":[1],"status_updated":1790176665880,"waiver_budget":[]},{"status":"complete","type":"free_agent","metadata":null,"created":1790176630100,"settings":null,"leg":3,"draft_picks":[],"creator":"737708656518385664","transaction_id":"1408506510123843584","adds":{"MIN":1},"drops":{"JAX":1},"consenter_ids":[1],"roster_ids":[1],"status_updated":1790176630100,"waiver_budget":[]},{"status":"complete","type":"free_agent","metadata":null,"created":1790165667144,"settings":null,"leg":3,"draft_picks":[],"creator":"1400879577995206656","transaction_id":"1408460528153612288","adds":{"6650":3},"drops":{"8259":3},"consenter_ids":[3],"roster_ids":[3],"status_updated":1790165667144,"waiver_budget":[]}]}
+{
+  "fetched_at": "2026-09-25T01:00:29.925Z",
+  "current_week": 3,
+  "league": {
+    "name": "HouseOfWolves Fantasy League",
+    "status": "in_season",
+    "metadata": {
+      "auto_continue": "on",
+      "keeper_deadline": "0"
+    },
+    "settings": {
+      "best_ball": 0,
+      "last_report": 2,
+      "waiver_budget": 100,
+      "disable_adds": 0,
+      "capacity_override": 0,
+      "waiver_bid_min": 0,
+      "taxi_deadline": 0,
+      "draft_rounds": 3,
+      "reserve_allow_na": 1,
+      "start_week": 1,
+      "playoff_seed_type": 1,
+      "playoff_teams": 6,
+      "veto_votes_needed": 4,
+      "num_teams": 8,
+      "daily_waivers_hour": 0,
+      "playoff_type": 1,
+      "taxi_slots": 0,
+      "sub_start_time_eligibility": 0,
+      "last_scored_leg": 2,
+      "daily_waivers_days": 5461,
+      "sub_lock_if_starter_active": 0,
+      "playoff_week_start": 14,
+      "waiver_clear_days": 2,
+      "reserve_allow_doubtful": 0,
+      "commissioner_direct_invite": 0,
+      "veto_auto_poll": 0,
+      "reserve_allow_dnr": 1,
+      "taxi_allow_vets": 0,
+      "waiver_day_of_week": 2,
+      "playoff_round_type": 1,
+      "reserve_allow_out": 0,
+      "reserve_allow_sus": 1,
+      "veto_show_votes": 0,
+      "trade_deadline": 10,
+      "taxi_years": 0,
+      "daily_waivers": 0,
+      "faab_suggestions": 1,
+      "disable_trades": 0,
+      "pick_trading": 1,
+      "type": 0,
+      "max_keepers": 1,
+      "waiver_type": 2,
+      "max_subs": 0,
+      "league_average_match": 0,
+      "trade_review_days": 2,
+      "bench_lock": 0,
+      "offseason_adds": 0,
+      "leg": 3,
+      "reserve_slots": 3,
+      "reserve_allow_cov": 0,
+      "daily_waivers_last_ran": 6
+    },
+    "avatar": "3a2a8f32f6fec7c6b6663d1495cf1168",
+    "company_id": null,
+    "shard": 949,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
+    "scoring_settings": {
+      "sack": 1,
+      "fgm_40_49": 4,
+      "pass_int": -1,
+      "pts_allow_0": 10,
+      "pass_2pt": 2,
+      "st_td": 6,
+      "rec_td": 6,
+      "fgm_30_39": 3,
+      "fgm_50_59": 5,
+      "xpmiss": -1,
+      "rush_td": 6,
+      "rec_2pt": 2,
+      "st_fum_rec": 1,
+      "fgmiss": -1,
+      "ff": 1,
+      "rec": 1,
+      "pts_allow_14_20": 1,
+      "fgm_0_19": 3,
+      "int": 2,
+      "def_st_fum_rec": 1,
+      "fum_lost": -2,
+      "pts_allow_1_6": 7,
+      "fgm_60p": 6,
+      "fgm_20_29": 3,
+      "pts_allow_21_27": 0,
+      "xpm": 1,
+      "rush_2pt": 2,
+      "fum_rec": 2,
+      "def_st_td": 6,
+      "def_td": 6,
+      "safe": 2,
+      "pass_yd": 0.04,
+      "blk_kick": 2,
+      "pass_td": 4,
+      "rush_yd": 0.1,
+      "fum": 0,
+      "pts_allow_28_34": -1,
+      "pts_allow_35p": -4,
+      "fum_rec_td": 6,
+      "rec_yd": 0.1,
+      "def_st_ff": 1,
+      "pts_allow_7_13": 4,
+      "st_ff": 1
+    },
+    "last_message_id": "1408668244671299584",
+    "last_author_avatar": null,
+    "last_author_display_name": "sys",
+    "last_author_id": "166666666666666666",
+    "last_author_is_bot": true,
+    "last_message_attachment": null,
+    "last_message_text_map": null,
+    "last_message_time": 1790215190622,
+    "draft_id": "1400845992303022080",
+    "last_pinned_message_id": null,
+    "last_read_id": null,
+    "league_id": "1400845991007019008",
+    "previous_league_id": null,
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
+    "roster_positions": [
+      "QB",
+      "RB",
+      "RB",
+      "WR",
+      "WR",
+      "TE",
+      "FLEX",
+      "SUPER_FLEX",
+      "K",
+      "DEF",
+      "BN",
+      "BN",
+      "BN",
+      "BN",
+      "BN",
+      "BN",
+      "BN",
+      "BN",
+      "BN"
+    ],
+    "total_rosters": 8
+  },
+  "users": [
+    {
+      "avatar": "e9e60299e9e4d98d837e7b64f2118586",
+      "display_name": "Shanei",
+      "is_bot": false,
+      "is_owner": true,
+      "league_id": "1400845991007019008",
+      "metadata": {
+        "allow_pn": "on",
+        "avatar": "https://sleepercdn.com/uploads/f3e3fdaf07922369bc6f58b6af3c3e1c.jpg",
+        "mention_pn": "on",
+        "team_name": "MeLOVEuLongTime"
+      },
+      "settings": null,
+      "user_id": "737708656518385664"
+    },
+    {
+      "avatar": "b9ab8ce919d8f9896a5d18a052ccef25",
+      "display_name": "WOLFxTru",
+      "is_bot": false,
+      "is_owner": null,
+      "league_id": "1400845991007019008",
+      "metadata": {
+        "allow_pn": "on",
+        "mention_pn": "on",
+        "team_name": "Hole Digger"
+      },
+      "settings": null,
+      "user_id": "1400852933964230656"
+    },
+    {
+      "avatar": "bd3529d15120dd74d534b02bafe2125f",
+      "display_name": "DaDuehiccie",
+      "is_bot": false,
+      "is_owner": null,
+      "league_id": "1400845991007019008",
+      "metadata": {
+        "allow_pn": "on",
+        "allow_sms": "on",
+        "mention_pn": "on",
+        "team_name": "DueHicksters"
+      },
+      "settings": null,
+      "user_id": "1400879577995206656"
+    },
+    {
+      "avatar": "d7f3e061493481b4d3b1581cbf307a7d",
+      "display_name": "DJAY363",
+      "is_bot": false,
+      "is_owner": null,
+      "league_id": "1400845991007019008",
+      "metadata": {
+        "allow_pn": "on",
+        "allow_sms": "on",
+        "mention_pn": "on",
+        "team_name": "URGENT CARE "
+      },
+      "settings": null,
+      "user_id": "1400900697192439808"
+    },
+    {
+      "avatar": "15043537570e936f25e0ae413b9d8db6",
+      "display_name": "SIGMYDART",
+      "is_bot": false,
+      "is_owner": null,
+      "league_id": "1400845991007019008",
+      "metadata": {
+        "allow_pn": "on",
+        "mention_pn": "on"
+      },
+      "settings": null,
+      "user_id": "1401030298161950720"
+    },
+    {
+      "avatar": "494d97104f118d2421e8db834dd899d5",
+      "display_name": "NotoriousZAE",
+      "is_bot": false,
+      "is_owner": null,
+      "league_id": "1400845991007019008",
+      "metadata": {
+        "allow_pn": "on",
+        "mention_pn": "on"
+      },
+      "settings": null,
+      "user_id": "1401314114613022720"
+    },
+    {
+      "avatar": "578c6b253dd7b4bab45382e1af102204",
+      "display_name": "Brooklynknights43",
+      "is_bot": false,
+      "is_owner": null,
+      "league_id": "1400845991007019008",
+      "metadata": {
+        "allow_pn": "on",
+        "avatar": "https://sleepercdn.com/uploads/829bc8b12bc8fe2f6505d75025e2042d.jpg",
+        "mention_pn": "on",
+        "team_name": "Brooklyn knights "
+      },
+      "settings": null,
+      "user_id": "1401317827809398784"
+    },
+    {
+      "avatar": "d55d1f7075eda01948318de4af616075",
+      "display_name": "xOREO43",
+      "is_bot": false,
+      "is_owner": null,
+      "league_id": "1400845991007019008",
+      "metadata": {
+        "allow_pn": "on",
+        "mention_pn": "on",
+        "team_name": "NoFuck$GivenBoyz"
+      },
+      "settings": null,
+      "user_id": "1401343543036882944"
+    }
+  ],
+  "rosters": [
+    {
+      "co_owners": null,
+      "keepers": null,
+      "league_id": "1400845991007019008",
+      "metadata": {
+        "p_nick_8183": "GlockPurdy",
+        "record": "WW",
+        "streak": "2W"
+      },
+      "owner_id": "737708656518385664",
+      "player_map": null,
+      "players": [
+        "11620",
+        "11632",
+        "12501",
+        "12518",
+        "12529",
+        "13281",
+        "13287",
+        "13346",
+        "3163",
+        "4866",
+        "7523",
+        "7525",
+        "7547",
+        "7839",
+        "8146",
+        "8183",
+        "9221",
+        "9225",
+        "9997",
+        "MIN"
+      ],
+      "reserve": [
+        "13281"
+      ],
+      "roster_id": 1,
+      "settings": {
+        "fpts": 351,
+        "fpts_against": 340,
+        "fpts_against_decimal": 2,
+        "fpts_decimal": 38,
+        "losses": 0,
+        "ppts": 395,
+        "ppts_decimal": 86,
+        "ties": 0,
+        "total_moves": 0,
+        "waiver_budget_used": 100,
+        "waiver_position": 8,
+        "wins": 2
+      },
+      "starters": [
+        "3163",
+        "9221",
+        "13287",
+        "7547",
+        "8146",
+        "12518",
+        "7525",
+        "8183",
+        "7839",
+        "MIN"
+      ],
+      "taxi": null
+    },
+    {
+      "co_owners": null,
+      "keepers": null,
+      "league_id": "1400845991007019008",
+      "metadata": {
+        "record": "LW",
+        "streak": "1W"
+      },
+      "owner_id": "1400852933964230656",
+      "player_map": null,
+      "players": [
+        "11563",
+        "1166",
+        "11786",
+        "12526",
+        "12527",
+        "13414",
+        "4037",
+        "5927",
+        "5967",
+        "6770",
+        "7021",
+        "7543",
+        "7571",
+        "8112",
+        "8130",
+        "8138",
+        "8161",
+        "HOU",
+        "PIT"
+      ],
+      "reserve": null,
+      "roster_id": 2,
+      "settings": {
+        "fpts": 250,
+        "fpts_against": 255,
+        "fpts_against_decimal": 2,
+        "fpts_decimal": 80,
+        "losses": 1,
+        "ppts": 315,
+        "ppts_decimal": 86,
+        "ties": 0,
+        "total_moves": 0,
+        "waiver_budget_used": 0,
+        "waiver_position": 3,
+        "wins": 1
+      },
+      "starters": [
+        "6770",
+        "8138",
+        "12527",
+        "8112",
+        "12526",
+        "8130",
+        "5927",
+        "11563",
+        "11786",
+        "PIT"
+      ],
+      "taxi": null
+    },
+    {
+      "co_owners": null,
+      "keepers": null,
+      "league_id": "1400845991007019008",
+      "metadata": {
+        "record": "WL",
+        "streak": "1L"
+      },
+      "owner_id": "1400879577995206656",
+      "player_map": null,
+      "players": [
+        "11583",
+        "11628",
+        "11635",
+        "12507",
+        "12512",
+        "12517",
+        "421",
+        "4881",
+        "6650",
+        "6794",
+        "7567",
+        "8110",
+        "8136",
+        "8144",
+        "8167",
+        "9226",
+        "9754",
+        "DEN",
+        "PHI"
+      ],
+      "reserve": null,
+      "roster_id": 3,
+      "settings": {
+        "fpts": 239,
+        "fpts_against": 241,
+        "fpts_against_decimal": 12,
+        "fpts_decimal": 6,
+        "losses": 1,
+        "ppts": 317,
+        "ppts_decimal": 64,
+        "ties": 0,
+        "total_moves": 0,
+        "waiver_budget_used": 0,
+        "waiver_position": 5,
+        "wins": 1
+      },
+      "starters": [
+        "4881",
+        "9226",
+        "12507",
+        "6794",
+        "8144",
+        "12517",
+        "11635",
+        "8167",
+        "0",
+        "PHI"
+      ],
+      "taxi": null
+    },
+    {
+      "co_owners": null,
+      "keepers": null,
+      "league_id": "1400845991007019008",
+      "metadata": {
+        "record": "LL",
+        "streak": "2L"
+      },
+      "owner_id": "1400900697192439808",
+      "player_map": null,
+      "players": [
+        "10236",
+        "11560",
+        "11564",
+        "11624",
+        "11646",
+        "12481",
+        "12489",
+        "12523",
+        "2747",
+        "4217",
+        "4943",
+        "4983",
+        "5854",
+        "5859",
+        "5872",
+        "5892",
+        "7526",
+        "7611",
+        "8134",
+        "SEA"
+      ],
+      "reserve": [
+        "5859"
+      ],
+      "roster_id": 4,
+      "settings": {
+        "fpts": 194,
+        "fpts_against": 256,
+        "fpts_against_decimal": 12,
+        "fpts_decimal": 86,
+        "losses": 2,
+        "ppts": 333,
+        "ppts_decimal": 88,
+        "ties": 0,
+        "total_moves": 0,
+        "waiver_budget_used": 0,
+        "waiver_position": 1,
+        "wins": 0
+      },
+      "starters": [
+        "11564",
+        "5892",
+        "12481",
+        "7526",
+        "11646",
+        "4217",
+        "10236",
+        "5854",
+        "2747",
+        "SEA"
+      ],
+      "taxi": null
+    },
+    {
+      "co_owners": null,
+      "keepers": null,
+      "league_id": "1400845991007019008",
+      "metadata": {
+        "record": "WL",
+        "streak": "1L"
+      },
+      "owner_id": "1401030298161950720",
+      "player_map": null,
+      "players": [
+        "10222",
+        "11604",
+        "11631",
+        "12490",
+        "12508",
+        "12545",
+        "1466",
+        "2133",
+        "2449",
+        "3451",
+        "4034",
+        "5045",
+        "6801",
+        "6813",
+        "6904",
+        "7569",
+        "7594",
+        "8228",
+        "BAL"
+      ],
+      "reserve": null,
+      "roster_id": 5,
+      "settings": {
+        "fpts": 311,
+        "fpts_against": 286,
+        "fpts_against_decimal": 14,
+        "fpts_decimal": 68,
+        "losses": 1,
+        "ppts": 379,
+        "ppts_decimal": 34,
+        "ties": 0,
+        "total_moves": 0,
+        "waiver_budget_used": 0,
+        "waiver_position": 4,
+        "wins": 1
+      },
+      "starters": [
+        "6904",
+        "6813",
+        "4034",
+        "2133",
+        "6801",
+        "1466",
+        "10222",
+        "12508",
+        "3451",
+        "BAL"
+      ],
+      "taxi": null
+    },
+    {
+      "co_owners": null,
+      "keepers": null,
+      "league_id": "1400845991007019008",
+      "metadata": {
+        "record": "WL",
+        "streak": "1L"
+      },
+      "owner_id": "1401314114613022720",
+      "player_map": null,
+      "players": [
+        "10229",
+        "10859",
+        "11533",
+        "11637",
+        "13269",
+        "13337",
+        "3198",
+        "4035",
+        "4039",
+        "4046",
+        "4984",
+        "5001",
+        "5947",
+        "6130",
+        "6804",
+        "8137",
+        "9484",
+        "9758",
+        "LAR"
+      ],
+      "reserve": null,
+      "roster_id": 6,
+      "settings": {
+        "fpts": 307,
+        "fpts_against": 290,
+        "fpts_against_decimal": 64,
+        "fpts_decimal": 12,
+        "losses": 1,
+        "ppts": 336,
+        "ppts_decimal": 2,
+        "ties": 0,
+        "total_moves": 0,
+        "waiver_budget_used": 0,
+        "waiver_position": 2,
+        "wins": 1
+      },
+      "starters": [
+        "4984",
+        "3198",
+        "13337",
+        "8137",
+        "10229",
+        "10859",
+        "5001",
+        "4046",
+        "11533",
+        "LAR"
+      ],
+      "taxi": null
+    },
+    {
+      "co_owners": null,
+      "keepers": null,
+      "league_id": "1400845991007019008",
+      "metadata": {
+        "record": "LW",
+        "streak": "1W"
+      },
+      "owner_id": "1401317827809398784",
+      "player_map": null,
+      "players": [
+        "11539",
+        "11584",
+        "12514",
+        "12534",
+        "13286",
+        "4199",
+        "5849",
+        "6797",
+        "7553",
+        "7564",
+        "8131",
+        "8150",
+        "8408",
+        "8676",
+        "9224",
+        "9228",
+        "9487",
+        "9493",
+        "9756",
+        "LAC"
+      ],
+      "reserve": [
+        "8408"
+      ],
+      "roster_id": 7,
+      "settings": {
+        "fpts": 224,
+        "fpts_against": 221,
+        "fpts_against_decimal": 26,
+        "fpts_decimal": 76,
+        "losses": 1,
+        "ppts": 286,
+        "ppts_decimal": 34,
+        "ties": 0,
+        "total_moves": 0,
+        "waiver_budget_used": 10,
+        "waiver_position": 7,
+        "wins": 1
+      },
+      "starters": [
+        "6797",
+        "8150",
+        "9224",
+        "7564",
+        "9487",
+        "8131",
+        "11584",
+        "9228",
+        "11539",
+        "LAC"
+      ],
+      "taxi": null
+    },
+    {
+      "co_owners": null,
+      "keepers": null,
+      "league_id": "1400845991007019008",
+      "metadata": {
+        "record": "LW",
+        "streak": "1W"
+      },
+      "owner_id": "1401343543036882944",
+      "player_map": null,
+      "players": [
+        "10232",
+        "11566",
+        "12015",
+        "12506",
+        "12519",
+        "2216",
+        "3294",
+        "5012",
+        "5850",
+        "6786",
+        "6790",
+        "7588",
+        "8142",
+        "8148",
+        "8151",
+        "8155",
+        "9488",
+        "9509",
+        "NE"
+      ],
+      "reserve": null,
+      "roster_id": 8,
+      "settings": {
+        "fpts": 366,
+        "fpts_against": 355,
+        "fpts_against_decimal": 64,
+        "fpts_decimal": 30,
+        "losses": 1,
+        "ppts": 408,
+        "ppts_decimal": 76,
+        "ties": 0,
+        "total_moves": 0,
+        "waiver_budget_used": 0,
+        "waiver_position": 6,
+        "wins": 1
+      },
+      "starters": [
+        "3294",
+        "9509",
+        "8151",
+        "9488",
+        "6786",
+        "5012",
+        "7588",
+        "8155",
+        "12015",
+        "NE"
+      ],
+      "taxi": null
+    }
+  ],
+  "traded_picks": [],
+  "recent_transactions": [
+    {
+      "status": "failed",
+      "type": "waiver",
+      "metadata": {
+        "notes": "Unfortunately, your roster will have too many players after this transaction."
+      },
+      "created": 1789518837392,
+      "settings": {
+        "seq": 4,
+        "waiver_bid": 0
+      },
+      "leg": 1,
+      "draft_picks": [],
+      "creator": "737708656518385664",
+      "transaction_id": "1405747527537401856",
+      "adds": {
+        "12509": 1
+      },
+      "consenter_ids": [
+        1
+      ],
+      "drops": null,
+      "roster_ids": [
+        1
+      ],
+      "status_updated": 1789542865961,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "waiver",
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      },
+      "created": 1789498292415,
+      "settings": {
+        "seq": 3,
+        "waiver_bid": 0
+      },
+      "leg": 1,
+      "draft_picks": [],
+      "creator": "737708656518385664",
+      "transaction_id": "1405661355653996544",
+      "adds": {
+        "12501": 1
+      },
+      "consenter_ids": [
+        1
+      ],
+      "drops": {
+        "11581": 1
+      },
+      "roster_ids": [
+        1
+      ],
+      "status_updated": 1789542865961,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "waiver",
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      },
+      "created": 1789475675777,
+      "settings": {
+        "seq": 2,
+        "waiver_bid": 10
+      },
+      "leg": 1,
+      "draft_picks": [],
+      "creator": "1401317827809398784",
+      "transaction_id": "1405566494598832128",
+      "adds": {
+        "9228": 7
+      },
+      "consenter_ids": [
+        7
+      ],
+      "drops": {
+        "4892": 7
+      },
+      "roster_ids": [
+        7
+      ],
+      "status_updated": 1789542865961,
+      "waiver_budget": []
+    },
+    {
+      "status": "failed",
+      "type": "waiver",
+      "metadata": {
+        "notes": "This player was claimed by another owner."
+      },
+      "created": 1789461003536,
+      "settings": {
+        "seq": 1,
+        "waiver_bid": 20
+      },
+      "leg": 1,
+      "draft_picks": [],
+      "creator": "1401317827809398784",
+      "transaction_id": "1405504954763939840",
+      "adds": {
+        "13287": 7
+      },
+      "consenter_ids": [
+        7
+      ],
+      "drops": null,
+      "roster_ids": [
+        7
+      ],
+      "status_updated": 1789542865961,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "waiver",
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      },
+      "created": 1789329710945,
+      "settings": {
+        "seq": 0,
+        "waiver_bid": 100
+      },
+      "leg": 1,
+      "draft_picks": [],
+      "creator": "737708656518385664",
+      "transaction_id": "1404954273724235776",
+      "adds": {
+        "13287": 1
+      },
+      "consenter_ids": [
+        1
+      ],
+      "drops": {
+        "12493": 1
+      },
+      "roster_ids": [
+        1
+      ],
+      "status_updated": 1789542865961,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1789328994284,
+      "settings": null,
+      "leg": 1,
+      "draft_picks": [],
+      "creator": "1401314114613022720",
+      "transaction_id": "1404951267830226944",
+      "adds": {
+        "13337": 6
+      },
+      "consenter_ids": [
+        6
+      ],
+      "drops": {
+        "13287": 6
+      },
+      "roster_ids": [
+        6
+      ],
+      "status_updated": 1789328994284,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1789328259342,
+      "settings": null,
+      "leg": 1,
+      "draft_picks": [],
+      "creator": "1401314114613022720",
+      "transaction_id": "1404948185259986944",
+      "adds": null,
+      "consenter_ids": [
+        6
+      ],
+      "drops": {
+        "12524": 6
+      },
+      "roster_ids": [
+        6
+      ],
+      "status_updated": 1789328259342,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1788795749466,
+      "settings": null,
+      "leg": 1,
+      "draft_picks": [],
+      "creator": "1400900697192439808",
+      "transaction_id": "1402714676957040640",
+      "adds": {
+        "11646": 4
+      },
+      "consenter_ids": [
+        4
+      ],
+      "drops": null,
+      "roster_ids": [
+        4
+      ],
+      "status_updated": 1788795749466,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1788795599882,
+      "settings": null,
+      "leg": 1,
+      "draft_picks": [],
+      "creator": "1400900697192439808",
+      "transaction_id": "1402714049552060416",
+      "adds": null,
+      "consenter_ids": [
+        4
+      ],
+      "drops": {
+        "12487": 4
+      },
+      "roster_ids": [
+        4
+      ],
+      "status_updated": 1788795599882,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1788745804881,
+      "settings": null,
+      "leg": 1,
+      "draft_picks": [],
+      "creator": "1400852933964230656",
+      "transaction_id": "1402505194184384512",
+      "adds": null,
+      "consenter_ids": [
+        2
+      ],
+      "drops": {
+        "1945": 2
+      },
+      "roster_ids": [
+        2
+      ],
+      "status_updated": 1788745804881,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1788745719471,
+      "settings": null,
+      "leg": 1,
+      "draft_picks": [],
+      "creator": "1400852933964230656",
+      "transaction_id": "1402504835944734720",
+      "adds": null,
+      "consenter_ids": [
+        2
+      ],
+      "drops": {
+        "7600": 2
+      },
+      "roster_ids": [
+        2
+      ],
+      "status_updated": 1788745719471,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1788745456504,
+      "settings": null,
+      "leg": 1,
+      "draft_picks": [],
+      "creator": "737708656518385664",
+      "transaction_id": "1402503732981141504",
+      "adds": {
+        "6819": 1
+      },
+      "consenter_ids": [
+        1
+      ],
+      "drops": null,
+      "roster_ids": [
+        1
+      ],
+      "status_updated": 1788745456504,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1788745403229,
+      "settings": null,
+      "leg": 1,
+      "draft_picks": [],
+      "creator": "737708656518385664",
+      "transaction_id": "1402503509533855744",
+      "adds": {
+        "11581": 1
+      },
+      "consenter_ids": [
+        1
+      ],
+      "drops": null,
+      "roster_ids": [
+        1
+      ],
+      "status_updated": 1788745403229,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "trade",
+      "metadata": null,
+      "created": 1788742753457,
+      "settings": null,
+      "leg": 1,
+      "draft_picks": [],
+      "creator": "1400852933964230656",
+      "transaction_id": "1402492395580329984",
+      "adds": {
+        "3163": 1,
+        "5967": 2,
+        "8161": 2,
+        "13279": 2
+      },
+      "consenter_ids": [
+        1,
+        2
+      ],
+      "drops": {
+        "3163": 2,
+        "5967": 1,
+        "8161": 1,
+        "13279": 1
+      },
+      "roster_ids": [
+        1,
+        2
+      ],
+      "status_updated": 1788745367433,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1788735041950,
+      "settings": null,
+      "leg": 1,
+      "draft_picks": [],
+      "creator": "1401317827809398784",
+      "transaction_id": "1402460051179872257",
+      "adds": {
+        "8676": 7
+      },
+      "consenter_ids": [
+        7
+      ],
+      "drops": {
+        "12534": 7
+      },
+      "roster_ids": [
+        7
+      ],
+      "status_updated": 1788735041950,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1788734918908,
+      "settings": null,
+      "leg": 1,
+      "draft_picks": [],
+      "creator": "737708656518385664",
+      "transaction_id": "1402459535104319488",
+      "adds": {
+        "12711": 1
+      },
+      "consenter_ids": [
+        1
+      ],
+      "drops": {
+        "13346": 1
+      },
+      "roster_ids": [
+        1
+      ],
+      "status_updated": 1788734918908,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1788734771281,
+      "settings": null,
+      "leg": 1,
+      "draft_picks": [],
+      "creator": "737708656518385664",
+      "transaction_id": "1402458915911839744",
+      "adds": {
+        "JAX": 1
+      },
+      "consenter_ids": [
+        1
+      ],
+      "drops": null,
+      "roster_ids": [
+        1
+      ],
+      "status_updated": 1788734771281,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "waiver",
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      },
+      "created": 1790104625639,
+      "settings": {
+        "priority": 1,
+        "seq": 1,
+        "waiver_bid": 0
+      },
+      "leg": 2,
+      "draft_picks": [],
+      "creator": "737708656518385664",
+      "transaction_id": "1408204501524987904",
+      "adds": {
+        "13346": 1
+      },
+      "drops": {
+        "6819": 1
+      },
+      "consenter_ids": [
+        1
+      ],
+      "roster_ids": [
+        1
+      ],
+      "status_updated": 1790147625536,
+      "waiver_budget": []
+    },
+    {
+      "status": "failed",
+      "type": "waiver",
+      "metadata": {
+        "notes": "Unfortunately, your roster will have too many players after this transaction."
+      },
+      "created": 1790043066013,
+      "settings": {
+        "priority": 2,
+        "seq": 2,
+        "waiver_bid": 0
+      },
+      "leg": 2,
+      "draft_picks": [],
+      "creator": "737708656518385664",
+      "transaction_id": "1407946301735198720",
+      "adds": {
+        "13345": 1
+      },
+      "drops": null,
+      "consenter_ids": [
+        1
+      ],
+      "roster_ids": [
+        1
+      ],
+      "status_updated": 1790147625536,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "waiver",
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      },
+      "created": 1790043053413,
+      "settings": {
+        "priority": 0,
+        "seq": 0,
+        "waiver_bid": 0
+      },
+      "leg": 2,
+      "draft_picks": [],
+      "creator": "737708656518385664",
+      "transaction_id": "1407946248891240448",
+      "adds": {
+        "9225": 1
+      },
+      "drops": {
+        "6806": 1
+      },
+      "consenter_ids": [
+        1
+      ],
+      "roster_ids": [
+        1
+      ],
+      "status_updated": 1790147625536,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1789763147105,
+      "settings": null,
+      "leg": 2,
+      "draft_picks": [],
+      "creator": "1401314114613022720",
+      "transaction_id": "1406772236743897088",
+      "adds": {
+        "6130": 6
+      },
+      "drops": null,
+      "consenter_ids": [
+        6
+      ],
+      "roster_ids": [
+        6
+      ],
+      "status_updated": 1789763147105,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1789653228571,
+      "settings": null,
+      "leg": 2,
+      "draft_picks": [],
+      "creator": "1400900697192439808",
+      "transaction_id": "1406311204992868352",
+      "adds": null,
+      "drops": {
+        "13294": 4
+      },
+      "consenter_ids": [
+        4
+      ],
+      "roster_ids": [
+        4
+      ],
+      "status_updated": 1789653228571,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1789653160670,
+      "settings": null,
+      "leg": 2,
+      "draft_picks": [],
+      "creator": "1400900697192439808",
+      "transaction_id": "1406310920199626752",
+      "adds": {
+        "12523": 4
+      },
+      "drops": null,
+      "consenter_ids": [
+        4
+      ],
+      "roster_ids": [
+        4
+      ],
+      "status_updated": 1789653160670,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1789614804823,
+      "settings": null,
+      "leg": 2,
+      "draft_picks": [],
+      "creator": "1400852933964230656",
+      "transaction_id": "1406150044117155840",
+      "adds": {
+        "13414": 2
+      },
+      "drops": {
+        "13279": 2
+      },
+      "consenter_ids": [
+        2
+      ],
+      "roster_ids": [
+        2
+      ],
+      "status_updated": 1789614804823,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1789614707826,
+      "settings": null,
+      "leg": 2,
+      "draft_picks": [],
+      "creator": "1400852933964230656",
+      "transaction_id": "1406149637282213888",
+      "adds": {
+        "1166": 2
+      },
+      "drops": {
+        "13298": 2
+      },
+      "consenter_ids": [
+        2
+      ],
+      "roster_ids": [
+        2
+      ],
+      "status_updated": 1789614707826,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1789601255658,
+      "settings": null,
+      "leg": 2,
+      "draft_picks": [],
+      "creator": "1401317827809398784",
+      "transaction_id": "1406093214795964416",
+      "adds": {
+        "4199": 7
+      },
+      "drops": null,
+      "consenter_ids": [
+        7
+      ],
+      "roster_ids": [
+        7
+      ],
+      "status_updated": 1789601255658,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1789545450747,
+      "settings": null,
+      "leg": 2,
+      "draft_picks": [],
+      "creator": "1401317827809398784",
+      "transaction_id": "1405859152038739968",
+      "adds": {
+        "12534": 7
+      },
+      "drops": {
+        "11586": 7
+      },
+      "consenter_ids": [
+        7
+      ],
+      "roster_ids": [
+        7
+      ],
+      "status_updated": 1789545450747,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1790215190589,
+      "settings": null,
+      "leg": 3,
+      "draft_picks": [],
+      "creator": "1401314114613022720",
+      "transaction_id": "1408668244537069568",
+      "adds": {
+        "11637": 6
+      },
+      "drops": {
+        "5846": 6
+      },
+      "consenter_ids": [
+        6
+      ],
+      "roster_ids": [
+        6
+      ],
+      "status_updated": 1790215190589,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1790200258692,
+      "settings": null,
+      "leg": 3,
+      "draft_picks": [],
+      "creator": "1400900697192439808",
+      "transaction_id": "1408605615617548288",
+      "adds": {
+        "5854": 4
+      },
+      "drops": null,
+      "consenter_ids": [
+        4
+      ],
+      "roster_ids": [
+        4
+      ],
+      "status_updated": 1790200258692,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1790196220840,
+      "settings": null,
+      "leg": 3,
+      "draft_picks": [],
+      "creator": "1400852933964230656",
+      "transaction_id": "1408588679638679552",
+      "adds": {
+        "7571": 2
+      },
+      "drops": null,
+      "consenter_ids": [
+        2
+      ],
+      "roster_ids": [
+        2
+      ],
+      "status_updated": 1790196220840,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1790196159081,
+      "settings": null,
+      "leg": 3,
+      "draft_picks": [],
+      "creator": "1400852933964230656",
+      "transaction_id": "1408588420606943232",
+      "adds": null,
+      "drops": {
+        "5022": 2
+      },
+      "consenter_ids": [
+        2
+      ],
+      "roster_ids": [
+        2
+      ],
+      "status_updated": 1790196159081,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1790176665880,
+      "settings": null,
+      "leg": 3,
+      "draft_picks": [],
+      "creator": "737708656518385664",
+      "transaction_id": "1408506660196016128",
+      "adds": {
+        "7839": 1
+      },
+      "drops": {
+        "12711": 1
+      },
+      "consenter_ids": [
+        1
+      ],
+      "roster_ids": [
+        1
+      ],
+      "status_updated": 1790176665880,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1790176630100,
+      "settings": null,
+      "leg": 3,
+      "draft_picks": [],
+      "creator": "737708656518385664",
+      "transaction_id": "1408506510123843584",
+      "adds": {
+        "MIN": 1
+      },
+      "drops": {
+        "JAX": 1
+      },
+      "consenter_ids": [
+        1
+      ],
+      "roster_ids": [
+        1
+      ],
+      "status_updated": 1790176630100,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1790165667144,
+      "settings": null,
+      "leg": 3,
+      "draft_picks": [],
+      "creator": "1400879577995206656",
+      "transaction_id": "1408460528153612288",
+      "adds": {
+        "6650": 3
+      },
+      "drops": {
+        "8259": 3
+      },
+      "consenter_ids": [
+        3
+      ],
+      "roster_ids": [
+        3
+      ],
+      "status_updated": 1790165667144,
+      "waiver_budget": []
+    }
+  ],
+  "player_map": {
+    "10222": {
+      "player_id": "10222",
+      "full_name": "Jayden Reed",
+      "position": "WR",
+      "team": "GB",
+      "age": 26,
+      "status": "Active",
+      "injury_status": "Out",
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "10229": {
+      "player_id": "10229",
+      "full_name": "Rashee Rice",
+      "position": "WR",
+      "team": "KC",
+      "age": 26,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "10232": {
+      "player_id": "10232",
+      "full_name": "Michael Wilson",
+      "position": "WR",
+      "team": "ARI",
+      "age": 26,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "10236": {
+      "player_id": "10236",
+      "full_name": "Dalton Kincaid",
+      "position": "TE",
+      "team": "BUF",
+      "age": 26,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "TE"
+      ]
+    },
+    "10859": {
+      "player_id": "10859",
+      "full_name": "Sam LaPorta",
+      "position": "TE",
+      "team": "DET",
+      "age": 25,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "TE"
+      ]
+    },
+    "11533": {
+      "player_id": "11533",
+      "full_name": "Brandon Aubrey",
+      "position": "K",
+      "team": "DAL",
+      "age": 31,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "K"
+      ]
+    },
+    "11539": {
+      "player_id": "11539",
+      "full_name": "Jake Bates",
+      "position": "K",
+      "team": "DET",
+      "age": 27,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "K"
+      ]
+    },
+    "11560": {
+      "player_id": "11560",
+      "full_name": "Caleb Williams",
+      "position": "QB",
+      "team": "CHI",
+      "age": 24,
+      "status": "Active",
+      "injury_status": "Doubtful",
+      "fantasy_positions": [
+        "QB"
+      ]
+    },
+    "11563": {
+      "player_id": "11563",
+      "full_name": "Bo Nix",
+      "position": "QB",
+      "team": "DEN",
+      "age": 26,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "QB"
+      ]
+    },
+    "11564": {
+      "player_id": "11564",
+      "full_name": "Drake Maye",
+      "position": "QB",
+      "team": "NE",
+      "age": 24,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "QB"
+      ]
+    },
+    "11566": {
+      "player_id": "11566",
+      "full_name": "Jayden Daniels",
+      "position": "QB",
+      "team": "WAS",
+      "age": 25,
+      "status": "Active",
+      "injury_status": "Out",
+      "fantasy_positions": [
+        "QB"
+      ]
+    },
+    "11581": {
+      "player_id": "11581",
+      "full_name": "MarShawn Lloyd",
+      "position": "RB",
+      "team": "GB",
+      "age": 25,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "RB"
+      ]
+    },
+    "11583": {
+      "player_id": "11583",
+      "full_name": "Jonathon Brooks",
+      "position": "RB",
+      "team": "CAR",
+      "age": 23,
+      "status": "Inactive",
+      "injury_status": "IR",
+      "fantasy_positions": [
+        "RB"
+      ]
+    },
+    "11584": {
+      "player_id": "11584",
+      "full_name": "Bucky Irving",
+      "position": "RB",
+      "team": "TB",
+      "age": 24,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "RB"
+      ]
+    },
+    "11586": {
+      "player_id": "11586",
+      "full_name": "Blake Corum",
+      "position": "RB",
+      "team": "LAR",
+      "age": 25,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "RB"
+      ]
+    },
+    "11604": {
+      "player_id": "11604",
+      "full_name": "Brock Bowers",
+      "position": "TE",
+      "team": "LV",
+      "age": 23,
+      "status": "Active",
+      "injury_status": "Questionable",
+      "fantasy_positions": [
+        "TE"
+      ]
+    },
+    "11620": {
+      "player_id": "11620",
+      "full_name": "Rome Odunze",
+      "position": "WR",
+      "team": "CHI",
+      "age": 24,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "11624": {
+      "player_id": "11624",
+      "full_name": "Xavier Worthy",
+      "position": "WR",
+      "team": "KC",
+      "age": 23,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "11628": {
+      "player_id": "11628",
+      "full_name": "Marvin Harrison",
+      "position": "WR",
+      "team": "ARI",
+      "age": 24,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "11631": {
+      "player_id": "11631",
+      "full_name": "Brian Thomas",
+      "position": "WR",
+      "team": "JAX",
+      "age": 23,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "11632": {
+      "player_id": "11632",
+      "full_name": "Malik Nabers",
+      "position": "WR",
+      "team": "NYG",
+      "age": 23,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "11635": {
+      "player_id": "11635",
+      "full_name": "Ladd McConkey",
+      "position": "WR",
+      "team": "LAC",
+      "age": 24,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "11637": {
+      "player_id": "11637",
+      "full_name": "Keon Coleman",
+      "position": "WR",
+      "team": "BUF",
+      "age": 23,
+      "status": "Active",
+      "injury_status": "Questionable",
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "11646": {
+      "player_id": "11646",
+      "full_name": "Jalen Coker",
+      "position": "WR",
+      "team": "CAR",
+      "age": 24,
+      "status": "Active",
+      "injury_status": "Questionable",
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "1166": {
+      "player_id": "1166",
+      "full_name": "Kirk Cousins",
+      "position": "QB",
+      "team": "LV",
+      "age": 38,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "QB"
+      ]
+    },
+    "11786": {
+      "player_id": "11786",
+      "full_name": "Cam Little",
+      "position": "K",
+      "team": "JAX",
+      "age": 23,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "K"
+      ]
+    },
+    "12015": {
+      "player_id": "12015",
+      "full_name": "Harrison Mevis",
+      "position": "K",
+      "team": "LAR",
+      "age": 24,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "K"
+      ]
+    },
+    "12481": {
+      "player_id": "12481",
+      "full_name": "Cam Skattebo",
+      "position": "RB",
+      "team": "NYG",
+      "age": 24,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "RB"
+      ]
+    },
+    "12487": {
+      "player_id": "12487",
+      "full_name": "Terrance Ferguson",
+      "position": "TE",
+      "team": "LAR",
+      "age": 23,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "TE"
+      ]
+    },
+    "12489": {
+      "player_id": "12489",
+      "full_name": "RJ Harvey",
+      "position": "RB",
+      "team": "DEN",
+      "age": 25,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "RB"
+      ]
+    },
+    "12490": {
+      "player_id": "12490",
+      "full_name": "Bhayshul Tuten",
+      "position": "RB",
+      "team": "JAX",
+      "age": 23,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "RB"
+      ]
+    },
+    "12493": {
+      "player_id": "12493",
+      "full_name": "Oronde Gadsden",
+      "position": "TE",
+      "team": "LAC",
+      "age": 23,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "TE"
+      ]
+    },
+    "12501": {
+      "player_id": "12501",
+      "full_name": "Matthew Golden",
+      "position": "WR",
+      "team": "GB",
+      "age": 23,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "12506": {
+      "player_id": "12506",
+      "full_name": "Harold Fannin",
+      "position": "TE",
+      "team": "CLE",
+      "age": 22,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "TE"
+      ]
+    },
+    "12507": {
+      "player_id": "12507",
+      "full_name": "Omarion Hampton",
+      "position": "RB",
+      "team": "LAC",
+      "age": 23,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "RB"
+      ]
+    },
+    "12508": {
+      "player_id": "12508",
+      "full_name": "Jaxson Dart",
+      "position": "QB",
+      "team": "NYG",
+      "age": 23,
+      "status": "Inactive",
+      "injury_status": "IR",
+      "fantasy_positions": [
+        "QB"
+      ]
+    },
+    "12509": {
+      "player_id": "12509",
+      "full_name": "Tre' Harris",
+      "position": "WR",
+      "team": "LAC",
+      "age": 24,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "12512": {
+      "player_id": "12512",
+      "full_name": "Quinshon Judkins",
+      "position": "RB",
+      "team": "CLE",
+      "age": 22,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "RB"
+      ]
+    },
+    "12514": {
+      "player_id": "12514",
+      "full_name": "Emeka Egbuka",
+      "position": "WR",
+      "team": "TB",
+      "age": 23,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "12517": {
+      "player_id": "12517",
+      "full_name": "Colston Loveland",
+      "position": "TE",
+      "team": "CHI",
+      "age": 22,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "TE"
+      ]
+    },
+    "12518": {
+      "player_id": "12518",
+      "full_name": "Tyler Warren",
+      "position": "TE",
+      "team": "IND",
+      "age": 24,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "TE"
+      ]
+    },
+    "12519": {
+      "player_id": "12519",
+      "full_name": "Luther Burden",
+      "position": "WR",
+      "team": "CHI",
+      "age": 22,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "12523": {
+      "player_id": "12523",
+      "full_name": "Jimmy Horn",
+      "position": "WR",
+      "team": "CLE",
+      "age": 24,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "12524": {
+      "player_id": "12524",
+      "full_name": "Shedeur Sanders",
+      "position": "QB",
+      "team": "CLE",
+      "age": 24,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "QB"
+      ]
+    },
+    "12526": {
+      "player_id": "12526",
+      "full_name": "Tetairoa McMillan",
+      "position": "WR",
+      "team": "CAR",
+      "age": 23,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "12527": {
+      "player_id": "12527",
+      "full_name": "Ashton Jeanty",
+      "position": "RB",
+      "team": "LV",
+      "age": 22,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "RB"
+      ]
+    },
+    "12529": {
+      "player_id": "12529",
+      "full_name": "TreVeyon Henderson",
+      "position": "RB",
+      "team": "NE",
+      "age": 23,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "RB"
+      ]
+    },
+    "12534": {
+      "player_id": "12534",
+      "full_name": "Kyle Monangai",
+      "position": "RB",
+      "team": "CHI",
+      "age": 24,
+      "status": "Active",
+      "injury_status": "Questionable",
+      "fantasy_positions": [
+        "RB"
+      ]
+    },
+    "12545": {
+      "player_id": "12545",
+      "full_name": "Tyler Shough",
+      "position": "QB",
+      "team": "NO",
+      "age": 26,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "QB"
+      ]
+    },
+    "12711": {
+      "player_id": "12711",
+      "full_name": "Tyler Loop",
+      "position": "K",
+      "team": "BAL",
+      "age": 25,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "K"
+      ]
+    },
+    "13269": {
+      "player_id": "13269",
+      "full_name": "Fernando Mendoza",
+      "position": "QB",
+      "team": "LV",
+      "age": 22,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "QB"
+      ]
+    },
+    "13279": {
+      "player_id": "13279",
+      "full_name": "Carnell Tate",
+      "position": "WR",
+      "team": "TEN",
+      "age": 21,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "13281": {
+      "player_id": "13281",
+      "full_name": "Jordyn Tyson",
+      "position": "WR",
+      "team": "NO",
+      "age": 22,
+      "status": "Inactive",
+      "injury_status": "IR",
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "13286": {
+      "player_id": "13286",
+      "full_name": "Jadarian Price",
+      "position": "RB",
+      "team": "SEA",
+      "age": 22,
+      "status": "Active",
+      "injury_status": "Questionable",
+      "fantasy_positions": [
+        "RB"
+      ]
+    },
+    "13287": {
+      "player_id": "13287",
+      "full_name": "Jeremiyah Love",
+      "position": "RB",
+      "team": "ARI",
+      "age": 21,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "RB"
+      ]
+    },
+    "13294": {
+      "player_id": "13294",
+      "full_name": "Makai Lemon",
+      "position": "WR",
+      "team": "PHI",
+      "age": 22,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "13298": {
+      "player_id": "13298",
+      "full_name": "KC Concepcion",
+      "position": "WR",
+      "team": "CLE",
+      "age": 22,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "13337": {
+      "player_id": "13337",
+      "full_name": "Emmett Johnson",
+      "position": "RB",
+      "team": "KC",
+      "age": 22,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "RB"
+      ]
+    },
+    "13345": {
+      "player_id": "13345",
+      "full_name": "Jonah Coleman",
+      "position": "RB",
+      "team": "DEN",
+      "age": 23,
+      "status": "Active",
+      "injury_status": "Questionable",
+      "fantasy_positions": [
+        "RB"
+      ]
+    },
+    "13346": {
+      "player_id": "13346",
+      "full_name": "Denzel Boston",
+      "position": "WR",
+      "team": "CLE",
+      "age": 22,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "13414": {
+      "player_id": "13414",
+      "full_name": "Kaelon Black",
+      "position": "RB",
+      "team": "SF",
+      "age": 24,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "RB"
+      ]
+    },
+    "1466": {
+      "player_id": "1466",
+      "full_name": "Travis Kelce",
+      "position": "TE",
+      "team": "KC",
+      "age": 36,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "TE"
+      ]
+    },
+    "1945": {
+      "player_id": "1945",
+      "full_name": "Chris Boswell",
+      "position": "K",
+      "team": "PIT",
+      "age": 35,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "K"
+      ]
+    },
+    "2133": {
+      "player_id": "2133",
+      "full_name": "Davante Adams",
+      "position": "WR",
+      "team": "LAR",
+      "age": 33,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "2216": {
+      "player_id": "2216",
+      "full_name": "Mike Evans",
+      "position": "WR",
+      "team": "SF",
+      "age": 33,
+      "status": "Active",
+      "injury_status": "Questionable",
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "2449": {
+      "player_id": "2449",
+      "full_name": "Stefon Diggs",
+      "position": "WR",
+      "team": "WAS",
+      "age": 32,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "2747": {
+      "player_id": "2747",
+      "full_name": "Jason Myers",
+      "position": "K",
+      "team": "SEA",
+      "age": 35,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "K"
+      ]
+    },
+    "3163": {
+      "player_id": "3163",
+      "full_name": "Jared Goff",
+      "position": "QB",
+      "team": "DET",
+      "age": 31,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "QB"
+      ]
+    },
+    "3198": {
+      "player_id": "3198",
+      "full_name": "Derrick Henry",
+      "position": "RB",
+      "team": "BAL",
+      "age": 32,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "RB"
+      ]
+    },
+    "3294": {
+      "player_id": "3294",
+      "full_name": "Dak Prescott",
+      "position": "QB",
+      "team": "DAL",
+      "age": 33,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "QB"
+      ]
+    },
+    "3451": {
+      "player_id": "3451",
+      "full_name": "Ka'imi Fairbairn",
+      "position": "K",
+      "team": "HOU",
+      "age": 32,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "K"
+      ]
+    },
+    "4034": {
+      "player_id": "4034",
+      "full_name": "Christian McCaffrey",
+      "position": "RB",
+      "team": "SF",
+      "age": 30,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "RB"
+      ]
+    },
+    "4035": {
+      "player_id": "4035",
+      "full_name": "Alvin Kamara",
+      "position": "RB",
+      "team": "NO",
+      "age": 31,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "RB"
+      ]
+    },
+    "4037": {
+      "player_id": "4037",
+      "full_name": "Chris Godwin",
+      "position": "WR",
+      "team": "TB",
+      "age": 30,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "4039": {
+      "player_id": "4039",
+      "full_name": "Cooper Kupp",
+      "position": "WR",
+      "team": "SEA",
+      "age": 33,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "4046": {
+      "player_id": "4046",
+      "full_name": "Patrick Mahomes",
+      "position": "QB",
+      "team": "KC",
+      "age": 31,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "QB"
+      ]
+    },
+    "4199": {
+      "player_id": "4199",
+      "full_name": "Aaron Jones",
+      "position": "RB",
+      "team": "MIN",
+      "age": 31,
+      "status": "Active",
+      "injury_status": "Questionable",
+      "fantasy_positions": [
+        "RB"
+      ]
+    },
+    "421": {
+      "player_id": "421",
+      "full_name": "Matthew Stafford",
+      "position": "QB",
+      "team": "LAR",
+      "age": 38,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "QB"
+      ]
+    },
+    "4217": {
+      "player_id": "4217",
+      "full_name": "George Kittle",
+      "position": "TE",
+      "team": "SF",
+      "age": 32,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "TE"
+      ]
+    },
+    "4866": {
+      "player_id": "4866",
+      "full_name": "Saquon Barkley",
+      "position": "RB",
+      "team": "PHI",
+      "age": 29,
+      "status": "Active",
+      "injury_status": "Questionable",
+      "fantasy_positions": [
+        "RB"
+      ]
+    },
+    "4881": {
+      "player_id": "4881",
+      "full_name": "Lamar Jackson",
+      "position": "QB",
+      "team": "BAL",
+      "age": 29,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "QB"
+      ]
+    },
+    "4892": {
+      "player_id": "4892",
+      "full_name": "Baker Mayfield",
+      "position": "QB",
+      "team": "TB",
+      "age": 31,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "QB"
+      ]
+    },
+    "4943": {
+      "player_id": "4943",
+      "full_name": "Sam Darnold",
+      "position": "QB",
+      "team": "SEA",
+      "age": 29,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "QB"
+      ]
+    },
+    "4983": {
+      "player_id": "4983",
+      "full_name": "DJ Moore",
+      "position": "WR",
+      "team": "BUF",
+      "age": 29,
+      "status": "Active",
+      "injury_status": "Questionable",
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "4984": {
+      "player_id": "4984",
+      "full_name": "Josh Allen",
+      "position": "QB",
+      "team": "BUF",
+      "age": 30,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "QB"
+      ]
+    },
+    "5001": {
+      "player_id": "5001",
+      "full_name": "Dalton Schultz",
+      "position": "TE",
+      "team": "HOU",
+      "age": 30,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "TE"
+      ]
+    },
+    "5012": {
+      "player_id": "5012",
+      "full_name": "Mark Andrews",
+      "position": "TE",
+      "team": "BAL",
+      "age": 31,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "TE"
+      ]
+    },
+    "5022": {
+      "player_id": "5022",
+      "full_name": "Dallas Goedert",
+      "position": "TE",
+      "team": "PHI",
+      "age": 31,
+      "status": "Active",
+      "injury_status": "Doubtful",
+      "fantasy_positions": [
+        "TE"
+      ]
+    },
+    "5045": {
+      "player_id": "5045",
+      "full_name": "Courtland Sutton",
+      "position": "WR",
+      "team": "DEN",
+      "age": 30,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "5846": {
+      "player_id": "5846",
+      "full_name": "DK Metcalf",
+      "position": "WR",
+      "team": "PIT",
+      "age": 28,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "5849": {
+      "player_id": "5849",
+      "full_name": "Kyler Murray",
+      "position": "QB",
+      "team": "MIN",
+      "age": 29,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "QB"
+      ]
+    },
+    "5850": {
+      "player_id": "5850",
+      "full_name": "Josh Jacobs",
+      "position": "RB",
+      "team": "GB",
+      "age": 28,
+      "status": "Active",
+      "injury_status": "NA",
+      "fantasy_positions": [
+        "RB"
+      ]
+    },
+    "5854": {
+      "player_id": "5854",
+      "full_name": "Drew Lock",
+      "position": "QB",
+      "team": "SEA",
+      "age": 29,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "QB"
+      ]
+    },
+    "5859": {
+      "player_id": "5859",
+      "full_name": "A.J. Brown",
+      "position": "WR",
+      "team": "NE",
+      "age": 29,
+      "status": "Inactive",
+      "injury_status": "IR",
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "5872": {
+      "player_id": "5872",
+      "full_name": "Deebo Samuel",
+      "position": "WR",
+      "team": "SF",
+      "age": 30,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "5892": {
+      "player_id": "5892",
+      "full_name": "David Montgomery",
+      "position": "RB",
+      "team": "HOU",
+      "age": 29,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "RB"
+      ]
+    },
+    "5927": {
+      "player_id": "5927",
+      "full_name": "Terry McLaurin",
+      "position": "WR",
+      "team": "WAS",
+      "age": 31,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "5947": {
+      "player_id": "5947",
+      "full_name": "Jakobi Meyers",
+      "position": "WR",
+      "team": "JAX",
+      "age": 29,
+      "status": "Active",
+      "injury_status": "Questionable",
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "5967": {
+      "player_id": "5967",
+      "full_name": "Tony Pollard",
+      "position": "RB",
+      "team": "TEN",
+      "age": 29,
+      "status": "Active",
+      "injury_status": "Questionable",
+      "fantasy_positions": [
+        "RB"
+      ]
+    },
+    "6130": {
+      "player_id": "6130",
+      "full_name": "Devin Singletary",
+      "position": "RB",
+      "team": "NYG",
+      "age": 29,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "RB"
+      ]
+    },
+    "6650": {
+      "player_id": "6650",
+      "full_name": "Chase McLaughlin",
+      "position": "K",
+      "team": "TB",
+      "age": 30,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "K"
+      ]
+    },
+    "6770": {
+      "player_id": "6770",
+      "full_name": "Joe Burrow",
+      "position": "QB",
+      "team": "CIN",
+      "age": 29,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "QB"
+      ]
+    },
+    "6786": {
+      "player_id": "6786",
+      "full_name": "CeeDee Lamb",
+      "position": "WR",
+      "team": "DAL",
+      "age": 27,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "6790": {
+      "player_id": "6790",
+      "full_name": "D'Andre Swift",
+      "position": "RB",
+      "team": "CHI",
+      "age": 27,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "RB"
+      ]
+    },
+    "6794": {
+      "player_id": "6794",
+      "full_name": "Justin Jefferson",
+      "position": "WR",
+      "team": "MIN",
+      "age": 27,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "6797": {
+      "player_id": "6797",
+      "full_name": "Justin Herbert",
+      "position": "QB",
+      "team": "LAC",
+      "age": 28,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "QB"
+      ]
+    },
+    "6801": {
+      "player_id": "6801",
+      "full_name": "Tee Higgins",
+      "position": "WR",
+      "team": "CIN",
+      "age": 27,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "6804": {
+      "player_id": "6804",
+      "full_name": "Jordan Love",
+      "position": "QB",
+      "team": "GB",
+      "age": 27,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "QB"
+      ]
+    },
+    "6806": {
+      "player_id": "6806",
+      "full_name": "J.K. Dobbins",
+      "position": "RB",
+      "team": "DEN",
+      "age": 27,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "RB"
+      ]
+    },
+    "6813": {
+      "player_id": "6813",
+      "full_name": "Jonathan Taylor",
+      "position": "RB",
+      "team": "IND",
+      "age": 27,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "RB"
+      ]
+    },
+    "6819": {
+      "player_id": "6819",
+      "full_name": "Michael Pittman",
+      "position": "WR",
+      "team": "PIT",
+      "age": 28,
+      "status": "Active",
+      "injury_status": "Questionable",
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "6904": {
+      "player_id": "6904",
+      "full_name": "Jalen Hurts",
+      "position": "QB",
+      "team": "PHI",
+      "age": 28,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "QB"
+      ]
+    },
+    "7021": {
+      "player_id": "7021",
+      "full_name": "Rico Dowdle",
+      "position": "RB",
+      "team": "PIT",
+      "age": 28,
+      "status": "Active",
+      "injury_status": "Questionable",
+      "fantasy_positions": [
+        "RB"
+      ]
+    },
+    "7523": {
+      "player_id": "7523",
+      "full_name": "Trevor Lawrence",
+      "position": "QB",
+      "team": "JAX",
+      "age": 26,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "QB"
+      ]
+    },
+    "7525": {
+      "player_id": "7525",
+      "full_name": "DeVonta Smith",
+      "position": "WR",
+      "team": "PHI",
+      "age": 27,
+      "status": "Active",
+      "injury_status": "Questionable",
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "7526": {
+      "player_id": "7526",
+      "full_name": "Jaylen Waddle",
+      "position": "WR",
+      "team": "DEN",
+      "age": 27,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "7543": {
+      "player_id": "7543",
+      "full_name": "Travis Etienne",
+      "position": "RB",
+      "team": "NO",
+      "age": 27,
+      "status": "Active",
+      "injury_status": "Questionable",
+      "fantasy_positions": [
+        "RB"
+      ]
+    },
+    "7547": {
+      "player_id": "7547",
+      "full_name": "Amon-Ra St. Brown",
+      "position": "WR",
+      "team": "DET",
+      "age": 26,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "7553": {
+      "player_id": "7553",
+      "full_name": "Kyle Pitts",
+      "position": "TE",
+      "team": "ATL",
+      "age": 25,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "TE"
+      ]
+    },
+    "7564": {
+      "player_id": "7564",
+      "full_name": "Ja'Marr Chase",
+      "position": "WR",
+      "team": "CIN",
+      "age": 26,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "7567": {
+      "player_id": "7567",
+      "full_name": "Kenny Gainwell",
+      "position": "RB",
+      "team": "TB",
+      "age": 27,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "RB"
+      ]
+    },
+    "7569": {
+      "player_id": "7569",
+      "full_name": "Nico Collins",
+      "position": "WR",
+      "team": "HOU",
+      "age": 27,
+      "status": "Active",
+      "injury_status": "Questionable",
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "7571": {
+      "player_id": "7571",
+      "full_name": "Rashod Bateman",
+      "position": "WR",
+      "team": "BAL",
+      "age": 26,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "7588": {
+      "player_id": "7588",
+      "full_name": "Javonte Williams",
+      "position": "RB",
+      "team": "DAL",
+      "age": 26,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "RB"
+      ]
+    },
+    "7594": {
+      "player_id": "7594",
+      "full_name": "Chuba Hubbard",
+      "position": "RB",
+      "team": "CAR",
+      "age": 27,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "RB"
+      ]
+    },
+    "7600": {
+      "player_id": "7600",
+      "full_name": "Pat Freiermuth",
+      "position": "TE",
+      "team": "PIT",
+      "age": 27,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "TE"
+      ]
+    },
+    "7611": {
+      "player_id": "7611",
+      "full_name": "Rhamondre Stevenson",
+      "position": "RB",
+      "team": "NE",
+      "age": 28,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "RB"
+      ]
+    },
+    "7839": {
+      "player_id": "7839",
+      "full_name": "Evan McPherson",
+      "position": "K",
+      "team": "CIN",
+      "age": 27,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "K"
+      ]
+    },
+    "8110": {
+      "player_id": "8110",
+      "full_name": "Jake Ferguson",
+      "position": "TE",
+      "team": "DAL",
+      "age": 27,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "TE"
+      ]
+    },
+    "8112": {
+      "player_id": "8112",
+      "full_name": "Drake London",
+      "position": "WR",
+      "team": "ATL",
+      "age": 25,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "8130": {
+      "player_id": "8130",
+      "full_name": "Trey McBride",
+      "position": "TE",
+      "team": "ARI",
+      "age": 26,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "TE"
+      ]
+    },
+    "8131": {
+      "player_id": "8131",
+      "full_name": "Isaiah Likely",
+      "position": "TE",
+      "team": "NYG",
+      "age": 26,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "TE"
+      ]
+    },
+    "8134": {
+      "player_id": "8134",
+      "full_name": "Khalil Shakir",
+      "position": "WR",
+      "team": "BUF",
+      "age": 26,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "8136": {
+      "player_id": "8136",
+      "full_name": "Rachaad White",
+      "position": "RB",
+      "team": "WAS",
+      "age": 27,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "RB"
+      ]
+    },
+    "8137": {
+      "player_id": "8137",
+      "full_name": "George Pickens",
+      "position": "WR",
+      "team": "DAL",
+      "age": 25,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "8138": {
+      "player_id": "8138",
+      "full_name": "James Cook",
+      "position": "RB",
+      "team": "BUF",
+      "age": 27,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "RB"
+      ]
+    },
+    "8142": {
+      "player_id": "8142",
+      "full_name": "Alec Pierce",
+      "position": "WR",
+      "team": "IND",
+      "age": 26,
+      "status": "Inactive",
+      "injury_status": "Out",
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "8144": {
+      "player_id": "8144",
+      "full_name": "Chris Olave",
+      "position": "WR",
+      "team": "NO",
+      "age": 26,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "8146": {
+      "player_id": "8146",
+      "full_name": "Garrett Wilson",
+      "position": "WR",
+      "team": "NYJ",
+      "age": 26,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "8148": {
+      "player_id": "8148",
+      "full_name": "Jameson Williams",
+      "position": "WR",
+      "team": "DET",
+      "age": 25,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "8150": {
+      "player_id": "8150",
+      "full_name": "Kyren Williams",
+      "position": "RB",
+      "team": "LAR",
+      "age": 26,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "RB"
+      ]
+    },
+    "8151": {
+      "player_id": "8151",
+      "full_name": "Kenneth Walker",
+      "position": "RB",
+      "team": "KC",
+      "age": 25,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "RB"
+      ]
+    },
+    "8155": {
+      "player_id": "8155",
+      "full_name": "Breece Hall",
+      "position": "RB",
+      "team": "NYJ",
+      "age": 25,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "RB"
+      ]
+    },
+    "8161": {
+      "player_id": "8161",
+      "full_name": "Malik Willis",
+      "position": "QB",
+      "team": "MIA",
+      "age": 27,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "QB"
+      ]
+    },
+    "8167": {
+      "player_id": "8167",
+      "full_name": "Christian Watson",
+      "position": "WR",
+      "team": "GB",
+      "age": 27,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "8183": {
+      "player_id": "8183",
+      "full_name": "Brock Purdy",
+      "position": "QB",
+      "team": "SF",
+      "age": 26,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "QB"
+      ]
+    },
+    "8228": {
+      "player_id": "8228",
+      "full_name": "Jaylen Warren",
+      "position": "RB",
+      "team": "PIT",
+      "age": 27,
+      "status": "Active",
+      "injury_status": "Questionable",
+      "fantasy_positions": [
+        "RB"
+      ]
+    },
+    "8259": {
+      "player_id": "8259",
+      "full_name": "Cameron Dicker",
+      "position": "K",
+      "team": "LAC",
+      "age": 26,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "K"
+      ]
+    },
+    "8408": {
+      "player_id": "8408",
+      "full_name": "Jordan Mason",
+      "position": "RB",
+      "team": "MIN",
+      "age": 27,
+      "status": "Inactive",
+      "injury_status": "IR",
+      "fantasy_positions": [
+        "RB"
+      ]
+    },
+    "8676": {
+      "player_id": "8676",
+      "full_name": "Rashid Shaheed",
+      "position": "WR",
+      "team": "SEA",
+      "age": 28,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "9221": {
+      "player_id": "9221",
+      "full_name": "Jahmyr Gibbs",
+      "position": "RB",
+      "team": "DET",
+      "age": 24,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "RB"
+      ]
+    },
+    "9224": {
+      "player_id": "9224",
+      "full_name": "Chase Brown",
+      "position": "RB",
+      "team": "CIN",
+      "age": 26,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "RB"
+      ]
+    },
+    "9225": {
+      "player_id": "9225",
+      "full_name": "Tank Bigsby",
+      "position": "RB",
+      "team": "PHI",
+      "age": 24,
+      "status": "Active",
+      "injury_status": "Questionable",
+      "fantasy_positions": [
+        "RB"
+      ]
+    },
+    "9226": {
+      "player_id": "9226",
+      "full_name": "De'Von Achane",
+      "position": "RB",
+      "team": "MIA",
+      "age": 24,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "RB"
+      ]
+    },
+    "9228": {
+      "player_id": "9228",
+      "full_name": "Bryce Young",
+      "position": "QB",
+      "team": "CAR",
+      "age": 25,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "QB"
+      ]
+    },
+    "9484": {
+      "player_id": "9484",
+      "full_name": "Tucker Kraft",
+      "position": "TE",
+      "team": "GB",
+      "age": 25,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "TE"
+      ]
+    },
+    "9487": {
+      "player_id": "9487",
+      "full_name": "Parker Washington",
+      "position": "WR",
+      "team": "JAX",
+      "age": 24,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "9488": {
+      "player_id": "9488",
+      "full_name": "Jaxon Smith-Njigba",
+      "position": "WR",
+      "team": "SEA",
+      "age": 24,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "9493": {
+      "player_id": "9493",
+      "full_name": "Puka Nacua",
+      "position": "WR",
+      "team": "LAR",
+      "age": 25,
+      "status": "Active",
+      "injury_status": "Questionable",
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "9509": {
+      "player_id": "9509",
+      "full_name": "Bijan Robinson",
+      "position": "RB",
+      "team": "ATL",
+      "age": 24,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "RB"
+      ]
+    },
+    "9754": {
+      "player_id": "9754",
+      "full_name": "Quentin Johnston",
+      "position": "WR",
+      "team": "LAC",
+      "age": 25,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "9756": {
+      "player_id": "9756",
+      "full_name": "Jordan Addison",
+      "position": "WR",
+      "team": "MIN",
+      "age": 24,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "9758": {
+      "player_id": "9758",
+      "full_name": "C.J. Stroud",
+      "position": "QB",
+      "team": "HOU",
+      "age": 24,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "QB"
+      ]
+    },
+    "9997": {
+      "player_id": "9997",
+      "full_name": "Zay Flowers",
+      "position": "WR",
+      "team": "BAL",
+      "age": 26,
+      "status": "Active",
+      "injury_status": "Questionable",
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "BAL": {
+      "player_id": "BAL",
+      "full_name": "Baltimore Ravens",
+      "position": "DEF",
+      "team": "BAL",
+      "age": null,
+      "status": null,
+      "injury_status": null,
+      "fantasy_positions": [
+        "DEF"
+      ]
+    },
+    "DEN": {
+      "player_id": "DEN",
+      "full_name": "Denver Broncos",
+      "position": "DEF",
+      "team": "DEN",
+      "age": null,
+      "status": null,
+      "injury_status": null,
+      "fantasy_positions": [
+        "DEF"
+      ]
+    },
+    "HOU": {
+      "player_id": "HOU",
+      "full_name": "Houston Texans",
+      "position": "DEF",
+      "team": "HOU",
+      "age": null,
+      "status": null,
+      "injury_status": null,
+      "fantasy_positions": [
+        "DEF"
+      ]
+    },
+    "JAX": {
+      "player_id": "JAX",
+      "full_name": "Jacksonville Jaguars",
+      "position": "DEF",
+      "team": "JAX",
+      "age": null,
+      "status": null,
+      "injury_status": null,
+      "fantasy_positions": [
+        "DEF"
+      ]
+    },
+    "LAC": {
+      "player_id": "LAC",
+      "full_name": "Los Angeles Chargers",
+      "position": "DEF",
+      "team": "LAC",
+      "age": null,
+      "status": null,
+      "injury_status": null,
+      "fantasy_positions": [
+        "DEF"
+      ]
+    },
+    "LAR": {
+      "player_id": "LAR",
+      "full_name": "Los Angeles Rams",
+      "position": "DEF",
+      "team": "LAR",
+      "age": null,
+      "status": null,
+      "injury_status": null,
+      "fantasy_positions": [
+        "DEF"
+      ]
+    },
+    "MIN": {
+      "player_id": "MIN",
+      "full_name": "Minnesota Vikings",
+      "position": "DEF",
+      "team": "MIN",
+      "age": null,
+      "status": null,
+      "injury_status": null,
+      "fantasy_positions": [
+        "DEF"
+      ]
+    },
+    "NE": {
+      "player_id": "NE",
+      "full_name": "New England Patriots",
+      "position": "DEF",
+      "team": "NE",
+      "age": null,
+      "status": null,
+      "injury_status": null,
+      "fantasy_positions": [
+        "DEF"
+      ]
+    },
+    "PHI": {
+      "player_id": "PHI",
+      "full_name": "Philadelphia Eagles",
+      "position": "DEF",
+      "team": "PHI",
+      "age": null,
+      "status": null,
+      "injury_status": null,
+      "fantasy_positions": [
+        "DEF"
+      ]
+    },
+    "PIT": {
+      "player_id": "PIT",
+      "full_name": "Pittsburgh Steelers",
+      "position": "DEF",
+      "team": "PIT",
+      "age": null,
+      "status": null,
+      "injury_status": null,
+      "fantasy_positions": [
+        "DEF"
+      ]
+    },
+    "SEA": {
+      "player_id": "SEA",
+      "full_name": "Seattle Seahawks",
+      "position": "DEF",
+      "team": "SEA",
+      "age": null,
+      "status": null,
+      "injury_status": null,
+      "fantasy_positions": [
+        "DEF"
+      ]
+    }
+  }
+}
