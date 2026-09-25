@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-25T21:26:51.292Z",
+  "fetched_at": "2026-09-25T22:26:37.774Z",
   "current_week": 3,
   "league": {
     "name": "Brass City League",
@@ -6761,7 +6761,7 @@
       "team": "WAS",
       "age": 24,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ]
@@ -8087,7 +8087,7 @@
       "team": "WAS",
       "age": 30,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "LB"
       ]
@@ -8099,7 +8099,7 @@
       "team": "SF",
       "age": 28,
       "status": "Active",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "fantasy_positions": [
         "DL"
       ]
@@ -8257,7 +8257,7 @@
       "team": "SEA",
       "age": 28,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "DB"
       ]
@@ -8725,7 +8725,7 @@
       "position": "RB",
       "team": "PIT",
       "age": 28,
-      "status": "Active",
+      "status": "Inactive",
       "injury_status": "Out",
       "fantasy_positions": [
         "RB"
@@ -9595,7 +9595,7 @@
       "team": "LAR",
       "age": 27,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "LB"
       ]
