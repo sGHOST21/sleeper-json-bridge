@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-25T19:25:18.038Z",
+  "fetched_at": "2026-09-25T20:26:30.749Z",
   "current_week": 3,
   "league": {
     "name": "The D-League",
@@ -8651,7 +8651,7 @@
       "team": "CHI",
       "age": 24,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "RB"
       ]
@@ -10688,7 +10688,7 @@
       "team": "JAX",
       "age": 29,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ]
@@ -10700,7 +10700,7 @@
       "team": "TEN",
       "age": 29,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "RB"
       ]
@@ -11460,7 +11460,7 @@
       "team": "HOU",
       "age": 27,
       "status": "Active",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ]
@@ -12640,7 +12640,7 @@
       "team": "NO",
       "age": 24,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "RB"
       ]

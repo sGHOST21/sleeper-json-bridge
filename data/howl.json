@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-25T19:25:19.675Z",
+  "fetched_at": "2026-09-25T20:26:32.470Z",
   "current_week": 3,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -2880,7 +2880,7 @@
       "team": "CHI",
       "age": 24,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "RB"
       ]
@@ -3492,7 +3492,7 @@
       "team": "JAX",
       "age": 29,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ]
@@ -3504,7 +3504,7 @@
       "team": "TEN",
       "age": 29,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "RB"
       ]
@@ -3780,7 +3780,7 @@
       "team": "HOU",
       "age": 27,
       "status": "Active",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ]

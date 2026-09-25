@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-25T19:25:18.944Z",
+  "fetched_at": "2026-09-25T20:26:31.687Z",
   "current_week": 3,
   "league": {
     "name": "Brass City League",
@@ -1204,7 +1204,7 @@
         "7547",
         "6786",
         "10859",
-        "12533",
+        "13298",
         "10213",
         "11786",
         "11667",
@@ -2402,7 +2402,7 @@
         "7547",
         "6786",
         "10859",
-        "12533",
+        "13298",
         "10213",
         "11786",
         "11667",
@@ -6628,7 +6628,7 @@
       "team": "CHI",
       "age": 24,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "RB"
       ]
@@ -8317,7 +8317,7 @@
       "team": "JAX",
       "age": 29,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ]
@@ -8329,7 +8329,7 @@
       "team": "TEN",
       "age": 29,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "RB"
       ]
@@ -8907,7 +8907,7 @@
       "team": "HOU",
       "age": 27,
       "status": "Active",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ]
@@ -9931,7 +9931,7 @@
       "team": "NO",
       "age": 24,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "RB"
       ]
