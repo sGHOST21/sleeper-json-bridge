@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-25T15:28:17.878Z",
+  "fetched_at": "2026-09-25T16:29:32.688Z",
   "current_week": 3,
   "league": {
     "name": "The D-League",
@@ -7845,7 +7845,7 @@
       "team": "MIA",
       "age": 23,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Doubtful",
       "fantasy_positions": [
         "RB"
       ]
@@ -10470,7 +10470,7 @@
       "team": "SF",
       "age": 28,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Doubtful",
       "fantasy_positions": [
         "DL"
       ]
@@ -11460,7 +11460,7 @@
       "team": "HOU",
       "age": 27,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Doubtful",
       "fantasy_positions": [
         "WR"
       ]
@@ -12087,7 +12087,7 @@
       "team": "WAS",
       "age": 27,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Doubtful",
       "fantasy_positions": [
         "TE"
       ]

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-25T15:28:18.998Z",
+  "fetched_at": "2026-09-25T16:29:33.863Z",
   "current_week": 3,
   "league": {
     "name": "Brass City League",
@@ -5870,7 +5870,7 @@
       "team": "MIA",
       "age": 23,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Doubtful",
       "fantasy_positions": [
         "RB"
       ]
@@ -8099,7 +8099,7 @@
       "team": "SF",
       "age": 28,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Doubtful",
       "fantasy_positions": [
         "DL"
       ]
@@ -8907,7 +8907,7 @@
       "team": "HOU",
       "age": 27,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Doubtful",
       "fantasy_positions": [
         "WR"
       ]
