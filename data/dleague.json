@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-25T16:29:32.688Z",
+  "fetched_at": "2026-09-25T17:27:01.865Z",
   "current_week": 3,
   "league": {
     "name": "The D-League",
@@ -862,7 +862,7 @@
         "8289",
         "6815",
         "12530",
-        "12567"
+        "11665"
       ],
       "taxi": [
         "11581"
@@ -2117,7 +2117,7 @@
         "8289",
         "6815",
         "12530",
-        "12567"
+        "11665"
       ],
       "starters_points": [
         0,
@@ -9327,7 +9327,7 @@
       "team": "TB",
       "age": 21,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "LB"
       ]
@@ -12184,7 +12184,7 @@
       "team": "CAR",
       "age": 27,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "LB"
       ]
