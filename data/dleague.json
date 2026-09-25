@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-25T20:26:30.749Z",
+  "fetched_at": "2026-09-25T21:26:49.997Z",
   "current_week": 3,
   "league": {
     "name": "The D-League",
@@ -7281,7 +7281,7 @@
       "team": "KC",
       "age": 26,
       "status": "Active",
-      "injury_status": "Out",
+      "injury_status": "Doubtful",
       "fantasy_positions": [
         "DB"
       ]
@@ -8723,7 +8723,7 @@
       "team": "JAX",
       "age": 22,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "RB"
       ]
@@ -8772,7 +8772,7 @@
       "team": "BAL",
       "age": 22,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "DB"
       ]
@@ -9013,7 +9013,7 @@
       "team": "SEA",
       "age": 22,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "RB"
       ]
@@ -9133,7 +9133,7 @@
       "team": "MIA",
       "age": 22,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ]
@@ -9217,7 +9217,7 @@
       "team": "DEN",
       "age": 23,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "RB"
       ]
@@ -10025,7 +10025,7 @@
       "team": "BAL",
       "age": 31,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "DL"
       ]
@@ -11267,7 +11267,7 @@
       "team": "PIT",
       "age": 28,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "RB"
       ]
