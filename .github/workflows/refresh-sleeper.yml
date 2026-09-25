@@ -16,7 +16,13 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
 
-      - name: Fetch current Sleeper data
+      - name: Fetch current Sleeper player database
+        run: |
+          curl -fsSL \
+            "https://api.sleeper.app/v1/players/nfl" \
+            -o /tmp/players.json
+
+      - name: Fetch current Sleeper data and add player names
         run: |
           mkdir -p data
 
@@ -30,7 +36,48 @@ jobs:
 
             curl -fsSL \
               "https://sleeper-json-bridge.vercel.app/api/league?league_id=${id}" \
-              -o "data/${name}.json"
+              -o "/tmp/${name}.json"
+
+            jq --slurpfile players /tmp/players.json '
+              (
+                [
+                  .rosters[]?
+                  | (.players // []),
+                    (.reserve // []),
+                    (.taxi // [])
+                ]
+                + [
+                  .recent_transactions[]?
+                  | ((.adds // {}) | keys),
+                    ((.drops // {}) | keys)
+                ]
+                | flatten
+                | unique
+              ) as $ids
+              |
+              .player_map = (
+                $ids
+                | map(
+                    . as $id
+                    | ($players[0][$id] // null) as $p
+                    | {
+                        key: $id,
+                        value:
+                          (if $p == null then null else {
+                            player_id: ($p.player_id // $id),
+                            full_name: ($p.full_name // ([ $p.first_name, $p.last_name ] | map(select(. != null and . != "")) | join(" "))),
+                            position: ($p.position // null),
+                            team: ($p.team // null),
+                            age: ($p.age // null),
+                            status: ($p.status // null),
+                            injury_status: ($p.injury_status // null),
+                            fantasy_positions: ($p.fantasy_positions // [])
+                          } end)
+                      }
+                  )
+                | from_entries
+              )
+            ' "/tmp/${name}.json" > "data/${name}.json"
           done
 
       - name: Commit refreshed data
@@ -43,6 +90,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes."
           else
-            git commit -m "Refresh Sleeper league data"
+            git commit -m "Refresh Sleeper league data with player names"
             git push
           fi
