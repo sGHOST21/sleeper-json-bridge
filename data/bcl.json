@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-25T22:26:37.774Z",
+  "fetched_at": "2026-09-25T23:24:59.271Z",
   "current_week": 3,
   "league": {
     "name": "Brass City League",
@@ -7834,7 +7834,7 @@
       "team": "PHI",
       "age": 29,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "RB"
       ]
@@ -8160,7 +8160,7 @@
       "team": "PHI",
       "age": 29,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ]
