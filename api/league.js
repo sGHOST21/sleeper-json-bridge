@@ -34,6 +34,7 @@ export default async function handler(req, res) {
       ]);
 
     const week = state.week;
+const matchups = await get("/matchups/" + week);
     const transactions = [];
 
     for (let w = Math.max(1, week - 3); w <= week; w++) {
@@ -54,6 +55,7 @@ export default async function handler(req, res) {
       users,
       rosters,
       traded_picks: tradedPicks,
+matchups,
       recent_transactions: transactions
     });
   } catch (error) {
