@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-25T11:27:29.958Z",
+  "fetched_at": "2026-09-25T12:33:17.951Z",
   "current_week": 3,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -63,10 +63,9 @@
     },
     "avatar": "3a2a8f32f6fec7c6b6663d1495cf1168",
     "company_id": null,
-    "shard": 949,
-    "season": "2026",
-    "season_type": "regular",
     "sport": "nfl",
+    "season_type": "regular",
+    "season": "2026",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -112,24 +111,20 @@
       "pts_allow_7_13": 4,
       "st_ff": 1
     },
-    "last_message_id": "1408668244671299584",
+    "shard": 949,
+    "last_message_id": "1409183578008440832",
+    "draft_id": "1400845992303022080",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1790215190622,
-    "draft_id": "1400845992303022080",
+    "last_message_time": 1790338055663,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1400845991007019008",
     "previous_league_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -151,6 +146,11 @@
       "BN",
       "BN"
     ],
+    "group_id": null,
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 8
   },
   "users": [
@@ -654,12 +654,13 @@
       "owner_id": "1401317827809398784",
       "player_map": null,
       "players": [
-        "11539",
         "11584",
+        "11834",
         "12514",
         "12534",
         "13286",
         "4199",
+        "4227",
         "5849",
         "6797",
         "7553",
@@ -672,8 +673,7 @@
         "9228",
         "9487",
         "9493",
-        "9756",
-        "LAC"
+        "CAR"
       ],
       "reserve": [
         "8408"
@@ -702,8 +702,8 @@
         "8131",
         "11584",
         "9228",
-        "11539",
-        "LAC"
+        "4227",
+        "CAR"
       ],
       "taxi": null
     },
@@ -1210,12 +1210,13 @@
     {
       "points": 0,
       "players": [
-        "11539",
         "11584",
+        "11834",
         "12514",
         "12534",
         "13286",
         "4199",
+        "4227",
         "5849",
         "6797",
         "7553",
@@ -1228,8 +1229,7 @@
         "9228",
         "9487",
         "9493",
-        "9756",
-        "LAC"
+        "CAR"
       ],
       "roster_id": 7,
       "custom_points": null,
@@ -1243,8 +1243,8 @@
         "8131",
         "11584",
         "9228",
-        "11539",
-        "LAC"
+        "4227",
+        "CAR"
       ],
       "starters_points": [
         0,
@@ -1260,6 +1260,7 @@
       ],
       "players_points": {
         "4199": 0,
+        "4227": 0,
         "5849": 0,
         "6797": 0,
         "7553": 1.5,
@@ -1272,13 +1273,12 @@
         "9228": 0,
         "9487": 0,
         "9493": 0,
-        "9756": 0,
-        "11539": 0,
         "11584": 0,
+        "11834": 0,
         "12514": 0,
         "12534": 0,
         "13286": 0,
-        "LAC": 0
+        "CAR": 0
       }
     },
     {
@@ -2055,6 +2055,81 @@
       "status": "complete",
       "type": "free_agent",
       "metadata": null,
+      "created": 1790338055644,
+      "settings": null,
+      "leg": 3,
+      "draft_picks": [],
+      "creator": "1401317827809398784",
+      "transaction_id": "1409183577928708096",
+      "adds": {
+        "11834": 7
+      },
+      "drops": {
+        "9756": 7
+      },
+      "consenter_ids": [
+        7
+      ],
+      "roster_ids": [
+        7
+      ],
+      "status_updated": 1790338055644,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1790336205289,
+      "settings": null,
+      "leg": 3,
+      "draft_picks": [],
+      "creator": "1401317827809398784",
+      "transaction_id": "1409175816977371136",
+      "adds": {
+        "4227": 7
+      },
+      "drops": {
+        "11539": 7
+      },
+      "consenter_ids": [
+        7
+      ],
+      "roster_ids": [
+        7
+      ],
+      "status_updated": 1790336205289,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1790335805565,
+      "settings": null,
+      "leg": 3,
+      "draft_picks": [],
+      "creator": "1401317827809398784",
+      "transaction_id": "1409174140413292544",
+      "adds": {
+        "CAR": 7
+      },
+      "drops": {
+        "LAC": 7
+      },
+      "consenter_ids": [
+        7
+      ],
+      "roster_ids": [
+        7
+      ],
+      "status_updated": 1790335805565,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
       "created": 1790215190589,
       "settings": null,
       "leg": 3,
@@ -2532,6 +2607,18 @@
       "injury_status": null,
       "fantasy_positions": [
         "K"
+      ]
+    },
+    "11834": {
+      "player_id": "11834",
+      "full_name": "Devaughn Vele",
+      "position": "WR",
+      "team": "NO",
+      "age": 28,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "WR"
       ]
     },
     "12015": {
@@ -3168,6 +3255,18 @@
       "injury_status": null,
       "fantasy_positions": [
         "TE"
+      ]
+    },
+    "4227": {
+      "player_id": "4227",
+      "full_name": "Harrison Butker",
+      "position": "K",
+      "team": "KC",
+      "age": 31,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "K"
       ]
     },
     "4866": {
@@ -4195,6 +4294,18 @@
       "full_name": "Baltimore Ravens",
       "position": "DEF",
       "team": "BAL",
+      "age": null,
+      "status": null,
+      "injury_status": null,
+      "fantasy_positions": [
+        "DEF"
+      ]
+    },
+    "CAR": {
+      "player_id": "CAR",
+      "full_name": "Carolina Panthers",
+      "position": "DEF",
+      "team": "CAR",
       "age": null,
       "status": null,
       "injury_status": null,
