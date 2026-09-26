@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-25T23:24:58.231Z",
+  "fetched_at": "2026-09-26T00:33:19.088Z",
   "current_week": 3,
   "league": {
     "name": "The D-League",
@@ -7096,7 +7096,7 @@
       "full_name": "Chris Rodriguez",
       "position": "RB",
       "team": "JAX",
-      "age": 26,
+      "age": 27,
       "status": "Active",
       "injury_status": null,
       "fantasy_positions": [
@@ -10155,7 +10155,7 @@
       "full_name": "Eric Wilson",
       "position": "LB",
       "team": "MIN",
-      "age": 31,
+      "age": 32,
       "status": "Active",
       "injury_status": null,
       "fantasy_positions": [
@@ -12145,7 +12145,7 @@
       "full_name": "Nik Bonitto",
       "position": "LB",
       "team": "DEN",
-      "age": 26,
+      "age": 27,
       "status": "Active",
       "injury_status": null,
       "fantasy_positions": [
