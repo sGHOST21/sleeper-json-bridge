@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-26T02:26:30.908Z",
+  "fetched_at": "2026-09-26T03:26:42.340Z",
   "current_week": 3,
   "league": {
     "name": "The D-League",
@@ -66,10 +66,6 @@
     },
     "avatar": "31647870b5248d13691a1b97ccb9b0a0",
     "company_id": null,
-    "shard": 169,
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -127,24 +123,23 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "last_message_id": "1409397736263909376",
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
+    "last_message_id": "1409404170192080896",
+    "shard": 169,
+    "draft_id": "1398261761102098432",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1790389114970,
+    "last_message_time": 1790390648938,
     "last_pinned_message_id": null,
-    "draft_id": "1398261761102098432",
     "last_read_id": null,
     "league_id": "1384998212942692352",
     "previous_league_id": "1222634114906075136",
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -170,6 +165,11 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 14
   },
   "users": [
@@ -1053,7 +1053,7 @@
         "13305",
         "13345",
         "2133",
-        "3161",
+        "2306",
         "3198",
         "4217",
         "5862",
@@ -2356,7 +2356,7 @@
         "13305",
         "13345",
         "2133",
-        "3161",
+        "2306",
         "3198",
         "4217",
         "5862",
@@ -2407,7 +2407,7 @@
       ],
       "players_points": {
         "2133": 0,
-        "3161": 0,
+        "2306": 0,
         "3198": 0,
         "4217": 0,
         "5862": 0,
@@ -6975,6 +6975,31 @@
       "status": "complete",
       "type": "free_agent",
       "metadata": null,
+      "created": 1790390648911,
+      "settings": null,
+      "leg": 3,
+      "draft_picks": [],
+      "creator": "871053074062589952",
+      "transaction_id": "1409404170074591232",
+      "adds": {
+        "2306": 6
+      },
+      "drops": {
+        "3161": 6
+      },
+      "consenter_ids": [
+        6
+      ],
+      "roster_ids": [
+        6
+      ],
+      "status_updated": 1790390648911,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
       "created": 1790389114937,
       "settings": null,
       "leg": 3,
@@ -6984,12 +7009,12 @@
       "adds": {
         "7049": 11
       },
-      "consenter_ids": [
-        11
-      ],
       "drops": {
         "12467": 11
       },
+      "consenter_ids": [
+        11
+      ],
       "roster_ids": [
         11
       ],
@@ -7009,10 +7034,10 @@
       "adds": {
         "12495": 10
       },
+      "drops": null,
       "consenter_ids": [
         10
       ],
-      "drops": null,
       "roster_ids": [
         10
       ],
@@ -7032,10 +7057,10 @@
       "adds": {
         "11608": 9
       },
+      "drops": null,
       "consenter_ids": [
         9
       ],
-      "drops": null,
       "roster_ids": [
         9
       ],
@@ -7053,12 +7078,12 @@
       "creator": "726920245125664768",
       "transaction_id": "1408519783292403712",
       "adds": null,
-      "consenter_ids": [
-        7
-      ],
       "drops": {
         "11600": 7
       },
+      "consenter_ids": [
+        7
+      ],
       "roster_ids": [
         7
       ],
@@ -7078,12 +7103,12 @@
       "adds": {
         "5876": 9
       },
-      "consenter_ids": [
-        9
-      ],
       "drops": {
         "8392": 9
       },
+      "consenter_ids": [
+        9
+      ],
       "roster_ids": [
         9
       ],
