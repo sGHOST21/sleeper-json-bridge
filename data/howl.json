@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-26T20:26:00.859Z",
+  "fetched_at": "2026-09-26T21:26:31.706Z",
   "current_week": 3,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -3012,7 +3012,7 @@
       "team": "DEN",
       "age": 23,
       "status": "Active",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "fantasy_positions": [
         "RB"
       ]
