@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-26T15:26:35.234Z",
+  "fetched_at": "2026-09-26T16:27:27.663Z",
   "current_week": 3,
   "league": {
     "name": "The D-League",
@@ -11958,7 +11958,7 @@
       "team": "IND",
       "age": 26,
       "status": "Inactive",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "fantasy_positions": [
         "WR"
       ]
