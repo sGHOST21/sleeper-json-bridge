@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-27T21:26:11.969Z",
+  "fetched_at": "2026-09-27T22:26:49.221Z",
   "current_week": 3,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -775,7 +775,7 @@
   "traded_picks": [],
   "matchups": [
     {
-      "points": 150.86,
+      "points": 156.86,
       "players": [
         "11620",
         "11632",
@@ -821,9 +821,9 @@
         26.7,
         14.7,
         0,
-        14.8,
+        17.8,
         11,
-        11
+        14
       ],
       "players_points": {
         "3163": 19.36,
@@ -834,7 +834,7 @@
         "7547": 11.9,
         "7839": 11,
         "8146": 26.7,
-        "8183": 14.8,
+        "8183": 17.8,
         "9221": 41.4,
         "9997": 4.9,
         "11620": 0,
@@ -843,13 +843,13 @@
         "12518": 14.7,
         "12529": 3.9,
         "13281": 0,
-        "13287": 8.9,
+        "13287": 12,
         "13346": 8.1,
-        "MIN": 11
+        "MIN": 14
       }
     },
     {
-      "points": 110.98,
+      "points": 117.28,
       "players": [
         "11563",
         "1166",
@@ -889,39 +889,39 @@
       "starters_points": [
         22.58,
         19.4,
-        3.6,
+        5.9,
         28.4,
         3.7,
-        4.6,
+        8.6,
         19.7,
         0,
         4,
         5
       ],
       "players_points": {
-        "1166": 8.84,
+        "1166": 11.46,
         "4037": 2.3,
         "5927": 19.7,
         "5967": 13.6,
         "6770": 22.58,
         "7021": 0,
-        "7543": 1.4,
-        "7571": 1.7,
+        "7543": 7.4,
+        "7571": 1.6,
         "8112": 28.4,
-        "8130": 4.6,
+        "8130": 8.6,
         "8138": 19.4,
         "8161": 11,
         "11563": 0,
         "11786": 4,
         "12526": 3.7,
-        "12527": 3.6,
-        "13414": -0.2,
+        "12527": 5.9,
+        "13414": 0.4,
         "HOU": 13,
         "PIT": 5
       }
     },
     {
-      "points": 55.8,
+      "points": 65.92,
       "players": [
         "11583",
         "11628",
@@ -959,31 +959,31 @@
         "PHI"
       ],
       "starters_points": [
-        3.9,
+        4.52,
         1.7,
         5.6,
         5.2,
-        2.2,
+        8.7,
         0,
         10.6,
         22.6,
-        4,
+        7,
         0
       ],
       "players_points": {
         "421": 0,
-        "4881": 3.9,
-        "6650": 4,
+        "4881": 4.52,
+        "6650": 7,
         "6794": 5.2,
         "7567": 0,
-        "8110": 0,
+        "8110": 0.4,
         "8136": 11.1,
-        "8144": 2.2,
+        "8144": 8.7,
         "8167": 22.6,
         "9226": 1.7,
         "9754": 7,
         "11583": 0,
-        "11628": 1.7,
+        "11628": 4.1,
         "11635": 10.6,
         "12507": 5.6,
         "12512": 9.9,
@@ -993,7 +993,7 @@
       }
     },
     {
-      "points": 76.02,
+      "points": 80.92,
       "players": [
         "10236",
         "11560",
@@ -1037,7 +1037,7 @@
         13,
         0,
         3.8,
-        2.2,
+        7.1,
         3.8,
         29.66,
         9,
@@ -1045,7 +1045,7 @@
       ],
       "players_points": {
         "2747": 9,
-        "4217": 2.2,
+        "4217": 7.1,
         "4943": 29.66,
         "4983": 12.7,
         "5854": 0,
@@ -1067,7 +1067,7 @@
       }
     },
     {
-      "points": 61.1,
+      "points": 76.8,
       "players": [
         "10222",
         "11604",
@@ -1107,21 +1107,21 @@
       "starters_points": [
         0,
         9.2,
-        6,
+        16.7,
         0,
         21,
         13.9,
         0,
         0,
         5,
-        6
+        11
       ],
       "players_points": {
         "1466": 13.9,
         "2133": 0,
         "2449": 7.3,
         "3451": 5,
-        "4034": 6,
+        "4034": 16.7,
         "5045": 0,
         "6801": 21,
         "6813": 9.2,
@@ -1130,16 +1130,16 @@
         "7594": 15,
         "8228": 20.6,
         "10222": 0,
-        "11604": 11.1,
+        "11604": 17.2,
         "11631": 1.8,
         "12490": 17,
         "12508": 0,
-        "12545": 9.04,
-        "BAL": 6
+        "12545": 21.8,
+        "BAL": 11
       }
     },
     {
-      "points": 93.8,
+      "points": 100.4,
       "players": [
         "10229",
         "10859",
@@ -1180,17 +1180,17 @@
         19.46,
         17.3,
         1.7,
-        5.2,
+        9.8,
         15.8,
         7.4,
         6,
         16.94,
-        4,
+        6,
         0
       ],
       "players_points": {
         "3198": 17.3,
-        "4035": 1.2,
+        "4035": 2.5,
         "4039": 14.6,
         "4046": 16.94,
         "4984": 19.46,
@@ -1198,12 +1198,12 @@
         "5947": 19.4,
         "6130": 0,
         "6804": 19.48,
-        "8137": 5.2,
+        "8137": 9.8,
         "9484": 6.6,
         "9758": 11.68,
         "10229": 15.8,
         "10859": 7.4,
-        "11533": 4,
+        "11533": 6,
         "11637": 4.7,
         "13269": 0,
         "13337": 1.7,
@@ -1211,7 +1211,7 @@
       }
     },
     {
-      "points": 91.98,
+      "points": 94.48,
       "players": [
         "11584",
         "11834",
@@ -1256,15 +1256,15 @@
         24.8,
         13,
         3.3,
-        4.6,
+        7.1,
         14.64,
         5,
         4
       ],
       "players_points": {
-        "4199": 2.7,
+        "4199": 4.9,
         "4227": 5,
-        "5849": 10.18,
+        "5849": 9.46,
         "6797": 13.74,
         "7553": 1.5,
         "7564": 24.8,
@@ -1276,16 +1276,16 @@
         "9228": 14.64,
         "9487": 13,
         "9493": 0,
-        "11584": 4.6,
-        "11834": 2.1,
-        "12514": 3.7,
+        "11584": 7.1,
+        "11834": 6.9,
+        "12514": 6.1,
         "12534": 0,
         "13286": 1.2,
         "CAR": 4
       }
     },
     {
-      "points": 118.12,
+      "points": 133.32,
       "players": [
         "10232",
         "11566",
@@ -1324,25 +1324,25 @@
         "NE"
       ],
       "starters_points": [
-        2.16,
+        5.46,
         35.3,
         21.3,
         35.36,
-        2.1,
+        9.9,
         1.9,
-        12.5,
+        16.6,
         8.5,
         0,
         -1
       ],
       "players_points": {
         "2216": 12.4,
-        "3294": 2.16,
+        "3294": 5.46,
         "5012": 1.9,
         "5850": 0,
-        "6786": 2.1,
+        "6786": 9.9,
         "6790": 0,
-        "7588": 12.5,
+        "7588": 16.6,
         "8142": 0,
         "8148": 8.9,
         "8151": 21.3,
@@ -1350,7 +1350,7 @@
         "9488": 35.36,
         "9500": 12.7,
         "9509": 35.3,
-        "10232": 4.8,
+        "10232": 20.1,
         "11566": 0,
         "12015": 0,
         "12506": 24.1,
@@ -2360,7 +2360,17 @@
       "injury_status": "Out",
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "71",
+      "weight": "187",
+      "years_exp": 3,
+      "college": "Michigan State",
+      "birth_date": "2000-04-28",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 16977,
+      "sportradar_id": "23a306bc-5f77-4574-a575-bd599f243185",
+      "fantasy_data_id": 23233
     },
     "10229": {
       "player_id": "10229",
@@ -2372,7 +2382,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "73",
+      "weight": "204",
+      "years_exp": 3,
+      "college": "SMU",
+      "birth_date": "2000-04-22",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 16963,
+      "sportradar_id": "cbd73c09-da07-48b0-a0d6-f248dfa631b6",
+      "fantasy_data_id": 24120
     },
     "10232": {
       "player_id": "10232",
@@ -2384,7 +2404,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "74",
+      "weight": "213",
+      "years_exp": 3,
+      "college": "Stanford",
+      "birth_date": "2000-02-23",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 16957,
+      "sportradar_id": "b91be982-fccd-448e-869b-e9b5148a1730",
+      "fantasy_data_id": 24173
     },
     "10236": {
       "player_id": "10236",
@@ -2396,7 +2426,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "TE"
-      ]
+      ],
+      "height": "75",
+      "weight": "246",
+      "years_exp": 3,
+      "college": "Utah",
+      "birth_date": "1999-10-18",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 16697,
+      "sportradar_id": "b961fa15-0676-4948-b95f-56d06319d40e",
+      "fantasy_data_id": 24102
     },
     "10859": {
       "player_id": "10859",
@@ -2408,7 +2448,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "TE"
-      ]
+      ],
+      "height": "75",
+      "weight": "245",
+      "years_exp": 3,
+      "college": "Iowa",
+      "birth_date": "2001-01-12",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 17033,
+      "sportradar_id": "3059f1e5-1871-4458-9e90-9b9917874c61",
+      "fantasy_data_id": 23141
     },
     "11533": {
       "player_id": "11533",
@@ -2420,7 +2470,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "K"
-      ]
+      ],
+      "height": "75",
+      "weight": "218",
+      "years_exp": 3,
+      "college": "Notre Dame",
+      "birth_date": "1995-03-14",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 17649,
+      "sportradar_id": "110e6fe0-1c34-11ee-8294-af17faac15de",
+      "fantasy_data_id": 24902
     },
     "11539": {
       "player_id": "11539",
@@ -2432,7 +2492,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "K"
-      ]
+      ],
+      "height": "70",
+      "weight": "205",
+      "years_exp": 3,
+      "college": "Arkansas",
+      "birth_date": "1999-03-03",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 17376,
+      "sportradar_id": "3a724be0-3075-11ee-bdab-4565792ee2a3",
+      "fantasy_data_id": 24530
     },
     "11560": {
       "player_id": "11560",
@@ -2444,7 +2514,17 @@
       "injury_status": "Out",
       "fantasy_positions": [
         "QB"
-      ]
+      ],
+      "height": "73",
+      "weight": "226",
+      "years_exp": 2,
+      "college": "USC",
+      "birth_date": "2001-11-18",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 17695,
+      "sportradar_id": "49d4b627-3f19-49a8-ae33-f539e0fb1f88",
+      "fantasy_data_id": 24927
     },
     "11563": {
       "player_id": "11563",
@@ -2456,7 +2536,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "QB"
-      ]
+      ],
+      "height": "74",
+      "weight": "217",
+      "years_exp": 2,
+      "college": "Oregon",
+      "birth_date": "2000-02-25",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 16995,
+      "sportradar_id": "f056c8ed-6ee5-492c-af11-3f7e3d97195c",
+      "fantasy_data_id": 25069
     },
     "11564": {
       "player_id": "11564",
@@ -2468,7 +2558,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "QB"
-      ]
+      ],
+      "height": "76",
+      "weight": "225",
+      "years_exp": 2,
+      "college": "North Carolina",
+      "birth_date": "2002-08-30",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 17673,
+      "sportradar_id": "d0c0630e-8925-4b81-a32b-e4146d95f01f",
+      "fantasy_data_id": 24958
     },
     "11566": {
       "player_id": "11566",
@@ -2480,7 +2580,17 @@
       "injury_status": "Out",
       "fantasy_positions": [
         "QB"
-      ]
+      ],
+      "height": "76",
+      "weight": "210",
+      "years_exp": 2,
+      "college": "LSU",
+      "birth_date": "2000-12-18",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 17692,
+      "sportradar_id": "bab8c65a-9fff-410d-8e34-dc2f636d890e",
+      "fantasy_data_id": 23235
     },
     "11581": {
       "player_id": "11581",
@@ -2492,7 +2602,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "RB"
-      ]
+      ],
+      "height": "69",
+      "weight": "220",
+      "years_exp": 2,
+      "college": "USC",
+      "birth_date": "2001-01-05",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 17795,
+      "sportradar_id": "7b8967bc-a3a5-4aa4-bd1f-2846663ca831",
+      "fantasy_data_id": 23211
     },
     "11583": {
       "player_id": "11583",
@@ -2504,7 +2624,17 @@
       "injury_status": "IR",
       "fantasy_positions": [
         "RB"
-      ]
+      ],
+      "height": "72",
+      "weight": "216",
+      "years_exp": 2,
+      "college": "Texas",
+      "birth_date": "2003-07-21",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 17747,
+      "sportradar_id": "5c842941-844b-4f6a-bce4-26b377146674",
+      "fantasy_data_id": 24944
     },
     "11584": {
       "player_id": "11584",
@@ -2516,7 +2646,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "RB"
-      ]
+      ],
+      "height": "70",
+      "weight": "195",
+      "years_exp": 2,
+      "college": "Oregon",
+      "birth_date": "2002-08-19",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 17784,
+      "sportradar_id": "c5249c6f-bd1b-4352-8228-de2bd499ca0d",
+      "fantasy_data_id": 24967
     },
     "11586": {
       "player_id": "11586",
@@ -2528,7 +2668,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "RB"
-      ]
+      ],
+      "height": "68",
+      "weight": "202",
+      "years_exp": 2,
+      "college": "Michigan",
+      "birth_date": "2000-11-25",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 17690,
+      "sportradar_id": "93ba1da2-3679-4ddc-9687-0802349f9ee2",
+      "fantasy_data_id": 24116
     },
     "11604": {
       "player_id": "11604",
@@ -2540,7 +2690,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "TE"
-      ]
+      ],
+      "height": "76",
+      "weight": "235",
+      "years_exp": 2,
+      "college": "Georgia",
+      "birth_date": "2002-12-13",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 17693,
+      "sportradar_id": "ad9fc7e3-0a6d-4e41-84c2-cf43b71aee13",
+      "fantasy_data_id": 24943
     },
     "11620": {
       "player_id": "11620",
@@ -2552,7 +2712,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "75",
+      "weight": "214",
+      "years_exp": 2,
+      "college": "Washington",
+      "birth_date": "2002-06-03",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 17020,
+      "sportradar_id": "f64694e0-0381-11ef-973d-5176a0ecbee4",
+      "fantasy_data_id": 24977
     },
     "11624": {
       "player_id": "11624",
@@ -2564,7 +2734,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "71",
+      "weight": "165",
+      "years_exp": 2,
+      "college": "Texas",
+      "birth_date": "2003-04-27",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 17687,
+      "sportradar_id": "52e049b1-0a7a-4e7f-9866-d2848e9cc478",
+      "fantasy_data_id": 24924
     },
     "11628": {
       "player_id": "11628",
@@ -2576,7 +2756,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "75",
+      "weight": "220",
+      "years_exp": 2,
+      "college": "Ohio State",
+      "birth_date": "2002-08-11",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 17674,
+      "sportradar_id": "e8da21a8-796d-48a2-b644-57d08983ae01",
+      "fantasy_data_id": 24974
     },
     "11631": {
       "player_id": "11631",
@@ -2588,7 +2778,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "74",
+      "weight": "209",
+      "years_exp": 2,
+      "college": "LSU",
+      "birth_date": "2002-10-08",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 17716,
+      "sportradar_id": "271a233e-68b3-4261-a3aa-7667eaf9d3cc",
+      "fantasy_data_id": 24933
     },
     "11632": {
       "player_id": "11632",
@@ -2600,7 +2800,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "72",
+      "weight": "200",
+      "years_exp": 2,
+      "college": "LSU",
+      "birth_date": "2003-07-28",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 17704,
+      "sportradar_id": "55ef2022-50c2-465b-839e-c0f4c9e7c55c",
+      "fantasy_data_id": 24953
     },
     "11635": {
       "player_id": "11635",
@@ -2612,7 +2822,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "72",
+      "weight": "185",
+      "years_exp": 2,
+      "college": "Georgia",
+      "birth_date": "2001-11-11",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 17724,
+      "sportradar_id": "473bc7e5-c393-4f21-9e49-3ffc16711238",
+      "fantasy_data_id": 25097
     },
     "11637": {
       "player_id": "11637",
@@ -2624,7 +2844,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "75",
+      "weight": "213",
+      "years_exp": 2,
+      "college": "Florida State",
+      "birth_date": "2003-05-17",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 17732,
+      "sportradar_id": "6752915f-efe5-473d-a520-78cadfab6dda",
+      "fantasy_data_id": 24964
     },
     "11646": {
       "player_id": "11646",
@@ -2636,7 +2866,17 @@
       "injury_status": "Out",
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "75",
+      "weight": "215",
+      "years_exp": 2,
+      "college": "Holy Cross",
+      "birth_date": "2001-10-30",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 17976,
+      "sportradar_id": "67977ab0-070b-11ef-978d-05d80704d329",
+      "fantasy_data_id": 25122
     },
     "1166": {
       "player_id": "1166",
@@ -2648,7 +2888,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "QB"
-      ]
+      ],
+      "height": "75",
+      "weight": "209",
+      "years_exp": 14,
+      "college": "Michigan State",
+      "birth_date": "1988-08-19",
+      "espn_id": 14880,
+      "yahoo_id": 25812,
+      "rotowire_id": 8057,
+      "sportradar_id": "bbd0942c-6f77-4f83-a6d0-66ec6548019e",
+      "fantasy_data_id": 14252
     },
     "11786": {
       "player_id": "11786",
@@ -2660,7 +2910,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "K"
-      ]
+      ],
+      "height": "73",
+      "weight": "172",
+      "years_exp": 2,
+      "college": "Arkansas",
+      "birth_date": "2003-08-17",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 17926,
+      "sportradar_id": "42d90cdf-5494-4576-bc1e-4b5d3de99f5f",
+      "fantasy_data_id": 24960
     },
     "11834": {
       "player_id": "11834",
@@ -2672,7 +2932,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "77",
+      "weight": "210",
+      "years_exp": 2,
+      "college": "Utah",
+      "birth_date": "1997-12-12",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 17975,
+      "sportradar_id": "2a638f35-a80a-46db-9722-12b49d45ab52",
+      "fantasy_data_id": 25198
     },
     "12015": {
       "player_id": "12015",
@@ -2684,7 +2954,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "K"
-      ]
+      ],
+      "height": "71",
+      "weight": "243",
+      "years_exp": 2,
+      "college": "Missouri",
+      "birth_date": "2002-03-27",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 17921,
+      "sportradar_id": "663ada70-0717-11ef-94de-1b2fbd1e412b",
+      "fantasy_data_id": 25119
     },
     "12481": {
       "player_id": "12481",
@@ -2696,7 +2976,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "RB"
-      ]
+      ],
+      "height": "71",
+      "weight": "215",
+      "years_exp": 1,
+      "college": "Arizona State",
+      "birth_date": "2002-02-05",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 18514,
+      "sportradar_id": "e1f0c72d-f4d0-4c24-93a4-8a12b9a2efd2",
+      "fantasy_data_id": 25887
     },
     "12487": {
       "player_id": "12487",
@@ -2708,7 +2998,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "TE"
-      ]
+      ],
+      "height": "77",
+      "weight": "252",
+      "years_exp": 1,
+      "college": "Oregon",
+      "birth_date": "2003-03-07",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 18497,
+      "sportradar_id": "fdfc7b8e-a202-4459-91f8-be6e053e5d29",
+      "fantasy_data_id": 25970
     },
     "12489": {
       "player_id": "12489",
@@ -2720,7 +3020,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "RB"
-      ]
+      ],
+      "height": "68",
+      "weight": "205",
+      "years_exp": 1,
+      "college": "UCF",
+      "birth_date": "2001-02-04",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 18522,
+      "sportradar_id": "fc6dbb83-b2b1-4962-b793-e79b2378b525",
+      "fantasy_data_id": 25944
     },
     "12490": {
       "player_id": "12490",
@@ -2732,7 +3042,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "RB"
-      ]
+      ],
+      "height": "69",
+      "weight": "209",
+      "years_exp": 1,
+      "college": "Virginia Tech",
+      "birth_date": "2003-02-14",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 18524,
+      "sportradar_id": "26d4b13e-a555-4519-9356-cd16c65384e7",
+      "fantasy_data_id": 25898
     },
     "12493": {
       "player_id": "12493",
@@ -2744,7 +3064,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "TE"
-      ]
+      ],
+      "height": "77",
+      "weight": "236",
+      "years_exp": 1,
+      "college": "Syracuse",
+      "birth_date": "2003-06-25",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 18481,
+      "sportradar_id": "6af50530-145a-4b34-946d-ce1a7f7d3166",
+      "fantasy_data_id": 25876
     },
     "12501": {
       "player_id": "12501",
@@ -2756,7 +3086,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "71",
+      "weight": "191",
+      "years_exp": 1,
+      "college": "Texas",
+      "birth_date": "2003-08-01",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 18500,
+      "sportradar_id": "d1963360-c011-4764-9a36-9e627073f68f",
+      "fantasy_data_id": 25922
     },
     "12506": {
       "player_id": "12506",
@@ -2768,7 +3108,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "TE"
-      ]
+      ],
+      "height": "76",
+      "weight": "241",
+      "years_exp": 1,
+      "college": "Bowling Green",
+      "birth_date": "2004-07-20",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 18472,
+      "sportradar_id": "8bdf2df7-b51c-4404-b153-8dc62b1e0845",
+      "fantasy_data_id": 25870
     },
     "12507": {
       "player_id": "12507",
@@ -2780,7 +3130,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "RB"
-      ]
+      ],
+      "height": "72",
+      "weight": "220",
+      "years_exp": 1,
+      "college": "North Carolina",
+      "birth_date": "2003-03-16",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 18445,
+      "sportradar_id": "3e1b7908-79ee-4a23-97b9-5190725a2e5e",
+      "fantasy_data_id": 25956
     },
     "12508": {
       "player_id": "12508",
@@ -2792,7 +3152,17 @@
       "injury_status": "IR",
       "fantasy_positions": [
         "QB"
-      ]
+      ],
+      "height": "74",
+      "weight": "223",
+      "years_exp": 1,
+      "college": "Ole Miss",
+      "birth_date": "2003-05-13",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 18574,
+      "sportradar_id": "53848cba-bcad-4cd0-bb35-0a1f6ed111d1",
+      "fantasy_data_id": 26082
     },
     "12509": {
       "player_id": "12509",
@@ -2804,7 +3174,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "75",
+      "weight": "210",
+      "years_exp": 1,
+      "college": "Ole Miss",
+      "birth_date": "2002-02-28",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 18478,
+      "sportradar_id": "a45328a1-7d0e-451a-8176-ea30f0e1c86f",
+      "fantasy_data_id": 25925
     },
     "12512": {
       "player_id": "12512",
@@ -2816,7 +3196,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "RB"
-      ]
+      ],
+      "height": "72",
+      "weight": "221",
+      "years_exp": 1,
+      "college": "Ohio State",
+      "birth_date": "2003-10-29",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 18516,
+      "sportradar_id": "268c6ae2-278b-49f8-b7cd-b367944412f3",
+      "fantasy_data_id": 25946
     },
     "12514": {
       "player_id": "12514",
@@ -2828,7 +3218,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "73",
+      "weight": "205",
+      "years_exp": 1,
+      "college": "Ohio State",
+      "birth_date": "2002-10-14",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 18549,
+      "sportradar_id": "00cea287-1fa0-4584-803f-59f546ef8722",
+      "fantasy_data_id": 26092
     },
     "12517": {
       "player_id": "12517",
@@ -2840,7 +3240,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "TE"
-      ]
+      ],
+      "height": "78",
+      "weight": "241",
+      "years_exp": 1,
+      "college": "Michigan",
+      "birth_date": "2004-04-09",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 18460,
+      "sportradar_id": "62cd2cd5-8b40-4ee6-bfb8-0083edd105a2",
+      "fantasy_data_id": 25869
     },
     "12518": {
       "player_id": "12518",
@@ -2852,7 +3262,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "TE"
-      ]
+      ],
+      "height": "78",
+      "weight": "256",
+      "years_exp": 1,
+      "college": "Penn State",
+      "birth_date": "2002-05-24",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 18534,
+      "sportradar_id": "c8fe3913-1210-4142-b9c1-c119ef702ca5",
+      "fantasy_data_id": 25874
     },
     "12519": {
       "player_id": "12519",
@@ -2864,7 +3284,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "72",
+      "weight": "210",
+      "years_exp": 1,
+      "college": "Missouri",
+      "birth_date": "2003-12-12",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 18548,
+      "sportradar_id": "a4c21977-c9d1-40f8-abee-0862dfab9195",
+      "fantasy_data_id": 26044
     },
     "12523": {
       "player_id": "12523",
@@ -2876,7 +3306,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "68",
+      "weight": "174",
+      "years_exp": 1,
+      "college": "Colorado",
+      "birth_date": "2002-09-12",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 18569,
+      "sportradar_id": "f15872a6-7bc1-41e4-a2cd-0a2fbc432bf7",
+      "fantasy_data_id": 25982
     },
     "12524": {
       "player_id": "12524",
@@ -2888,7 +3328,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "QB"
-      ]
+      ],
+      "height": "74",
+      "weight": "212",
+      "years_exp": 1,
+      "college": "Colorado",
+      "birth_date": "2002-02-07",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 18479,
+      "sportradar_id": "270e09bc-8bf8-44b0-87ed-1fd014de4ab7",
+      "fantasy_data_id": 26079
     },
     "12526": {
       "player_id": "12526",
@@ -2900,7 +3350,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "76",
+      "weight": "220",
+      "years_exp": 1,
+      "college": "Arizona",
+      "birth_date": "2003-04-05",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 18547,
+      "sportradar_id": "874de000-586c-4999-ac12-02766563e200",
+      "fantasy_data_id": 26054
     },
     "12527": {
       "player_id": "12527",
@@ -2912,7 +3372,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "RB"
-      ]
+      ],
+      "height": "68",
+      "weight": "208",
+      "years_exp": 1,
+      "college": "Boise State",
+      "birth_date": "2003-12-02",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 18487,
+      "sportradar_id": "320fc4b7-76c7-43af-bbfd-1a22ba8f78cb",
+      "fantasy_data_id": 25868
     },
     "12529": {
       "player_id": "12529",
@@ -2924,7 +3394,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "RB"
-      ]
+      ],
+      "height": "70",
+      "weight": "202",
+      "years_exp": 1,
+      "college": "Ohio State",
+      "birth_date": "2002-10-22",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 18517,
+      "sportradar_id": "0d9788e6-03ee-416d-8ba2-deb57037d209",
+      "fantasy_data_id": 23245
     },
     "12534": {
       "player_id": "12534",
@@ -2936,7 +3416,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "RB"
-      ]
+      ],
+      "height": "68",
+      "weight": "207",
+      "years_exp": 1,
+      "college": "Rutgers",
+      "birth_date": "2002-06-06",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 18520,
+      "sportradar_id": "6edec23b-f938-40f7-a151-1db5374880dd",
+      "fantasy_data_id": 25952
     },
     "12545": {
       "player_id": "12545",
@@ -2948,7 +3438,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "QB"
-      ]
+      ],
+      "height": "77",
+      "weight": "219",
+      "years_exp": 1,
+      "college": "Louisville",
+      "birth_date": "1999-09-28",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 17037,
+      "sportradar_id": "94b8f9e1-3109-4429-8f71-4f79d7588237",
+      "fantasy_data_id": 23187
     },
     "12711": {
       "player_id": "12711",
@@ -2960,7 +3460,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "K"
-      ]
+      ],
+      "height": "71",
+      "weight": "191",
+      "years_exp": 1,
+      "college": "Arizona",
+      "birth_date": "2001-08-04",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 18742,
+      "sportradar_id": "a6b8b5d3-a2f2-4532-ade3-dc122b6b240c",
+      "fantasy_data_id": 26109
     },
     "13269": {
       "player_id": "13269",
@@ -2972,7 +3482,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "QB"
-      ]
+      ],
+      "height": "77",
+      "weight": "225",
+      "years_exp": 0,
+      "college": "Indiana",
+      "birth_date": "2003-10-01",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 19281,
+      "sportradar_id": "b1ded115-092a-4199-9a55-cab9f4b5bb18",
+      "fantasy_data_id": 26740
     },
     "13279": {
       "player_id": "13279",
@@ -2984,7 +3504,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "74",
+      "weight": "192",
+      "years_exp": 0,
+      "college": "Ohio State",
+      "birth_date": "2005-01-19",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 19268,
+      "sportradar_id": "a8693aee-cde4-464f-a0d8-355fb72c041d",
+      "fantasy_data_id": 26752
     },
     "13281": {
       "player_id": "13281",
@@ -2996,7 +3526,17 @@
       "injury_status": "IR",
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "74",
+      "weight": "203",
+      "years_exp": 0,
+      "college": "Arizona State",
+      "birth_date": "2004-08-12",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 19233,
+      "sportradar_id": "5368ab1c-5463-4326-86c0-17c06bf51c9d",
+      "fantasy_data_id": 26751
     },
     "13286": {
       "player_id": "13286",
@@ -3008,7 +3548,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "RB"
-      ]
+      ],
+      "height": "71",
+      "weight": "209",
+      "years_exp": 0,
+      "college": "Notre Dame",
+      "birth_date": "2003-10-09",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 19299,
+      "sportradar_id": "17b64129-5118-4525-ac9a-d79ff5313568",
+      "fantasy_data_id": 26765
     },
     "13287": {
       "player_id": "13287",
@@ -3020,7 +3570,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "RB"
-      ]
+      ],
+      "height": "72",
+      "weight": "212",
+      "years_exp": 0,
+      "college": "Notre Dame",
+      "birth_date": "2005-05-31",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 19235,
+      "sportradar_id": "ca61f1e4-5a51-45b8-b8e3-f6564d9c2648",
+      "fantasy_data_id": 26768
     },
     "13294": {
       "player_id": "13294",
@@ -3032,7 +3592,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "71",
+      "weight": "192",
+      "years_exp": 0,
+      "college": "USC",
+      "birth_date": "2004-06-02",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 19231,
+      "sportradar_id": "a6a64214-6f1d-4682-9559-287fb4fe7461",
+      "fantasy_data_id": 26748
     },
     "13298": {
       "player_id": "13298",
@@ -3044,7 +3614,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "72",
+      "weight": "190",
+      "years_exp": 0,
+      "college": "Texas A&M",
+      "birth_date": "2004-09-23",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 19242,
+      "sportradar_id": "395b5873-4054-4190-913c-60b664d11e61",
+      "fantasy_data_id": 26762
     },
     "13337": {
       "player_id": "13337",
@@ -3056,7 +3636,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "RB"
-      ]
+      ],
+      "height": "71",
+      "weight": "200",
+      "years_exp": 0,
+      "college": "Nebraska",
+      "birth_date": "2003-10-10",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 19240,
+      "sportradar_id": "ec3e0874-c2bc-49f6-b4b1-dfc874eecb9b",
+      "fantasy_data_id": 26835
     },
     "13345": {
       "player_id": "13345",
@@ -3068,7 +3658,17 @@
       "injury_status": "IR",
       "fantasy_positions": [
         "RB"
-      ]
+      ],
+      "height": "68",
+      "weight": "220",
+      "years_exp": 0,
+      "college": "Washington",
+      "birth_date": "2003-08-20",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 19241,
+      "sportradar_id": "0ff54d6c-4d2a-4974-9815-b889e7dc293e",
+      "fantasy_data_id": 25886
     },
     "13346": {
       "player_id": "13346",
@@ -3080,7 +3680,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "76",
+      "weight": "215",
+      "years_exp": 0,
+      "college": "Washington",
+      "birth_date": "2003-12-06",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 19298,
+      "sportradar_id": "a17e4b32-20bb-4552-855e-0aa3cf0bafab",
+      "fantasy_data_id": 26747
     },
     "13414": {
       "player_id": "13414",
@@ -3092,7 +3702,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "RB"
-      ]
+      ],
+      "height": "70",
+      "weight": "208",
+      "years_exp": 0,
+      "college": "Indiana",
+      "birth_date": "2001-10-17",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 19607,
+      "sportradar_id": "4dea3ae1-8c53-4ef1-bd72-e2d2dfb3fa97",
+      "fantasy_data_id": 26981
     },
     "1466": {
       "player_id": "1466",
@@ -3104,7 +3724,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "TE"
-      ]
+      ],
+      "height": "77",
+      "weight": "250",
+      "years_exp": 13,
+      "college": "Cincinnati",
+      "birth_date": "1989-10-05",
+      "espn_id": 15847,
+      "yahoo_id": 26686,
+      "rotowire_id": 8783,
+      "sportradar_id": "c3859e06-5f23-4302-a71b-04820a899d5f",
+      "fantasy_data_id": 15048
     },
     "1945": {
       "player_id": "1945",
@@ -3116,7 +3746,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "K"
-      ]
+      ],
+      "height": "74",
+      "weight": "185",
+      "years_exp": 12,
+      "college": "Rice",
+      "birth_date": "1991-03-16",
+      "espn_id": 17372,
+      "yahoo_id": 28188,
+      "rotowire_id": 9646,
+      "sportradar_id": "441eb531-1ec8-4f65-9174-78bc6adada63",
+      "fantasy_data_id": 16191
     },
     "2133": {
       "player_id": "2133",
@@ -3128,7 +3768,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "73",
+      "weight": "204",
+      "years_exp": 12,
+      "college": "Fresno State",
+      "birth_date": "1992-12-24",
+      "espn_id": 16800,
+      "yahoo_id": 27581,
+      "rotowire_id": 9455,
+      "sportradar_id": "e7d6ae25-bf15-4660-8b37-c37716551de3",
+      "fantasy_data_id": 16470
     },
     "2216": {
       "player_id": "2216",
@@ -3137,10 +3787,20 @@
       "team": "SF",
       "age": 33,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "77",
+      "weight": "231",
+      "years_exp": 12,
+      "college": "Texas A&M",
+      "birth_date": "1993-08-21",
+      "espn_id": 16737,
+      "yahoo_id": 27535,
+      "rotowire_id": 9253,
+      "sportradar_id": "c48c21d9-0ae5-478c-ad34-30a660cfa9b8",
+      "fantasy_data_id": 16597
     },
     "2449": {
       "player_id": "2449",
@@ -3152,7 +3812,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "72",
+      "weight": "191",
+      "years_exp": 11,
+      "college": "Maryland",
+      "birth_date": "1993-11-29",
+      "espn_id": 2976212,
+      "yahoo_id": 28534,
+      "rotowire_id": 10133,
+      "sportradar_id": "a1c40664-b265-4083-aad2-54b4c734f2c5",
+      "fantasy_data_id": 16906
     },
     "2747": {
       "player_id": "2747",
@@ -3164,7 +3834,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "K"
-      ]
+      ],
+      "height": "70",
+      "weight": "190",
+      "years_exp": 11,
+      "college": "Marist",
+      "birth_date": "1991-05-12",
+      "espn_id": 2473037,
+      "yahoo_id": 28378,
+      "rotowire_id": 10157,
+      "sportradar_id": "7af4c94b-529b-4403-ab66-2bfed3fcf0c7",
+      "fantasy_data_id": 17215
     },
     "3163": {
       "player_id": "3163",
@@ -3176,7 +3856,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "QB"
-      ]
+      ],
+      "height": "76",
+      "weight": "217",
+      "years_exp": 10,
+      "college": "California",
+      "birth_date": "1994-10-14",
+      "espn_id": 3046779,
+      "yahoo_id": 29235,
+      "rotowire_id": 10729,
+      "sportradar_id": "aba8f925-ffbf-4654-bfa7-a25d3d237494",
+      "fantasy_data_id": 17922
     },
     "3198": {
       "player_id": "3198",
@@ -3188,7 +3878,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "RB"
-      ]
+      ],
+      "height": "75",
+      "weight": "252",
+      "years_exp": 10,
+      "college": "Alabama",
+      "birth_date": "1994-01-04",
+      "espn_id": 3043078,
+      "yahoo_id": 29279,
+      "rotowire_id": 10819,
+      "sportradar_id": "87c481c7-7414-43cc-82df-19ca0c2ae22e",
+      "fantasy_data_id": 17959
     },
     "3294": {
       "player_id": "3294",
@@ -3200,7 +3900,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "QB"
-      ]
+      ],
+      "height": "74",
+      "weight": "230",
+      "years_exp": 10,
+      "college": "Mississippi State",
+      "birth_date": "1993-07-29",
+      "espn_id": 2577417,
+      "yahoo_id": 29369,
+      "rotowire_id": 11008,
+      "sportradar_id": "86197778-8d4b-4eba-affe-08ef7be7c70b",
+      "fantasy_data_id": 18055
     },
     "3451": {
       "player_id": "3451",
@@ -3212,7 +3922,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "K"
-      ]
+      ],
+      "height": "72",
+      "weight": "183",
+      "years_exp": 10,
+      "college": "UCLA",
+      "birth_date": "1994-01-29",
+      "espn_id": 2971573,
+      "yahoo_id": 29792,
+      "rotowire_id": 11031,
+      "sportradar_id": "203b60aa-cb94-499c-a4ca-d3c6b94dddc4",
+      "fantasy_data_id": 18215
     },
     "4034": {
       "player_id": "4034",
@@ -3224,7 +3944,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "RB"
-      ]
+      ],
+      "height": "71",
+      "weight": "210",
+      "years_exp": 9,
+      "college": "Stanford",
+      "birth_date": "1996-06-07",
+      "espn_id": 3117251,
+      "yahoo_id": 30121,
+      "rotowire_id": 11690,
+      "sportradar_id": "f96db0af-5e25-42d1-a07a-49b4e065b364",
+      "fantasy_data_id": 18877
     },
     "4035": {
       "player_id": "4035",
@@ -3236,7 +3966,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "RB"
-      ]
+      ],
+      "height": "70",
+      "weight": "215",
+      "years_exp": 9,
+      "college": "Tennessee",
+      "birth_date": "1995-07-25",
+      "espn_id": 3054850,
+      "yahoo_id": 30180,
+      "rotowire_id": 11732,
+      "sportradar_id": "d9c857b2-97da-4fb8-a527-afbbb2a67413",
+      "fantasy_data_id": 18878
     },
     "4037": {
       "player_id": "4037",
@@ -3248,7 +3988,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "73",
+      "weight": "209",
+      "years_exp": 9,
+      "college": "Penn State",
+      "birth_date": "1996-02-27",
+      "espn_id": 3116165,
+      "yahoo_id": 30197,
+      "rotowire_id": 11718,
+      "sportradar_id": "baa61bb5-f8d0-4f90-bbe2-028576b8d33d",
+      "fantasy_data_id": 18880
     },
     "4039": {
       "player_id": "4039",
@@ -3260,7 +4010,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "73",
+      "weight": "205",
+      "years_exp": 9,
+      "college": "Eastern Washington",
+      "birth_date": "1993-06-15",
+      "espn_id": 2977187,
+      "yahoo_id": 30182,
+      "rotowire_id": 11863,
+      "sportradar_id": "2806e915-c46f-492f-8a29-71d3a85e5620",
+      "fantasy_data_id": 18882
     },
     "4046": {
       "player_id": "4046",
@@ -3272,7 +4032,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "QB"
-      ]
+      ],
+      "height": "74",
+      "weight": "225",
+      "years_exp": 9,
+      "college": "Texas Tech",
+      "birth_date": "1995-09-17",
+      "espn_id": 3139477,
+      "yahoo_id": 30123,
+      "rotowire_id": 11839,
+      "sportradar_id": "11cad59d-90dd-449c-a839-dddaba4fe16c",
+      "fantasy_data_id": 18890
     },
     "4199": {
       "player_id": "4199",
@@ -3284,7 +4054,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "RB"
-      ]
+      ],
+      "height": "70",
+      "weight": "208",
+      "years_exp": 9,
+      "college": "UTEP",
+      "birth_date": "1994-12-02",
+      "espn_id": 3042519,
+      "yahoo_id": 30295,
+      "rotowire_id": 11763,
+      "sportradar_id": "27dd5b6e-ea65-4622-a6b4-460fd144407c",
+      "fantasy_data_id": 19045
     },
     "421": {
       "player_id": "421",
@@ -3296,7 +4076,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "QB"
-      ]
+      ],
+      "height": "75",
+      "weight": "214",
+      "years_exp": 17,
+      "college": "Georgia",
+      "birth_date": "1988-02-07",
+      "espn_id": 12483,
+      "yahoo_id": 9265,
+      "rotowire_id": 5971,
+      "sportradar_id": "ade43b1a-0601-4672-83b6-d246bc066a19",
+      "fantasy_data_id": 9038
     },
     "4217": {
       "player_id": "4217",
@@ -3308,7 +4098,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "TE"
-      ]
+      ],
+      "height": "76",
+      "weight": "250",
+      "years_exp": 9,
+      "college": "Iowa",
+      "birth_date": "1993-10-09",
+      "espn_id": 3040151,
+      "yahoo_id": 30259,
+      "rotowire_id": 11892,
+      "sportradar_id": "2ada91b0-036e-454f-83c3-6d939ff584a9",
+      "fantasy_data_id": 19063
     },
     "4227": {
       "player_id": "4227",
@@ -3320,7 +4120,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "K"
-      ]
+      ],
+      "height": "76",
+      "weight": "205",
+      "years_exp": 9,
+      "college": "Georgia Tech",
+      "birth_date": "1995-07-14",
+      "espn_id": 3055899,
+      "yahoo_id": 30346,
+      "rotowire_id": 11783,
+      "sportradar_id": "4ceb866c-8eaf-49b5-9043-56228e43a2e5",
+      "fantasy_data_id": 19073
     },
     "4866": {
       "player_id": "4866",
@@ -3332,7 +4142,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "RB"
-      ]
+      ],
+      "height": "72",
+      "weight": "233",
+      "years_exp": 8,
+      "college": "Penn State",
+      "birth_date": "1997-02-09",
+      "espn_id": 3929630,
+      "yahoo_id": 30972,
+      "rotowire_id": 12507,
+      "sportradar_id": "9811b753-347c-467a-b3cb-85937e71e2b9",
+      "fantasy_data_id": 19766
     },
     "4881": {
       "player_id": "4881",
@@ -3344,7 +4164,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "QB"
-      ]
+      ],
+      "height": "74",
+      "weight": "205",
+      "years_exp": 8,
+      "college": "Louisville",
+      "birth_date": "1997-01-07",
+      "espn_id": 3916387,
+      "yahoo_id": 31002,
+      "rotowire_id": 12561,
+      "sportradar_id": "e06a9c07-453a-4bb0-a7e9-2c3a64166dad",
+      "fantasy_data_id": 19781
     },
     "4892": {
       "player_id": "4892",
@@ -3356,7 +4186,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "QB"
-      ]
+      ],
+      "height": "73",
+      "weight": "215",
+      "years_exp": 8,
+      "college": "Oklahoma",
+      "birth_date": "1995-04-14",
+      "espn_id": 3052587,
+      "yahoo_id": 30971,
+      "rotowire_id": 12619,
+      "sportradar_id": "30198d30-9769-4e10-ac86-b4c91d940802",
+      "fantasy_data_id": 19790
     },
     "4943": {
       "player_id": "4943",
@@ -3368,7 +4208,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "QB"
-      ]
+      ],
+      "height": "75",
+      "weight": "225",
+      "years_exp": 8,
+      "college": "USC",
+      "birth_date": "1997-06-05",
+      "espn_id": 3912547,
+      "yahoo_id": 30973,
+      "rotowire_id": 12490,
+      "sportradar_id": "13d826c5-9b22-4e0a-a877-02d8c84c546b",
+      "fantasy_data_id": 19812
     },
     "4983": {
       "player_id": "4983",
@@ -3380,7 +4230,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "72",
+      "weight": "213",
+      "years_exp": 8,
+      "college": "Maryland",
+      "birth_date": "1997-04-14",
+      "espn_id": 3915416,
+      "yahoo_id": 30994,
+      "rotowire_id": 12477,
+      "sportradar_id": "d8202e6d-d03b-4cd1-a793-ff8fd39d9755",
+      "fantasy_data_id": 19844
     },
     "4984": {
       "player_id": "4984",
@@ -3392,7 +4252,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "QB"
-      ]
+      ],
+      "height": "77",
+      "weight": "237",
+      "years_exp": 8,
+      "college": "Wyoming",
+      "birth_date": "1996-05-21",
+      "espn_id": 3918298,
+      "yahoo_id": 30977,
+      "rotowire_id": 12483,
+      "sportradar_id": "3069db07-aa43-4503-ab11-2ae5c0002721",
+      "fantasy_data_id": 19801
     },
     "5001": {
       "player_id": "5001",
@@ -3404,7 +4274,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "TE"
-      ]
+      ],
+      "height": "77",
+      "weight": "242",
+      "years_exp": 8,
+      "college": "Stanford",
+      "birth_date": "1996-07-11",
+      "espn_id": 3117256,
+      "yahoo_id": 31107,
+      "rotowire_id": 12514,
+      "sportradar_id": "8caec1b4-e0b6-4a84-b8c8-617d6e91ef6a",
+      "fantasy_data_id": 19920
     },
     "5012": {
       "player_id": "5012",
@@ -3413,10 +4293,20 @@
       "team": "BAL",
       "age": 31,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "TE"
-      ]
+      ],
+      "height": "77",
+      "weight": "250",
+      "years_exp": 8,
+      "college": "Oklahoma",
+      "birth_date": "1995-09-06",
+      "espn_id": 3116365,
+      "yahoo_id": 31056,
+      "rotowire_id": 12559,
+      "sportradar_id": "0618f387-9b72-4270-8b8f-dec4cccc9e4a",
+      "fantasy_data_id": 19803
     },
     "5022": {
       "player_id": "5022",
@@ -3428,7 +4318,17 @@
       "injury_status": "Out",
       "fantasy_positions": [
         "TE"
-      ]
+      ],
+      "height": "77",
+      "weight": "256",
+      "years_exp": 8,
+      "college": "South Dakota State",
+      "birth_date": "1995-01-03",
+      "espn_id": 3121023,
+      "yahoo_id": 31019,
+      "rotowire_id": 12860,
+      "sportradar_id": "e8029983-87cf-49a2-bc04-04c8233a0630",
+      "fantasy_data_id": 19863
     },
     "5045": {
       "player_id": "5045",
@@ -3440,7 +4340,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "76",
+      "weight": "216",
+      "years_exp": 8,
+      "college": "SMU",
+      "birth_date": "1995-10-10",
+      "espn_id": 3128429,
+      "yahoo_id": 31010,
+      "rotowire_id": 12586,
+      "sportradar_id": "b55ae5ba-593f-4560-9cab-14e10698e01d",
+      "fantasy_data_id": 19800
     },
     "5846": {
       "player_id": "5846",
@@ -3452,7 +4362,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "76",
+      "weight": "235",
+      "years_exp": 7,
+      "college": "Ole Miss",
+      "birth_date": "1997-12-14",
+      "espn_id": 4047650,
+      "yahoo_id": 31896,
+      "rotowire_id": 13424,
+      "sportradar_id": "754faf0f-40f7-45f0-b23b-6ce990ecaf26",
+      "fantasy_data_id": 20875
     },
     "5849": {
       "player_id": "5849",
@@ -3464,7 +4384,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "QB"
-      ]
+      ],
+      "height": "70",
+      "weight": "207",
+      "years_exp": 7,
+      "college": "Oklahoma",
+      "birth_date": "1997-08-07",
+      "espn_id": 3917315,
+      "yahoo_id": 31833,
+      "rotowire_id": 13613,
+      "sportradar_id": "dd5a6b6e-ffae-45a5-b8e6-718a9251f374",
+      "fantasy_data_id": 20889
     },
     "5850": {
       "player_id": "5850",
@@ -3476,7 +4406,17 @@
       "injury_status": "NA",
       "fantasy_positions": [
         "RB"
-      ]
+      ],
+      "height": "70",
+      "weight": "223",
+      "years_exp": 7,
+      "college": "Alabama",
+      "birth_date": "1998-02-11",
+      "espn_id": 4047365,
+      "yahoo_id": 31856,
+      "rotowire_id": 13582,
+      "sportradar_id": "61694ab9-b099-408e-b48d-6a643dd069ec",
+      "fantasy_data_id": 20824
     },
     "5854": {
       "player_id": "5854",
@@ -3488,7 +4428,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "QB"
-      ]
+      ],
+      "height": "76",
+      "weight": "228",
+      "years_exp": 7,
+      "college": "Missouri",
+      "birth_date": "1996-11-10",
+      "espn_id": 3924327,
+      "yahoo_id": 31874,
+      "rotowire_id": 13736,
+      "sportradar_id": "94325301-e0ad-4a9f-a0e5-ffec0f529be3",
+      "fantasy_data_id": 20859
     },
     "5859": {
       "player_id": "5859",
@@ -3500,7 +4450,17 @@
       "injury_status": "IR",
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "73",
+      "weight": "226",
+      "years_exp": 7,
+      "college": "Ole Miss",
+      "birth_date": "1997-06-30",
+      "espn_id": 4047646,
+      "yahoo_id": 31883,
+      "rotowire_id": 13432,
+      "sportradar_id": "a9e580f2-1fbe-46fb-887c-c84089b507e4",
+      "fantasy_data_id": 21042
     },
     "5872": {
       "player_id": "5872",
@@ -3512,7 +4472,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "72",
+      "weight": "215",
+      "years_exp": 7,
+      "college": "South Carolina",
+      "birth_date": "1996-01-15",
+      "espn_id": 3126486,
+      "yahoo_id": 31868,
+      "rotowire_id": 13429,
+      "sportradar_id": "628a6a0a-4fde-4024-8d7c-28674953d5af",
+      "fantasy_data_id": 20932
     },
     "5892": {
       "player_id": "5892",
@@ -3524,7 +4494,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "RB"
-      ]
+      ],
+      "height": "71",
+      "weight": "230",
+      "years_exp": 7,
+      "college": "Iowa State",
+      "birth_date": "1997-06-07",
+      "espn_id": 4035538,
+      "yahoo_id": 31905,
+      "rotowire_id": 13556,
+      "sportradar_id": "1c9e1cd5-8cb1-4a15-a2c8-3a0c0fd5423c",
+      "fantasy_data_id": 20882
     },
     "5927": {
       "player_id": "5927",
@@ -3536,7 +4516,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "72",
+      "weight": "210",
+      "years_exp": 7,
+      "college": "Ohio State",
+      "birth_date": "1995-09-15",
+      "espn_id": 3121422,
+      "yahoo_id": 31908,
+      "rotowire_id": 13536,
+      "sportradar_id": "7e8c4641-2beb-4213-ba22-69fe0307005f",
+      "fantasy_data_id": 20873
     },
     "5947": {
       "player_id": "5947",
@@ -3548,7 +4538,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "74",
+      "weight": "200",
+      "years_exp": 7,
+      "college": "NC State",
+      "birth_date": "1996-11-09",
+      "espn_id": 3916433,
+      "yahoo_id": 32231,
+      "rotowire_id": 13517,
+      "sportradar_id": "73e194d1-a4b7-4de4-b1c2-3c24ef502918",
+      "fantasy_data_id": 20876
     },
     "5967": {
       "player_id": "5967",
@@ -3560,7 +4560,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "RB"
-      ]
+      ],
+      "height": "72",
+      "weight": "209",
+      "years_exp": 7,
+      "college": "Memphis",
+      "birth_date": "1997-04-30",
+      "espn_id": 3916148,
+      "yahoo_id": 31960,
+      "rotowire_id": 13590,
+      "sportradar_id": "33b0227d-4c21-4e71-b4cd-be35f7db9123",
+      "fantasy_data_id": 20912
     },
     "6130": {
       "player_id": "6130",
@@ -3572,7 +4582,17 @@
       "injury_status": "Out",
       "fantasy_positions": [
         "RB"
-      ]
+      ],
+      "height": "67",
+      "weight": "203",
+      "years_exp": 7,
+      "college": "Florida Atlantic",
+      "birth_date": "1997-09-03",
+      "espn_id": 4040761,
+      "yahoo_id": 31906,
+      "rotowire_id": 13449,
+      "sportradar_id": "a961b0d4-5d7c-438e-90f0-2e1fa09f6c89",
+      "fantasy_data_id": 20941
     },
     "6650": {
       "player_id": "6650",
@@ -3584,7 +4604,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "K"
-      ]
+      ],
+      "height": "72",
+      "weight": "190",
+      "years_exp": 7,
+      "college": "Illinois",
+      "birth_date": "1996-04-09",
+      "espn_id": 3150744,
+      "yahoo_id": 32417,
+      "rotowire_id": 14254,
+      "sportradar_id": "12d28404-63e1-432f-adde-c93631a5c39c",
+      "fantasy_data_id": 21542
     },
     "6770": {
       "player_id": "6770",
@@ -3596,7 +4626,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "QB"
-      ]
+      ],
+      "height": "76",
+      "weight": "215",
+      "years_exp": 6,
+      "college": "LSU",
+      "birth_date": "1996-12-10",
+      "espn_id": 3915511,
+      "yahoo_id": 32671,
+      "rotowire_id": 14442,
+      "sportradar_id": "3023ac10-4e7f-425f-9fc5-2b8e6332c92e",
+      "fantasy_data_id": 21693
     },
     "6786": {
       "player_id": "6786",
@@ -3608,7 +4648,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "74",
+      "weight": "198",
+      "years_exp": 6,
+      "college": "Oklahoma",
+      "birth_date": "1999-04-08",
+      "espn_id": 4241389,
+      "yahoo_id": 32687,
+      "rotowire_id": 14411,
+      "sportradar_id": "a72ea15b-5199-4101-a300-846e1c655add",
+      "fantasy_data_id": 21679
     },
     "6790": {
       "player_id": "6790",
@@ -3620,7 +4670,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "RB"
-      ]
+      ],
+      "height": "68",
+      "weight": "204",
+      "years_exp": 6,
+      "college": "Georgia",
+      "birth_date": "1999-01-14",
+      "espn_id": 4259545,
+      "yahoo_id": 32705,
+      "rotowire_id": 14394,
+      "sportradar_id": "cc4b5f58-a11c-4450-a1df-617ad88336e4",
+      "fantasy_data_id": 21684
     },
     "6794": {
       "player_id": "6794",
@@ -3629,10 +4689,20 @@
       "team": "MIN",
       "age": 27,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "73",
+      "weight": "195",
+      "years_exp": 6,
+      "college": "LSU",
+      "birth_date": "1999-06-16",
+      "espn_id": 4262921,
+      "yahoo_id": 32692,
+      "rotowire_id": 14509,
+      "sportradar_id": "4131d4ee-0318-4bb5-832a-4dec80668a4f",
+      "fantasy_data_id": 21685
     },
     "6797": {
       "player_id": "6797",
@@ -3644,7 +4714,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "QB"
-      ]
+      ],
+      "height": "78",
+      "weight": "236",
+      "years_exp": 6,
+      "college": "Oregon",
+      "birth_date": "1998-03-10",
+      "espn_id": 4038941,
+      "yahoo_id": 32676,
+      "rotowire_id": 14446,
+      "sportradar_id": "f0a8f8e3-b9e9-46ed-85e4-eec6452a8a44",
+      "fantasy_data_id": 21681
     },
     "6801": {
       "player_id": "6801",
@@ -3656,7 +4736,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "76",
+      "weight": "220",
+      "years_exp": 6,
+      "college": "Clemson",
+      "birth_date": "1999-01-18",
+      "espn_id": 4239993,
+      "yahoo_id": 32703,
+      "rotowire_id": 14506,
+      "sportradar_id": "7963b029-5de4-4541-b00a-44eefe4349af",
+      "fantasy_data_id": 21690
     },
     "6804": {
       "player_id": "6804",
@@ -3668,7 +4758,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "QB"
-      ]
+      ],
+      "height": "76",
+      "weight": "219",
+      "years_exp": 6,
+      "college": "Utah State",
+      "birth_date": "1998-11-02",
+      "espn_id": 4036378,
+      "yahoo_id": 32696,
+      "rotowire_id": 14371,
+      "sportradar_id": "e5094779-e94f-4052-8597-bdbee3719f6b",
+      "fantasy_data_id": 21841
     },
     "6806": {
       "player_id": "6806",
@@ -3680,7 +4780,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "RB"
-      ]
+      ],
+      "height": "70",
+      "weight": "212",
+      "years_exp": 6,
+      "college": "Ohio State",
+      "birth_date": "1998-12-17",
+      "espn_id": 4241985,
+      "yahoo_id": 32725,
+      "rotowire_id": 14418,
+      "sportradar_id": "a57b9914-4315-4295-98b4-9b348c52d6a1",
+      "fantasy_data_id": 21674
     },
     "6813": {
       "player_id": "6813",
@@ -3692,7 +4802,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "RB"
-      ]
+      ],
+      "height": "70",
+      "weight": "226",
+      "years_exp": 6,
+      "college": "Wisconsin",
+      "birth_date": "1999-01-19",
+      "espn_id": 4242335,
+      "yahoo_id": 32711,
+      "rotowire_id": 14455,
+      "sportradar_id": "925195a4-06ba-4e37-ae7d-a3d6a5419139",
+      "fantasy_data_id": 21682
     },
     "6819": {
       "player_id": "6819",
@@ -3704,7 +4824,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "76",
+      "weight": "223",
+      "years_exp": 6,
+      "college": "USC",
+      "birth_date": "1997-10-05",
+      "espn_id": 4035687,
+      "yahoo_id": 32704,
+      "rotowire_id": 14378,
+      "sportradar_id": "1aefd5e2-1f85-471a-91a5-4aad4cf6fe6d",
+      "fantasy_data_id": 21744
     },
     "6904": {
       "player_id": "6904",
@@ -3716,7 +4846,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "QB"
-      ]
+      ],
+      "height": "73",
+      "weight": "223",
+      "years_exp": 6,
+      "college": "Oklahoma",
+      "birth_date": "1998-08-07",
+      "espn_id": 4040715,
+      "yahoo_id": 32723,
+      "rotowire_id": 14416,
+      "sportradar_id": "64bd0f02-6a5d-407e-98f1-fd02048ea21d",
+      "fantasy_data_id": 21831
     },
     "7021": {
       "player_id": "7021",
@@ -3728,7 +4868,17 @@
       "injury_status": "Out",
       "fantasy_positions": [
         "RB"
-      ]
+      ],
+      "height": "71",
+      "weight": "218",
+      "years_exp": 6,
+      "college": "South Carolina",
+      "birth_date": "1998-06-14",
+      "espn_id": 4038815,
+      "yahoo_id": 33100,
+      "rotowire_id": 14657,
+      "sportradar_id": "bba755a2-63b6-4ac1-b806-0609816135de",
+      "fantasy_data_id": 21952
     },
     "7523": {
       "player_id": "7523",
@@ -3740,7 +4890,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "QB"
-      ]
+      ],
+      "height": "78",
+      "weight": "220",
+      "years_exp": 5,
+      "college": "Clemson",
+      "birth_date": "1999-10-06",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 15357,
+      "sportradar_id": "aaa8b42c-4d87-45f6-bfd2-e31cfed9a736",
+      "fantasy_data_id": 22490
     },
     "7525": {
       "player_id": "7525",
@@ -3752,7 +4912,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "72",
+      "weight": "170",
+      "years_exp": 5,
+      "college": "Alabama",
+      "birth_date": "1998-11-14",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 15406,
+      "sportradar_id": "3555d07e-57ae-43de-97d5-b1b5bf055f17",
+      "fantasy_data_id": 21687
     },
     "7526": {
       "player_id": "7526",
@@ -3764,7 +4934,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "70",
+      "weight": "185",
+      "years_exp": 5,
+      "college": "Alabama",
+      "birth_date": "1998-11-25",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 15404,
+      "sportradar_id": "0ff9a975-669d-4851-a95d-ab28d9fc29c4",
+      "fantasy_data_id": 22598
     },
     "7543": {
       "player_id": "7543",
@@ -3776,7 +4956,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "RB"
-      ]
+      ],
+      "height": "70",
+      "weight": "215",
+      "years_exp": 5,
+      "college": "Clemson",
+      "birth_date": "1999-01-26",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 15385,
+      "sportradar_id": "970693f0-0af4-4627-ac0c-bf519f7433ee",
+      "fantasy_data_id": 21696
     },
     "7547": {
       "player_id": "7547",
@@ -3788,7 +4978,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "72",
+      "weight": "202",
+      "years_exp": 5,
+      "college": "USC",
+      "birth_date": "1999-10-24",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 15332,
+      "sportradar_id": "26ef0447-29b8-4dd1-9831-dcbf8132bb74",
+      "fantasy_data_id": 22587
     },
     "7553": {
       "player_id": "7553",
@@ -3800,7 +5000,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "TE"
-      ]
+      ],
+      "height": "78",
+      "weight": "250",
+      "years_exp": 5,
+      "college": "Florida",
+      "birth_date": "2000-10-06",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 15265,
+      "sportradar_id": "1f3deb24-9ff8-4769-8f42-825eff7742f6",
+      "fantasy_data_id": 22508
     },
     "7564": {
       "player_id": "7564",
@@ -3812,7 +5022,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "72",
+      "weight": "205",
+      "years_exp": 5,
+      "college": "LSU",
+      "birth_date": "2000-03-01",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 15183,
+      "sportradar_id": "fa99e984-d63b-4ef4-a164-407f68a7eeaf",
+      "fantasy_data_id": 22564
     },
     "7567": {
       "player_id": "7567",
@@ -3824,7 +5044,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "RB"
-      ]
+      ],
+      "height": "69",
+      "weight": "200",
+      "years_exp": 5,
+      "college": "Memphis",
+      "birth_date": "1999-03-14",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 15222,
+      "sportradar_id": "e2a5882a-dcc1-4800-889f-3b957b21834f",
+      "fantasy_data_id": 22562
     },
     "7569": {
       "player_id": "7569",
@@ -3836,7 +5066,17 @@
       "injury_status": "Out",
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "76",
+      "weight": "222",
+      "years_exp": 5,
+      "college": "Michigan",
+      "birth_date": "1999-03-19",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 15200,
+      "sportradar_id": "bd56a50c-5fae-4ee2-8363-f74ae07b6887",
+      "fantasy_data_id": 21756
     },
     "7571": {
       "player_id": "7571",
@@ -3848,7 +5088,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "73",
+      "weight": "193",
+      "years_exp": 5,
+      "college": "Minnesota",
+      "birth_date": "1999-11-29",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 15210,
+      "sportradar_id": "d9f8b92b-69d4-4d83-9bf2-106ee523efed",
+      "fantasy_data_id": 22623
     },
     "7588": {
       "player_id": "7588",
@@ -3860,7 +5110,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "RB"
-      ]
+      ],
+      "height": "70",
+      "weight": "222",
+      "years_exp": 5,
+      "college": "North Carolina",
+      "birth_date": "2000-04-25",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 15306,
+      "sportradar_id": "889dcdc5-3d88-45df-9677-5ad7ff87c011",
+      "fantasy_data_id": 22558
     },
     "7594": {
       "player_id": "7594",
@@ -3872,7 +5132,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "RB"
-      ]
+      ],
+      "height": "73",
+      "weight": "216",
+      "years_exp": 5,
+      "college": "Oklahoma State",
+      "birth_date": "1999-06-11",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 15242,
+      "sportradar_id": "32205e74-b23f-420a-b312-465b29260745",
+      "fantasy_data_id": 21691
     },
     "7600": {
       "player_id": "7600",
@@ -3884,7 +5154,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "TE"
-      ]
+      ],
+      "height": "77",
+      "weight": "258",
+      "years_exp": 5,
+      "college": "Penn State",
+      "birth_date": "1998-10-25",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 15267,
+      "sportradar_id": "04f0fefe-9d9d-44f5-94ea-6df2a42df3c6",
+      "fantasy_data_id": 22507
     },
     "7611": {
       "player_id": "7611",
@@ -3896,7 +5176,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "RB"
-      ]
+      ],
+      "height": "72",
+      "weight": "227",
+      "years_exp": 5,
+      "college": "Oklahoma",
+      "birth_date": "1998-02-23",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 15372,
+      "sportradar_id": "6260e78a-64e2-4f7e-9bf8-39948a17a370",
+      "fantasy_data_id": 22546
     },
     "7839": {
       "player_id": "7839",
@@ -3908,7 +5198,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "K"
-      ]
+      ],
+      "height": "71",
+      "weight": "185",
+      "years_exp": 5,
+      "college": "Florida",
+      "birth_date": "1999-07-21",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 15383,
+      "sportradar_id": "acc143ed-53b2-49c9-81bc-16e6c98ffcae",
+      "fantasy_data_id": 22908
     },
     "8110": {
       "player_id": "8110",
@@ -3920,7 +5220,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "TE"
-      ]
+      ],
+      "height": "77",
+      "weight": "250",
+      "years_exp": 4,
+      "college": "Wisconsin",
+      "birth_date": "1999-01-18",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 15947,
+      "sportradar_id": "f46eab3d-d7dd-4420-b3f9-6da9ac1308ab",
+      "fantasy_data_id": 23138
     },
     "8112": {
       "player_id": "8112",
@@ -3932,7 +5242,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "76",
+      "weight": "215",
+      "years_exp": 4,
+      "college": "USC",
+      "birth_date": "2001-07-24",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 15868,
+      "sportradar_id": "5053f9ae-15d9-4730-833d-484886b6f890",
+      "fantasy_data_id": 23151
     },
     "8130": {
       "player_id": "8130",
@@ -3944,7 +5264,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "TE"
-      ]
+      ],
+      "height": "76",
+      "weight": "246",
+      "years_exp": 4,
+      "college": "Colorado State",
+      "birth_date": "1999-11-22",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 15902,
+      "sportradar_id": "734d54cc-c869-4e2f-a60f-c59c493f5110",
+      "fantasy_data_id": 23251
     },
     "8131": {
       "player_id": "8131",
@@ -3956,7 +5286,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "TE"
-      ]
+      ],
+      "height": "76",
+      "weight": "241",
+      "years_exp": 4,
+      "college": "Coastal Carolina",
+      "birth_date": "2000-04-18",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 16033,
+      "sportradar_id": "f9279edb-cfa7-4f7d-91df-b81cbf3e133e",
+      "fantasy_data_id": 23256
     },
     "8134": {
       "player_id": "8134",
@@ -3968,7 +5308,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "72",
+      "weight": "190",
+      "years_exp": 4,
+      "college": "Boise State",
+      "birth_date": "2000-02-03",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 15892,
+      "sportradar_id": "0ce9ddce-bdf6-469c-8a32-9cf0ed3714a4",
+      "fantasy_data_id": 23227
     },
     "8136": {
       "player_id": "8136",
@@ -3980,7 +5330,17 @@
       "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
-      ]
+      ],
+      "height": "72",
+      "weight": "214",
+      "years_exp": 4,
+      "college": "Arizona State",
+      "birth_date": "1999-01-12",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 15802,
+      "sportradar_id": "4d3f2f57-215c-4cb4-bf75-a7ecdcdded70",
+      "fantasy_data_id": 23217
     },
     "8137": {
       "player_id": "8137",
@@ -3992,7 +5352,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "75",
+      "weight": "205",
+      "years_exp": 4,
+      "college": "Georgia",
+      "birth_date": "2001-03-04",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 15853,
+      "sportradar_id": "018e8f25-54e5-44f1-967a-7ff237f1c52f",
+      "fantasy_data_id": 23153
     },
     "8138": {
       "player_id": "8138",
@@ -4004,7 +5374,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "RB"
-      ]
+      ],
+      "height": "71",
+      "weight": "190",
+      "years_exp": 4,
+      "college": "Georgia",
+      "birth_date": "1999-09-25",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 15876,
+      "sportradar_id": "ce5de0e5-9f76-42ee-b93a-3ef88af9b0a7",
+      "fantasy_data_id": 23247
     },
     "8142": {
       "player_id": "8142",
@@ -4016,7 +5396,17 @@
       "injury_status": "IR",
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "75",
+      "weight": "211",
+      "years_exp": 4,
+      "college": "Cincinnati",
+      "birth_date": "2000-05-02",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 16022,
+      "sportradar_id": "a67ee8f8-e9de-4fb9-90b6-edca2f83f6d8",
+      "fantasy_data_id": 23232
     },
     "8144": {
       "player_id": "8144",
@@ -4028,7 +5418,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "72",
+      "weight": "187",
+      "years_exp": 4,
+      "college": "Ohio State",
+      "birth_date": "2000-06-27",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 15895,
+      "sportradar_id": "2375d572-a36c-4365-bb3f-87e156526e2f",
+      "fantasy_data_id": 22565
     },
     "8146": {
       "player_id": "8146",
@@ -4040,7 +5440,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "72",
+      "weight": "183",
+      "years_exp": 4,
+      "college": "Ohio State",
+      "birth_date": "2000-07-22",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 15829,
+      "sportradar_id": "68d72fe0-79b2-4fdb-afd5-6c79676e77f3",
+      "fantasy_data_id": 23122
     },
     "8148": {
       "player_id": "8148",
@@ -4052,7 +5462,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "73",
+      "weight": "184",
+      "years_exp": 4,
+      "college": "Alabama",
+      "birth_date": "2001-03-26",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 15849,
+      "sportradar_id": "590adb00-5598-47ad-b6d4-16a6c5519847",
+      "fantasy_data_id": 23234
     },
     "8150": {
       "player_id": "8150",
@@ -4064,7 +5484,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "RB"
-      ]
+      ],
+      "height": "69",
+      "weight": "207",
+      "years_exp": 4,
+      "college": "Notre Dame",
+      "birth_date": "2000-08-26",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 15807,
+      "sportradar_id": "19d44771-8f1d-4127-9b7d-230da137f15d",
+      "fantasy_data_id": 23212
     },
     "8151": {
       "player_id": "8151",
@@ -4076,7 +5506,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "RB"
-      ]
+      ],
+      "height": "69",
+      "weight": "211",
+      "years_exp": 4,
+      "college": "Michigan State",
+      "birth_date": "2000-10-20",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 15909,
+      "sportradar_id": "22ee9bac-a64c-4d44-94fc-51d775465b3b",
+      "fantasy_data_id": 23214
     },
     "8155": {
       "player_id": "8155",
@@ -4088,7 +5528,17 @@
       "injury_status": "Out",
       "fantasy_positions": [
         "RB"
-      ]
+      ],
+      "height": "71",
+      "weight": "217",
+      "years_exp": 4,
+      "college": "Iowa State",
+      "birth_date": "2001-05-31",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 15810,
+      "sportradar_id": "db1053d7-3343-43a3-9aab-8353f10f1221",
+      "fantasy_data_id": 22526
     },
     "8161": {
       "player_id": "8161",
@@ -4100,7 +5550,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "QB"
-      ]
+      ],
+      "height": "73",
+      "weight": "225",
+      "years_exp": 4,
+      "college": "Liberty",
+      "birth_date": "1999-05-25",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 15872,
+      "sportradar_id": "55aefcf9-4dfb-4994-883f-4d537a6f1ddb",
+      "fantasy_data_id": 23118
     },
     "8167": {
       "player_id": "8167",
@@ -4112,7 +5572,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "76",
+      "weight": "215",
+      "years_exp": 4,
+      "college": "North Dakota State",
+      "birth_date": "1999-05-12",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 15946,
+      "sportradar_id": "47d97f44-b4aa-46d2-816c-5b5a1fe48d46",
+      "fantasy_data_id": 23395
     },
     "8183": {
       "player_id": "8183",
@@ -4124,7 +5594,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "QB"
-      ]
+      ],
+      "height": "73",
+      "weight": "220",
+      "years_exp": 4,
+      "college": "Iowa State",
+      "birth_date": "1999-12-27",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 15834,
+      "sportradar_id": "d5aef708-ad61-4ab8-a637-62ff96e92040",
+      "fantasy_data_id": 23241
     },
     "8228": {
       "player_id": "8228",
@@ -4136,7 +5616,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "RB"
-      ]
+      ],
+      "height": "68",
+      "weight": "215",
+      "years_exp": 4,
+      "college": "Oklahoma State",
+      "birth_date": "1998-11-01",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 15984,
+      "sportradar_id": "7e397190-ca24-11ec-9f1c-b7114d38a85b",
+      "fantasy_data_id": 23479
     },
     "8259": {
       "player_id": "8259",
@@ -4148,7 +5638,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "K"
-      ]
+      ],
+      "height": "73",
+      "weight": "216",
+      "years_exp": 4,
+      "college": "Texas",
+      "birth_date": "2000-05-06",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 16226,
+      "sportradar_id": "ac5dd0b0-d060-11ec-b677-29e0f2526162",
+      "fantasy_data_id": 23567
     },
     "8408": {
       "player_id": "8408",
@@ -4160,7 +5660,17 @@
       "injury_status": "IR",
       "fantasy_positions": [
         "RB"
-      ]
+      ],
+      "height": "71",
+      "weight": "230",
+      "years_exp": 4,
+      "college": "Georgia Tech",
+      "birth_date": "1999-05-24",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 16163,
+      "sportradar_id": "af9f7390-ca80-11ec-97ae-e1573849d1a6",
+      "fantasy_data_id": 23364
     },
     "8676": {
       "player_id": "8676",
@@ -4172,7 +5682,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "72",
+      "weight": "180",
+      "years_exp": 4,
+      "college": "Weber State",
+      "birth_date": "1998-08-31",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 16560,
+      "sportradar_id": "e1ecc660-cc9f-11ec-952e-a10f2c98fc4d",
+      "fantasy_data_id": 23729
     },
     "9221": {
       "player_id": "9221",
@@ -4184,7 +5704,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "RB"
-      ]
+      ],
+      "height": "69",
+      "weight": "202",
+      "years_exp": 3,
+      "college": "Alabama",
+      "birth_date": "2002-03-20",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 16808,
+      "sportradar_id": "fef9457e-6497-47de-9bf2-cc3b95929375",
+      "fantasy_data_id": 23200
     },
     "9224": {
       "player_id": "9224",
@@ -4196,7 +5726,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "RB"
-      ]
+      ],
+      "height": "70",
+      "weight": "210",
+      "years_exp": 3,
+      "college": "Illinois",
+      "birth_date": "2000-03-21",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 16934,
+      "sportradar_id": "d74ff06d-905d-4fed-8f98-b5f6d4549333",
+      "fantasy_data_id": 24374
     },
     "9225": {
       "player_id": "9225",
@@ -4208,7 +5748,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "RB"
-      ]
+      ],
+      "height": "71",
+      "weight": "215",
+      "years_exp": 3,
+      "college": "Auburn",
+      "birth_date": "2002-08-30",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 16705,
+      "sportradar_id": "2034916c-8062-46e3-8d0c-d0dec694e2d1",
+      "fantasy_data_id": 23193
     },
     "9226": {
       "player_id": "9226",
@@ -4220,7 +5770,17 @@
       "injury_status": "Out",
       "fantasy_positions": [
         "RB"
-      ]
+      ],
+      "height": "69",
+      "weight": "195",
+      "years_exp": 3,
+      "college": "Texas A&M",
+      "birth_date": "2001-10-13",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 16661,
+      "sportradar_id": "a4ef921b-8767-4b4f-a651-7675c00f9af0",
+      "fantasy_data_id": 24179
     },
     "9228": {
       "player_id": "9228",
@@ -4232,7 +5792,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "QB"
-      ]
+      ],
+      "height": "70",
+      "weight": "204",
+      "years_exp": 3,
+      "college": "Alabama",
+      "birth_date": "2001-07-25",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 16807,
+      "sportradar_id": "38475bfa-9773-4c3b-9157-a0dbd576fa22",
+      "fantasy_data_id": 23132
     },
     "9484": {
       "player_id": "9484",
@@ -4244,7 +5814,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "TE"
-      ]
+      ],
+      "height": "77",
+      "weight": "259",
+      "years_exp": 3,
+      "college": "South Dakota State",
+      "birth_date": "2000-11-03",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 16649,
+      "sportradar_id": "3a084c5f-6b9f-4703-a0c7-1566bc4b1129",
+      "fantasy_data_id": 24118
     },
     "9487": {
       "player_id": "9487",
@@ -4256,7 +5836,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "70",
+      "weight": "204",
+      "years_exp": 3,
+      "college": "Penn State",
+      "birth_date": "2002-03-21",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 16690,
+      "sportradar_id": "c05863ec-3414-4ae6-a8d2-830aed99b6d3",
+      "fantasy_data_id": 24143
     },
     "9488": {
       "player_id": "9488",
@@ -4268,7 +5858,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "72",
+      "weight": "197",
+      "years_exp": 3,
+      "college": "Ohio State",
+      "birth_date": "2002-02-14",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 16654,
+      "sportradar_id": "6215db71-1e13-4c62-8f14-2005d33dee47",
+      "fantasy_data_id": 23157
     },
     "9493": {
       "player_id": "9493",
@@ -4280,7 +5880,17 @@
       "injury_status": "Doubtful",
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "74",
+      "weight": "216",
+      "years_exp": 3,
+      "college": "BYU",
+      "birth_date": "2001-05-29",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 16790,
+      "sportradar_id": "111be44d-7bc2-4cad-934d-c9e946293b2f",
+      "fantasy_data_id": 24172
     },
     "9500": {
       "player_id": "9500",
@@ -4292,7 +5902,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "69",
+      "weight": "171",
+      "years_exp": 3,
+      "college": "North Carolina",
+      "birth_date": "2001-08-12",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 16689,
+      "sportradar_id": "dd227f4a-0785-482d-a28b-f231c7f3b73f",
+      "fantasy_data_id": 24145
     },
     "9509": {
       "player_id": "9509",
@@ -4304,7 +5924,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "RB"
-      ]
+      ],
+      "height": "71",
+      "weight": "215",
+      "years_exp": 3,
+      "college": "Texas",
+      "birth_date": "2002-01-30",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 16739,
+      "sportradar_id": "f78d68c2-f9da-48e7-b954-26b69efd828d",
+      "fantasy_data_id": 23189
     },
     "9754": {
       "player_id": "9754",
@@ -4316,7 +5946,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "74",
+      "weight": "208",
+      "years_exp": 3,
+      "college": "TCU",
+      "birth_date": "2001-09-06",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 16899,
+      "sportradar_id": "e648bc98-bc81-44d0-8d4b-b9223c497ff4",
+      "fantasy_data_id": 24226
     },
     "9756": {
       "player_id": "9756",
@@ -4328,7 +5968,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "71",
+      "weight": "179",
+      "years_exp": 3,
+      "college": "USC",
+      "birth_date": "2002-01-27",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 16895,
+      "sportradar_id": "63fdd64e-1a23-4b77-9536-b1609f3a708c",
+      "fantasy_data_id": 23162
     },
     "9758": {
       "player_id": "9758",
@@ -4340,7 +5990,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "QB"
-      ]
+      ],
+      "height": "75",
+      "weight": "218",
+      "years_exp": 3,
+      "college": "Ohio State",
+      "birth_date": "2001-10-03",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 16886,
+      "sportradar_id": "7e91086f-9ca4-4bd9-a099-b88b2f37e6c6",
+      "fantasy_data_id": 23239
     },
     "9997": {
       "player_id": "9997",
@@ -4352,7 +6012,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "WR"
-      ]
+      ],
+      "height": "69",
+      "weight": "183",
+      "years_exp": 3,
+      "college": "Boston College",
+      "birth_date": "2000-09-11",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 16919,
+      "sportradar_id": "2b6d74b7-10fb-4f17-99c8-9bb557fb475b",
+      "fantasy_data_id": 23120
     },
     "BAL": {
       "player_id": "BAL",
@@ -4364,7 +6034,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "DEF"
-      ]
+      ],
+      "height": null,
+      "weight": null,
+      "years_exp": null,
+      "college": null,
+      "birth_date": null,
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": null,
+      "sportradar_id": null,
+      "fantasy_data_id": null
     },
     "CAR": {
       "player_id": "CAR",
@@ -4376,7 +6056,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "DEF"
-      ]
+      ],
+      "height": null,
+      "weight": null,
+      "years_exp": null,
+      "college": null,
+      "birth_date": null,
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": null,
+      "sportradar_id": null,
+      "fantasy_data_id": null
     },
     "DEN": {
       "player_id": "DEN",
@@ -4388,7 +6078,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "DEF"
-      ]
+      ],
+      "height": null,
+      "weight": null,
+      "years_exp": null,
+      "college": null,
+      "birth_date": null,
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": null,
+      "sportradar_id": null,
+      "fantasy_data_id": null
     },
     "HOU": {
       "player_id": "HOU",
@@ -4400,7 +6100,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "DEF"
-      ]
+      ],
+      "height": null,
+      "weight": null,
+      "years_exp": null,
+      "college": null,
+      "birth_date": null,
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": null,
+      "sportradar_id": null,
+      "fantasy_data_id": null
     },
     "JAX": {
       "player_id": "JAX",
@@ -4412,7 +6122,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "DEF"
-      ]
+      ],
+      "height": null,
+      "weight": null,
+      "years_exp": null,
+      "college": null,
+      "birth_date": null,
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": null,
+      "sportradar_id": null,
+      "fantasy_data_id": null
     },
     "LAC": {
       "player_id": "LAC",
@@ -4424,7 +6144,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "DEF"
-      ]
+      ],
+      "height": null,
+      "weight": null,
+      "years_exp": null,
+      "college": null,
+      "birth_date": null,
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": null,
+      "sportradar_id": null,
+      "fantasy_data_id": null
     },
     "LAR": {
       "player_id": "LAR",
@@ -4436,7 +6166,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "DEF"
-      ]
+      ],
+      "height": null,
+      "weight": null,
+      "years_exp": null,
+      "college": null,
+      "birth_date": null,
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": null,
+      "sportradar_id": null,
+      "fantasy_data_id": null
     },
     "MIN": {
       "player_id": "MIN",
@@ -4448,7 +6188,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "DEF"
-      ]
+      ],
+      "height": null,
+      "weight": null,
+      "years_exp": null,
+      "college": null,
+      "birth_date": null,
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": null,
+      "sportradar_id": null,
+      "fantasy_data_id": null
     },
     "NE": {
       "player_id": "NE",
@@ -4460,7 +6210,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "DEF"
-      ]
+      ],
+      "height": null,
+      "weight": null,
+      "years_exp": null,
+      "college": null,
+      "birth_date": null,
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": null,
+      "sportradar_id": null,
+      "fantasy_data_id": null
     },
     "PHI": {
       "player_id": "PHI",
@@ -4472,7 +6232,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "DEF"
-      ]
+      ],
+      "height": null,
+      "weight": null,
+      "years_exp": null,
+      "college": null,
+      "birth_date": null,
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": null,
+      "sportradar_id": null,
+      "fantasy_data_id": null
     },
     "PIT": {
       "player_id": "PIT",
@@ -4484,7 +6254,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "DEF"
-      ]
+      ],
+      "height": null,
+      "weight": null,
+      "years_exp": null,
+      "college": null,
+      "birth_date": null,
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": null,
+      "sportradar_id": null,
+      "fantasy_data_id": null
     },
     "SEA": {
       "player_id": "SEA",
@@ -4496,7 +6276,17 @@
       "injury_status": null,
       "fantasy_positions": [
         "DEF"
-      ]
+      ],
+      "height": null,
+      "weight": null,
+      "years_exp": null,
+      "college": null,
+      "birth_date": null,
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": null,
+      "sportradar_id": null,
+      "fantasy_data_id": null
     }
   }
 }
