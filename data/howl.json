@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-27T15:26:35.178Z",
+  "fetched_at": "2026-09-27T16:27:37.737Z",
   "current_week": 3,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -2621,7 +2621,7 @@
       "team": "BUF",
       "age": 23,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ]
@@ -2633,7 +2633,7 @@
       "team": "CAR",
       "age": 24,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ]
@@ -3377,7 +3377,7 @@
       "team": "BUF",
       "age": 29,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ]
@@ -3569,7 +3569,7 @@
       "team": "NYG",
       "age": 29,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "fantasy_positions": [
         "RB"
       ]
@@ -3701,7 +3701,7 @@
       "team": "PIT",
       "age": 28,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ]
@@ -4133,7 +4133,7 @@
       "team": "PIT",
       "age": 27,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "RB"
       ]

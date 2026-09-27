@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-27T15:26:33.321Z",
+  "fetched_at": "2026-09-27T16:27:35.768Z",
   "current_week": 3,
   "league": {
     "name": "The D-League",
@@ -66,10 +66,6 @@
     },
     "avatar": "31647870b5248d13691a1b97ccb9b0a0",
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
-    "shard": 169,
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -127,15 +123,19 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "last_message_id": "1409942388348084224",
-    "draft_id": "1398261761102098432",
+    "season": "2026",
+    "season_type": "regular",
+    "shard": 169,
+    "sport": "nfl",
+    "last_message_id": "1409962035936043008",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
+    "draft_id": "1398261761102098432",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1790518970146,
+    "last_message_time": 1790523654497,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1384998212942692352",
@@ -1418,8 +1418,8 @@
         "13287",
         "10229",
         "8146",
-        "7002",
-        "13286",
+        "5001",
+        "8228",
         "7594",
         "3678",
         "13363",
@@ -1655,11 +1655,11 @@
         "4881",
         "8138",
         "9224",
-        "10232",
+        "2449",
         "8148",
         "5844",
         "7526",
-        "2449",
+        "10232",
         "5095",
         "8280",
         "8311",
@@ -1684,6 +1684,7 @@
       "player_map": null,
       "players": [
         "10219",
+        "11539",
         "11564",
         "11604",
         "11628",
@@ -1700,7 +1701,6 @@
         "13296",
         "13377",
         "13379",
-        "1945",
         "3973",
         "4070",
         "5850",
@@ -1742,7 +1742,7 @@
         "11604",
         "12481",
         "11628",
-        "1945",
+        "11539",
         "4070",
         "13377",
         "12597",
@@ -2761,8 +2761,8 @@
         "13287",
         "10229",
         "8146",
-        "7002",
-        "13286",
+        "5001",
+        "8228",
         "7594",
         "3678",
         "13363",
@@ -3040,11 +3040,11 @@
         "4881",
         "8138",
         "9224",
-        "10232",
+        "2449",
         "8148",
         "5844",
         "7526",
-        "2449",
+        "10232",
         "5095",
         "8280",
         "8311",
@@ -3102,6 +3102,7 @@
       "points": 4,
       "players": [
         "10219",
+        "11539",
         "11564",
         "11604",
         "11628",
@@ -3118,7 +3119,6 @@
         "13296",
         "13377",
         "13379",
-        "1945",
         "3973",
         "4070",
         "5850",
@@ -3142,7 +3142,7 @@
         "11604",
         "12481",
         "11628",
-        "1945",
+        "11539",
         "4070",
         "13377",
         "12597",
@@ -3164,7 +3164,6 @@
         4
       ],
       "players_points": {
-        "1945": 0,
         "3973": 0,
         "4070": 0,
         "5850": 0,
@@ -3176,6 +3175,7 @@
         "9228": 0,
         "9754": 0,
         "10219": 0,
+        "11539": 0,
         "11564": 0,
         "11604": 0,
         "11628": 0,
@@ -6979,6 +6979,31 @@
       "status": "complete",
       "type": "free_agent",
       "metadata": null,
+      "created": 1790523654464,
+      "settings": null,
+      "leg": 3,
+      "draft_picks": [],
+      "creator": "737718651813244928",
+      "transaction_id": "1409962035797626880",
+      "adds": {
+        "11539": 14
+      },
+      "consenter_ids": [
+        14
+      ],
+      "drops": {
+        "1945": 14
+      },
+      "roster_ids": [
+        14
+      ],
+      "status_updated": 1790523654464,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
       "created": 1790518970116,
       "settings": null,
       "leg": 3,
@@ -7757,7 +7782,7 @@
       "team": "CAR",
       "age": 23,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "fantasy_positions": [
         "TE"
       ]
@@ -7865,7 +7890,7 @@
       "team": "NYJ",
       "age": 23,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ]
@@ -7877,7 +7902,7 @@
       "team": "CAR",
       "age": 25,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ]
@@ -7973,7 +7998,7 @@
       "team": "BUF",
       "age": 23,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ]
@@ -7997,7 +8022,7 @@
       "team": "MIA",
       "age": 23,
       "status": "Active",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "fantasy_positions": [
         "RB"
       ]
@@ -8009,7 +8034,7 @@
       "team": "CAR",
       "age": 24,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ]
@@ -8298,7 +8323,7 @@
       "team": "IND",
       "age": 23,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "fantasy_positions": [
         "RB"
       ]
@@ -8610,7 +8635,7 @@
       "team": "SEA",
       "age": 23,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "fantasy_positions": [
         "QB"
       ]
@@ -9515,7 +9540,7 @@
       "team": "BUF",
       "age": 24,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ]
@@ -9587,7 +9612,7 @@
       "team": "NE",
       "age": 22,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "TE"
       ]
@@ -10477,7 +10502,7 @@
       "team": "BUF",
       "age": 29,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ]
@@ -10755,7 +10780,7 @@
       "team": "NYG",
       "age": 28,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "DL",
         "LB"
@@ -10972,7 +10997,7 @@
       "team": "DET",
       "age": 28,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "fantasy_positions": [
         "LB"
       ]
@@ -10996,7 +11021,7 @@
       "team": "NYG",
       "age": 29,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "fantasy_positions": [
         "RB"
       ]
@@ -11020,7 +11045,7 @@
       "team": "IND",
       "age": 29,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ]
@@ -11309,7 +11334,7 @@
       "team": "PIT",
       "age": 28,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ]
@@ -11720,7 +11745,7 @@
       "team": "TEN",
       "age": 27,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "fantasy_positions": [
         "RB"
       ]
@@ -11818,7 +11843,7 @@
       "team": "NYJ",
       "age": 28,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "fantasy_positions": [
         "DB"
       ]
@@ -12275,7 +12300,7 @@
       "team": "PIT",
       "age": 27,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "RB"
       ]
@@ -12732,7 +12757,7 @@
       "team": "TEN",
       "age": 25,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "RB"
       ]
