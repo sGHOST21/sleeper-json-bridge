@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-27T13:26:13.921Z",
+  "fetched_at": "2026-09-27T14:25:55.710Z",
   "current_week": 3,
   "league": {
     "name": "The D-League",
@@ -66,10 +66,7 @@
     },
     "avatar": "31647870b5248d13691a1b97ccb9b0a0",
     "company_id": null,
-    "shard": 169,
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
+    "last_message_id": "1409941275091714048",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -127,24 +124,25 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "last_message_id": "1409786561620434944",
+    "season": "2026",
+    "season_type": "regular",
+    "shard": 169,
+    "sport": "nfl",
+    "draft_id": "1398261761102098432",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1790481818159,
+    "last_message_time": 1790518704726,
     "last_pinned_message_id": null,
-    "draft_id": "1398261761102098432",
     "last_read_id": null,
     "league_id": "1384998212942692352",
     "previous_league_id": "1222634114906075136",
     "bracket_id": null,
     "bracket_overrides_id": null,
     "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -170,6 +168,8 @@
       "BN",
       "BN"
     ],
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 14
   },
   "users": [
@@ -1222,6 +1222,7 @@
         "13421",
         "3163",
         "3451",
+        "3634",
         "4037",
         "421",
         "4993",
@@ -1235,6 +1236,7 @@
       ],
       "reserve": [
         "12469",
+        "8142",
         "8800"
       ],
       "roster_id": 8,
@@ -1575,7 +1577,7 @@
         "7564",
         "12518",
         "7588",
-        "4983",
+        "5872",
         "11792",
         "11667",
         "4960",
@@ -1737,12 +1739,12 @@
         "8151",
         "7547",
         "9754",
-        "12517",
+        "11604",
         "12481",
         "11628",
         "1945",
         "4070",
-        "13379",
+        "13377",
         "12597",
         "11687"
       ],
@@ -2549,6 +2551,7 @@
         "13421",
         "3163",
         "3451",
+        "3634",
         "4037",
         "421",
         "4993",
@@ -2597,6 +2600,7 @@
         "421": 0,
         "3163": 0,
         "3451": 0,
+        "3634": 0,
         "4037": 0,
         "4993": 0,
         "4999": 0,
@@ -2821,7 +2825,7 @@
         "13270",
         "13414",
         "13424",
-        "3286",
+        "3155",
         "4034",
         "4147",
         "4195",
@@ -2876,7 +2880,7 @@
         0
       ],
       "players_points": {
-        "3286": 0,
+        "3155": 0,
         "4034": 0,
         "4147": 0,
         "4195": 0,
@@ -2946,7 +2950,7 @@
         "7564",
         "12518",
         "7588",
-        "4983",
+        "5872",
         "11792",
         "11667",
         "4960",
@@ -3135,12 +3139,12 @@
         "8151",
         "7547",
         "9754",
-        "12517",
+        "11604",
         "12481",
         "11628",
         "1945",
         "4070",
-        "13379",
+        "13377",
         "12597",
         "11687"
       ],
@@ -6975,6 +6979,29 @@
       "status": "complete",
       "type": "free_agent",
       "metadata": null,
+      "created": 1790518704697,
+      "settings": null,
+      "leg": 3,
+      "draft_picks": [],
+      "creator": "733456145330585600",
+      "transaction_id": "1409941274970054656",
+      "adds": {
+        "3634": 8
+      },
+      "drops": null,
+      "consenter_ids": [
+        8
+      ],
+      "roster_ids": [
+        8
+      ],
+      "status_updated": 1790518704697,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
       "created": 1790481818130,
       "settings": null,
       "leg": 3,
@@ -9923,6 +9950,18 @@
       "injury_status": null,
       "fantasy_positions": [
         "K"
+      ]
+    },
+    "3634": {
+      "player_id": "3634",
+      "full_name": "Kalif Raymond",
+      "position": "WR",
+      "team": "CHI",
+      "age": 32,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "WR"
       ]
     },
     "3678": {

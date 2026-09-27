@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-27T13:26:15.054Z",
+  "fetched_at": "2026-09-27T14:25:56.636Z",
   "current_week": 3,
   "league": {
     "name": "Brass City League",
@@ -72,6 +72,7 @@
     "season_type": "regular",
     "season": "2026",
     "shard": 134,
+    "last_message_id": "1409942134710108160",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -129,16 +130,15 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "last_message_id": "1408999331335290880",
-    "draft_id": "1387554218864291840",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1790294127834,
+    "last_message_time": 1790518909674,
     "last_pinned_message_id": null,
+    "draft_id": "1387554218864291840",
     "last_read_id": null,
     "league_id": "1387554218847502336",
     "previous_league_id": "1222634893318561792",
@@ -682,6 +682,7 @@
         "12504",
         "12506",
         "12535",
+        "12617",
         "13279",
         "13296",
         "13317",
@@ -692,7 +693,6 @@
         "5947",
         "5967",
         "6770",
-        "7591",
         "8119",
         "8132",
         "8289",
@@ -722,14 +722,14 @@
         "8132",
         "5927",
         "10232",
-        "12506",
+        "11604",
         "13279",
         "11628",
         "11539",
         "8289",
         "10880",
         "11705",
-        "8329"
+        "12617"
       ],
       "taxi": [
         "12492",
@@ -769,7 +769,7 @@
         "5041",
         "5332",
         "5816",
-        "5876",
+        "7016",
         "7564",
         "7567",
         "7611",
@@ -810,7 +810,7 @@
         "4195",
         "2393",
         "5041",
-        "5876",
+        "7016",
         "5332"
       ],
       "taxi": [
@@ -1808,6 +1808,7 @@
         "12504",
         "12506",
         "12535",
+        "12617",
         "13279",
         "13296",
         "13317",
@@ -1818,7 +1819,6 @@
         "5947",
         "5967",
         "6770",
-        "7591",
         "8119",
         "8132",
         "8289",
@@ -1834,14 +1834,14 @@
         "8132",
         "5927",
         "10232",
-        "12506",
+        "11604",
         "13279",
         "11628",
         "11539",
         "8289",
         "10880",
         "11705",
-        "8329"
+        "12617"
       ],
       "starters_points": [
         0,
@@ -1865,7 +1865,6 @@
         "5947": 0,
         "5967": 0,
         "6770": 0,
-        "7591": 0,
         "8119": 1.6,
         "8132": 0,
         "8289": 0,
@@ -1882,6 +1881,7 @@
         "12504": 2.1,
         "12506": 0,
         "12535": 0,
+        "12617": 0,
         "13279": 0,
         "13296": 0,
         "13317": 0,
@@ -1912,7 +1912,7 @@
         "5041",
         "5332",
         "5816",
-        "5876",
+        "7016",
         "7564",
         "7567",
         "7611",
@@ -1936,7 +1936,7 @@
         "4195",
         "2393",
         "5041",
-        "5876",
+        "7016",
         "5332"
       ],
       "starters_points": [
@@ -1964,7 +1964,7 @@
         "5041": 0,
         "5332": 0,
         "5816": 0,
-        "5876": 0,
+        "7016": 0,
         "7564": 0,
         "7567": 0,
         "7611": 0,
@@ -5012,6 +5012,56 @@
       "status": "complete",
       "type": "free_agent",
       "metadata": null,
+      "created": 1790518909652,
+      "settings": null,
+      "leg": 3,
+      "draft_picks": [],
+      "creator": "733463671744880640",
+      "transaction_id": "1409942134617919488",
+      "adds": {
+        "7016": 5
+      },
+      "drops": {
+        "5876": 5
+      },
+      "consenter_ids": [
+        5
+      ],
+      "roster_ids": [
+        5
+      ],
+      "status_updated": 1790518909652,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1790518471388,
+      "settings": null,
+      "leg": 3,
+      "draft_picks": [],
+      "creator": "733456145330585600",
+      "transaction_id": "1409940296405377024",
+      "adds": {
+        "12617": 4
+      },
+      "drops": {
+        "7591": 4
+      },
+      "consenter_ids": [
+        4
+      ],
+      "roster_ids": [
+        4
+      ],
+      "status_updated": 1790518471388,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
       "created": 1790294127806,
       "settings": null,
       "leg": 3,
@@ -6752,6 +6802,18 @@
       "injury_status": null,
       "fantasy_positions": [
         "DB"
+      ]
+    },
+    "12617": {
+      "player_id": "12617",
+      "full_name": "Demetrius Knight",
+      "position": "LB",
+      "team": "CIN",
+      "age": 26,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "LB"
       ]
     },
     "12641": {
@@ -8717,6 +8779,19 @@
       "injury_status": null,
       "fantasy_positions": [
         "TE"
+      ]
+    },
+    "7016": {
+      "player_id": "7016",
+      "full_name": "Jeremy Chinn",
+      "position": "DB",
+      "team": "LV",
+      "age": 28,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "DB",
+        "LB"
       ]
     },
     "7021": {
