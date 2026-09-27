@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-27T14:25:56.636Z",
+  "fetched_at": "2026-09-27T15:26:34.355Z",
   "current_week": 3,
   "league": {
     "name": "Brass City League",
@@ -5416,7 +5416,7 @@
       "team": "KC",
       "age": 26,
       "status": "Active",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "fantasy_positions": [
         "DB"
       ]
