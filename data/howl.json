@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-27T05:26:24.161Z",
+  "fetched_at": "2026-09-27T06:32:33.206Z",
   "current_week": 3,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -63,7 +63,6 @@
     },
     "avatar": "3a2a8f32f6fec7c6b6663d1495cf1168",
     "company_id": null,
-    "last_message_id": "1409788355146788864",
     "shard": 949,
     "season": "2026",
     "season_type": "regular",
@@ -113,21 +112,19 @@
       "pts_allow_7_13": 4,
       "st_ff": 1
     },
-    "draft_id": "1400845992303022080",
+    "last_message_id": "1409822679829155840",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1790482245770,
+    "last_message_time": 1790490429411,
     "last_pinned_message_id": null,
+    "draft_id": "1400845992303022080",
     "last_read_id": null,
     "league_id": "1400845991007019008",
     "previous_league_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -149,6 +146,9 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 8
@@ -735,10 +735,13 @@
         "8151",
         "8155",
         "9488",
+        "9500",
         "9509",
         "NE"
       ],
-      "reserve": null,
+      "reserve": [
+        "8142"
+      ],
       "roster_id": 8,
       "settings": {
         "fpts": 366,
@@ -1301,6 +1304,7 @@
         "8151",
         "8155",
         "9488",
+        "9500",
         "9509",
         "NE"
       ],
@@ -1344,6 +1348,7 @@
         "8151": 0,
         "8155": 0,
         "9488": 0,
+        "9500": 0,
         "9509": 35.3,
         "10232": 0,
         "11566": 0,
@@ -2055,6 +2060,29 @@
       "status": "complete",
       "type": "free_agent",
       "metadata": null,
+      "created": 1790490429391,
+      "settings": null,
+      "leg": 3,
+      "draft_picks": [],
+      "creator": "1401343543036882944",
+      "transaction_id": "1409822679740985344",
+      "adds": {
+        "9500": 8
+      },
+      "drops": null,
+      "consenter_ids": [
+        8
+      ],
+      "roster_ids": [
+        8
+      ],
+      "status_updated": 1790490429391,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
       "created": 1790482245750,
       "settings": null,
       "leg": 3,
@@ -2064,12 +2092,12 @@
       "adds": {
         "6806": 1
       },
-      "consenter_ids": [
-        1
-      ],
       "drops": {
         "9225": 1
       },
+      "consenter_ids": [
+        1
+      ],
       "roster_ids": [
         1
       ],
@@ -2089,12 +2117,12 @@
       "adds": {
         "11834": 7
       },
-      "consenter_ids": [
-        7
-      ],
       "drops": {
         "9756": 7
       },
+      "consenter_ids": [
+        7
+      ],
       "roster_ids": [
         7
       ],
@@ -2114,12 +2142,12 @@
       "adds": {
         "4227": 7
       },
-      "consenter_ids": [
-        7
-      ],
       "drops": {
         "11539": 7
       },
+      "consenter_ids": [
+        7
+      ],
       "roster_ids": [
         7
       ],
@@ -2139,12 +2167,12 @@
       "adds": {
         "CAR": 7
       },
-      "consenter_ids": [
-        7
-      ],
       "drops": {
         "LAC": 7
       },
+      "consenter_ids": [
+        7
+      ],
       "roster_ids": [
         7
       ],
@@ -2164,12 +2192,12 @@
       "adds": {
         "11637": 6
       },
-      "consenter_ids": [
-        6
-      ],
       "drops": {
         "5846": 6
       },
+      "consenter_ids": [
+        6
+      ],
       "roster_ids": [
         6
       ],
@@ -2189,10 +2217,10 @@
       "adds": {
         "5854": 4
       },
+      "drops": null,
       "consenter_ids": [
         4
       ],
-      "drops": null,
       "roster_ids": [
         4
       ],
@@ -2212,10 +2240,10 @@
       "adds": {
         "7571": 2
       },
+      "drops": null,
       "consenter_ids": [
         2
       ],
-      "drops": null,
       "roster_ids": [
         2
       ],
@@ -2233,12 +2261,12 @@
       "creator": "1400852933964230656",
       "transaction_id": "1408588420606943232",
       "adds": null,
-      "consenter_ids": [
-        2
-      ],
       "drops": {
         "5022": 2
       },
+      "consenter_ids": [
+        2
+      ],
       "roster_ids": [
         2
       ],
@@ -2258,12 +2286,12 @@
       "adds": {
         "7839": 1
       },
-      "consenter_ids": [
-        1
-      ],
       "drops": {
         "12711": 1
       },
+      "consenter_ids": [
+        1
+      ],
       "roster_ids": [
         1
       ],
@@ -2283,12 +2311,12 @@
       "adds": {
         "MIN": 1
       },
-      "consenter_ids": [
-        1
-      ],
       "drops": {
         "JAX": 1
       },
+      "consenter_ids": [
+        1
+      ],
       "roster_ids": [
         1
       ],
@@ -2308,12 +2336,12 @@
       "adds": {
         "6650": 3
       },
-      "consenter_ids": [
-        3
-      ],
       "drops": {
         "8259": 3
       },
+      "consenter_ids": [
+        3
+      ],
       "roster_ids": [
         3
       ],
@@ -4250,6 +4278,18 @@
       "age": 25,
       "status": "Active",
       "injury_status": "Doubtful",
+      "fantasy_positions": [
+        "WR"
+      ]
+    },
+    "9500": {
+      "player_id": "9500",
+      "full_name": "Josh Downs",
+      "position": "WR",
+      "team": "IND",
+      "age": 25,
+      "status": "Active",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ]
