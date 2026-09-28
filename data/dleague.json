@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-28T21:27:24.983Z",
+  "fetched_at": "2026-09-28T22:26:59.073Z",
   "current_week": 3,
   "league": {
     "name": "The D-League",
@@ -12057,7 +12057,7 @@
       "team": "PIT",
       "age": 31,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "DB"
       ],
