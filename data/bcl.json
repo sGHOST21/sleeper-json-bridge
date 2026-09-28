@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-28T16:31:14.809Z",
+  "fetched_at": "2026-09-28T17:28:43.161Z",
   "current_week": 3,
   "league": {
     "name": "Brass City League",
@@ -1703,7 +1703,7 @@
       }
     },
     {
-      "points": 168.5,
+      "points": 169,
       "players": [
         "10914",
         "11559",
@@ -1761,7 +1761,7 @@
         21.7,
         5,
         5,
-        8.5,
+        9,
         2,
         8.5
       ],
@@ -1787,7 +1787,7 @@
         "9488": 30.36,
         "9509": 34.3,
         "9511": 12.2,
-        "10914": 8.5,
+        "10914": 9,
         "11559": 15.04,
         "12574": 0,
         "13305": 11.4,
@@ -5921,7 +5921,7 @@
       "player_id": "11565",
       "full_name": "J.J. McCarthy",
       "position": "QB",
-      "team": "MIN",
+      "team": "NYG",
       "age": 23,
       "status": "Active",
       "injury_status": "Out",
@@ -10266,7 +10266,7 @@
       "team": "TB",
       "age": 31,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "QB"
       ],

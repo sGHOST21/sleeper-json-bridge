@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-28T16:31:13.712Z",
+  "fetched_at": "2026-09-28T17:28:42.029Z",
   "current_week": 3,
   "league": {
     "name": "The D-League",
@@ -7911,7 +7911,7 @@
       "player_id": "11565",
       "full_name": "J.J. McCarthy",
       "position": "QB",
-      "team": "MIN",
+      "team": "NYG",
       "age": 23,
       "status": "Active",
       "injury_status": "Out",
@@ -13070,7 +13070,7 @@
       "team": "TB",
       "age": 31,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "QB"
       ],
