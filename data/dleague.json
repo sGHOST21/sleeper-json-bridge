@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-28T20:27:42.130Z",
+  "fetched_at": "2026-09-28T21:27:24.983Z",
   "current_week": 3,
   "league": {
     "name": "The D-League",
@@ -13224,7 +13224,7 @@
       "team": "BUF",
       "age": 30,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "QB"
       ],
