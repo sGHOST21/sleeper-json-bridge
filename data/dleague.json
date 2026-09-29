@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-29T11:28:47.843Z",
+  "fetched_at": "2026-09-29T12:35:49.691Z",
   "current_week": 4,
   "league": {
     "name": "The D-League",
@@ -1069,7 +1069,9 @@
         "9509",
         "9756"
       ],
-      "reserve": null,
+      "reserve": [
+        "13345"
+      ],
       "roster_id": 6,
       "settings": {
         "division": 2,
@@ -1103,8 +1105,7 @@
       ],
       "taxi": [
         "12510",
-        "12524",
-        "13345"
+        "12524"
       ]
     },
     {
