@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-29T21:28:33.277Z",
+  "fetched_at": "2026-09-29T22:28:14.334Z",
   "current_week": 4,
   "league": {
     "name": "The D-League",
@@ -8089,7 +8089,7 @@
       "team": null,
       "age": 23,
       "status": "Inactive",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "RB"
       ],
@@ -13730,7 +13730,7 @@
       "position": "DE",
       "team": "NYG",
       "age": 28,
-      "status": "Active",
+      "status": "Inactive",
       "injury_status": "IR",
       "fantasy_positions": [
         "DL",
