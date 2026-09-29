@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-29T10:30:53.752Z",
+  "fetched_at": "2026-09-29T11:28:47.843Z",
   "current_week": 4,
   "league": {
     "name": "The D-League",
@@ -66,10 +66,10 @@
     },
     "avatar": "31647870b5248d13691a1b97ccb9b0a0",
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
     "shard": 169,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -128,11 +128,11 @@
       "idp_tkl_ast": 0
     },
     "last_message_id": "1410391932550598656",
+    "draft_id": "1398261761102098432",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
-    "draft_id": "1398261761102098432",
     "last_message_attachment": null,
     "last_message_text_map": null,
     "last_message_time": 1790626149838,
@@ -141,10 +141,6 @@
     "league_id": "1384998212942692352",
     "previous_league_id": "1222634114906075136",
     "group_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -170,6 +166,10 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 14
   },
   "users": [
