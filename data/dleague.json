@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-29T19:29:29.478Z",
+  "fetched_at": "2026-09-29T20:30:06.786Z",
   "current_week": 4,
   "league": {
     "name": "The D-League",
@@ -13002,8 +13002,8 @@
       "player_id": "4663",
       "full_name": "Austin Ekeler",
       "position": "RB",
-      "team": null,
-      "age": 30,
+      "team": "WAS",
+      "age": 31,
       "status": "Active",
       "injury_status": null,
       "fantasy_positions": [
