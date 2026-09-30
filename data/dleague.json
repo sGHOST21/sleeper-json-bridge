@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-30T22:29:17.239Z",
+  "fetched_at": "2026-09-30T23:26:57.986Z",
   "current_week": 4,
   "league": {
     "name": "The D-League",
@@ -125,21 +125,26 @@
     },
     "season": "2026",
     "season_type": "regular",
-    "sport": "nfl",
     "shard": 169,
-    "last_message_id": "1411151015121526784",
-    "last_author_avatar": null,
-    "last_author_display_name": "sys",
-    "last_author_id": "166666666666666666",
-    "last_author_is_bot": true,
+    "sport": "nfl",
+    "last_message_id": "1411151319925903360",
+    "draft_id": "1398261761102098432",
+    "last_author_avatar": "c2d965430ca0c1eb0beb021dd6c4bf21",
+    "last_author_display_name": "BillsMafia5590",
+    "last_author_id": "553779274944823296",
+    "last_author_is_bot": false,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1790807129225,
+    "last_message_time": 1790807201896,
     "last_pinned_message_id": null,
-    "draft_id": "1398261761102098432",
     "last_read_id": null,
     "league_id": "1384998212942692352",
     "previous_league_id": "1222634114906075136",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -165,11 +170,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 14
   },
   "users": [
@@ -8940,7 +8940,7 @@
       "team": "LAC",
       "age": 24,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -13568,7 +13568,7 @@
       "team": "LAC",
       "age": 30,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "DB"
       ],
@@ -15511,7 +15511,7 @@
       "team": "PHI",
       "age": 27,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -17583,7 +17583,7 @@
       "team": "DEN",
       "age": 24,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -17781,7 +17781,7 @@
       "team": "LAC",
       "age": 24,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
