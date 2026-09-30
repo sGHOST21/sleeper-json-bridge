@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-30T19:29:24.451Z",
+  "fetched_at": "2026-09-30T20:29:11.393Z",
   "current_week": 4,
   "league": {
     "name": "The D-League",
@@ -8660,7 +8660,7 @@
       "team": "CAR",
       "age": 25,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Doubtful",
       "fantasy_positions": [
         "WR"
       ],
@@ -10488,7 +10488,7 @@
       "team": "JAX",
       "age": 22,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
@@ -13332,7 +13332,7 @@
       "team": "BAL",
       "age": 29,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "QB"
       ],
@@ -14193,7 +14193,7 @@
       "team": "JAX",
       "age": 29,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -16929,7 +16929,7 @@
       "team": "CAR",
       "age": 28,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "LB"
       ],

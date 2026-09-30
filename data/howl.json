@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-30T19:29:26.628Z",
+  "fetched_at": "2026-09-30T20:29:13.541Z",
   "current_week": 4,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -4416,7 +4416,7 @@
       "team": "BAL",
       "age": 29,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "QB"
       ],
@@ -4790,7 +4790,7 @@
       "team": "JAX",
       "age": 29,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],

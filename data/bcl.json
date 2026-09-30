@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-30T19:29:25.691Z",
+  "fetched_at": "2026-09-30T20:29:12.489Z",
   "current_week": 4,
   "league": {
     "name": "Brass City League",
@@ -68,10 +68,6 @@
     },
     "avatar": "71eb884a69970234d6aab2bcc692e78f",
     "company_id": null,
-    "shard": 134,
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -129,17 +125,21 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "last_message_id": "1410920817419685888",
-    "draft_id": "1387554218864291840",
+    "season": "2026",
+    "season_type": "regular",
+    "shard": 134,
+    "sport": "nfl",
+    "last_message_id": "1411121747805097984",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1790752245815,
+    "last_message_time": 1790800151353,
     "last_pinned_message_id": null,
     "last_read_id": null,
+    "draft_id": "1387554218864291840",
     "league_id": "1387554218847502336",
     "previous_league_id": "1222634893318561792",
     "roster_positions": [
@@ -730,7 +730,7 @@
         "8289",
         "10880",
         "12591",
-        "12617"
+        "8329"
       ],
       "taxi": [
         "12492",
@@ -1842,7 +1842,7 @@
         "8289",
         "10880",
         "12591",
-        "12617"
+        "8329"
       ],
       "starters_points": [
         0,
@@ -6722,7 +6722,7 @@
       "team": "CAR",
       "age": 25,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Doubtful",
       "fantasy_positions": [
         "WR"
       ],
@@ -10624,7 +10624,7 @@
       "team": "BAL",
       "age": 29,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "QB"
       ],
@@ -11485,7 +11485,7 @@
       "team": "JAX",
       "age": 29,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -13803,7 +13803,7 @@
       "team": "CAR",
       "age": 28,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "LB"
       ],
