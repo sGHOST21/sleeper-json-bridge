@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-30T18:31:54.817Z",
+  "fetched_at": "2026-09-30T19:29:25.691Z",
   "current_week": 4,
   "league": {
     "name": "Brass City League",
@@ -12257,7 +12257,7 @@
       "team": "PIT",
       "age": 28,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "RB"
       ],
