@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-30T16:32:18.889Z",
+  "fetched_at": "2026-09-30T17:29:37.198Z",
   "current_week": 4,
   "league": {
     "name": "The D-League",
@@ -1421,7 +1421,7 @@
         "13287",
         "10229",
         "8146",
-        "5001",
+        "7002",
         "8228",
         "7594",
         "3678",
@@ -2764,7 +2764,7 @@
         "13287",
         "10229",
         "8146",
-        "5001",
+        "7002",
         "8228",
         "7594",
         "3678",
@@ -9782,7 +9782,7 @@
       "team": "NYJ",
       "age": 22,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Doubtful",
       "fantasy_positions": [
         "TE"
       ],
@@ -11369,7 +11369,7 @@
       "team": "NYJ",
       "age": 21,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "TE"
       ],
@@ -14214,7 +14214,7 @@
       "team": "TEN",
       "age": 29,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
@@ -17610,7 +17610,7 @@
       "team": "TEN",
       "age": 25,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
