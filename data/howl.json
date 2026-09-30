@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-30T07:31:57.257Z",
+  "fetched_at": "2026-09-30T08:32:45.922Z",
   "current_week": 4,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -125,11 +125,9 @@
     "last_read_id": null,
     "league_id": "1400845991007019008",
     "previous_league_id": null,
+    "group_id": null,
     "bracket_id": null,
     "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -151,6 +149,8 @@
       "BN",
       "BN"
     ],
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 8
   },
   "users": [
