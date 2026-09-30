@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-30T20:29:11.393Z",
+  "fetched_at": "2026-09-30T21:29:43.409Z",
   "current_week": 4,
   "league": {
     "name": "The D-League",
@@ -994,7 +994,9 @@
         "9511",
         "96"
       ],
-      "reserve": null,
+      "reserve": [
+        "10222"
+      ],
       "roster_id": 5,
       "settings": {
         "division": 1,
@@ -7846,7 +7848,7 @@
       "team": "KC",
       "age": 26,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "DB"
       ],
@@ -8352,7 +8354,7 @@
       "team": "TB",
       "age": 24,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
@@ -8968,7 +8970,7 @@
       "team": "NYG",
       "age": 26,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
@@ -12781,7 +12783,7 @@
       "team": "TB",
       "age": 30,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -12980,7 +12982,7 @@
       "team": "BAL",
       "age": 31,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "DL"
       ],
@@ -13508,7 +13510,7 @@
       "team": "BUF",
       "age": 30,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "QB"
       ],
@@ -15407,7 +15409,7 @@
       "team": "DEN",
       "age": 27,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -17809,7 +17811,7 @@
       "team": "BAL",
       "age": 26,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],

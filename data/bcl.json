@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-30T20:29:12.489Z",
+  "fetched_at": "2026-09-30T21:29:44.472Z",
   "current_week": 4,
   "league": {
     "name": "Brass City League",
@@ -6018,7 +6018,7 @@
       "team": "KC",
       "age": 26,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "DB"
       ],
@@ -6436,7 +6436,7 @@
       "team": "TB",
       "age": 24,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
@@ -7074,7 +7074,7 @@
       "team": "NYG",
       "age": 26,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
@@ -10183,7 +10183,7 @@
       "team": "TB",
       "age": 30,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -10360,7 +10360,7 @@
       "team": "BAL",
       "age": 31,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "DL"
       ],
@@ -10800,7 +10800,7 @@
       "team": "BUF",
       "age": 30,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "QB"
       ],
@@ -12434,7 +12434,7 @@
       "team": "DEN",
       "age": 27,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -13010,7 +13010,7 @@
       "team": "NE",
       "age": 27,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "LB"
       ],
@@ -14551,7 +14551,7 @@
       "team": "BAL",
       "age": 26,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
