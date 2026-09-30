@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-30T14:33:33.525Z",
+  "fetched_at": "2026-09-30T15:32:54.219Z",
   "current_week": 4,
   "league": {
     "name": "The D-League",
@@ -70,7 +70,7 @@
     "season": "2026",
     "season_type": "regular",
     "sport": "nfl",
-    "last_message_id": "1411025201998639104",
+    "last_message_id": "1411034036423409664",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -134,7 +134,7 @@
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1790777133038,
+    "last_message_time": 1790779239330,
     "last_pinned_message_id": null,
     "draft_id": "1398261761102098432",
     "last_read_id": null,
@@ -1301,6 +1301,7 @@
         "12512",
         "12556",
         "13272",
+        "13277",
         "13402",
         "13417",
         "1466",
@@ -1317,7 +1318,8 @@
         "9997"
       ],
       "reserve": [
-        "11583"
+        "11583",
+        "11618"
       ],
       "roster_id": 9,
       "settings": {
@@ -2643,6 +2645,7 @@
         "12512",
         "12556",
         "13272",
+        "13277",
         "13402",
         "13417",
         "1466",
@@ -2717,6 +2720,7 @@
         "12512": 0,
         "12556": 0,
         "13272": 0,
+        "13277": 0,
         "13402": 0,
         "13417": 0
       }
@@ -7386,6 +7390,29 @@
       "status": "complete",
       "type": "free_agent",
       "metadata": null,
+      "created": 1790779239295,
+      "settings": null,
+      "leg": 4,
+      "draft_picks": [],
+      "creator": "728665102038966272",
+      "transaction_id": "1411034036276584448",
+      "adds": {
+        "13277": 9
+      },
+      "consenter_ids": [
+        9
+      ],
+      "drops": null,
+      "roster_ids": [
+        9
+      ],
+      "status_updated": 1790779239295,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
       "created": 1790777133004,
       "settings": null,
       "leg": 4,
@@ -7395,12 +7422,12 @@
       "adds": {
         "6217": 13
       },
-      "drops": {
-        "8311": 13
-      },
       "consenter_ids": [
         13
       ],
+      "drops": {
+        "8311": 13
+      },
       "roster_ids": [
         13
       ],
@@ -7420,12 +7447,12 @@
       "adds": {
         "12718": 13
       },
-      "drops": {
-        "12048": 13
-      },
       "consenter_ids": [
         13
       ],
+      "drops": {
+        "12048": 13
+      },
       "roster_ids": [
         13
       ],
@@ -8521,8 +8548,8 @@
       "position": "WR",
       "team": "TB",
       "age": 24,
-      "status": "Active",
-      "injury_status": "Out",
+      "status": "Inactive",
+      "injury_status": "IR",
       "fantasy_positions": [
         "WR"
       ],
@@ -10938,6 +10965,28 @@
       "rotowire_id": 19314,
       "sportradar_id": "72594204-b4a9-4f08-907d-029d8a425ddb",
       "fantasy_data_id": 26760
+    },
+    "13277": {
+      "player_id": "13277",
+      "full_name": "CJ Donaldson",
+      "position": "RB",
+      "team": "NO",
+      "age": 22,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "RB"
+      ],
+      "height": "73",
+      "weight": "230",
+      "years_exp": 0,
+      "college": "Ohio State",
+      "birth_date": "2004-07-09",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 19431,
+      "sportradar_id": "17aea600-41af-11f1-93d0-9f964ffea979",
+      "fantasy_data_id": 26950
     },
     "13279": {
       "player_id": "13279",
