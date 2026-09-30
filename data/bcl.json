@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-30T15:32:55.419Z",
+  "fetched_at": "2026-09-30T16:32:20.068Z",
   "current_week": 4,
   "league": {
     "name": "Brass City League",
@@ -5684,8 +5684,8 @@
       "position": "WR",
       "team": "GB",
       "age": 26,
-      "status": "Active",
-      "injury_status": "Doubtful",
+      "status": "Inactive",
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ],
@@ -6367,9 +6367,9 @@
       "player_id": "11579",
       "full_name": "Audric Estime",
       "position": "RB",
-      "team": null,
+      "team": "MIN",
       "age": 23,
-      "status": "Inactive",
+      "status": "Active",
       "injury_status": null,
       "fantasy_positions": [
         "RB"
@@ -6700,7 +6700,7 @@
       "team": "NYJ",
       "age": 23,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Doubtful",
       "fantasy_positions": [
         "WR"
       ],
@@ -13538,7 +13538,7 @@
       "team": "NYJ",
       "age": 25,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Doubtful",
       "fantasy_positions": [
         "RB"
       ],

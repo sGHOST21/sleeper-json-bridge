@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-30T15:32:56.341Z",
+  "fetched_at": "2026-09-30T16:32:20.992Z",
   "current_week": 4,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -2567,8 +2567,8 @@
       "position": "WR",
       "team": "GB",
       "age": 26,
-      "status": "Active",
-      "injury_status": "Doubtful",
+      "status": "Inactive",
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ],
@@ -5824,7 +5824,7 @@
       "team": "NYJ",
       "age": 25,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Doubtful",
       "fantasy_positions": [
         "RB"
       ],
