@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-30T10:30:40.888Z",
+  "fetched_at": "2026-09-30T11:27:59.196Z",
   "current_week": 4,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -63,10 +63,6 @@
     },
     "avatar": "3a2a8f32f6fec7c6b6663d1495cf1168",
     "company_id": null,
-    "shard": 949,
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -112,14 +108,18 @@
       "pts_allow_7_13": 4,
       "st_ff": 1
     },
-    "last_message_id": "1410921635250278401",
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
+    "shard": 949,
+    "last_message_id": "1410982836030263296",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1790752440801,
+    "last_message_time": 1790767032204,
     "last_pinned_message_id": null,
     "draft_id": "1400845992303022080",
     "last_read_id": null,
@@ -657,12 +657,12 @@
         "11834",
         "12514",
         "12534",
+        "13330",
         "4199",
         "4227",
         "5849",
         "6797",
         "7002",
-        "7553",
         "7564",
         "8131",
         "8150",
@@ -1212,12 +1212,12 @@
         "11834",
         "12514",
         "12534",
+        "13330",
         "4199",
         "4227",
         "5849",
         "6797",
         "7002",
-        "7553",
         "7564",
         "8131",
         "8150",
@@ -1261,7 +1261,6 @@
         "5849": 0,
         "6797": 0,
         "7002": 0,
-        "7553": 0,
         "7564": 0,
         "8131": 0,
         "8150": 0,
@@ -1275,6 +1274,7 @@
         "11834": 0,
         "12514": 0,
         "12534": 0,
+        "13330": 0,
         "CAR": 0
       }
     },
@@ -2506,6 +2506,31 @@
         3
       ],
       "status_updated": 1790165667144,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1790767032185,
+      "settings": null,
+      "leg": 4,
+      "draft_picks": [],
+      "creator": "1401317827809398784",
+      "transaction_id": "1410982835946348544",
+      "adds": {
+        "13330": 7
+      },
+      "consenter_ids": [
+        7
+      ],
+      "drops": {
+        "7553": 7
+      },
+      "roster_ids": [
+        7
+      ],
+      "status_updated": 1790767032185,
       "waiver_budget": []
     }
   ],
@@ -3807,6 +3832,28 @@
       "rotowire_id": 19242,
       "sportradar_id": "395b5873-4054-4190-913c-60b664d11e61",
       "fantasy_data_id": 26762
+    },
+    "13330": {
+      "player_id": "13330",
+      "full_name": "Kenyon Sadiq",
+      "position": "TE",
+      "team": "NYJ",
+      "age": 21,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "TE"
+      ],
+      "height": "75",
+      "weight": "241",
+      "years_exp": 0,
+      "college": "Oregon",
+      "birth_date": "2005-03-04",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 19279,
+      "sportradar_id": "554e5567-f992-4071-8366-5fa5c316b07c",
+      "fantasy_data_id": 26755
     },
     "13337": {
       "player_id": "13337",
