@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-30T13:31:27.488Z",
+  "fetched_at": "2026-09-30T14:33:33.525Z",
   "current_week": 4,
   "league": {
     "name": "The D-League",
@@ -66,6 +66,11 @@
     },
     "avatar": "31647870b5248d13691a1b97ccb9b0a0",
     "company_id": null,
+    "shard": 169,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
+    "last_message_id": "1411025201998639104",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -123,20 +128,15 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "shard": 169,
-    "sport": "nfl",
-    "last_message_id": "1410921250779308032",
-    "draft_id": "1398261761102098432",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1790752349136,
+    "last_message_time": 1790777133038,
     "last_pinned_message_id": null,
+    "draft_id": "1398261761102098432",
     "last_read_id": null,
     "league_id": "1384998212942692352",
     "previous_league_id": "1222634114906075136",
@@ -1604,9 +1604,9 @@
         "10232",
         "11566",
         "11576",
-        "12048",
         "12484",
         "12536",
+        "12718",
         "13268",
         "13302",
         "13317",
@@ -1617,6 +1617,7 @@
         "4881",
         "5095",
         "5844",
+        "6217",
         "7526",
         "7811",
         "7841",
@@ -1626,7 +1627,6 @@
         "8148",
         "8154",
         "8280",
-        "8311",
         "9224",
         "9493",
         "9753"
@@ -1656,16 +1656,16 @@
         "4881",
         "8138",
         "9224",
-        "2449",
-        "8148",
-        "8110",
-        "7526",
         "10232",
+        "2449",
+        "8110",
+        "8148",
+        "11576",
         "5095",
         "8280",
-        "8311",
+        "7841",
         "7811",
-        "7841"
+        "6217"
       ],
       "taxi": [
         "13268",
@@ -3005,9 +3005,9 @@
         "10232",
         "11566",
         "11576",
-        "12048",
         "12484",
         "12536",
+        "12718",
         "13268",
         "13302",
         "13317",
@@ -3018,6 +3018,7 @@
         "4881",
         "5095",
         "5844",
+        "6217",
         "7526",
         "7811",
         "7841",
@@ -3027,7 +3028,6 @@
         "8148",
         "8154",
         "8280",
-        "8311",
         "9224",
         "9493",
         "9753"
@@ -3040,15 +3040,15 @@
         "8138",
         "9224",
         "10232",
-        "7526",
+        "2449",
         "8110",
         "8148",
         "11576",
         "5095",
         "8280",
-        "8311",
+        "7841",
         "7811",
-        "7841"
+        "6217"
       ],
       "starters_points": [
         0,
@@ -3071,6 +3071,7 @@
         "4881": 0,
         "5095": 0,
         "5844": 0,
+        "6217": 0,
         "7526": 0,
         "7811": 0,
         "7841": 0,
@@ -3080,16 +3081,15 @@
         "8148": 0,
         "8154": 0,
         "8280": 0,
-        "8311": 0,
         "9224": 0,
         "9493": 0,
         "9753": 0,
         "10232": 0,
         "11566": 0,
         "11576": 0,
-        "12048": 0,
         "12484": 0,
         "12536": 0,
+        "12718": 0,
         "13268": 0,
         "13302": 0,
         "13317": 0,
@@ -7381,6 +7381,56 @@
       ],
       "status_updated": 1790158992861,
       "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1790777133004,
+      "settings": null,
+      "leg": 4,
+      "draft_picks": [],
+      "creator": "737708656518385664",
+      "transaction_id": "1411025201851858944",
+      "adds": {
+        "6217": 13
+      },
+      "drops": {
+        "8311": 13
+      },
+      "consenter_ids": [
+        13
+      ],
+      "roster_ids": [
+        13
+      ],
+      "status_updated": 1790777133004,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1790776074611,
+      "settings": null,
+      "leg": 4,
+      "draft_picks": [],
+      "creator": "737708656518385664",
+      "transaction_id": "1411020762629820416",
+      "adds": {
+        "12718": 13
+      },
+      "drops": {
+        "12048": 13
+      },
+      "consenter_ids": [
+        13
+      ],
+      "roster_ids": [
+        13
+      ],
+      "status_updated": 1790776074611,
+      "waiver_budget": []
     }
   ],
   "player_map": {
@@ -10690,6 +10740,28 @@
       "rotowire_id": 18742,
       "sportradar_id": "a6b8b5d3-a2f2-4532-ade3-dc122b6b240c",
       "fantasy_data_id": 26109
+    },
+    "12718": {
+      "player_id": "12718",
+      "full_name": "Konata Mumpfield",
+      "position": "WR",
+      "team": "LAR",
+      "age": 23,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "WR"
+      ],
+      "height": "73",
+      "weight": "188",
+      "years_exp": 1,
+      "college": "Pittsburgh",
+      "birth_date": "2002-10-24",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 17081,
+      "sportradar_id": "ccb6d700-ac74-4f6b-9f86-d1aa74d0c318",
+      "fantasy_data_id": 25001
     },
     "12738": {
       "player_id": "12738",
@@ -16190,7 +16262,7 @@
       "team": "WAS",
       "age": 27,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
