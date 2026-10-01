@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-01T00:38:58.732Z",
+  "fetched_at": "2026-10-01T01:29:13.141Z",
   "current_week": 4,
   "league": {
     "name": "The D-League",
@@ -66,6 +66,11 @@
     },
     "avatar": "31647870b5248d13691a1b97ccb9b0a0",
     "company_id": null,
+    "last_message_id": "1411185445512986624",
+    "sport": "nfl",
+    "shard": 169,
+    "season": "2026",
+    "season_type": "regular",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -123,19 +128,14 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "shard": 169,
-    "sport": "nfl",
-    "last_message_id": "1411151319925903360",
     "draft_id": "1398261761102098432",
-    "last_author_avatar": "c2d965430ca0c1eb0beb021dd6c4bf21",
-    "last_author_display_name": "BillsMafia5590",
-    "last_author_id": "553779274944823296",
-    "last_author_is_bot": false,
+    "last_author_avatar": null,
+    "last_author_display_name": "sys",
+    "last_author_id": "166666666666666666",
+    "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1790807201896,
+    "last_message_time": 1790815338069,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1384998212942692352",
@@ -1021,7 +1021,7 @@
         "12534",
         "9511",
         "5846",
-        "11625",
+        "6783",
         "5012",
         "13298",
         "7571",
@@ -1384,6 +1384,7 @@
         "13275",
         "13286",
         "13287",
+        "13303",
         "13363",
         "13375",
         "2216",
@@ -2328,7 +2329,7 @@
         "12534",
         "9511",
         "5846",
-        "11625",
+        "6783",
         "5012",
         "13298",
         "7571",
@@ -2772,6 +2773,7 @@
         "13275",
         "13286",
         "13287",
+        "13303",
         "13363",
         "13375",
         "2216",
@@ -2846,6 +2848,7 @@
         "13275": 0,
         "13286": 0,
         "13287": 0,
+        "13303": 0,
         "13363": 0,
         "13375": 0
       }
@@ -7421,6 +7424,29 @@
     },
     {
       "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1790815338037,
+      "settings": null,
+      "leg": 4,
+      "draft_picks": [],
+      "creator": "471428050836254720",
+      "transaction_id": "1411185445378781184",
+      "adds": {
+        "13303": 10
+      },
+      "consenter_ids": [
+        10
+      ],
+      "drops": null,
+      "roster_ids": [
+        10
+      ],
+      "status_updated": 1790815338037,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
       "type": "trade",
       "metadata": null,
       "created": 1790804509732,
@@ -7442,14 +7468,14 @@
         "4217": 10,
         "5001": 6
       },
-      "drops": {
-        "4217": 6,
-        "5001": 10
-      },
       "consenter_ids": [
         6,
         10
       ],
+      "drops": {
+        "4217": 6,
+        "5001": 10
+      },
       "roster_ids": [
         6,
         10
@@ -7497,15 +7523,15 @@
         "11560": 5,
         "12534": 5
       },
+      "consenter_ids": [
+        5,
+        10
+      ],
       "drops": {
         "4984": 5,
         "11560": 10,
         "12534": 10
       },
-      "consenter_ids": [
-        5,
-        10
-      ],
       "roster_ids": [
         5,
         10
@@ -7526,10 +7552,10 @@
       "adds": {
         "13277": 9
       },
-      "drops": null,
       "consenter_ids": [
         9
       ],
+      "drops": null,
       "roster_ids": [
         9
       ],
@@ -7549,12 +7575,12 @@
       "adds": {
         "6217": 13
       },
-      "drops": {
-        "8311": 13
-      },
       "consenter_ids": [
         13
       ],
+      "drops": {
+        "8311": 13
+      },
       "roster_ids": [
         13
       ],
@@ -7574,12 +7600,12 @@
       "adds": {
         "12718": 13
       },
-      "drops": {
-        "12048": 13
-      },
       "consenter_ids": [
         13
       ],
+      "drops": {
+        "12048": 13
+      },
       "roster_ids": [
         13
       ],
@@ -11378,6 +11404,28 @@
       "rotowire_id": 19301,
       "sportradar_id": "4fa0fbdb-05a1-4ca0-89dd-f999978b5827",
       "fantasy_data_id": 26737
+    },
+    "13303": {
+      "player_id": "13303",
+      "full_name": "Cade Klubnik",
+      "position": "QB",
+      "team": "NYJ",
+      "age": 22,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "QB"
+      ],
+      "height": "74",
+      "weight": "207",
+      "years_exp": 0,
+      "college": "Clemson",
+      "birth_date": "2003-10-10",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 19284,
+      "sportradar_id": "3a62187b-d6b6-43fb-82c9-efabd8a6c0e0",
+      "fantasy_data_id": 28048
     },
     "13305": {
       "player_id": "13305",
