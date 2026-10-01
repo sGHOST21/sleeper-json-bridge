@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-01T21:29:06.687Z",
+  "fetched_at": "2026-10-01T22:27:01.566Z",
   "current_week": 4,
   "league": {
     "name": "The D-League",
@@ -66,10 +66,6 @@
     },
     "avatar": "31647870b5248d13691a1b97ccb9b0a0",
     "company_id": null,
-    "shard": 169,
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -127,20 +123,28 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "last_message_id": "1411419988446703616",
+    "season": "2026",
+    "season_type": "regular",
+    "shard": 169,
+    "sport": "nfl",
+    "last_message_id": "1411507349834715136",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1790871257463,
+    "last_message_time": 1790892086040,
     "last_pinned_message_id": null,
     "draft_id": "1398261761102098432",
     "last_read_id": null,
     "league_id": "1384998212942692352",
     "previous_league_id": "1222634114906075136",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
     "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -166,10 +170,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 14
   },
   "users": [
@@ -1710,7 +1710,7 @@
         "13293",
         "13296",
         "13377",
-        "13379",
+        "13453",
         "3973",
         "4070",
         "5850",
@@ -3160,7 +3160,7 @@
         "13293",
         "13296",
         "13377",
-        "13379",
+        "13453",
         "3973",
         "4070",
         "5850",
@@ -3233,7 +3233,7 @@
         "13293": 0,
         "13296": 0,
         "13377": 0,
-        "13379": 0
+        "13453": 0
       }
     }
   ],
@@ -7429,6 +7429,31 @@
       "status": "complete",
       "type": "free_agent",
       "metadata": null,
+      "created": 1790892086020,
+      "settings": null,
+      "leg": 4,
+      "draft_picks": [],
+      "creator": "737718651813244928",
+      "transaction_id": "1411507349746647040",
+      "adds": {
+        "13453": 14
+      },
+      "drops": {
+        "13379": 14
+      },
+      "consenter_ids": [
+        14
+      ],
+      "roster_ids": [
+        14
+      ],
+      "status_updated": 1790892086020,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
       "created": 1790871257432,
       "settings": null,
       "leg": 4,
@@ -9058,7 +9083,7 @@
       "team": "MIA",
       "age": 23,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "RB"
       ],
@@ -11880,7 +11905,7 @@
       "team": "TB",
       "age": 21,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "LB"
       ],
@@ -12114,6 +12139,28 @@
       "rotowire_id": 19303,
       "sportradar_id": "17deebdc-0ec2-4f3f-9584-d21b01743265",
       "fantasy_data_id": 26942
+    },
+    "13453": {
+      "player_id": "13453",
+      "full_name": "Jacob Rodriguez",
+      "position": "LB",
+      "team": "MIA",
+      "age": 24,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "LB"
+      ],
+      "height": "73",
+      "weight": "235",
+      "years_exp": 0,
+      "college": "Texas Tech",
+      "birth_date": "2002-09-06",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 19552,
+      "sportradar_id": "60d720f0-e962-43fb-82f3-9594e0a03d73",
+      "fantasy_data_id": 26853
     },
     "13545": {
       "player_id": "13545",
@@ -14812,7 +14859,7 @@
       "team": "NO",
       "age": 31,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "LB"
       ],
