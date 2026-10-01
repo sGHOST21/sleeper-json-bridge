@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-01T02:28:37.919Z",
+  "fetched_at": "2026-10-01T03:30:29.655Z",
   "current_week": 4,
   "league": {
     "name": "Brass City League",
@@ -68,6 +68,11 @@
     },
     "avatar": "71eb884a69970234d6aab2bcc692e78f",
     "company_id": null,
+    "last_message_id": "1411212750062878720",
+    "shard": 134,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -125,21 +130,16 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "shard": 134,
-    "sport": "nfl",
-    "last_message_id": "1411121747805097984",
+    "draft_id": "1387554218864291840",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1790800151353,
+    "last_message_time": 1790821847981,
     "last_pinned_message_id": null,
     "last_read_id": null,
-    "draft_id": "1387554218864291840",
     "league_id": "1387554218847502336",
     "previous_league_id": "1222634893318561792",
     "roster_positions": [
@@ -168,9 +168,9 @@
       "BN",
       "BN"
     ],
-    "group_id": null,
     "bracket_id": null,
     "bracket_overrides_id": null,
+    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 12
@@ -1003,7 +1003,6 @@
         "12499",
         "12522",
         "12670",
-        "2330",
         "4039",
         "4118",
         "4892",
@@ -2186,7 +2185,6 @@
         "12499",
         "12522",
         "12670",
-        "2330",
         "4039",
         "4118",
         "4892",
@@ -2241,7 +2239,6 @@
         0
       ],
       "players_points": {
-        "2330": 0,
         "4039": 0,
         "4118": 0,
         "4892": 0,
@@ -5630,6 +5627,29 @@
         5
       ],
       "status_updated": 1790264271345,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1790821847957,
+      "settings": null,
+      "leg": 4,
+      "draft_picks": [],
+      "creator": "553779274944823296",
+      "transaction_id": "1411212749962280960",
+      "adds": null,
+      "consenter_ids": [
+        8
+      ],
+      "drops": {
+        "2330": 8
+      },
+      "roster_ids": [
+        8
+      ],
+      "status_updated": 1790821847957,
       "waiver_budget": []
     }
   ],
