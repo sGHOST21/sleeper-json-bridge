@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-01T15:31:46.146Z",
+  "fetched_at": "2026-10-01T16:29:57.914Z",
   "current_week": 4,
   "league": {
     "name": "The D-League",
@@ -66,11 +66,10 @@
     },
     "avatar": "31647870b5248d13691a1b97ccb9b0a0",
     "company_id": null,
-    "last_message_id": "1411185445512986624",
-    "sport": "nfl",
     "shard": 169,
     "season": "2026",
     "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -128,23 +127,20 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "draft_id": "1398261761102098432",
+    "last_message_id": "1411419988446703616",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1790815338069,
+    "last_message_time": 1790871257463,
     "last_pinned_message_id": null,
+    "draft_id": "1398261761102098432",
     "last_read_id": null,
     "league_id": "1384998212942692352",
     "previous_league_id": "1222634114906075136",
-    "bracket_id": null,
-    "bracket_overrides_id": null,
     "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -170,6 +166,10 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 14
   },
   "users": [
@@ -1054,6 +1054,7 @@
         "12524",
         "12529",
         "12533",
+        "12573",
         "13305",
         "13345",
         "2133",
@@ -1104,7 +1105,7 @@
         "6801",
         "6794",
         "12015",
-        "0",
+        "12573",
         "7672",
         "6788",
         "10898"
@@ -2391,6 +2392,7 @@
         "12524",
         "12529",
         "12533",
+        "12573",
         "13305",
         "13345",
         "2133",
@@ -2424,7 +2426,7 @@
         "6801",
         "6794",
         "12015",
-        "0",
+        "12573",
         "7672",
         "6788",
         "10898"
@@ -2469,6 +2471,7 @@
         "12524": 0,
         "12529": 0,
         "12533": 0,
+        "12573": 0,
         "13305": 0,
         "13345": 0
       }
@@ -7426,6 +7429,29 @@
       "status": "complete",
       "type": "free_agent",
       "metadata": null,
+      "created": 1790871257432,
+      "settings": null,
+      "leg": 4,
+      "draft_picks": [],
+      "creator": "871053074062589952",
+      "transaction_id": "1411419988316753920",
+      "adds": {
+        "12573": 6
+      },
+      "drops": null,
+      "consenter_ids": [
+        6
+      ],
+      "roster_ids": [
+        6
+      ],
+      "status_updated": 1790871257432,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
       "created": 1790815338037,
       "settings": null,
       "leg": 4,
@@ -7435,10 +7461,10 @@
       "adds": {
         "13303": 10
       },
+      "drops": null,
       "consenter_ids": [
         10
       ],
-      "drops": null,
       "roster_ids": [
         10
       ],
@@ -7468,14 +7494,14 @@
         "4217": 10,
         "5001": 6
       },
-      "consenter_ids": [
-        6,
-        10
-      ],
       "drops": {
         "4217": 6,
         "5001": 10
       },
+      "consenter_ids": [
+        6,
+        10
+      ],
       "roster_ids": [
         6,
         10
@@ -7523,15 +7549,15 @@
         "11560": 5,
         "12534": 5
       },
-      "consenter_ids": [
-        5,
-        10
-      ],
       "drops": {
         "4984": 5,
         "11560": 10,
         "12534": 10
       },
+      "consenter_ids": [
+        5,
+        10
+      ],
       "roster_ids": [
         5,
         10
@@ -7552,10 +7578,10 @@
       "adds": {
         "13277": 9
       },
+      "drops": null,
       "consenter_ids": [
         9
       ],
-      "drops": null,
       "roster_ids": [
         9
       ],
@@ -7575,12 +7601,12 @@
       "adds": {
         "6217": 13
       },
-      "consenter_ids": [
-        13
-      ],
       "drops": {
         "8311": 13
       },
+      "consenter_ids": [
+        13
+      ],
       "roster_ids": [
         13
       ],
@@ -7600,12 +7626,12 @@
       "adds": {
         "12718": 13
       },
-      "consenter_ids": [
-        13
-      ],
       "drops": {
         "12048": 13
       },
+      "consenter_ids": [
+        13
+      ],
       "roster_ids": [
         13
       ],
@@ -10743,6 +10769,28 @@
       "rotowire_id": 18619,
       "sportradar_id": "5a92d12b-a8df-47fb-9d07-93a042702a36",
       "fantasy_data_id": 26014
+    },
+    "12573": {
+      "player_id": "12573",
+      "full_name": "Mason Graham",
+      "position": "DL",
+      "team": "CLE",
+      "age": 23,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "DL"
+      ],
+      "height": "76",
+      "weight": "315",
+      "years_exp": 1,
+      "college": "Michigan",
+      "birth_date": "2003-09-02",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 18461,
+      "sportradar_id": "5efacd9e-be9e-4711-8101-e5579ba3274f",
+      "fantasy_data_id": 25992
     },
     "12574": {
       "player_id": "12574",
