@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-30T23:26:57.986Z",
+  "fetched_at": "2026-10-01T00:38:58.732Z",
   "current_week": 4,
   "league": {
     "name": "The D-League",
@@ -8390,7 +8390,7 @@
       "team": "PHI",
       "age": 24,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
@@ -9403,7 +9403,7 @@
       "team": "SEA",
       "age": 26,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
@@ -10966,7 +10966,7 @@
       "full_name": "Fernando Mendoza",
       "position": "QB",
       "team": "LV",
-      "age": 22,
+      "age": 23,
       "status": "Active",
       "injury_status": null,
       "fantasy_positions": [
@@ -11188,7 +11188,7 @@
       "team": "SEA",
       "age": 22,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
@@ -14980,7 +14980,7 @@
       "team": "PHI",
       "age": 28,
       "status": "Active",
-      "injury_status": "Out",
+      "injury_status": null,
       "fantasy_positions": [
         "DL"
       ],
@@ -15112,7 +15112,7 @@
       "team": "PHI",
       "age": 29,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "LB"
       ],
@@ -17143,7 +17143,7 @@
       "team": "LAR",
       "age": 27,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "LB"
       ],
