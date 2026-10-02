@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-02T20:28:16.987Z",
+  "fetched_at": "2026-10-02T21:28:41.955Z",
   "current_week": 4,
   "league": {
     "name": "The D-League",
@@ -8499,7 +8499,7 @@
       "team": "PHI",
       "age": 24,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "RB"
       ],
@@ -9842,7 +9842,7 @@
       "team": "LAR",
       "age": 23,
       "status": "Active",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "fantasy_positions": [
         "TE"
       ],
@@ -11319,7 +11319,7 @@
       "team": "SEA",
       "age": 22,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "RB"
       ],
@@ -15287,7 +15287,7 @@
       "team": "PHI",
       "age": 29,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "LB"
       ],
@@ -17956,7 +17956,7 @@
       "team": "LAC",
       "age": 24,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "RB"
       ],
