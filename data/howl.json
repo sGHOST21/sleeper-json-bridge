@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-02T01:29:10.472Z",
+  "fetched_at": "2026-10-02T02:27:46.820Z",
   "current_week": 4,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -63,10 +63,6 @@
     },
     "avatar": "3a2a8f32f6fec7c6b6663d1495cf1168",
     "company_id": null,
-    "shard": 949,
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -112,24 +108,24 @@
       "pts_allow_7_13": 4,
       "st_ff": 1
     },
-    "last_message_id": "1410993336935870464",
-    "draft_id": "1400845992303022080",
+    "season": "2026",
+    "season_type": "regular",
+    "shard": 949,
+    "sport": "nfl",
+    "last_message_id": "1411562831802822656",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1790769535815,
+    "last_message_time": 1790905313973,
     "last_pinned_message_id": null,
-    "league_id": "1400845991007019008",
+    "draft_id": "1400845992303022080",
     "last_read_id": null,
+    "league_id": "1400845991007019008",
     "previous_league_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
     "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -151,6 +147,10 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 8
   },
   "users": [
@@ -851,7 +851,7 @@
       }
     },
     {
-      "points": 1,
+      "points": 0,
       "players": [
         "11563",
         "1166",
@@ -898,7 +898,7 @@
         0,
         0,
         0,
-        1
+        0
       ],
       "players_points": {
         "1166": 0,
@@ -919,11 +919,11 @@
         "12527": 0,
         "13414": 0,
         "HOU": 0,
-        "PIT": 1
+        "PIT": 0
       }
     },
     {
-      "points": 10.9,
+      "points": 14.7,
       "players": [
         "11583",
         "11628",
@@ -962,7 +962,7 @@
       ],
       "starters_points": [
         0,
-        10.9,
+        14.7,
         0,
         0,
         0,
@@ -988,7 +988,7 @@
         "11628": 0,
         "11635": 0,
         "12507": 0,
-        "12512": 10.9,
+        "12512": 14.7,
         "12517": 0,
         "DEN": 0,
         "PHI": 0
@@ -1128,7 +1128,7 @@
         "6904": 0,
         "7569": 0,
         "7594": 0,
-        "8228": 10.1,
+        "8228": 10.6,
         "10222": 0,
         "11604": 0,
         "11631": 0,
@@ -1353,7 +1353,7 @@
         "10232": 0,
         "11566": 0,
         "12015": 0,
-        "12506": 2.3,
+        "12506": 9.5,
         "12519": 0,
         "NE": 0
       }
