@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-02T14:32:38.215Z",
+  "fetched_at": "2026-10-02T15:32:07.690Z",
   "current_week": 4,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -66,6 +66,8 @@
     "sport": "nfl",
     "season_type": "regular",
     "season": "2026",
+    "last_message_id": "1411764327056179200",
+    "shard": 949,
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -111,21 +113,23 @@
       "pts_allow_7_13": 4,
       "st_ff": 1
     },
-    "shard": 949,
-    "last_message_id": "1411686378571370496",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
+    "draft_id": "1400845992303022080",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1790934769818,
+    "last_message_time": 1790953354184,
     "last_pinned_message_id": null,
     "last_read_id": null,
-    "draft_id": "1400845992303022080",
     "league_id": "1400845991007019008",
     "previous_league_id": null,
     "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -147,10 +151,6 @@
       "BN",
       "BN"
     ],
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 8
   },
   "users": [
@@ -600,11 +600,11 @@
         "10859",
         "11533",
         "11637",
-        "13269",
         "13337",
         "3198",
         "4039",
         "4046",
+        "4381",
         "4984",
         "5001",
         "5947",
@@ -613,7 +613,6 @@
         "8154",
         "9484",
         "9758",
-        "LAR",
         "LV"
       ],
       "reserve": null,
@@ -635,14 +634,14 @@
       "starters": [
         "4984",
         "3198",
-        "13337",
+        "8154",
         "8137",
         "10229",
         "10859",
         "5001",
         "4046",
         "11533",
-        "LAR"
+        "LV"
       ],
       "taxi": null
     },
@@ -1148,11 +1147,11 @@
         "10859",
         "11533",
         "11637",
-        "13269",
         "13337",
         "3198",
         "4039",
         "4046",
+        "4381",
         "4984",
         "5001",
         "5947",
@@ -1161,7 +1160,6 @@
         "8154",
         "9484",
         "9758",
-        "LAR",
         "LV"
       ],
       "roster_id": 6,
@@ -1170,14 +1168,14 @@
       "starters": [
         "4984",
         "3198",
-        "13337",
+        "8154",
         "8137",
         "10229",
         "10859",
         "5001",
         "4046",
         "11533",
-        "LAR"
+        "LV"
       ],
       "starters_points": [
         0,
@@ -1195,6 +1193,7 @@
         "3198": 0,
         "4039": 0,
         "4046": 0,
+        "4381": 0,
         "4984": 0,
         "5001": 0,
         "5947": 0,
@@ -1207,9 +1206,7 @@
         "10859": 0,
         "11533": 0,
         "11637": 0,
-        "13269": 0,
         "13337": 0,
-        "LAR": 0,
         "LV": 0
       }
     },
@@ -2515,6 +2512,54 @@
         3
       ],
       "status_updated": 1790165667144,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1790953354166,
+      "settings": null,
+      "leg": 4,
+      "draft_picks": [],
+      "creator": "1401314114613022720",
+      "transaction_id": "1411764326976569344",
+      "adds": null,
+      "drops": {
+        "LAR": 6
+      },
+      "consenter_ids": [
+        6
+      ],
+      "roster_ids": [
+        6
+      ],
+      "status_updated": 1790953354166,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1790953273483,
+      "settings": null,
+      "leg": 4,
+      "draft_picks": [],
+      "creator": "1401314114613022720",
+      "transaction_id": "1411763988571676672",
+      "adds": {
+        "4381": 6
+      },
+      "drops": {
+        "13269": 6
+      },
+      "consenter_ids": [
+        6
+      ],
+      "roster_ids": [
+        6
+      ],
+      "status_updated": 1790953273483,
       "waiver_budget": []
     },
     {
@@ -4477,6 +4522,28 @@
       "sportradar_id": "4ceb866c-8eaf-49b5-9043-56228e43a2e5",
       "fantasy_data_id": 19073
     },
+    "4381": {
+      "player_id": "4381",
+      "full_name": "Taysom Hill",
+      "position": "TE",
+      "team": null,
+      "age": 35,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "TE"
+      ],
+      "height": "74",
+      "weight": "221",
+      "years_exp": 9,
+      "college": "BYU",
+      "birth_date": "1990-08-23",
+      "espn_id": 2468609,
+      "yahoo_id": 30614,
+      "rotowire_id": 12063,
+      "sportradar_id": "3c8a55dd-20a8-4375-b711-49eb5e6e1d0e",
+      "fantasy_data_id": 19238
+    },
     "4866": {
       "player_id": "4866",
       "full_name": "Saquon Barkley",
@@ -5914,7 +5981,7 @@
       "team": "NYJ",
       "age": 25,
       "status": "Active",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "fantasy_positions": [
         "RB"
       ],
