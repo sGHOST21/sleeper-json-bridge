@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-02T12:35:44.583Z",
+  "fetched_at": "2026-10-02T13:32:07.306Z",
   "current_week": 4,
   "league": {
     "name": "The D-League",
@@ -66,6 +66,10 @@
     },
     "avatar": "31647870b5248d13691a1b97ccb9b0a0",
     "company_id": null,
+    "shard": 169,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -123,20 +127,16 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "shard": 169,
-    "sport": "nfl",
-    "last_message_id": "1411507349834715136",
+    "last_message_id": "1411731590165356544",
+    "draft_id": "1398261761102098432",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1790892086040,
+    "last_message_time": 1790945549101,
     "last_pinned_message_id": null,
-    "draft_id": "1398261761102098432",
     "last_read_id": null,
     "league_id": "1384998212942692352",
     "previous_league_id": "1222634114906075136",
@@ -1130,6 +1130,7 @@
       "player_map": null,
       "players": [
         "11646",
+        "12048",
         "12541",
         "12574",
         "13274",
@@ -1174,7 +1175,7 @@
         "ppts_decimal": 50,
         "ties": 0,
         "total_moves": 0,
-        "waiver_budget_used": 6,
+        "waiver_budget_used": 7,
         "waiver_position": 14,
         "wins": 0
       },
@@ -2481,6 +2482,7 @@
       "points": 13.9,
       "players": [
         "11646",
+        "12048",
         "12541",
         "12574",
         "13274",
@@ -2563,6 +2565,7 @@
         "8188": 0,
         "9500": 0,
         "11646": 0,
+        "12048": 0,
         "12541": 0,
         "12574": 0,
         "13274": 2.1,
@@ -7424,6 +7427,34 @@
         9
       ],
       "status_updated": 1790158992861,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "waiver",
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      },
+      "created": 1790894906568,
+      "settings": {
+        "seq": 0,
+        "waiver_bid": 1
+      },
+      "leg": 4,
+      "draft_picks": [],
+      "creator": "726920245125664768",
+      "transaction_id": "1411519179986649088",
+      "adds": {
+        "12048": 7
+      },
+      "drops": null,
+      "consenter_ids": [
+        7
+      ],
+      "roster_ids": [
+        7
+      ],
+      "status_updated": 1790945548898,
       "waiver_budget": []
     },
     {
