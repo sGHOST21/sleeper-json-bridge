@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-03T14:37:27.988Z",
+  "fetched_at": "2026-10-03T19:42:08.811Z",
   "current_week": 4,
   "league": {
     "name": "The D-League",
@@ -937,7 +937,7 @@
         "12507",
         "7567",
         "12526",
-        "7525",
+        "11631",
         "9484",
         "11632",
         "11834",
@@ -2240,7 +2240,7 @@
         "12507",
         "7567",
         "12526",
-        "7525",
+        "11631",
         "9484",
         "11632",
         "11834",
@@ -9314,7 +9314,7 @@
       "team": "GB",
       "age": 24,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "LB"
       ],
@@ -12311,7 +12311,7 @@
       "team": "IND",
       "age": 34,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ],
@@ -14450,7 +14450,7 @@
       "team": "WAS",
       "age": 31,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Doubtful",
       "fantasy_positions": [
         "WR"
       ],
@@ -14891,7 +14891,7 @@
       "team": "NO",
       "age": 31,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "LB"
       ],

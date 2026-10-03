@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-03T14:37:29.880Z",
+  "fetched_at": "2026-10-03T19:42:10.500Z",
   "current_week": 4,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -390,7 +390,7 @@
         "8112",
         "12526",
         "8130",
-        "5927",
+        "7571",
         "11563",
         "11786",
         "PIT"
@@ -883,7 +883,7 @@
         "8112",
         "12526",
         "8130",
-        "5927",
+        "7571",
         "11563",
         "11786",
         "PIT"
@@ -4925,7 +4925,7 @@
       "team": "WAS",
       "age": 31,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Doubtful",
       "fantasy_positions": [
         "WR"
       ],
