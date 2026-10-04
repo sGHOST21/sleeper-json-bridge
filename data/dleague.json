@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-03T19:42:08.811Z",
+  "fetched_at": "2026-10-04T02:39:20.883Z",
   "current_week": 4,
   "league": {
     "name": "The D-League",
@@ -66,6 +66,10 @@
     },
     "avatar": "31647870b5248d13691a1b97ccb9b0a0",
     "company_id": null,
+    "shard": 169,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -123,26 +127,19 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "shard": 169,
-    "sport": "nfl",
-    "last_message_id": "1412116185545211904",
+    "last_message_id": "1412284411331821568",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1791037243785,
+    "last_message_time": 1791077351938,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "draft_id": "1398261761102098432",
     "league_id": "1384998212942692352",
     "previous_league_id": "1222634114906075136",
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -168,6 +165,9 @@
       "BN",
       "BN"
     ],
+    "group_id": null,
+    "bracket_id": null,
+    "bracket_overrides_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 14
@@ -744,6 +744,7 @@
         "1479",
         "3321",
         "4081",
+        "5846",
         "6149",
         "6768",
         "6804",
@@ -755,12 +756,10 @@
         "8155",
         "8167",
         "8180",
-        "9226",
         "9504"
       ],
       "reserve": [
-        "8125",
-        "9226"
+        "8125"
       ],
       "roster_id": 2,
       "settings": {
@@ -785,7 +784,7 @@
         "8112",
         "8167",
         "10859",
-        "1479",
+        "6149",
         "11603",
         "7839",
         "10917",
@@ -818,7 +817,6 @@
         "11665",
         "12471",
         "12530",
-        "12567",
         "2747",
         "4039",
         "4046",
@@ -829,6 +827,7 @@
         "7640",
         "8121",
         "8289",
+        "8659",
         "8676",
         "8917"
       ],
@@ -851,7 +850,7 @@
       },
       "starters": [
         "4046",
-        "12471",
+        "11581",
         "11647",
         "6786",
         "8121",
@@ -860,13 +859,11 @@
         "8676",
         "11533",
         "8289",
-        "6815",
+        "8659",
         "12530",
         "11665"
       ],
-      "taxi": [
-        "11581"
-      ]
+      "taxi": null
     },
     {
       "co_owners": null,
@@ -983,7 +980,6 @@
         "4066",
         "4135",
         "5012",
-        "5846",
         "5991",
         "6039",
         "6130",
@@ -991,6 +987,7 @@
         "6783",
         "7571",
         "8210",
+        "9226",
         "9480",
         "9511",
         "96"
@@ -1020,7 +1017,7 @@
         "96",
         "12534",
         "9511",
-        "5846",
+        "0",
         "6783",
         "5012",
         "13298",
@@ -1100,10 +1097,10 @@
         "9509",
         "3198",
         "9488",
-        "2133",
-        "8130",
         "6801",
-        "6794",
+        "8130",
+        "2133",
+        "9756",
         "12015",
         "12573",
         "7672",
@@ -1510,9 +1507,9 @@
         "4034",
         "12527",
         "6819",
-        "5927",
-        "7553",
         "7049",
+        "7553",
+        "3155",
         "11571",
         "4195",
         "10892",
@@ -1862,8 +1859,8 @@
       "round": 1,
       "season": "2027",
       "roster_id": 10,
-      "owner_id": 5,
-      "previous_owner_id": 10
+      "owner_id": 2,
+      "previous_owner_id": 5
     },
     {
       "round": 2,
@@ -2052,7 +2049,6 @@
         "8155",
         "8167",
         "8180",
-        "9226",
         "9504"
       ],
       "roster_id": 2,
@@ -2065,7 +2061,7 @@
         "8112",
         "8167",
         "10859",
-        "1479",
+        "6149",
         "11603",
         "7839",
         "10917",
@@ -2103,7 +2099,6 @@
         "8155": 0,
         "8167": 0,
         "8180": 0,
-        "9226": 0,
         "9504": 0,
         "10859": 0,
         "10917": 0,
@@ -2128,7 +2123,6 @@
         "11665",
         "12471",
         "12530",
-        "12567",
         "2747",
         "4039",
         "4046",
@@ -2139,6 +2133,7 @@
         "7640",
         "8121",
         "8289",
+        "8659",
         "8676",
         "8917"
       ],
@@ -2147,7 +2142,7 @@
       "matchup_id": 3,
       "starters": [
         "4046",
-        "12471",
+        "11581",
         "11647",
         "6786",
         "8121",
@@ -2156,7 +2151,7 @@
         "8676",
         "11533",
         "8289",
-        "6815",
+        "8659",
         "12530",
         "11665"
       ],
@@ -2186,6 +2181,7 @@
         "7640": 0,
         "8121": 0,
         "8289": 0,
+        "8659": 0,
         "8676": 0,
         "8917": 0,
         "10235": 0,
@@ -2196,8 +2192,7 @@
         "11647": 0,
         "11665": 2,
         "12471": 0,
-        "12530": 0,
-        "12567": 0
+        "12530": 0
       }
     },
     {
@@ -2320,6 +2315,7 @@
         "6783",
         "7571",
         "8210",
+        "9226",
         "9480",
         "9511",
         "96"
@@ -2370,6 +2366,7 @@
         "6783": 5.1,
         "7571": 0,
         "8210": 0,
+        "9226": 0,
         "9480": 0,
         "9511": 0,
         "10222": 0,
@@ -2423,10 +2420,10 @@
         "9509",
         "3198",
         "9488",
-        "2133",
-        "8130",
         "6801",
-        "6794",
+        "8130",
+        "2133",
+        "9756",
         "12015",
         "12573",
         "7672",
@@ -2900,9 +2897,9 @@
         "4034",
         "12527",
         "6819",
-        "5927",
-        "7553",
         "7049",
+        "7553",
+        "3155",
         "11571",
         "4195",
         "10892",
@@ -7431,6 +7428,90 @@
     },
     {
       "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1791077351905,
+      "settings": null,
+      "leg": 4,
+      "draft_picks": [],
+      "creator": "726077702712389632",
+      "transaction_id": "1412284411189141504",
+      "adds": {
+        "8659": 3
+      },
+      "drops": null,
+      "consenter_ids": [
+        3
+      ],
+      "roster_ids": [
+        3
+      ],
+      "status_updated": 1791077351905,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1791077147242,
+      "settings": null,
+      "leg": 4,
+      "draft_picks": [],
+      "creator": "726077702712389632",
+      "transaction_id": "1412283552770297856",
+      "adds": null,
+      "drops": {
+        "12567": 3
+      },
+      "consenter_ids": [
+        3
+      ],
+      "roster_ids": [
+        3
+      ],
+      "status_updated": 1791077147242,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "trade",
+      "metadata": null,
+      "created": 1791046451073,
+      "settings": null,
+      "leg": 4,
+      "draft_picks": [
+        {
+          "round": 1,
+          "season": "2027",
+          "league_id": null,
+          "roster_id": 10,
+          "owner_id": 2,
+          "previous_owner_id": 5
+        }
+      ],
+      "creator": "553779274944823296",
+      "transaction_id": "1412154803705950208",
+      "adds": {
+        "5846": 2,
+        "9226": 5
+      },
+      "drops": {
+        "5846": 5,
+        "9226": 2
+      },
+      "consenter_ids": [
+        2,
+        5
+      ],
+      "roster_ids": [
+        2,
+        5
+      ],
+      "status_updated": 1791074936547,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
       "type": "waiver",
       "metadata": {
         "notes": "Your waiver claim was processed successfully!"
@@ -8894,8 +8975,8 @@
       "position": "WR",
       "team": "CAR",
       "age": 25,
-      "status": "Active",
-      "injury_status": "Out",
+      "status": "Inactive",
+      "injury_status": "IR",
       "fantasy_positions": [
         "WR"
       ],
@@ -10302,7 +10383,7 @@
       "full_name": "Kalel Mullings",
       "position": "RB",
       "team": "TEN",
-      "age": 23,
+      "age": 24,
       "status": "Active",
       "injury_status": null,
       "fantasy_positions": [
@@ -11318,8 +11399,8 @@
       "position": "RB",
       "team": "SEA",
       "age": 22,
-      "status": "Active",
-      "injury_status": "Out",
+      "status": "Inactive",
+      "injury_status": "IR",
       "fantasy_positions": [
         "RB"
       ],
