@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-05T21:32:11.674Z",
+  "fetched_at": "2026-10-05T22:28:04.274Z",
   "current_week": 4,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -3935,7 +3935,7 @@
       "team": "ARI",
       "age": 21,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
@@ -6200,7 +6200,7 @@
       "position": "RB",
       "team": "PHI",
       "age": 24,
-      "status": "Active",
+      "status": "Inactive",
       "injury_status": "Out",
       "fantasy_positions": [
         "RB"
