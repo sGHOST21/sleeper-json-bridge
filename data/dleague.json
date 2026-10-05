@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-05T18:35:54.563Z",
+  "fetched_at": "2026-10-05T21:32:09.854Z",
   "current_week": 4,
   "league": {
     "name": "The D-League",
@@ -17765,7 +17765,7 @@
       "team": "PHI",
       "age": 24,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "RB"
       ],
