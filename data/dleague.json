@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-05T17:29:49.199Z",
+  "fetched_at": "2026-10-05T18:35:54.563Z",
   "current_week": 4,
   "league": {
     "name": "The D-League",
@@ -9585,7 +9585,7 @@
       "team": "GB",
       "age": 24,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "LB"
       ],
@@ -15646,7 +15646,7 @@
       "team": "TB",
       "age": 28,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "DB"
       ],
