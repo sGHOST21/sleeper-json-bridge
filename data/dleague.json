@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-05T14:35:23.834Z",
+  "fetched_at": "2026-10-05T15:33:42.438Z",
   "current_week": 4,
   "league": {
     "name": "The D-League",
@@ -65,11 +65,11 @@
       "daily_waivers_last_ran": 6
     },
     "avatar": "31647870b5248d13691a1b97ccb9b0a0",
+    "company_id": null,
     "shard": 169,
     "season": "2026",
     "season_type": "regular",
     "sport": "nfl",
-    "company_id": null,
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -127,22 +127,24 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "last_message_id": "1412614751850135552",
+    "last_message_id": "1412849813648617472",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1791156111255,
+    "last_message_time": 1791212154355,
     "last_pinned_message_id": null,
-    "draft_id": "1398261761102098432",
     "last_read_id": null,
+    "draft_id": "1398261761102098432",
     "league_id": "1384998212942692352",
     "previous_league_id": "1222634114906075136",
-    "group_id": null,
     "bracket_id": null,
     "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -168,8 +170,6 @@
       "BN",
       "BN"
     ],
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 14
   },
   "users": [
@@ -1478,7 +1478,6 @@
         "7553",
         "8205",
         "8339",
-        "9501",
         "9758"
       ],
       "reserve": [
@@ -7428,6 +7427,29 @@
         9
       ],
       "status_updated": 1790158992861,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1791212154327,
+      "settings": null,
+      "leg": 4,
+      "draft_picks": [],
+      "creator": "733463671744880640",
+      "transaction_id": "1412849813527023616",
+      "adds": null,
+      "consenter_ids": [
+        11
+      ],
+      "drops": {
+        "9501": 11
+      },
+      "roster_ids": [
+        11
+      ],
+      "status_updated": 1791212154327,
       "waiver_budget": []
     },
     {
