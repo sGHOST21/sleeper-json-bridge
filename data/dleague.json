@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-06T20:31:03.147Z",
+  "fetched_at": "2026-10-06T21:29:00.949Z",
   "current_week": 5,
   "league": {
     "name": "The D-League",
@@ -6020,8 +6020,8 @@
       "position": "LB",
       "team": "GB",
       "age": 24,
-      "status": "Active",
-      "injury_status": "Out",
+      "status": "Inactive",
+      "injury_status": "IR",
       "fantasy_positions": [
         "LB"
       ],
@@ -9236,10 +9236,10 @@
       "player_id": "4018",
       "full_name": "Joe Mixon",
       "position": "RB",
-      "team": "SEA",
+      "team": null,
       "age": 30,
       "status": "Active",
-      "injury_status": "Active",
+      "injury_status": "",
       "fantasy_positions": [
         "RB"
       ],
