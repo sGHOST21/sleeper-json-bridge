@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-06T19:29:23.345Z",
+  "fetched_at": "2026-10-06T20:31:03.147Z",
   "current_week": 5,
   "league": {
     "name": "The D-League",
@@ -10805,7 +10805,7 @@
       "team": "TB",
       "age": 30,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "K"
       ],

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-06T19:29:24.500Z",
+  "fetched_at": "2026-10-06T20:31:04.387Z",
   "current_week": 5,
   "league": {
     "name": "Brass City League",
@@ -545,6 +545,7 @@
         "8183"
       ],
       "reserve": [
+        "13286",
         "13417"
       ],
       "roster_id": 2,
@@ -6148,7 +6149,7 @@
       "team": "WAS",
       "age": 24,
       "status": "Active",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "fantasy_positions": [
         "WR"
       ],
@@ -8841,7 +8842,7 @@
       "team": "TB",
       "age": 30,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "K"
       ],
