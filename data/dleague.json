@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-07T11:30:17.304Z",
+  "fetched_at": "2026-10-07T12:38:18.314Z",
   "current_week": 5,
   "league": {
     "name": "The D-League",
@@ -127,19 +127,23 @@
     "season_type": "regular",
     "sport": "nfl",
     "shard": 169,
-    "last_message_id": "1413504298259660800",
-    "draft_id": "1398261761102098432",
+    "last_message_id": "1413527775905656832",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1791368195647,
+    "last_message_time": 1791373793154,
     "last_pinned_message_id": null,
+    "draft_id": "1398261761102098432",
     "last_read_id": null,
     "league_id": "1384998212942692352",
     "previous_league_id": "1222634114906075136",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -165,10 +169,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 14
   },
@@ -1381,6 +1381,7 @@
         "11563",
         "11575",
         "11678",
+        "12457",
         "12495",
         "12508",
         "13275",
@@ -1389,8 +1390,8 @@
         "13303",
         "13363",
         "13375",
+        "1945",
         "2216",
-        "3678",
         "4199",
         "4217",
         "4984",
@@ -1433,7 +1434,7 @@
         "4217",
         "8228",
         "12495",
-        "3678",
+        "1945",
         "13363",
         "6949",
         "11678",
@@ -1477,6 +1478,7 @@
         "5927",
         "6770",
         "6819",
+        "7039",
         "7049",
         "7553",
         "8205",
@@ -1509,7 +1511,7 @@
         "4034",
         "12527",
         "6819",
-        "7049",
+        "13264",
         "7553",
         "5927",
         "4147",
@@ -2776,6 +2778,7 @@
         "11563",
         "11575",
         "11678",
+        "12457",
         "12495",
         "12508",
         "13275",
@@ -2784,8 +2787,8 @@
         "13303",
         "13363",
         "13375",
+        "1945",
         "2216",
-        "3678",
         "4199",
         "4217",
         "4984",
@@ -2811,7 +2814,7 @@
         "4217",
         "8228",
         "12495",
-        "3678",
+        "1945",
         "13363",
         "6949",
         "11678",
@@ -2833,8 +2836,8 @@
         0
       ],
       "players_points": {
+        "1945": 0,
         "2216": 0,
-        "3678": 0,
         "4199": 0,
         "4217": 0,
         "4984": 0,
@@ -2851,6 +2854,7 @@
         "11563": 0,
         "11575": 0,
         "11678": 0,
+        "12457": 0,
         "12495": 0,
         "12508": 0,
         "13275": 0,
@@ -2886,6 +2890,7 @@
         "5927",
         "6770",
         "6819",
+        "7039",
         "7049",
         "7553",
         "8205",
@@ -2900,7 +2905,7 @@
         "4034",
         "12527",
         "6819",
-        "7049",
+        "13264",
         "7553",
         "5927",
         "4147",
@@ -2939,6 +2944,7 @@
         "5927": 0,
         "6770": 0,
         "6819": 0,
+        "7039": 0,
         "7049": 0,
         "7553": 0,
         "8205": 0,
@@ -5172,6 +5178,77 @@
         13
       ],
       "status_updated": 1790776074611,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1791373793120,
+      "settings": null,
+      "leg": 5,
+      "draft_picks": [],
+      "creator": "471428050836254720",
+      "transaction_id": "1413527775767269376",
+      "adds": {
+        "12457": 10
+      },
+      "drops": {
+        "3678": 10
+      },
+      "consenter_ids": [
+        10
+      ],
+      "roster_ids": [
+        10
+      ],
+      "status_updated": 1791373793120,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1791373644138,
+      "settings": null,
+      "leg": 5,
+      "draft_picks": [],
+      "creator": "471428050836254720",
+      "transaction_id": "1413527150887280640",
+      "adds": {
+        "1945": 10
+      },
+      "drops": null,
+      "consenter_ids": [
+        10
+      ],
+      "roster_ids": [
+        10
+      ],
+      "status_updated": 1791373644138,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1791373572837,
+      "settings": null,
+      "leg": 5,
+      "draft_picks": [],
+      "creator": "733463671744880640",
+      "transaction_id": "1413526851833401344",
+      "adds": {
+        "7039": 11
+      },
+      "drops": null,
+      "consenter_ids": [
+        11
+      ],
+      "roster_ids": [
+        11
+      ],
+      "status_updated": 1791373572837,
       "waiver_budget": []
     },
     {
@@ -12107,6 +12184,28 @@
       "rotowire_id": 14657,
       "sportradar_id": "bba755a2-63b6-4ac1-b806-0609816135de",
       "fantasy_data_id": 21952
+    },
+    "7039": {
+      "player_id": "7039",
+      "full_name": "Cody White",
+      "position": "WR",
+      "team": "LV",
+      "age": 27,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "WR"
+      ],
+      "height": "75",
+      "weight": "215",
+      "years_exp": 6,
+      "college": "Michigan State",
+      "birth_date": "1998-11-28",
+      "espn_id": 4241983,
+      "yahoo_id": 32948,
+      "rotowire_id": 14495,
+      "sportradar_id": "d25a19a7-7de6-4476-b42a-833c8c3cb208",
+      "fantasy_data_id": 21964
     },
     "7049": {
       "player_id": "7049",

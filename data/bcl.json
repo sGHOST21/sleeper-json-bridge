@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-07T11:30:18.242Z",
+  "fetched_at": "2026-10-07T12:38:19.629Z",
   "current_week": 5,
   "league": {
     "name": "Brass City League",
@@ -800,7 +800,7 @@
         "wins": 1
       },
       "starters": [
-        "0",
+        "1166",
         "12481",
         "4035",
         "13346",
@@ -1924,7 +1924,7 @@
       "custom_points": null,
       "matchup_id": 4,
       "starters": [
-        "0",
+        "1166",
         "12481",
         "4035",
         "13346",
