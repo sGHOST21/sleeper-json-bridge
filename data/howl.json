@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-07T07:32:44.321Z",
+  "fetched_at": "2026-10-07T08:33:35.695Z",
   "current_week": 5,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -63,10 +63,6 @@
     },
     "avatar": "3a2a8f32f6fec7c6b6663d1495cf1168",
     "company_id": null,
-    "shard": 949,
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -112,7 +108,11 @@
       "pts_allow_7_13": 4,
       "st_ff": 1
     },
-    "last_message_id": "1413458346622631936",
+    "season": "2026",
+    "season_type": "regular",
+    "shard": 949,
+    "sport": "nfl",
+    "last_message_id": "1413466399594020864",
     "draft_id": "1400845992303022080",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
@@ -120,7 +120,7 @@
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1791357239922,
+    "last_message_time": 1791359159901,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1400845991007019008",
@@ -146,9 +146,9 @@
       "BN",
       "BN"
     ],
-    "group_id": null,
     "bracket_id": null,
     "bracket_overrides_id": null,
+    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 8
@@ -353,6 +353,7 @@
         "11786",
         "12526",
         "12527",
+        "13279",
         "13414",
         "4037",
         "5927",
@@ -368,7 +369,9 @@
         "HOU",
         "PIT"
       ],
-      "reserve": null,
+      "reserve": [
+        "7543"
+      ],
       "roster_id": 2,
       "settings": {
         "fpts": 580,
@@ -389,7 +392,7 @@
         "8138",
         "12527",
         "8112",
-        "12526",
+        "13279",
         "8130",
         "7571",
         "11563",
@@ -861,6 +864,7 @@
         "11786",
         "12526",
         "12527",
+        "13279",
         "13414",
         "4037",
         "5927",
@@ -884,7 +888,7 @@
         "8138",
         "12527",
         "8112",
-        "12526",
+        "13279",
         "8130",
         "7571",
         "11563",
@@ -920,6 +924,7 @@
         "11786": 0,
         "12526": 0,
         "12527": 0,
+        "13279": 0,
         "13414": 0,
         "HOU": 0,
         "PIT": 0
@@ -2402,6 +2407,29 @@
         7
       ],
       "status_updated": 1790767032185,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1791359159874,
+      "settings": null,
+      "leg": 5,
+      "draft_picks": [],
+      "creator": "1400852933964230656",
+      "transaction_id": "1413466399485030400",
+      "adds": {
+        "13279": 2
+      },
+      "consenter_ids": [
+        2
+      ],
+      "drops": null,
+      "roster_ids": [
+        2
+      ],
+      "status_updated": 1791359159874,
       "waiver_budget": []
     }
   ],
