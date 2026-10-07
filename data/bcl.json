@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-07T14:32:18.003Z",
+  "fetched_at": "2026-10-07T15:40:46.184Z",
   "current_week": 5,
   "league": {
     "name": "Brass City League",
@@ -68,6 +68,10 @@
     },
     "avatar": "71eb884a69970234d6aab2bcc692e78f",
     "company_id": null,
+    "shard": 134,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -125,24 +129,24 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "shard": 134,
-    "sport": "nfl",
-    "last_message_id": "1413457509355708416",
+    "last_message_id": "1413580716679102464",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1791357040302,
+    "last_message_time": 1791386415217,
     "last_pinned_message_id": null,
-    "draft_id": "1387554218864291840",
     "last_read_id": null,
+    "draft_id": "1387554218864291840",
     "league_id": "1387554218847502336",
     "previous_league_id": "1222634893318561792",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
     "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -169,10 +173,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 12
   },
   "users": [
@@ -753,6 +753,7 @@
         "10226",
         "11560",
         "11575",
+        "11577",
         "1166",
         "12474",
         "12481",
@@ -1894,6 +1895,7 @@
         "10226",
         "11560",
         "11575",
+        "11577",
         "1166",
         "12474",
         "12481",
@@ -1973,6 +1975,7 @@
         "10226": 0,
         "11560": 0,
         "11575": 0,
+        "11577": 0,
         "12474": 0,
         "12481": 0,
         "12489": 0,
@@ -3768,6 +3771,29 @@
       ],
       "status_updated": 1790821847957,
       "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1791386415192,
+      "settings": null,
+      "leg": 5,
+      "draft_picks": [],
+      "creator": "733463671744880640",
+      "transaction_id": "1413580716574289920",
+      "adds": {
+        "11577": 5
+      },
+      "consenter_ids": [
+        5
+      ],
+      "drops": null,
+      "roster_ids": [
+        5
+      ],
+      "status_updated": 1791386415192,
+      "waiver_budget": []
     }
   ],
   "player_map": {
@@ -4367,6 +4393,28 @@
       "rotowire_id": 17702,
       "sportradar_id": "d7f72deb-c1e2-47a2-b651-887f0e33dc44",
       "fantasy_data_id": 24934
+    },
+    "11577": {
+      "player_id": "11577",
+      "full_name": "Will Shipley",
+      "position": "RB",
+      "team": "PHI",
+      "age": 24,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "RB"
+      ],
+      "height": "71",
+      "weight": "209",
+      "years_exp": 2,
+      "college": "Clemson",
+      "birth_date": "2002-08-29",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 17802,
+      "sportradar_id": "796e223d-e8d5-42ab-afb4-557fa6183357",
+      "fantasy_data_id": 25102
     },
     "11581": {
       "player_id": "11581",
