@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-07T19:30:47.910Z",
+  "fetched_at": "2026-10-07T20:30:37.897Z",
   "current_week": 5,
   "league": {
     "name": "Brass City League",
@@ -4112,7 +4112,7 @@
       "player_id": "11168",
       "full_name": "Xavier Smith",
       "position": "WR",
-      "team": null,
+      "team": "SF",
       "age": 29,
       "status": "Active",
       "injury_status": null,
@@ -4313,7 +4313,7 @@
       "team": "WAS",
       "age": 25,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "QB"
       ],
@@ -4797,7 +4797,7 @@
       "team": "NYG",
       "age": 23,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -6141,7 +6141,7 @@
       "team": "WAS",
       "age": 25,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
@@ -7465,7 +7465,7 @@
       "team": "SF",
       "age": 33,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -9231,7 +9231,7 @@
       "team": "CHI",
       "age": 27,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],

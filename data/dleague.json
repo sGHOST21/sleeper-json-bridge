@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-07T19:30:46.688Z",
+  "fetched_at": "2026-10-07T20:30:36.687Z",
   "current_week": 5,
   "league": {
     "name": "The D-League",
@@ -5933,7 +5933,7 @@
       "team": "WAS",
       "age": 25,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "QB"
       ],
@@ -6461,7 +6461,7 @@
       "team": "NYG",
       "age": 23,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -7827,7 +7827,7 @@
       "team": "WAS",
       "age": 25,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
@@ -9547,7 +9547,7 @@
       "team": "SF",
       "age": 33,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -11796,7 +11796,7 @@
       "team": "CHI",
       "age": 27,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
@@ -13471,7 +13471,7 @@
       "team": "WAS",
       "age": 27,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "TE"
       ],
