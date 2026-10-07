@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-07T20:30:36.687Z",
+  "fetched_at": "2026-10-07T21:30:34.887Z",
   "current_week": 5,
   "league": {
     "name": "The D-League",
@@ -1670,7 +1670,7 @@
         "9224",
         "10232",
         "7526",
-        "8110",
+        "5844",
         "9493",
         "8148",
         "2020",
@@ -3093,7 +3093,7 @@
         "9224",
         "10232",
         "7526",
-        "8110",
+        "5844",
         "9493",
         "8148",
         "2020",
@@ -7078,7 +7078,7 @@
       "team": "NYG",
       "age": 24,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
@@ -7981,7 +7981,7 @@
       "team": "NO",
       "age": 27,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "QB"
       ],
@@ -8753,7 +8753,7 @@
       "team": "MIA",
       "age": 22,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -10098,7 +10098,7 @@
       "team": "NO",
       "age": 31,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
@@ -11355,7 +11355,7 @@
       "team": "TEN",
       "age": 29,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
@@ -11487,7 +11487,7 @@
       "team": "TEN",
       "age": 29,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "DL"
       ],
@@ -12545,7 +12545,7 @@
       "team": "BAL",
       "age": 26,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -12987,7 +12987,7 @@
       "team": "NYG",
       "age": 26,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "TE"
       ],
