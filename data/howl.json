@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-07T10:31:36.831Z",
+  "fetched_at": "2026-10-07T11:30:19.010Z",
   "current_week": 5,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -63,6 +63,11 @@
     },
     "avatar": "3a2a8f32f6fec7c6b6663d1495cf1168",
     "company_id": null,
+    "last_message_id": "1413519979021668352",
+    "shard": 949,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -108,20 +113,15 @@
       "pts_allow_7_13": 4,
       "st_ff": 1
     },
-    "season": "2026",
-    "season_type": "regular",
-    "shard": 949,
-    "sport": "nfl",
-    "last_message_id": "1413466399594020864",
-    "draft_id": "1400845992303022080",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1791359159901,
+    "last_message_time": 1791371934232,
     "last_pinned_message_id": null,
+    "draft_id": "1400845992303022080",
     "last_read_id": null,
     "league_id": "1400845991007019008",
     "previous_league_id": null,
@@ -679,7 +679,7 @@
         "9228",
         "9487",
         "9493",
-        "CAR"
+        "NYG"
       ],
       "reserve": [
         "8408"
@@ -709,7 +709,7 @@
         "11584",
         "4199",
         "4227",
-        "CAR"
+        "0"
       ],
       "taxi": null
     },
@@ -1240,7 +1240,7 @@
         "9228",
         "9487",
         "9493",
-        "CAR"
+        "NYG"
       ],
       "roster_id": 7,
       "custom_points": null,
@@ -1255,7 +1255,7 @@
         "11584",
         "4199",
         "4227",
-        "CAR"
+        "0"
       ],
       "starters_points": [
         0,
@@ -1289,7 +1289,7 @@
         "12514": 0,
         "12534": 0,
         "13330": 0,
-        "CAR": 0
+        "NYG": 0
       }
     },
     {
@@ -2407,6 +2407,31 @@
         7
       ],
       "status_updated": 1790767032185,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1791371934192,
+      "settings": null,
+      "leg": 5,
+      "draft_picks": [],
+      "creator": "1401317827809398784",
+      "transaction_id": "1413519978853945344",
+      "adds": {
+        "NYG": 7
+      },
+      "consenter_ids": [
+        7
+      ],
+      "drops": {
+        "CAR": 7
+      },
+      "roster_ids": [
+        7
+      ],
+      "status_updated": 1791371934192,
       "waiver_budget": []
     },
     {
@@ -6333,6 +6358,28 @@
       "full_name": "New England Patriots",
       "position": "DEF",
       "team": "NE",
+      "age": null,
+      "status": null,
+      "injury_status": null,
+      "fantasy_positions": [
+        "DEF"
+      ],
+      "height": null,
+      "weight": null,
+      "years_exp": null,
+      "college": null,
+      "birth_date": null,
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": null,
+      "sportradar_id": null,
+      "fantasy_data_id": null
+    },
+    "NYG": {
+      "player_id": "NYG",
+      "full_name": "New York Giants",
+      "position": "DEF",
+      "team": "NYG",
       "age": null,
       "status": null,
       "injury_status": null,
