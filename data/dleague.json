@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-07T18:35:08.049Z",
+  "fetched_at": "2026-10-07T19:30:46.688Z",
   "current_week": 5,
   "league": {
     "name": "The D-League",
@@ -10847,7 +10847,7 @@
       "team": "PHI",
       "age": 31,
       "status": "Active",
-      "injury_status": "Doubtful",
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "TE"
       ],
@@ -12016,7 +12016,7 @@
       "team": "PIT",
       "age": 29,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -14330,7 +14330,7 @@
       "team": "MIN",
       "age": 24,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -14396,7 +14396,7 @@
       "team": "BAL",
       "age": 26,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
