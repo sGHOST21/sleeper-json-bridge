@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-07T09:32:05.073Z",
+  "fetched_at": "2026-10-07T10:31:34.851Z",
   "current_week": 5,
   "league": {
     "name": "The D-League",
@@ -125,18 +125,18 @@
     },
     "season": "2026",
     "season_type": "regular",
-    "shard": 169,
     "sport": "nfl",
-    "last_message_id": "1413457947257765888",
+    "shard": 169,
+    "last_message_id": "1413504298259660800",
+    "draft_id": "1398261761102098432",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1791357144707,
+    "last_message_time": 1791368195647,
     "last_pinned_message_id": null,
-    "draft_id": "1398261761102098432",
     "last_read_id": null,
     "league_id": "1384998212942692352",
     "previous_league_id": "1222634114906075136",
@@ -705,15 +705,15 @@
       "starters": [
         "1373",
         "12490",
-        "0",
+        "11577",
         "7090",
         "13294",
         "13330",
-        "7670",
+        "8131",
         "11637",
         "6083",
         "6183",
-        "6141",
+        "0",
         "6911",
         "8267"
       ],
@@ -1184,14 +1184,14 @@
         "6790",
         "8144",
         "13346",
-        "3214",
+        "3271",
         "5947",
         "9500",
-        "4227",
+        "11539",
         "12574",
         "6807",
         "13371",
-        "0"
+        "8311"
       ],
       "taxi": [
         "13274",
@@ -1235,7 +1235,7 @@
         "421",
         "4993",
         "4999",
-        "6888",
+        "5876",
         "7528",
         "7611",
         "8142",
@@ -1272,11 +1272,11 @@
         "11620",
         "4993",
         "9487",
-        "4037",
+        "13279",
         "3451",
         "4999",
         "10880",
-        "6888",
+        "5876",
         "12617"
       ],
       "taxi": [
@@ -1351,10 +1351,10 @@
         "5892",
         "8137",
         "9997",
-        "1466",
         "12506",
+        "4035",
         "12512",
-        "6650",
+        "13833",
         "12556",
         "2617",
         "11705",
@@ -1621,11 +1621,12 @@
         "13317",
         "13337",
         "13353",
+        "2020",
         "2449",
         "3257",
         "4881",
-        "5095",
         "5844",
+        "6125",
         "6217",
         "7526",
         "7811",
@@ -1662,16 +1663,16 @@
         "wins": 1
       },
       "starters": [
-        "4881",
+        "3257",
         "8138",
         "9224",
         "10232",
-        "2449",
+        "7526",
         "8110",
         "9493",
-        "11576",
-        "5095",
-        "8280",
+        "8148",
+        "2020",
+        "6125",
         "7841",
         "7811",
         "6217"
@@ -1967,15 +1968,15 @@
       "starters": [
         "1373",
         "12490",
-        "0",
+        "11577",
         "7090",
         "13294",
         "13330",
-        "7670",
+        "8131",
         "11637",
         "6083",
         "6183",
-        "6141",
+        "0",
         "6911",
         "8267"
       ],
@@ -2519,14 +2520,14 @@
         "6790",
         "8144",
         "13346",
-        "3214",
+        "3271",
         "5947",
         "9500",
-        "4227",
+        "11539",
         "12574",
         "6807",
         "13371",
-        "0"
+        "8311"
       ],
       "starters_points": [
         0,
@@ -2599,7 +2600,7 @@
         "421",
         "4993",
         "4999",
-        "6888",
+        "5876",
         "7528",
         "7611",
         "8142",
@@ -2618,11 +2619,11 @@
         "11620",
         "4993",
         "9487",
-        "4037",
+        "13279",
         "3451",
         "4999",
         "10880",
-        "6888",
+        "5876",
         "12617"
       ],
       "starters_points": [
@@ -2648,7 +2649,7 @@
         "4037": 0,
         "4993": 0,
         "4999": 0,
-        "6888": 0,
+        "5876": 0,
         "7528": 0,
         "7611": 0,
         "8142": 0,
@@ -2713,10 +2714,10 @@
         "5892",
         "8137",
         "9997",
-        "1466",
         "12506",
+        "4035",
         "12512",
-        "6650",
+        "13833",
         "12556",
         "2617",
         "11705",
@@ -3057,11 +3058,12 @@
         "13317",
         "13337",
         "13353",
+        "2020",
         "2449",
         "3257",
         "4881",
-        "5095",
         "5844",
+        "6125",
         "6217",
         "7526",
         "7811",
@@ -3088,8 +3090,8 @@
         "8110",
         "9493",
         "8148",
-        "5095",
-        "8280",
+        "2020",
+        "6125",
         "7841",
         "7811",
         "6217"
@@ -3110,11 +3112,12 @@
         0
       ],
       "players_points": {
+        "2020": 0,
         "2449": 0,
         "3257": 0,
         "4881": 0,
-        "5095": 0,
         "5844": 0,
+        "6125": 0,
         "6217": 0,
         "7526": 0,
         "7811": 0,
@@ -5169,6 +5172,104 @@
         13
       ],
       "status_updated": 1790776074611,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1791368195614,
+      "settings": null,
+      "leg": 5,
+      "draft_picks": [],
+      "creator": "733456145330585600",
+      "transaction_id": "1413504298125479936",
+      "adds": {
+        "5876": 8
+      },
+      "drops": {
+        "6888": 8
+      },
+      "consenter_ids": [
+        8
+      ],
+      "roster_ids": [
+        8
+      ],
+      "status_updated": 1791368195614,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1791367275864,
+      "settings": null,
+      "leg": 5,
+      "draft_picks": [],
+      "creator": "737708656518385664",
+      "transaction_id": "1413500440414265344",
+      "adds": {
+        "6125": 13
+      },
+      "drops": null,
+      "consenter_ids": [
+        13
+      ],
+      "roster_ids": [
+        13
+      ],
+      "status_updated": 1791367275864,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1791367101562,
+      "settings": null,
+      "leg": 5,
+      "draft_picks": [],
+      "creator": "737708656518385664",
+      "transaction_id": "1413499709334528000",
+      "adds": {
+        "2020": 13
+      },
+      "drops": {
+        "12961": 13
+      },
+      "consenter_ids": [
+        13
+      ],
+      "roster_ids": [
+        13
+      ],
+      "status_updated": 1791367101562,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1791367036317,
+      "settings": null,
+      "leg": 5,
+      "draft_picks": [],
+      "creator": "737708656518385664",
+      "transaction_id": "1413499435681329152",
+      "adds": {
+        "12961": 13
+      },
+      "drops": {
+        "5095": 13
+      },
+      "consenter_ids": [
+        13
+      ],
+      "roster_ids": [
+        13
+      ],
+      "status_updated": 1791367036317,
       "waiver_budget": []
     }
   ],
@@ -8040,6 +8141,28 @@
       "sportradar_id": "ccb6d700-ac74-4f6b-9f86-d1aa74d0c318",
       "fantasy_data_id": 25001
     },
+    "12961": {
+      "player_id": "12961",
+      "full_name": "Ryan Fitzgerald",
+      "position": "K",
+      "team": "CAR",
+      "age": 26,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "K"
+      ],
+      "height": "71",
+      "weight": "201",
+      "years_exp": 1,
+      "college": "Florida State",
+      "birth_date": "2000-08-13",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 18508,
+      "sportradar_id": "7bf5a2e0-2512-11f0-9825-33176da47896",
+      "fantasy_data_id": 26108
+    },
     "13264": {
       "player_id": "13264",
       "full_name": "Dohnte Meyers",
@@ -9295,6 +9418,28 @@
       "rotowire_id": 9646,
       "sportradar_id": "441eb531-1ec8-4f65-9174-78bc6adada63",
       "fantasy_data_id": 16191
+    },
+    "2020": {
+      "player_id": "2020",
+      "full_name": "Cairo Santos",
+      "position": "K",
+      "team": "CHI",
+      "age": 34,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "K"
+      ],
+      "height": "68",
+      "weight": "173",
+      "years_exp": 12,
+      "college": "Tulane",
+      "birth_date": "1991-11-12",
+      "espn_id": 17427,
+      "yahoo_id": 28227,
+      "rotowire_id": 9633,
+      "sportradar_id": "d96ff17c-841a-4768-8e08-3a4cfcb7f717",
+      "fantasy_data_id": 16301
     },
     "2133": {
       "player_id": "2133",
@@ -11257,6 +11402,28 @@
       "rotowire_id": 13584,
       "sportradar_id": "b8e0fa49-1122-4e97-9fe2-d90f6b7cb444",
       "fantasy_data_id": 20989
+    },
+    "6125": {
+      "player_id": "6125",
+      "full_name": "Jeffery Simmons",
+      "position": "DT",
+      "team": "TEN",
+      "age": 29,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "DL"
+      ],
+      "height": "76",
+      "weight": "305",
+      "years_exp": 7,
+      "college": "Mississippi State",
+      "birth_date": "1997-07-28",
+      "espn_id": 4035369,
+      "yahoo_id": 31851,
+      "rotowire_id": 13465,
+      "sportradar_id": "dcbe3642-aa52-43e6-8f4c-4b9809377c4d",
+      "fantasy_data_id": 20940
     },
     "6130": {
       "player_id": "6130",
