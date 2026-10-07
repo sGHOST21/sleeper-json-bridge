@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-07T22:28:14.820Z",
+  "fetched_at": "2026-10-07T23:26:45.192Z",
   "current_week": 5,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -3786,7 +3786,7 @@
       "team": "SF",
       "age": 24,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
@@ -6074,7 +6074,7 @@
       "team": "LAC",
       "age": 25,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
