@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-07T21:30:36.212Z",
+  "fetched_at": "2026-10-07T22:28:13.623Z",
   "current_week": 5,
   "league": {
     "name": "Brass City League",
@@ -567,14 +567,14 @@
       "starters": [
         "8183",
         "6790",
-        "0",
+        "10219",
         "11834",
         "8121",
         "12517",
-        "11624",
-        "7571",
+        "13264",
+        "11631",
         "13545",
-        "5840",
+        "10898",
         "13377",
         "13371",
         "13453"
@@ -1646,14 +1646,14 @@
       "starters": [
         "8183",
         "6790",
-        "0",
+        "10219",
         "11834",
         "8121",
         "12517",
-        "11624",
-        "7571",
+        "13264",
+        "11631",
         "13545",
-        "5840",
+        "10898",
         "13377",
         "13371",
         "13453"
@@ -4002,7 +4002,7 @@
       "team": "HOU",
       "age": 25,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "DL",
         "LB"
@@ -4555,7 +4555,7 @@
       "team": "LV",
       "age": 23,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "TE"
       ],
@@ -7112,7 +7112,7 @@
       "team": "WAS",
       "age": 21,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "LB"
       ],
@@ -8612,7 +8612,7 @@
       "team": "WAS",
       "age": 30,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "LB"
       ],
@@ -10204,7 +10204,7 @@
       "team": "NE",
       "age": 27,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "LB"
       ],
@@ -10953,7 +10953,7 @@
       "team": "BAL",
       "age": 25,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "DB"
       ],
@@ -10975,7 +10975,7 @@
       "team": "WAS",
       "age": 25,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "DB"
       ],
