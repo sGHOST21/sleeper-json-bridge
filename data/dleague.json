@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-07T23:26:43.234Z",
+  "fetched_at": "2026-10-08T00:40:27.013Z",
   "current_week": 5,
   "league": {
     "name": "The D-League",
@@ -6327,7 +6327,7 @@
       "full_name": "Adonai Mitchell",
       "position": "WR",
       "team": "NYJ",
-      "age": 23,
+      "age": 24,
       "status": "Active",
       "injury_status": "Doubtful",
       "fantasy_positions": [
@@ -6437,7 +6437,7 @@
       "full_name": "Brian Thomas",
       "position": "WR",
       "team": "JAX",
-      "age": 23,
+      "age": 24,
       "status": "Active",
       "injury_status": null,
       "fantasy_positions": [
@@ -6902,7 +6902,7 @@
       "team": "SEA",
       "age": 26,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
@@ -11001,7 +11001,7 @@
       "team": "JAX",
       "age": 29,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "DL",
         "LB"
