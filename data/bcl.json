@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-08T15:33:48.544Z",
+  "fetched_at": "2026-10-08T16:34:52.457Z",
   "current_week": 5,
   "league": {
     "name": "Brass City League",
@@ -486,7 +486,7 @@
       },
       "starters": [
         "3163",
-        "4866",
+        "7021",
         "9224",
         "8144",
         "12514",
@@ -1550,7 +1550,7 @@
       "matchup_id": 4,
       "starters": [
         "3163",
-        "4866",
+        "7021",
         "9224",
         "8144",
         "12514",
@@ -9659,7 +9659,7 @@
       "team": "PIT",
       "age": 29,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ],

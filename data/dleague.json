@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-08T15:33:47.596Z",
+  "fetched_at": "2026-10-08T16:34:51.364Z",
   "current_week": 5,
   "league": {
     "name": "The D-League",
@@ -66,6 +66,11 @@
     },
     "avatar": "31647870b5248d13691a1b97ccb9b0a0",
     "company_id": null,
+    "sport": "nfl",
+    "season_type": "regular",
+    "season": "2026",
+    "last_message_id": "1413961650393960448",
+    "shard": 169,
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -123,20 +128,15 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
-    "shard": 169,
-    "last_message_id": "1413527775905656832",
+    "draft_id": "1398261761102098432",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1791373793154,
+    "last_message_time": 1791477236892,
     "last_pinned_message_id": null,
-    "draft_id": "1398261761102098432",
     "last_read_id": null,
     "league_id": "1384998212942692352",
     "previous_league_id": "1222634114906075136",
@@ -144,6 +144,7 @@
     "bracket_overrides_id": null,
     "group_id": null,
     "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -169,7 +170,6 @@
       "BN",
       "BN"
     ],
-    "loser_bracket_overrides_id": null,
     "total_rosters": 14
   },
   "users": [
@@ -671,12 +671,12 @@
         "6083",
         "6141",
         "6183",
+        "6214",
         "6911",
         "7090",
         "7670",
         "8131",
         "8267",
-        "8329",
         "9225",
         "9494",
         "9502"
@@ -713,7 +713,7 @@
         "11637",
         "6083",
         "6183",
-        "0",
+        "6214",
         "6911",
         "8267"
       ],
@@ -1954,12 +1954,12 @@
         "6083",
         "6141",
         "6183",
+        "6214",
         "6911",
         "7090",
         "7670",
         "8131",
         "8267",
-        "8329",
         "9225",
         "9494",
         "9502"
@@ -1978,7 +1978,7 @@
         "11637",
         "6083",
         "6183",
-        "0",
+        "6214",
         "6911",
         "8267"
       ],
@@ -2003,12 +2003,12 @@
         "6083": 0,
         "6141": 0,
         "6183": 0,
+        "6214": 0,
         "6911": 0,
         "7090": 0,
         "7670": 0,
         "8131": 0,
         "8267": 0,
-        "8329": 0,
         "9225": 0,
         "9494": 0,
         "9502": 0,
@@ -5178,6 +5178,56 @@
         13
       ],
       "status_updated": 1790776074611,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1791477291157,
+      "settings": null,
+      "leg": 5,
+      "draft_picks": [],
+      "creator": "703353523932336128",
+      "transaction_id": "1413961877997809664",
+      "adds": {
+        "8129": 4
+      },
+      "drops": {
+        "8161": 4
+      },
+      "consenter_ids": [
+        4
+      ],
+      "roster_ids": [
+        4
+      ],
+      "status_updated": 1791477291157,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1791477236865,
+      "settings": null,
+      "leg": 5,
+      "draft_picks": [],
+      "creator": "716111666881851392",
+      "transaction_id": "1413961650280611840",
+      "adds": {
+        "6214": 1
+      },
+      "drops": {
+        "8329": 1
+      },
+      "consenter_ids": [
+        1
+      ],
+      "roster_ids": [
+        1
+      ],
+      "status_updated": 1791477236865,
       "waiver_budget": []
     },
     {
@@ -11591,6 +11641,28 @@
       "sportradar_id": "7b47d190-168b-44bc-bb91-a688fe28f768",
       "fantasy_data_id": 20971
     },
+    "6214": {
+      "player_id": "6214",
+      "full_name": "Quincy Williams",
+      "position": "LB",
+      "team": "CLE",
+      "age": 30,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "LB"
+      ],
+      "height": "71",
+      "weight": "230",
+      "years_exp": 7,
+      "college": "Murray State",
+      "birth_date": "1996-08-28",
+      "espn_id": 3110565,
+      "yahoo_id": 31930,
+      "rotowire_id": 13982,
+      "sportradar_id": "8227621d-ad2e-4dea-aef5-64d4f154adb2",
+      "fantasy_data_id": 21109
+    },
     "6217": {
       "player_id": "6217",
       "full_name": "Blake Cashman",
@@ -12016,7 +12088,7 @@
       "team": "PIT",
       "age": 29,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ],
@@ -12957,6 +13029,28 @@
       "rotowire_id": 15838,
       "sportradar_id": "582dfe0e-98f3-48a5-8a2d-a52baa926b05",
       "fantasy_data_id": 23170
+    },
+    "8129": {
+      "player_id": "8129",
+      "full_name": "Dameon Pierce",
+      "position": "RB",
+      "team": "PHI",
+      "age": 26,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "RB"
+      ],
+      "height": "70",
+      "weight": "218",
+      "years_exp": 4,
+      "college": "Florida",
+      "birth_date": "2000-02-19",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 15875,
+      "sportradar_id": "5d4ef6da-a6b5-4d9c-adc0-28dfdbe9315e",
+      "fantasy_data_id": 23223
     },
     "8130": {
       "player_id": "8130",
