@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-08T19:31:04.264Z",
+  "fetched_at": "2026-10-08T20:33:04.205Z",
   "current_week": 5,
   "league": {
     "name": "The D-League",
@@ -12664,7 +12664,7 @@
       "team": "BAL",
       "age": 26,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -13811,7 +13811,7 @@
       "team": "BAL",
       "age": 25,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "DB"
       ],
