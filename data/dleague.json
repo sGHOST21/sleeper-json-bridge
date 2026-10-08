@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-08T20:33:04.205Z",
+  "fetched_at": "2026-10-08T21:30:52.069Z",
   "current_week": 5,
   "league": {
     "name": "The D-League",
@@ -6272,7 +6272,7 @@
       "team": "LV",
       "age": 23,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "TE"
       ],
@@ -6624,7 +6624,7 @@
       "team": "MIA",
       "age": 23,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
@@ -7461,7 +7461,7 @@
       "team": "TEN",
       "age": 24,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "TE"
       ],
@@ -7813,7 +7813,7 @@
       "team": "LV",
       "age": 22,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
@@ -8056,7 +8056,7 @@
       "team": "NO",
       "age": 27,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "QB"
       ],
@@ -8520,7 +8520,7 @@
       "team": "TEN",
       "age": 21,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -11430,7 +11430,7 @@
       "team": "TEN",
       "age": 29,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "RB"
       ],
@@ -13282,7 +13282,7 @@
       "team": "NO",
       "age": 26,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -14141,7 +14141,7 @@
       "team": "PHI",
       "age": 25,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
