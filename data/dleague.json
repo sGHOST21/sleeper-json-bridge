@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-08T16:34:51.364Z",
+  "fetched_at": "2026-10-08T17:31:03.522Z",
   "current_week": 5,
   "league": {
     "name": "The D-League",
@@ -66,11 +66,6 @@
     },
     "avatar": "31647870b5248d13691a1b97ccb9b0a0",
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
-    "last_message_id": "1413961650393960448",
-    "shard": 169,
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -128,6 +123,11 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
+    "season": "2026",
+    "season_type": "regular",
+    "shard": 169,
+    "sport": "nfl",
+    "last_message_id": "1413961878102605824",
     "draft_id": "1398261761102098432",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
@@ -135,16 +135,11 @@
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1791477236892,
+    "last_message_time": 1791477291182,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1384998212942692352",
     "previous_league_id": "1222634114906075136",
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -170,6 +165,11 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 14
   },
   "users": [
@@ -906,7 +906,7 @@
         "7525",
         "7567",
         "7648",
-        "8161",
+        "8129",
         "8266",
         "9482",
         "9484"
@@ -2230,7 +2230,7 @@
         "7525",
         "7567",
         "7648",
-        "8161",
+        "8129",
         "8266",
         "9482",
         "9484"
@@ -2276,7 +2276,7 @@
         "7525": 0,
         "7567": 0,
         "7648": 0,
-        "8161": 0,
+        "8129": 0,
         "8266": 0,
         "9482": 0,
         "9484": 0,
