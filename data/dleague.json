@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-09T14:35:34.900Z",
+  "fetched_at": "2026-10-09T15:31:35.937Z",
   "current_week": 5,
   "league": {
     "name": "The D-League",
@@ -6404,7 +6404,7 @@
       "team": "NYJ",
       "age": 24,
       "status": "Active",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ],
@@ -13414,7 +13414,7 @@
       "team": "NYJ",
       "age": 25,
       "status": "Active",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "fantasy_positions": [
         "RB"
       ],

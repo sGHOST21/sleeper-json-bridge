@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-09T14:35:36.888Z",
+  "fetched_at": "2026-10-09T15:31:37.926Z",
   "current_week": 5,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -5684,7 +5684,7 @@
       "team": "NYJ",
       "age": 25,
       "status": "Active",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "fantasy_positions": [
         "RB"
       ],

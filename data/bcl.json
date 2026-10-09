@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-09T14:35:35.924Z",
+  "fetched_at": "2026-10-09T15:31:37.015Z",
   "current_week": 5,
   "league": {
     "name": "Brass City League",
@@ -1205,7 +1205,7 @@
         "7547",
         "6786",
         "10859",
-        "6819",
+        "13298",
         "5844",
         "11786",
         "11667",
@@ -2400,7 +2400,7 @@
         "7547",
         "6786",
         "10859",
-        "6819",
+        "13298",
         "5844",
         "11786",
         "11667",
@@ -4832,7 +4832,7 @@
       "team": "NYJ",
       "age": 24,
       "status": "Active",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ],
@@ -10943,7 +10943,7 @@
       "team": "NYJ",
       "age": 25,
       "status": "Active",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "fantasy_positions": [
         "RB"
       ],
