@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-09T20:29:36.130Z",
+  "fetched_at": "2026-10-09T21:30:10.139Z",
   "current_week": 5,
   "league": {
     "name": "Brass City League",
@@ -4989,7 +4989,7 @@
       "team": "NYG",
       "age": 23,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -5606,7 +5606,7 @@
       "team": "NYG",
       "age": 24,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "RB"
       ],
@@ -5760,7 +5760,7 @@
       "team": "DEN",
       "age": 23,
       "status": "Active",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "fantasy_positions": [
         "WR"
       ],
@@ -5848,7 +5848,7 @@
       "team": "NYJ",
       "age": 22,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "TE"
       ],
@@ -6333,7 +6333,7 @@
       "team": "WAS",
       "age": 25,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "RB"
       ],
@@ -6818,7 +6818,7 @@
       "team": "ARI",
       "age": 21,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "RB"
       ],
@@ -6906,7 +6906,7 @@
       "team": "MIA",
       "age": 23,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ],
@@ -7016,7 +7016,7 @@
       "team": "MIA",
       "age": 22,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -7657,7 +7657,7 @@
       "team": "SF",
       "age": 33,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -10660,7 +10660,7 @@
       "team": "NYG",
       "age": 26,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "TE"
       ],
@@ -10726,7 +10726,7 @@
       "team": "WAS",
       "age": 27,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "RB"
       ],
@@ -11805,7 +11805,7 @@
       "team": "LAC",
       "age": 25,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ],
