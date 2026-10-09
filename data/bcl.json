@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-09T17:30:03.642Z",
+  "fetched_at": "2026-10-09T18:33:13.949Z",
   "current_week": 5,
   "league": {
     "name": "Brass City League",
@@ -68,10 +68,10 @@
     },
     "avatar": "71eb884a69970234d6aab2bcc692e78f",
     "company_id": null,
-    "shard": 134,
-    "season": "2026",
-    "season_type": "regular",
     "sport": "nfl",
+    "season_type": "regular",
+    "season": "2026",
+    "shard": 134,
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -129,22 +129,22 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "last_message_id": "1414082779905347584",
+    "last_message_id": "1414353823417274368",
+    "draft_id": "1387554218864291840",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1791506116419,
-    "draft_id": "1387554218864291840",
+    "last_message_time": 1791570738228,
     "last_pinned_message_id": null,
-    "last_read_id": null,
     "league_id": "1387554218847502336",
+    "last_read_id": null,
     "previous_league_id": "1222634893318561792",
-    "group_id": null,
     "bracket_id": null,
     "bracket_overrides_id": null,
+    "group_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -1316,6 +1316,7 @@
         "11564",
         "11584",
         "11646",
+        "12469",
         "12484",
         "12505",
         "12512",
@@ -1336,7 +1337,6 @@
         "7839",
         "8150",
         "8659",
-        "9225",
         "9500",
         "9508",
         "9754",
@@ -2560,6 +2560,7 @@
         "11564",
         "11584",
         "11646",
+        "12469",
         "12484",
         "12505",
         "12512",
@@ -2580,7 +2581,6 @@
         "7839",
         "8150",
         "8659",
-        "9225",
         "9500",
         "9508",
         "9754",
@@ -2632,7 +2632,6 @@
         "7839": 0,
         "8150": 0,
         "8659": 0,
-        "9225": 0,
         "9500": 0,
         "9508": 0,
         "9754": 0,
@@ -2641,6 +2640,7 @@
         "11564": 0,
         "11584": 30.5,
         "11646": 0,
+        "12469": 0,
         "12484": 0,
         "12505": 0,
         "12512": 0,
@@ -3770,6 +3770,31 @@
         8
       ],
       "status_updated": 1790821847957,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1791570738194,
+      "settings": null,
+      "leg": 5,
+      "draft_picks": [],
+      "creator": "737708656518385664",
+      "transaction_id": "1414353823274647552",
+      "adds": {
+        "12469": 12
+      },
+      "consenter_ids": [
+        12
+      ],
+      "drops": {
+        "9225": 12
+      },
+      "roster_ids": [
+        12
+      ],
+      "status_updated": 1791570738194,
       "waiver_budget": []
     },
     {
@@ -8426,7 +8451,7 @@
       "team": "BAL",
       "age": 29,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "QB"
       ],
@@ -10789,7 +10814,7 @@
       "team": "NO",
       "age": 26,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
