@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-09T19:30:04.475Z",
+  "fetched_at": "2026-10-09T20:29:38.312Z",
   "current_week": 5,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -3616,7 +3616,7 @@
       "team": "TEN",
       "age": 21,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -3924,7 +3924,7 @@
       "team": "WAS",
       "age": 32,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ],
@@ -4276,7 +4276,7 @@
       "team": "PHI",
       "age": 29,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "RB"
       ],
@@ -4430,7 +4430,7 @@
       "team": "PHI",
       "age": 31,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "TE"
       ],
@@ -5046,7 +5046,7 @@
       "team": "PHI",
       "age": 27,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ],
