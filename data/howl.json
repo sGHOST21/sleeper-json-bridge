@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-09T03:31:42.846Z",
+  "fetched_at": "2026-10-09T04:32:10.587Z",
   "current_week": 5,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -112,19 +112,24 @@
     "season_type": "regular",
     "sport": "nfl",
     "shard": 949,
-    "last_message_id": "1414088315845521408",
+    "last_message_id": "1414130226430070784",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1791507436290,
+    "last_message_time": 1791517428551,
     "last_pinned_message_id": null,
     "draft_id": "1400845992303022080",
     "last_read_id": null,
     "league_id": "1400845991007019008",
     "previous_league_id": null,
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -146,11 +151,6 @@
       "BN",
       "BN"
     ],
-    "group_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 8
   },
   "users": [
@@ -356,6 +356,7 @@
         "13279",
         "13414",
         "4037",
+        "5846",
         "5927",
         "5967",
         "6770",
@@ -365,7 +366,6 @@
         "8112",
         "8130",
         "8138",
-        "8161",
         "HOU",
         "PIT"
       ],
@@ -392,7 +392,7 @@
         "8138",
         "12527",
         "8112",
-        "13279",
+        "5846",
         "8130",
         "7571",
         "11563",
@@ -867,6 +867,7 @@
         "13279",
         "13414",
         "4037",
+        "5846",
         "5927",
         "5967",
         "6770",
@@ -876,7 +877,6 @@
         "8112",
         "8130",
         "8138",
-        "8161",
         "HOU",
         "PIT"
       ],
@@ -888,7 +888,7 @@
         "8138",
         "12527",
         "8112",
-        "13279",
+        "5846",
         "8130",
         "7571",
         "11563",
@@ -910,6 +910,7 @@
       "players_points": {
         "1166": 0,
         "4037": 7,
+        "5846": 0,
         "5927": 0,
         "5967": 0,
         "6770": 0,
@@ -919,7 +920,6 @@
         "8112": 0,
         "8130": 0,
         "8138": 0,
-        "8161": 0,
         "11563": 0,
         "11786": 0,
         "12526": 0,
@@ -2413,6 +2413,31 @@
       "status": "complete",
       "type": "free_agent",
       "metadata": null,
+      "created": 1791517428522,
+      "settings": null,
+      "leg": 5,
+      "draft_picks": [],
+      "creator": "1400852933964230656",
+      "transaction_id": "1414130226308354048",
+      "adds": {
+        "5846": 2
+      },
+      "consenter_ids": [
+        2
+      ],
+      "drops": {
+        "8161": 2
+      },
+      "roster_ids": [
+        2
+      ],
+      "status_updated": 1791517428522,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
       "created": 1791507436260,
       "settings": null,
       "leg": 5,
@@ -2422,12 +2447,12 @@
       "adds": {
         "7553": 3
       },
-      "drops": {
-        "12517": 3
-      },
       "consenter_ids": [
         3
       ],
+      "drops": {
+        "12517": 3
+      },
       "roster_ids": [
         3
       ],
@@ -2447,12 +2472,12 @@
       "adds": {
         "NYG": 7
       },
-      "drops": {
-        "CAR": 7
-      },
       "consenter_ids": [
         7
       ],
+      "drops": {
+        "CAR": 7
+      },
       "roster_ids": [
         7
       ],
@@ -2472,10 +2497,10 @@
       "adds": {
         "13279": 2
       },
-      "drops": null,
       "consenter_ids": [
         2
       ],
+      "drops": null,
       "roster_ids": [
         2
       ],
