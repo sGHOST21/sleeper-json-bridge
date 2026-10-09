@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-09T13:34:31.395Z",
+  "fetched_at": "2026-10-09T14:35:34.900Z",
   "current_week": 5,
   "league": {
     "name": "The D-League",
@@ -703,7 +703,7 @@
         "wins": 1
       },
       "starters": [
-        "1373",
+        "1166",
         "12490",
         "11577",
         "7090",
@@ -1968,7 +1968,7 @@
       "custom_points": null,
       "matchup_id": 7,
       "starters": [
-        "1373",
+        "1166",
         "12490",
         "11577",
         "7090",
