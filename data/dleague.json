@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-10T19:27:40.696Z",
+  "fetched_at": "2026-10-10T20:28:32.885Z",
   "current_week": 5,
   "league": {
     "name": "The D-League",
@@ -5857,7 +5857,7 @@
       "team": "GB",
       "age": 26,
       "status": "Active",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "fantasy_positions": [
         "RB"
       ],
@@ -10463,7 +10463,7 @@
       "team": "NE",
       "age": 33,
       "status": "Active",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "fantasy_positions": [
         "WR"
       ],
@@ -12159,8 +12159,8 @@
       "position": "WR",
       "team": "PIT",
       "age": 29,
-      "status": "Active",
-      "injury_status": "Out",
+      "status": "Inactive",
+      "injury_status": "IR",
       "fantasy_positions": [
         "WR"
       ],

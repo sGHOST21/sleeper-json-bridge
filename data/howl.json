@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-10T19:27:42.910Z",
+  "fetched_at": "2026-10-10T20:28:34.538Z",
   "current_week": 5,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -4935,8 +4935,8 @@
       "position": "WR",
       "team": "PIT",
       "age": 29,
-      "status": "Active",
-      "injury_status": "Out",
+      "status": "Inactive",
+      "injury_status": "IR",
       "fantasy_positions": [
         "WR"
       ],
