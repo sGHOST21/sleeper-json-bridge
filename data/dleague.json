@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-09T23:28:46.685Z",
+  "fetched_at": "2026-10-10T00:41:21.754Z",
   "current_week": 5,
   "league": {
     "name": "The D-League",
@@ -8782,7 +8782,7 @@
       "full_name": "Cade Klubnik",
       "position": "QB",
       "team": "NYJ",
-      "age": 22,
+      "age": 23,
       "status": "Active",
       "injury_status": null,
       "fantasy_positions": [
@@ -8914,7 +8914,7 @@
       "full_name": "Emmett Johnson",
       "position": "RB",
       "team": "KC",
-      "age": 22,
+      "age": 23,
       "status": "Active",
       "injury_status": null,
       "fantasy_positions": [
@@ -9466,7 +9466,7 @@
       "full_name": "Geno Smith",
       "position": "QB",
       "team": "NYJ",
-      "age": 35,
+      "age": 36,
       "status": "Active",
       "injury_status": null,
       "fantasy_positions": [
@@ -10964,7 +10964,7 @@
       "full_name": "Courtland Sutton",
       "position": "WR",
       "team": "DEN",
-      "age": 30,
+      "age": 31,
       "status": "Active",
       "injury_status": null,
       "fantasy_positions": [
