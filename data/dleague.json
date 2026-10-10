@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-10T16:28:58.041Z",
+  "fetched_at": "2026-10-10T17:27:32.452Z",
   "current_week": 5,
   "league": {
     "name": "The D-League",
@@ -70,7 +70,6 @@
     "season": "2026",
     "season_type": "regular",
     "sport": "nfl",
-    "last_message_id": "1413982938793521152",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -128,6 +127,7 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
+    "last_message_id": "1414699107506774016",
     "draft_id": "1398261761102098432",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
@@ -135,7 +135,7 @@
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1791482312443,
+    "last_message_time": 1791653060370,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1384998212942692352",
@@ -165,9 +165,9 @@
       "BN",
       "BN"
     ],
+    "group_id": null,
     "bracket_id": null,
     "bracket_overrides_id": null,
-    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 14
@@ -1216,6 +1216,7 @@
         "10880",
         "11620",
         "11627",
+        "11760",
         "12469",
         "12472",
         "12489",
@@ -1234,7 +1235,6 @@
         "4037",
         "421",
         "4993",
-        "4999",
         "5876",
         "7528",
         "7611",
@@ -1274,7 +1274,7 @@
         "9487",
         "13279",
         "3451",
-        "4999",
+        "11760",
         "10880",
         "5876",
         "12617"
@@ -2583,6 +2583,7 @@
         "10880",
         "11620",
         "11627",
+        "11760",
         "12469",
         "12472",
         "12489",
@@ -2601,7 +2602,6 @@
         "4037",
         "421",
         "4993",
-        "4999",
         "5876",
         "7528",
         "7611",
@@ -2623,7 +2623,7 @@
         "9487",
         "13279",
         "3451",
-        "4999",
+        "11760",
         "10880",
         "5876",
         "12617"
@@ -2650,7 +2650,6 @@
         "3634": 0,
         "4037": 5.5,
         "4993": 0,
-        "4999": 0,
         "5876": 0,
         "7528": 0,
         "7611": 0,
@@ -2661,6 +2660,7 @@
         "10880": 0,
         "11620": 0,
         "11627": 0,
+        "11760": 0,
         "12469": 0,
         "12472": 0,
         "12489": 0,
@@ -6860,6 +6860,28 @@
       "sportradar_id": "f5e0334b-b5f1-422f-a437-199c36cc108d",
       "fantasy_data_id": 24930
     },
+    "11760": {
+      "player_id": "11760",
+      "full_name": "Austin Booker",
+      "position": "DL",
+      "team": "CHI",
+      "age": 23,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "DL"
+      ],
+      "height": "78",
+      "weight": "245",
+      "years_exp": 2,
+      "college": "Kansas",
+      "birth_date": "2002-12-14",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 17839,
+      "sportradar_id": "e062739b-9948-47aa-aa50-604483c45b8b",
+      "fantasy_data_id": 24942
+    },
     "11783": {
       "player_id": "11783",
       "full_name": "Ryan Flournoy",
@@ -10848,28 +10870,6 @@
       "rotowire_id": 12764,
       "sportradar_id": "1012cbe0-7eba-4169-bfca-183a0204e1a7",
       "fantasy_data_id": 19853
-    },
-    "4999": {
-      "player_id": "4999",
-      "full_name": "Josh Sweat",
-      "position": "DE",
-      "team": "ARI",
-      "age": 29,
-      "status": "Active",
-      "injury_status": null,
-      "fantasy_positions": [
-        "DL"
-      ],
-      "height": "77",
-      "weight": "265",
-      "years_exp": 8,
-      "college": "Florida State",
-      "birth_date": "1997-03-29",
-      "espn_id": 3693166,
-      "yahoo_id": 31101,
-      "rotowire_id": 12546,
-      "sportradar_id": "66a67b5d-500d-46e8-90c6-e2f127d38190",
-      "fantasy_data_id": 19918
     },
     "5001": {
       "player_id": "5001",
