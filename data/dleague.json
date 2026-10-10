@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-10T15:28:30.643Z",
+  "fetched_at": "2026-10-10T16:28:58.041Z",
   "current_week": 5,
   "league": {
     "name": "The D-League",
@@ -6470,7 +6470,7 @@
       "team": "ARI",
       "age": 24,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ],
@@ -11628,7 +11628,7 @@
       "team": "IND",
       "age": 29,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ],
