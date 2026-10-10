@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-10T20:28:33.744Z",
+  "fetched_at": "2026-10-10T21:28:20.839Z",
   "current_week": 5,
   "league": {
     "name": "Brass City League",
@@ -4426,7 +4426,7 @@
       "position": "RB",
       "team": "GB",
       "age": 26,
-      "status": "Active",
+      "status": "Inactive",
       "injury_status": "IR",
       "fantasy_positions": [
         "RB"
@@ -8416,7 +8416,7 @@
       "position": "WR",
       "team": "NE",
       "age": 33,
-      "status": "Active",
+      "status": "Inactive",
       "injury_status": "IR",
       "fantasy_positions": [
         "WR"
@@ -11441,7 +11441,7 @@
       "team": "LAR",
       "age": 27,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "LB"
       ],
