@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-10T17:27:32.452Z",
+  "fetched_at": "2026-10-10T18:32:24.921Z",
   "current_week": 5,
   "league": {
     "name": "The D-League",
@@ -5178,6 +5178,31 @@
         13
       ],
       "status_updated": 1790776074611,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1791653060335,
+      "settings": null,
+      "leg": 5,
+      "draft_picks": [],
+      "creator": "733456145330585600",
+      "transaction_id": "1414699107364114432",
+      "adds": {
+        "11760": 8
+      },
+      "consenter_ids": [
+        8
+      ],
+      "drops": {
+        "4999": 8
+      },
+      "roster_ids": [
+        8
+      ],
+      "status_updated": 1791653060335,
       "waiver_budget": []
     },
     {
@@ -10871,6 +10896,28 @@
       "sportradar_id": "1012cbe0-7eba-4169-bfca-183a0204e1a7",
       "fantasy_data_id": 19853
     },
+    "4999": {
+      "player_id": "4999",
+      "full_name": "Josh Sweat",
+      "position": "DE",
+      "team": "ARI",
+      "age": 29,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "DL"
+      ],
+      "height": "77",
+      "weight": "265",
+      "years_exp": 8,
+      "college": "Florida State",
+      "birth_date": "1997-03-29",
+      "espn_id": 3693166,
+      "yahoo_id": 31101,
+      "rotowire_id": 12546,
+      "sportradar_id": "66a67b5d-500d-46e8-90c6-e2f127d38190",
+      "fantasy_data_id": 19918
+    },
     "5001": {
       "player_id": "5001",
       "full_name": "Dalton Schultz",
@@ -12842,7 +12889,7 @@
       "team": "BUF",
       "age": 27,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ],
