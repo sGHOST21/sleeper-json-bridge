@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-11T11:28:48.408Z",
+  "fetched_at": "2026-10-11T12:35:39.245Z",
   "current_week": 5,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -63,6 +63,10 @@
     },
     "avatar": "3a2a8f32f6fec7c6b6663d1495cf1168",
     "company_id": null,
+    "shard": 949,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -108,28 +112,19 @@
       "pts_allow_7_13": 4,
       "st_ff": 1
     },
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
-    "shard": 949,
-    "last_message_id": "1414130226430070784",
+    "last_message_id": "1414987702272598016",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
+    "draft_id": "1400845992303022080",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1791517428551,
+    "last_message_time": 1791721866723,
     "last_pinned_message_id": null,
-    "draft_id": "1400845992303022080",
     "last_read_id": null,
     "league_id": "1400845991007019008",
     "previous_league_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -151,6 +146,11 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 8
   },
   "users": [
@@ -662,12 +662,12 @@
       "players": [
         "11576",
         "11584",
+        "11792",
         "11834",
         "12514",
         "12534",
         "13330",
         "4199",
-        "4227",
         "5849",
         "6797",
         "7002",
@@ -708,7 +708,7 @@
         "7002",
         "11584",
         "4199",
-        "4227",
+        "11792",
         "NYG"
       ],
       "taxi": null
@@ -1223,12 +1223,12 @@
       "players": [
         "11576",
         "11584",
+        "11792",
         "11834",
         "12514",
         "12534",
         "13330",
         "4199",
-        "4227",
         "5849",
         "6797",
         "7002",
@@ -1254,7 +1254,7 @@
         "7002",
         "11584",
         "4199",
-        "4227",
+        "11792",
         "NYG"
       ],
       "starters_points": [
@@ -1271,7 +1271,6 @@
       ],
       "players_points": {
         "4199": 0,
-        "4227": 0,
         "5849": 0,
         "6797": 0,
         "7002": 0,
@@ -1285,6 +1284,7 @@
         "9493": 0,
         "11576": 0,
         "11584": 31.5,
+        "11792": 0,
         "11834": 0,
         "12514": 17.2,
         "12534": 0,
@@ -2413,6 +2413,31 @@
       "status": "complete",
       "type": "free_agent",
       "metadata": null,
+      "created": 1791721866687,
+      "settings": null,
+      "leg": 5,
+      "draft_picks": [],
+      "creator": "1401317827809398784",
+      "transaction_id": "1414987702121590784",
+      "adds": {
+        "11792": 7
+      },
+      "drops": {
+        "4227": 7
+      },
+      "consenter_ids": [
+        7
+      ],
+      "roster_ids": [
+        7
+      ],
+      "status_updated": 1791721866687,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
       "created": 1791517428522,
       "settings": null,
       "leg": 5,
@@ -2422,12 +2447,12 @@
       "adds": {
         "5846": 2
       },
-      "consenter_ids": [
-        2
-      ],
       "drops": {
         "8161": 2
       },
+      "consenter_ids": [
+        2
+      ],
       "roster_ids": [
         2
       ],
@@ -2447,12 +2472,12 @@
       "adds": {
         "7553": 3
       },
-      "consenter_ids": [
-        3
-      ],
       "drops": {
         "12517": 3
       },
+      "consenter_ids": [
+        3
+      ],
       "roster_ids": [
         3
       ],
@@ -2472,12 +2497,12 @@
       "adds": {
         "NYG": 7
       },
-      "consenter_ids": [
-        7
-      ],
       "drops": {
         "CAR": 7
       },
+      "consenter_ids": [
+        7
+      ],
       "roster_ids": [
         7
       ],
@@ -2497,10 +2522,10 @@
       "adds": {
         "13279": 2
       },
+      "drops": null,
       "consenter_ids": [
         2
       ],
-      "drops": null,
       "roster_ids": [
         2
       ],
@@ -3102,6 +3127,28 @@
       "rotowire_id": 17926,
       "sportradar_id": "42d90cdf-5494-4576-bc1e-4b5d3de99f5f",
       "fantasy_data_id": 24960
+    },
+    "11792": {
+      "player_id": "11792",
+      "full_name": "Will Reichard",
+      "position": "K",
+      "team": "MIN",
+      "age": 25,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "K"
+      ],
+      "height": "73",
+      "weight": "190",
+      "years_exp": 2,
+      "college": "Alabama",
+      "birth_date": "2001-01-09",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 17922,
+      "sportradar_id": "6f667582-b880-4c41-a105-59c347a36c0d",
+      "fantasy_data_id": 25113
     },
     "11834": {
       "player_id": "11834",

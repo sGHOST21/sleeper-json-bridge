@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-11T11:28:46.588Z",
+  "fetched_at": "2026-10-11T12:35:36.938Z",
   "current_week": 5,
   "league": {
     "name": "The D-League",
@@ -127,16 +127,16 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "last_message_id": "1414749146199404544",
+    "last_message_id": "1414987497913532416",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1791664990524,
-    "last_pinned_message_id": null,
+    "last_message_time": 1791721818001,
     "draft_id": "1398261761102098432",
+    "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1384998212942692352",
     "previous_league_id": "1222634114906075136",
@@ -935,7 +935,7 @@
         "12545",
         "12507",
         "7567",
-        "12526",
+        "11630",
         "11631",
         "9484",
         "11632",
@@ -1132,6 +1132,7 @@
         "11646",
         "12048",
         "12541",
+        "12542",
         "12574",
         "13274",
         "13346",
@@ -1139,8 +1140,8 @@
         "13545",
         "3214",
         "3271",
-        "4177",
         "4227",
+        "4454",
         "4866",
         "4943",
         "4950",
@@ -1152,7 +1153,6 @@
         "7543",
         "8111",
         "8144",
-        "8188",
         "8208",
         "8311",
         "9500"
@@ -2244,7 +2244,7 @@
         "12545",
         "12507",
         "7567",
-        "12526",
+        "11630",
         "11631",
         "9484",
         "11632",
@@ -2490,6 +2490,7 @@
         "11646",
         "12048",
         "12541",
+        "12542",
         "12574",
         "13274",
         "13346",
@@ -2497,8 +2498,8 @@
         "13545",
         "3214",
         "3271",
-        "4177",
         "4227",
+        "4454",
         "4866",
         "4943",
         "4950",
@@ -2510,7 +2511,6 @@
         "7543",
         "8111",
         "8144",
-        "8188",
         "8208",
         "8311",
         "9500"
@@ -2551,8 +2551,8 @@
       "players_points": {
         "3214": 0,
         "3271": 0,
-        "4177": 0,
         "4227": 0,
+        "4454": 0,
         "4866": 0,
         "4943": 0,
         "4950": 0,
@@ -2564,7 +2564,6 @@
         "7543": 0,
         "8111": 4,
         "8144": 0,
-        "8188": 0,
         "8208": 0,
         "8311": 0,
         "9500": 0,
@@ -2572,6 +2571,7 @@
         "11646": 0,
         "12048": 0,
         "12541": 0,
+        "12542": 0,
         "12574": 0,
         "13274": 0,
         "13346": 0,
@@ -5182,6 +5182,56 @@
         13
       ],
       "status_updated": 1790776074611,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1791721817963,
+      "settings": null,
+      "leg": 5,
+      "draft_picks": [],
+      "creator": "726920245125664768",
+      "transaction_id": "1414987497758375936",
+      "adds": {
+        "4454": 7
+      },
+      "drops": {
+        "8188": 7
+      },
+      "consenter_ids": [
+        7
+      ],
+      "roster_ids": [
+        7
+      ],
+      "status_updated": 1791721817963,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1791721708862,
+      "settings": null,
+      "leg": 5,
+      "draft_picks": [],
+      "creator": "726920245125664768",
+      "transaction_id": "1414987040155529216",
+      "adds": {
+        "12542": 7
+      },
+      "drops": {
+        "4177": 7
+      },
+      "consenter_ids": [
+        7
+      ],
+      "roster_ids": [
+        7
+      ],
+      "status_updated": 1791721708862,
       "waiver_budget": []
     },
     {
@@ -8078,6 +8128,28 @@
       "rotowire_id": 18558,
       "sportradar_id": "483606b2-c0c9-4da2-8fcf-73d2615756c7",
       "fantasy_data_id": 26102
+    },
+    "12542": {
+      "player_id": "12542",
+      "full_name": "Efton Chism",
+      "position": "WR",
+      "team": "NE",
+      "age": 24,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "WR"
+      ],
+      "height": "70",
+      "weight": "198",
+      "years_exp": 1,
+      "college": "Eastern Washington",
+      "birth_date": "2001-10-26",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 18889,
+      "sportradar_id": "6704a490-2534-11f0-a084-3df705a62310",
+      "fantasy_data_id": 25932
     },
     "12543": {
       "player_id": "12543",
