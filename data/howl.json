@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-11T15:29:23.852Z",
+  "fetched_at": "2026-10-11T16:29:55.479Z",
   "current_week": 5,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -766,12 +766,12 @@
       "starters": [
         "3294",
         "9509",
-        "8151",
+        "6790",
         "9488",
         "6786",
         "5012",
         "7588",
-        "8155",
+        "11566",
         "12015",
         "NE"
       ],
@@ -781,7 +781,7 @@
   "traded_picks": [],
   "matchups": [
     {
-      "points": 11.06,
+      "points": 13.3,
       "players": [
         "11620",
         "12495",
@@ -821,7 +821,7 @@
         "MIN"
       ],
       "starters_points": [
-        11.06,
+        13.3,
         0,
         0,
         0,
@@ -837,7 +837,7 @@
         "4217": 0,
         "4866": 0,
         "6806": 0,
-        "7523": 11.06,
+        "7523": 13.3,
         "7525": 0,
         "7547": 0,
         "7839": 0,
@@ -857,7 +857,7 @@
       }
     },
     {
-      "points": 1,
+      "points": 4,
       "players": [
         "11563",
         "1166",
@@ -904,7 +904,7 @@
         0,
         0,
         0,
-        1,
+        4,
         0
       ],
       "players_points": {
@@ -921,7 +921,7 @@
         "8130": 0,
         "8138": 0,
         "11563": 0,
-        "11786": 1,
+        "11786": 4,
         "12526": 0,
         "12527": 0,
         "13279": 0,
@@ -999,7 +999,7 @@
         "12512": 0,
         "13298": 0,
         "DEN": 0,
-        "PHI": 8
+        "PHI": 10
       }
     },
     {
@@ -1077,7 +1077,7 @@
       }
     },
     {
-      "points": 9.08,
+      "points": 10.88,
       "players": [
         "10222",
         "11604",
@@ -1115,7 +1115,7 @@
         "BAL"
       ],
       "starters_points": [
-        9.08,
+        10.88,
         0,
         0,
         0,
@@ -1135,14 +1135,14 @@
         "5045": 0,
         "6801": 0,
         "6813": 0,
-        "6904": 9.08,
+        "6904": 10.88,
         "7569": 0,
         "7594": 0,
         "8228": 0,
         "10222": 0,
         "11604": 0,
         "11631": 0,
-        "12490": 3.5,
+        "12490": 8.1,
         "12508": 0,
         "12545": 0,
         "BAL": 0
@@ -1322,12 +1322,12 @@
       "starters": [
         "3294",
         "9509",
-        "8151",
+        "6790",
         "9488",
         "6786",
         "5012",
         "7588",
-        "8155",
+        "11566",
         "12015",
         "NE"
       ],
@@ -2695,7 +2695,7 @@
       "team": "CHI",
       "age": 24,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "QB"
       ],
@@ -2805,7 +2805,7 @@
       "team": "PHI",
       "age": 24,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "RB"
       ],
@@ -3531,7 +3531,7 @@
       "team": "LV",
       "age": 22,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "RB"
       ],
@@ -3663,7 +3663,7 @@
       "team": "TEN",
       "age": 21,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -4125,7 +4125,7 @@
       "team": "NO",
       "age": 31,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "RB"
       ],
@@ -4675,7 +4675,7 @@
       "team": "WAS",
       "age": 31,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -4741,7 +4741,7 @@
       "team": "NYG",
       "age": 29,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "fantasy_positions": [
         "RB"
       ],
@@ -4851,7 +4851,7 @@
       "team": "MIN",
       "age": 27,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -4895,7 +4895,7 @@
       "team": "CIN",
       "age": 27,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -5049,7 +5049,7 @@
       "team": "PIT",
       "age": 28,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "RB"
       ],
@@ -5203,7 +5203,7 @@
       "team": "CIN",
       "age": 26,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -5335,7 +5335,7 @@
       "team": "NE",
       "age": 28,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "RB"
       ],
@@ -6193,7 +6193,7 @@
       "team": "MIN",
       "age": 24,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ],
