@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-12T16:32:33.708Z",
+  "fetched_at": "2026-10-12T17:32:10.623Z",
   "current_week": 5,
   "league": {
     "name": "The D-League",
@@ -13717,7 +13717,7 @@
       "team": "KC",
       "age": 26,
       "status": "Active",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "fantasy_positions": [
         "WR"
       ],
