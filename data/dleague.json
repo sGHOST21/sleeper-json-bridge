@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-12T20:33:09.307Z",
+  "fetched_at": "2026-10-12T21:29:54.656Z",
   "current_week": 5,
   "league": {
     "name": "The D-League",
@@ -11380,7 +11380,7 @@
       "team": "SEA",
       "age": 29,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "QB"
       ],
@@ -14378,7 +14378,7 @@
       "team": "SEA",
       "age": 24,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],

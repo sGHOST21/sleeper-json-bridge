@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-12T20:33:11.085Z",
+  "fetched_at": "2026-10-12T21:29:56.350Z",
   "current_week": 5,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -63,10 +63,6 @@
     },
     "avatar": "3a2a8f32f6fec7c6b6663d1495cf1168",
     "company_id": null,
-    "shard": 949,
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -112,23 +108,28 @@
       "pts_allow_7_13": 4,
       "st_ff": 1
     },
-    "last_message_id": "1415471400671604736",
-    "last_author_avatar": "d7f3e061493481b4d3b1581cbf307a7d",
-    "last_author_display_name": "DJAY363",
-    "last_author_id": "1400900697192439808",
+    "season": "2026",
+    "season_type": "regular",
+    "shard": 949,
+    "sport": "nfl",
+    "last_message_id": "1415473588550578176",
+    "last_author_avatar": "e9e60299e9e4d98d837e7b64f2118586",
+    "last_author_display_name": "Shanei",
+    "last_author_id": "737708656518385664",
     "last_author_is_bot": false,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1791837189409,
+    "last_message_time": 1791837711040,
     "last_pinned_message_id": null,
-    "draft_id": "1400845992303022080",
     "last_read_id": null,
+    "draft_id": "1400845992303022080",
     "league_id": "1400845991007019008",
     "previous_league_id": null,
+    "group_id": null,
     "bracket_id": null,
     "bracket_overrides_id": null,
-    "group_id": null,
     "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -150,7 +151,6 @@
       "BN",
       "BN"
     ],
-    "loser_bracket_overrides_id": null,
     "total_rosters": 8
   },
   "users": [
@@ -4607,7 +4607,7 @@
       "team": "SEA",
       "age": 29,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "QB"
       ],
@@ -6081,7 +6081,7 @@
       "team": "SEA",
       "age": 24,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
