@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-12T14:38:41.564Z",
+  "fetched_at": "2026-10-12T15:34:01.600Z",
   "current_week": 5,
   "league": {
     "name": "Brass City League",
@@ -5133,7 +5133,7 @@
       "team": "LAC",
       "age": 24,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
