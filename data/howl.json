@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-12T10:34:40.005Z",
+  "fetched_at": "2026-10-12T11:34:20.291Z",
   "current_week": 5,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -112,17 +112,17 @@
       "pts_allow_7_13": 4,
       "st_ff": 1
     },
-    "last_message_id": "1415198911794016256",
-    "draft_id": "1400845992303022080",
-    "last_author_avatar": null,
-    "last_author_display_name": "sys",
-    "last_author_id": "166666666666666666",
-    "last_author_is_bot": true,
+    "last_message_id": "1415334873152958464",
+    "last_author_avatar": "e9e60299e9e4d98d837e7b64f2118586",
+    "last_author_display_name": "Shanei",
+    "last_author_id": "737708656518385664",
+    "last_author_is_bot": false,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1791772222997,
+    "last_message_time": 1791804638712,
     "last_pinned_message_id": null,
     "last_read_id": null,
+    "draft_id": "1400845992303022080",
     "league_id": "1400845991007019008",
     "previous_league_id": null,
     "roster_positions": [
