@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-12T22:30:27.332Z",
+  "fetched_at": "2026-10-12T23:30:26.970Z",
   "current_week": 5,
   "league": {
     "name": "The D-League",
@@ -8559,7 +8559,7 @@
       "team": "LAR",
       "age": 24,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ],
@@ -8625,7 +8625,7 @@
       "team": "LAR",
       "age": 23,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "fantasy_positions": [
         "QB"
       ],
@@ -10961,7 +10961,7 @@
       "team": "BUF",
       "age": 29,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ],
