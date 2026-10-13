@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-13T17:32:36.754Z",
+  "fetched_at": "2026-10-13T18:39:40.283Z",
   "current_week": 6,
   "league": {
     "name": "The D-League",
@@ -5406,7 +5406,7 @@
       "player_id": "11199",
       "full_name": "Emari Demercado",
       "position": "RB",
-      "team": null,
+      "team": "DAL",
       "age": 27,
       "status": "Active",
       "injury_status": null,
@@ -13056,7 +13056,7 @@
       "team": "KC",
       "age": 26,
       "status": "Inactive",
-      "injury_status": "IR",
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ],
