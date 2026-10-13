@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-13T06:41:33.178Z",
+  "fetched_at": "2026-10-13T07:37:20.105Z",
   "current_week": 6,
   "league": {
     "name": "Brass City League",
@@ -68,6 +68,7 @@
     },
     "avatar": "71eb884a69970234d6aab2bcc692e78f",
     "company_id": null,
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -125,12 +126,10 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "season": "2026",
     "season_type": "regular",
-    "shard": 134,
-    "sport": "nfl",
+    "season": "2026",
     "last_message_id": "1415538440195309568",
-    "draft_id": "1387554218864291840",
+    "shard": 134,
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -139,6 +138,7 @@
     "last_message_text_map": null,
     "last_message_time": 1791853172877,
     "last_pinned_message_id": null,
+    "draft_id": "1387554218864291840",
     "last_read_id": null,
     "league_id": "1387554218847502336",
     "previous_league_id": "1222634893318561792",
