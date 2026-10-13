@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-13T15:35:32.613Z",
+  "fetched_at": "2026-10-13T16:34:50.395Z",
   "current_week": 6,
   "league": {
     "name": "The D-League",
@@ -12,7 +12,7 @@
     },
     "settings": {
       "best_ball": 0,
-      "last_report": 4,
+      "last_report": 5,
       "waiver_budget": 100,
       "disable_adds": 0,
       "divisions": 0,
@@ -66,7 +66,6 @@
     },
     "avatar": "31647870b5248d13691a1b97ccb9b0a0",
     "company_id": null,
-    "last_message_id": "1415039569606221824",
     "shard": 169,
     "season": "2026",
     "season_type": "regular",
@@ -128,14 +127,15 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
+    "last_message_id": "1415761663377858560",
+    "draft_id": "1398261761102098432",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "draft_id": "1398261761102098432",
     "last_message_text_map": null,
-    "last_message_time": 1791734232859,
+    "last_message_time": 1791906393430,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1384998212942692352",
