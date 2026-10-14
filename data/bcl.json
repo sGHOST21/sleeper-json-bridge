@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-14T18:51:57.637Z",
+  "fetched_at": "2026-10-14T19:43:41.309Z",
   "current_week": 6,
   "league": {
     "name": "Brass City League",
@@ -68,10 +68,6 @@
     },
     "avatar": "71eb884a69970234d6aab2bcc692e78f",
     "company_id": null,
-    "shard": 134,
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -129,14 +125,18 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "last_message_id": "1416164632132960256",
+    "season": "2026",
+    "season_type": "regular",
+    "shard": 134,
+    "sport": "nfl",
+    "last_message_id": "1416180046548234240",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1792002468669,
+    "last_message_time": 1792006143752,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "draft_id": "1387554218864291840",
@@ -145,8 +145,6 @@
     "bracket_id": null,
     "bracket_overrides_id": null,
     "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -173,6 +171,8 @@
       "BN",
       "BN"
     ],
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 12
   },
   "users": [
@@ -440,6 +440,7 @@
         "11581",
         "11589",
         "11627",
+        "11669",
         "12457",
         "12493",
         "12514",
@@ -448,14 +449,13 @@
         "13294",
         "13320",
         "13405",
+        "1373",
         "3163",
         "4866",
         "4981",
         "5017",
         "5095",
         "5843",
-        "6183",
-        "6768",
         "7021",
         "7526",
         "7600",
@@ -485,16 +485,16 @@
         "wins": 2
       },
       "starters": [
-        "3163",
+        "1373",
         "11581",
-        "9224",
+        "4866",
         "8144",
         "12514",
         "7600",
         "7526",
         "11627",
         "5095",
-        "6183",
+        "11669",
         "5843",
         "5017",
         "10947"
@@ -1527,6 +1527,7 @@
         "11581",
         "11589",
         "11627",
+        "11669",
         "12457",
         "12493",
         "12514",
@@ -1535,14 +1536,13 @@
         "13294",
         "13320",
         "13405",
+        "1373",
         "3163",
         "4866",
         "4981",
         "5017",
         "5095",
         "5843",
-        "6183",
-        "6768",
         "7021",
         "7526",
         "7600",
@@ -1556,16 +1556,16 @@
       "custom_points": null,
       "matchup_id": 1,
       "starters": [
-        "3163",
+        "1373",
         "11581",
-        "9224",
+        "4866",
         "8144",
         "12514",
         "7600",
         "7526",
         "11627",
         "5095",
-        "6183",
+        "11669",
         "5843",
         "5017",
         "10947"
@@ -1586,14 +1586,13 @@
         0
       ],
       "players_points": {
+        "1373": 0,
         "3163": 0,
         "4866": 0,
         "4981": 0,
         "5017": 0,
         "5095": 0,
         "5843": 0,
-        "6183": 0,
-        "6768": 0,
         "7021": 0,
         "7526": 0,
         "7600": 0,
@@ -1606,6 +1605,7 @@
         "11581": 0,
         "11589": 0,
         "11627": 0,
+        "11669": 0,
         "12457": 0,
         "12493": 0,
         "12514": 0,
@@ -3814,6 +3814,56 @@
       "status": "complete",
       "type": "free_agent",
       "metadata": null,
+      "created": 1792006143722,
+      "settings": null,
+      "leg": 6,
+      "draft_picks": [],
+      "creator": "716111666881851392",
+      "transaction_id": "1416180046426656768",
+      "adds": {
+        "11669": 1
+      },
+      "drops": {
+        "6183": 1
+      },
+      "consenter_ids": [
+        1
+      ],
+      "roster_ids": [
+        1
+      ],
+      "status_updated": 1792006143722,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1792006005092,
+      "settings": null,
+      "leg": 6,
+      "draft_picks": [],
+      "creator": "716111666881851392",
+      "transaction_id": "1416179464970264576",
+      "adds": {
+        "1373": 1
+      },
+      "drops": {
+        "6768": 1
+      },
+      "consenter_ids": [
+        1
+      ],
+      "roster_ids": [
+        1
+      ],
+      "status_updated": 1792006005092,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
       "created": 1792002468635,
       "settings": null,
       "leg": 6,
@@ -3823,12 +3873,12 @@
       "adds": {
         "6911": 12
       },
-      "consenter_ids": [
-        12
-      ],
       "drops": {
         "7811": 12
       },
+      "consenter_ids": [
+        12
+      ],
       "roster_ids": [
         12
       ],
@@ -3848,12 +3898,12 @@
       "adds": {
         "7672": 12
       },
-      "consenter_ids": [
-        12
-      ],
       "drops": {
         "6949": 12
       },
+      "consenter_ids": [
+        12
+      ],
       "roster_ids": [
         12
       ],
@@ -3883,14 +3933,14 @@
         "11586": 12,
         "13420": 2
       },
-      "consenter_ids": [
-        2,
-        12
-      ],
       "drops": {
         "11586": 2,
         "13420": 12
       },
+      "consenter_ids": [
+        2,
+        12
+      ],
       "roster_ids": [
         2,
         12
@@ -3911,12 +3961,12 @@
       "adds": {
         "11647": 2
       },
-      "consenter_ids": [
-        2
-      ],
       "drops": {
         "4018": 2
       },
+      "consenter_ids": [
+        2
+      ],
       "roster_ids": [
         2
       ],
@@ -3936,12 +3986,12 @@
       "adds": {
         "3172": 10
       },
-      "consenter_ids": [
-        10
-      ],
       "drops": {
         "11667": 10
       },
+      "consenter_ids": [
+        10
+      ],
       "roster_ids": [
         10
       ],
@@ -3961,10 +4011,10 @@
       "adds": {
         "8129": 3
       },
+      "drops": null,
       "consenter_ids": [
         3
       ],
-      "drops": null,
       "roster_ids": [
         3
       ],
@@ -3982,12 +4032,12 @@
       "creator": "1226245792746971136",
       "transaction_id": "1416065280399990784",
       "adds": null,
-      "consenter_ids": [
-        3
-      ],
       "drops": {
         "6214": 3
       },
+      "consenter_ids": [
+        3
+      ],
       "roster_ids": [
         3
       ],
@@ -4007,12 +4057,12 @@
       "adds": {
         "8210": 5
       },
-      "consenter_ids": [
-        5
-      ],
       "drops": {
         "4066": 5
       },
+      "consenter_ids": [
+        5
+      ],
       "roster_ids": [
         5
       ],
@@ -4032,12 +4082,12 @@
       "adds": {
         "6141": 4
       },
-      "consenter_ids": [
-        4
-      ],
       "drops": {
         "10880": 4
       },
+      "consenter_ids": [
+        4
+      ],
       "roster_ids": [
         4
       ],
@@ -4057,12 +4107,12 @@
       "adds": {
         "11760": 4
       },
-      "consenter_ids": [
-        4
-      ],
       "drops": {
         "12617": 4
       },
+      "consenter_ids": [
+        4
+      ],
       "roster_ids": [
         4
       ],
@@ -4082,12 +4132,12 @@
       "adds": {
         "12711": 12
       },
-      "consenter_ids": [
-        12
-      ],
       "drops": {
         "7839": 12
       },
+      "consenter_ids": [
+        12
+      ],
       "roster_ids": [
         12
       ],
@@ -5397,6 +5447,28 @@
       "rotowire_id": 17710,
       "sportradar_id": "1455441c-7e0e-484e-8e8a-5c7606b59709",
       "fantasy_data_id": 24931
+    },
+    "11669": {
+      "player_id": "11669",
+      "full_name": "Laiatu Latu",
+      "position": "DL",
+      "team": "IND",
+      "age": 25,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "DL"
+      ],
+      "height": "77",
+      "weight": "265",
+      "years_exp": 2,
+      "college": "UCLA",
+      "birth_date": "2000-12-31",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 17714,
+      "sportradar_id": "234d2423-bb97-4dfe-9a56-7c14b276720c",
+      "fantasy_data_id": 24993
     },
     "11678": {
       "player_id": "11678",
