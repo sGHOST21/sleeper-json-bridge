@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-14T17:43:51.311Z",
+  "fetched_at": "2026-10-14T18:51:56.442Z",
   "current_week": 6,
   "league": {
     "name": "The D-League",
@@ -66,11 +66,6 @@
     },
     "avatar": "31647870b5248d13691a1b97ccb9b0a0",
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
-    "last_message_id": "1416076436879454208",
-    "shard": 169,
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -128,19 +123,28 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
+    "season": "2026",
+    "season_type": "regular",
+    "shard": 169,
+    "sport": "nfl",
+    "last_message_id": "1416169488050585600",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1791981441281,
+    "last_message_time": 1792003626409,
     "last_pinned_message_id": null,
-    "last_read_id": null,
     "draft_id": "1398261761102098432",
+    "last_read_id": null,
     "league_id": "1384998212942692352",
     "previous_league_id": "1222634114906075136",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
     "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -166,10 +170,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 14
   },
   "users": [
@@ -1540,12 +1540,12 @@
       "player_map": null,
       "players": [
         "11635",
+        "11739",
         "11792",
         "12501",
         "12518",
         "12519",
         "12578",
-        "12591",
         "13420",
         "2505",
         "3172",
@@ -1596,7 +1596,7 @@
         "7042",
         "3172",
         "4960",
-        "12591",
+        "11739",
         "12578"
       ],
       "taxi": [
@@ -1616,6 +1616,7 @@
       "player_map": null,
       "players": [
         "10232",
+        "10927",
         "11566",
         "11576",
         "12484",
@@ -1633,7 +1634,6 @@
         "6125",
         "6217",
         "7526",
-        "7811",
         "7841",
         "8110",
         "8132",
@@ -1678,7 +1678,7 @@
         "2747",
         "6125",
         "7841",
-        "7811",
+        "0",
         "8280"
       ],
       "taxi": [
@@ -2969,12 +2969,12 @@
       "points": 0,
       "players": [
         "11635",
+        "11739",
         "11792",
         "12501",
         "12518",
         "12519",
         "12578",
-        "12591",
         "13420",
         "2505",
         "3172",
@@ -3009,7 +3009,7 @@
         "7042",
         "3172",
         "4960",
-        "12591",
+        "11739",
         "12578"
       ],
       "starters_points": [
@@ -3046,12 +3046,12 @@
         "7588": 0,
         "8150": 0,
         "11635": 0,
+        "11739": 0,
         "11792": 0,
         "12501": 0,
         "12518": 0,
         "12519": 0,
         "12578": 0,
-        "12591": 0,
         "13420": 0
       }
     },
@@ -3059,6 +3059,7 @@
       "points": 0,
       "players": [
         "10232",
+        "10927",
         "11566",
         "11576",
         "12484",
@@ -3076,7 +3077,6 @@
         "6125",
         "6217",
         "7526",
-        "7811",
         "7841",
         "8110",
         "8132",
@@ -3103,7 +3103,7 @@
         "2747",
         "6125",
         "7841",
-        "7811",
+        "0",
         "8280"
       ],
       "starters_points": [
@@ -3130,7 +3130,6 @@
         "6125": 0,
         "6217": 0,
         "7526": 0,
-        "7811": 0,
         "7841": 0,
         "8110": 0,
         "8132": 0,
@@ -3142,6 +3141,7 @@
         "9493": 0,
         "9753": 0,
         "10232": 0,
+        "10927": 0,
         "11566": 0,
         "11576": 0,
         "12484": 0,
@@ -5160,6 +5160,56 @@
       "status": "complete",
       "type": "free_agent",
       "metadata": null,
+      "created": 1792003626376,
+      "settings": null,
+      "leg": 6,
+      "draft_picks": [],
+      "creator": "737708656518385664",
+      "transaction_id": "1416169487908040704",
+      "adds": {
+        "10927": 13
+      },
+      "drops": {
+        "7811": 13
+      },
+      "consenter_ids": [
+        13
+      ],
+      "roster_ids": [
+        13
+      ],
+      "status_updated": 1792003626376,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1792002732608,
+      "settings": null,
+      "leg": 6,
+      "draft_picks": [],
+      "creator": "737696652592291840",
+      "transaction_id": "1416165739173289984",
+      "adds": {
+        "11739": 12
+      },
+      "drops": {
+        "12591": 12
+      },
+      "consenter_ids": [
+        12
+      ],
+      "roster_ids": [
+        12
+      ],
+      "status_updated": 1792002732608,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
       "created": 1791981441245,
       "settings": null,
       "leg": 6,
@@ -5169,12 +5219,12 @@
       "adds": {
         "11058": 6
       },
-      "consenter_ids": [
-        6
-      ],
       "drops": {
         "650": 6
       },
+      "consenter_ids": [
+        6
+      ],
       "roster_ids": [
         6
       ],
@@ -5194,12 +5244,12 @@
       "adds": {
         "7042": 12
       },
-      "consenter_ids": [
-        12
-      ],
       "drops": {
         "8172": 12
       },
+      "consenter_ids": [
+        12
+      ],
       "roster_ids": [
         12
       ],
@@ -5219,12 +5269,12 @@
       "adds": {
         "4968": 10
       },
-      "consenter_ids": [
-        10
-      ],
       "drops": {
         "6949": 10
       },
+      "consenter_ids": [
+        10
+      ],
       "roster_ids": [
         10
       ],
@@ -5244,12 +5294,12 @@
       "adds": {
         "13150": 11
       },
-      "consenter_ids": [
-        11
-      ],
       "drops": {
         "11571": 11
       },
+      "consenter_ids": [
+        11
+      ],
       "roster_ids": [
         11
       ],
@@ -5269,12 +5319,12 @@
       "adds": {
         "6485": 8
       },
-      "consenter_ids": [
-        8
-      ],
       "drops": {
         "12617": 8
       },
+      "consenter_ids": [
+        8
+      ],
       "roster_ids": [
         8
       ],
@@ -5294,10 +5344,10 @@
       "adds": {
         "8329": 8
       },
+      "drops": null,
       "consenter_ids": [
         8
       ],
-      "drops": null,
       "roster_ids": [
         8
       ],
@@ -5315,12 +5365,12 @@
       "creator": "733456145330585600",
       "transaction_id": "1416036877676371968",
       "adds": null,
-      "consenter_ids": [
-        8
-      ],
       "drops": {
         "8800": 8
       },
+      "consenter_ids": [
+        8
+      ],
       "roster_ids": [
         8
       ],
@@ -5340,12 +5390,12 @@
       "adds": {
         "3172": 12
       },
-      "consenter_ids": [
-        12
-      ],
       "drops": {
         "11667": 12
       },
+      "consenter_ids": [
+        12
+      ],
       "roster_ids": [
         12
       ],
@@ -5664,6 +5714,28 @@
       "rotowire_id": 16758,
       "sportradar_id": "cd7de1ce-ad93-4bb6-8b70-c79194a7373e",
       "fantasy_data_id": 24253
+    },
+    "10927": {
+      "player_id": "10927",
+      "full_name": "Jordan Battle",
+      "position": "DB",
+      "team": "CIN",
+      "age": 25,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "DB"
+      ],
+      "height": "73",
+      "weight": "215",
+      "years_exp": 3,
+      "college": "Alabama",
+      "birth_date": "2000-12-14",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 17368,
+      "sportradar_id": "a462797c-d8d9-404c-b663-3ced76d6fc93",
+      "fantasy_data_id": 23471
     },
     "10947": {
       "player_id": "10947",
@@ -6809,6 +6881,28 @@
       "rotowire_id": 17760,
       "sportradar_id": "f5e0334b-b5f1-422f-a437-199c36cc108d",
       "fantasy_data_id": 24930
+    },
+    "11739": {
+      "player_id": "11739",
+      "full_name": "Evan Williams",
+      "position": "DB",
+      "team": "GB",
+      "age": 25,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "DB"
+      ],
+      "height": "71",
+      "weight": "200",
+      "years_exp": 2,
+      "college": "Oregon",
+      "birth_date": "2001-07-28",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 18003,
+      "sportradar_id": "8fbc9bcf-c367-46bc-8017-ce87e84aeaff",
+      "fantasy_data_id": 25125
     },
     "11760": {
       "player_id": "11760",
@@ -9506,7 +9600,7 @@
       "team": "IND",
       "age": 34,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -12857,7 +12951,7 @@
       "team": "DEN",
       "age": 26,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "DB"
       ],
