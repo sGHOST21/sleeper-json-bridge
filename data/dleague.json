@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-14T20:41:31.668Z",
+  "fetched_at": "2026-10-14T21:42:42.102Z",
   "current_week": 6,
   "league": {
     "name": "The D-League",
@@ -6039,7 +6039,7 @@
       "team": "ATL",
       "age": 26,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "QB"
       ],
@@ -7998,7 +7998,7 @@
       "team": "NE",
       "age": 23,
       "status": "Active",
-      "injury_status": "Doubtful",
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
@@ -8330,7 +8330,7 @@
       "team": "NYG",
       "age": 22,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "DL",
         "LB"
@@ -8815,7 +8815,7 @@
       "team": "ARI",
       "age": 21,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
@@ -9719,7 +9719,7 @@
       "team": "IND",
       "age": 34,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -10094,7 +10094,7 @@
       "team": "NE",
       "age": 33,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "DB"
       ],
@@ -11637,7 +11637,7 @@
       "team": "TEN",
       "age": 29,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "RB"
       ],
@@ -11813,7 +11813,7 @@
       "team": "IND",
       "age": 29,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -12056,7 +12056,7 @@
       "team": "DAL",
       "age": 27,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -12562,7 +12562,7 @@
       "team": "NYG",
       "age": 28,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -14480,7 +14480,7 @@
       "team": "IND",
       "age": 25,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
