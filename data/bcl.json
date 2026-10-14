@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-14T07:48:42.014Z",
+  "fetched_at": "2026-10-14T08:46:18.612Z",
   "current_week": 6,
   "league": {
     "name": "Brass City League",
@@ -142,6 +142,9 @@
     "last_read_id": null,
     "league_id": "1387554218847502336",
     "previous_league_id": "1222634893318561792",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -168,9 +171,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 12
