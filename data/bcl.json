@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-14T05:42:19.121Z",
+  "fetched_at": "2026-10-14T06:55:20.078Z",
   "current_week": 6,
   "league": {
     "name": "Brass City League",
@@ -68,11 +68,10 @@
     },
     "avatar": "71eb884a69970234d6aab2bcc692e78f",
     "company_id": null,
-    "last_message_id": "1415759655212187649",
-    "sport": "nfl",
     "shard": 134,
     "season": "2026",
     "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -130,8 +129,10 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
+    "last_message_id": "1415759655212187649",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
+    "draft_id": "1387554218864291840",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
@@ -139,9 +140,11 @@
     "last_message_time": 1791905914647,
     "last_pinned_message_id": null,
     "last_read_id": null,
-    "draft_id": "1387554218864291840",
     "league_id": "1387554218847502336",
     "previous_league_id": "1222634893318561792",
+    "group_id": null,
+    "bracket_id": null,
+    "bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -168,9 +171,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 12
