@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-14T11:44:48.644Z",
+  "fetched_at": "2026-10-14T12:52:51.497Z",
   "current_week": 6,
   "league": {
     "name": "Brass City League",
@@ -68,10 +68,10 @@
     },
     "avatar": "71eb884a69970234d6aab2bcc692e78f",
     "company_id": null,
+    "last_message_id": "1416066181697200128",
     "sport": "nfl",
     "season_type": "regular",
     "season": "2026",
-    "last_message_id": "1416053882731139072",
     "shard": 134,
     "scoring_settings": {
       "sack": 1,
@@ -136,10 +136,10 @@
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1791976063953,
+    "last_message_time": 1791978996256,
     "last_pinned_message_id": null,
-    "last_read_id": null,
     "draft_id": "1387554218864291840",
+    "last_read_id": null,
     "league_id": "1387554218847502336",
     "previous_league_id": "1222634893318561792",
     "roster_positions": [
@@ -610,12 +610,12 @@
         "4034",
         "4971",
         "5850",
-        "6214",
         "6804",
         "6807",
         "7525",
         "7640",
         "7715",
+        "8129",
         "8146",
         "8280",
         "9226",
@@ -645,13 +645,13 @@
         "wins": 3
       },
       "starters": [
-        "3294",
+        "6804",
         "9509",
         "4034",
         "9488",
         "8146",
         "1466",
-        "9511",
+        "7525",
         "2216",
         "3451",
         "8280",
@@ -1152,7 +1152,6 @@
         "10859",
         "11583",
         "11651",
-        "11667",
         "11739",
         "11786",
         "12048",
@@ -1166,6 +1165,7 @@
         "13345",
         "2505",
         "2617",
+        "3172",
         "4017",
         "4046",
         "4960",
@@ -1199,16 +1199,16 @@
         "wins": 3
       },
       "starters": [
-        "4017",
+        "4046",
         "12527",
         "12507",
-        "7547",
+        "10213",
         "6786",
         "2505",
-        "13298",
-        "5844",
+        "6806",
+        "12533",
         "11786",
-        "11667",
+        "3172",
         "4960",
         "11739",
         "2617"
@@ -1720,12 +1720,12 @@
         "4034",
         "4971",
         "5850",
-        "6214",
         "6804",
         "6807",
         "7525",
         "7640",
         "7715",
+        "8129",
         "8146",
         "8280",
         "9226",
@@ -1738,13 +1738,13 @@
       "custom_points": null,
       "matchup_id": 2,
       "starters": [
-        "3294",
+        "6804",
         "9509",
         "4034",
         "9488",
         "8146",
         "1466",
-        "9511",
+        "7525",
         "2216",
         "3451",
         "8280",
@@ -1776,12 +1776,12 @@
         "4034": 0,
         "4971": 0,
         "5850": 0,
-        "6214": 0,
         "6804": 0,
         "6807": 0,
         "7525": 0,
         "7640": 0,
         "7715": 0,
+        "8129": 0,
         "8146": 0,
         "8280": 0,
         "9226": 0,
@@ -2366,7 +2366,6 @@
         "10859",
         "11583",
         "11651",
-        "11667",
         "11739",
         "11786",
         "12048",
@@ -2380,6 +2379,7 @@
         "13345",
         "2505",
         "2617",
+        "3172",
         "4017",
         "4046",
         "4960",
@@ -2396,16 +2396,16 @@
       "custom_points": null,
       "matchup_id": 1,
       "starters": [
-        "4017",
+        "4046",
         "12527",
         "12507",
-        "7547",
+        "10213",
         "6786",
         "2505",
-        "13298",
-        "5844",
+        "6806",
+        "12533",
         "11786",
-        "11667",
+        "3172",
         "4960",
         "11739",
         "2617"
@@ -2428,6 +2428,7 @@
       "players_points": {
         "2505": 0,
         "2617": 0,
+        "3172": 0,
         "4017": 0,
         "4046": 0,
         "4960": 0,
@@ -2443,7 +2444,6 @@
         "10859": 0,
         "11583": 0,
         "11651": 0,
-        "11667": 0,
         "11739": 0,
         "11786": 0,
         "12048": 0,
@@ -3801,6 +3801,77 @@
         5
       ],
       "status_updated": 1791386415192,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1791978996222,
+      "settings": null,
+      "leg": 6,
+      "draft_picks": [],
+      "creator": "737696652592291840",
+      "transaction_id": "1416066181558714368",
+      "adds": {
+        "3172": 10
+      },
+      "drops": {
+        "11667": 10
+      },
+      "consenter_ids": [
+        10
+      ],
+      "roster_ids": [
+        10
+      ],
+      "status_updated": 1791978996222,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1791978796030,
+      "settings": null,
+      "leg": 6,
+      "draft_picks": [],
+      "creator": "1226245792746971136",
+      "transaction_id": "1416065341888499712",
+      "adds": {
+        "8129": 3
+      },
+      "drops": null,
+      "consenter_ids": [
+        3
+      ],
+      "roster_ids": [
+        3
+      ],
+      "status_updated": 1791978796030,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1791978781369,
+      "settings": null,
+      "leg": 6,
+      "draft_picks": [],
+      "creator": "1226245792746971136",
+      "transaction_id": "1416065280399990784",
+      "adds": null,
+      "drops": {
+        "6214": 3
+      },
+      "consenter_ids": [
+        3
+      ],
+      "roster_ids": [
+        3
+      ],
+      "status_updated": 1791978781369,
       "waiver_budget": []
     },
     {
@@ -7765,6 +7836,28 @@
       "sportradar_id": "aba8f925-ffbf-4654-bfa7-a25d3d237494",
       "fantasy_data_id": 17922
     },
+    "3172": {
+      "player_id": "3172",
+      "full_name": "DeForest Buckner",
+      "position": "DT",
+      "team": "IND",
+      "age": 32,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "DL"
+      ],
+      "height": "79",
+      "weight": "295",
+      "years_exp": 10,
+      "college": "Oregon",
+      "birth_date": "1994-03-17",
+      "espn_id": 2971282,
+      "yahoo_id": 29241,
+      "rotowire_id": 10925,
+      "sportradar_id": "d97529e5-f1cd-4fe0-8697-4b51bbe52fd4",
+      "fantasy_data_id": 17933
+    },
     "3198": {
       "player_id": "3198",
       "full_name": "Derrick Henry",
@@ -10523,6 +10616,28 @@
       "rotowire_id": 15838,
       "sportradar_id": "582dfe0e-98f3-48a5-8a2d-a52baa926b05",
       "fantasy_data_id": 23170
+    },
+    "8129": {
+      "player_id": "8129",
+      "full_name": "Dameon Pierce",
+      "position": "RB",
+      "team": "PHI",
+      "age": 26,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "RB"
+      ],
+      "height": "70",
+      "weight": "218",
+      "years_exp": 4,
+      "college": "Florida",
+      "birth_date": "2000-02-19",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 15875,
+      "sportradar_id": "5d4ef6da-a6b5-4d9c-adc0-28dfdbe9315e",
+      "fantasy_data_id": 23223
     },
     "8130": {
       "player_id": "8130",

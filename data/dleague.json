@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-14T11:44:47.271Z",
+  "fetched_at": "2026-10-14T12:52:50.245Z",
   "current_week": 6,
   "league": {
     "name": "The D-League",
@@ -69,7 +69,7 @@
     "sport": "nfl",
     "season_type": "regular",
     "season": "2026",
-    "last_message_id": "1416058650803310592",
+    "last_message_id": "1416076436879454208",
     "shard": 169,
     "scoring_settings": {
       "sack": 1,
@@ -128,23 +128,19 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "draft_id": "1398261761102098432",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1791977200751,
+    "last_message_time": 1791981441281,
     "last_pinned_message_id": null,
     "last_read_id": null,
+    "draft_id": "1398261761102098432",
     "league_id": "1384998212942692352",
     "previous_league_id": "1222634114906075136",
-    "bracket_id": null,
-    "bracket_overrides_id": null,
     "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -170,6 +166,10 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 14
   },
   "users": [
@@ -1047,6 +1047,7 @@
       "player_map": null,
       "players": [
         "10898",
+        "11058",
         "12504",
         "12510",
         "12524",
@@ -1061,7 +1062,6 @@
         "4663",
         "5001",
         "5862",
-        "650",
         "6788",
         "6794",
         "6801",
@@ -1183,11 +1183,11 @@
         "5967",
         "6790",
         "8144",
-        "13346",
+        "11646",
         "3271",
-        "5947",
+        "13346",
         "9500",
-        "11539",
+        "4227",
         "12574",
         "6807",
         "13371",
@@ -1559,11 +1559,11 @@
         "5995",
         "6806",
         "6813",
+        "7042",
         "7523",
         "7564",
         "7588",
-        "8150",
-        "8172"
+        "8150"
       ],
       "reserve": [
         "4137"
@@ -1593,7 +1593,7 @@
         "12518",
         "7588",
         "12519",
-        "11792",
+        "7042",
         "3172",
         "4960",
         "12591",
@@ -2393,6 +2393,7 @@
       "points": 0,
       "players": [
         "10898",
+        "11058",
         "12504",
         "12510",
         "12524",
@@ -2407,7 +2408,6 @@
         "4663",
         "5001",
         "5862",
-        "650",
         "6788",
         "6794",
         "6801",
@@ -2454,7 +2454,6 @@
         0
       ],
       "players_points": {
-        "650": 0,
         "2133": 0,
         "2306": 0,
         "3198": 0,
@@ -2473,6 +2472,7 @@
         "9509": 0,
         "9756": 0,
         "10898": 0,
+        "11058": 0,
         "12504": 0,
         "12510": 0,
         "12524": 0,
@@ -2523,11 +2523,11 @@
         "5967",
         "6790",
         "8144",
-        "13346",
+        "11646",
         "3271",
-        "5947",
+        "13346",
         "9500",
-        "11539",
+        "4227",
         "12574",
         "6807",
         "13371",
@@ -2988,11 +2988,11 @@
         "5995",
         "6806",
         "6813",
+        "7042",
         "7523",
         "7564",
         "7588",
-        "8150",
-        "8172"
+        "8150"
       ],
       "roster_id": 12,
       "custom_points": null,
@@ -3006,7 +3006,7 @@
         "12518",
         "7588",
         "12519",
-        "11792",
+        "7042",
         "3172",
         "4960",
         "12591",
@@ -3040,11 +3040,11 @@
         "5995": 0,
         "6806": 0,
         "6813": 0,
+        "7042": 0,
         "7523": 0,
         "7564": 0,
         "7588": 0,
         "8150": 0,
-        "8172": 0,
         "11635": 0,
         "11792": 0,
         "12501": 0,
@@ -5160,6 +5160,56 @@
       "status": "complete",
       "type": "free_agent",
       "metadata": null,
+      "created": 1791981441245,
+      "settings": null,
+      "leg": 6,
+      "draft_picks": [],
+      "creator": "871053074062589952",
+      "transaction_id": "1416076436728528896",
+      "adds": {
+        "11058": 6
+      },
+      "consenter_ids": [
+        6
+      ],
+      "drops": {
+        "650": 6
+      },
+      "roster_ids": [
+        6
+      ],
+      "status_updated": 1791981441245,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1791978924520,
+      "settings": null,
+      "leg": 6,
+      "draft_picks": [],
+      "creator": "737696652592291840",
+      "transaction_id": "1416065880818749440",
+      "adds": {
+        "7042": 12
+      },
+      "consenter_ids": [
+        12
+      ],
+      "drops": {
+        "8172": 12
+      },
+      "roster_ids": [
+        12
+      ],
+      "status_updated": 1791978924520,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
       "created": 1791977200704,
       "settings": null,
       "leg": 6,
@@ -5169,12 +5219,12 @@
       "adds": {
         "4968": 10
       },
-      "drops": {
-        "6949": 10
-      },
       "consenter_ids": [
         10
       ],
+      "drops": {
+        "6949": 10
+      },
       "roster_ids": [
         10
       ],
@@ -5194,12 +5244,12 @@
       "adds": {
         "13150": 11
       },
-      "drops": {
-        "11571": 11
-      },
       "consenter_ids": [
         11
       ],
+      "drops": {
+        "11571": 11
+      },
       "roster_ids": [
         11
       ],
@@ -5219,12 +5269,12 @@
       "adds": {
         "6485": 8
       },
-      "drops": {
-        "12617": 8
-      },
       "consenter_ids": [
         8
       ],
+      "drops": {
+        "12617": 8
+      },
       "roster_ids": [
         8
       ],
@@ -5244,10 +5294,10 @@
       "adds": {
         "8329": 8
       },
-      "drops": null,
       "consenter_ids": [
         8
       ],
+      "drops": null,
       "roster_ids": [
         8
       ],
@@ -5265,12 +5315,12 @@
       "creator": "733456145330585600",
       "transaction_id": "1416036877676371968",
       "adds": null,
-      "drops": {
-        "8800": 8
-      },
       "consenter_ids": [
         8
       ],
+      "drops": {
+        "8800": 8
+      },
       "roster_ids": [
         8
       ],
@@ -5290,12 +5340,12 @@
       "adds": {
         "3172": 12
       },
-      "drops": {
-        "11667": 12
-      },
       "consenter_ids": [
         12
       ],
+      "drops": {
+        "11667": 12
+      },
       "roster_ids": [
         12
       ],
@@ -5636,6 +5686,28 @@
       "rotowire_id": 16668,
       "sportradar_id": "adcc651b-c635-4d09-a411-63452f8192fa",
       "fantasy_data_id": 24269
+    },
+    "11058": {
+      "player_id": "11058",
+      "full_name": "Blake Grupe",
+      "position": "K",
+      "team": "LAR",
+      "age": 27,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "K"
+      ],
+      "height": "67",
+      "weight": "156",
+      "years_exp": 3,
+      "college": "Notre Dame",
+      "birth_date": "1998-11-05",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 17595,
+      "sportradar_id": "2a1d4ce0-e6f6-11ed-abca-c7a3a205e21d",
+      "fantasy_data_id": 24506
     },
     "11157": {
       "player_id": "11157",
@@ -12180,6 +12252,28 @@
       "rotowire_id": 14495,
       "sportradar_id": "d25a19a7-7de6-4476-b42a-833c8c3cb208",
       "fantasy_data_id": 21964
+    },
+    "7042": {
+      "player_id": "7042",
+      "full_name": "Tyler Bass",
+      "position": "K",
+      "team": "BUF",
+      "age": 29,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "K"
+      ],
+      "height": "70",
+      "weight": "183",
+      "years_exp": 6,
+      "college": "Georgia Southern",
+      "birth_date": "1997-02-14",
+      "espn_id": 3917232,
+      "yahoo_id": 32858,
+      "rotowire_id": 14609,
+      "sportradar_id": "bfccbff4-bc01-41ed-aa11-be976160504c",
+      "fantasy_data_id": 22108
     },
     "7049": {
       "player_id": "7049",
