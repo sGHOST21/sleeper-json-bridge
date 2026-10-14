@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-14T13:47:29.372Z",
+  "fetched_at": "2026-10-14T14:44:30.475Z",
   "current_week": 6,
   "league": {
     "name": "Brass City League",
@@ -3801,6 +3801,31 @@
         5
       ],
       "status_updated": 1791386415192,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1791985558393,
+      "settings": null,
+      "leg": 6,
+      "draft_picks": [],
+      "creator": "737708656518385664",
+      "transaction_id": "1416093705294585856",
+      "adds": {
+        "7672": 12
+      },
+      "drops": {
+        "6949": 12
+      },
+      "consenter_ids": [
+        12
+      ],
+      "roster_ids": [
+        12
+      ],
+      "status_updated": 1791985558393,
       "waiver_budget": []
     },
     {
@@ -8529,7 +8554,7 @@
       "team": "TB",
       "age": 31,
       "status": "Active",
-      "injury_status": "Out",
+      "injury_status": "Doubtful",
       "fantasy_positions": [
         "QB"
       ],
@@ -9823,6 +9848,28 @@
       "rotowire_id": 14416,
       "sportradar_id": "64bd0f02-6a5d-407e-98f1-fd02048ea21d",
       "fantasy_data_id": 21831
+    },
+    "6949": {
+      "player_id": "6949",
+      "full_name": "Jordyn Brooks",
+      "position": "LB",
+      "team": "MIA",
+      "age": 28,
+      "status": "Active",
+      "injury_status": "Questionable",
+      "fantasy_positions": [
+        "LB"
+      ],
+      "height": "72",
+      "weight": "240",
+      "years_exp": 6,
+      "college": "Texas Tech",
+      "birth_date": "1997-10-21",
+      "espn_id": 4043130,
+      "yahoo_id": 32697,
+      "rotowire_id": 14739,
+      "sportradar_id": "ef422c88-b74f-4720-a831-947010c44ebe",
+      "fantasy_data_id": 22005
     },
     "7002": {
       "player_id": "7002",
