@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-14T10:45:01.334Z",
+  "fetched_at": "2026-10-14T11:44:48.644Z",
   "current_week": 6,
   "league": {
     "name": "Brass City League",
@@ -71,8 +71,8 @@
     "sport": "nfl",
     "season_type": "regular",
     "season": "2026",
+    "last_message_id": "1416053882731139072",
     "shard": 134,
-    "last_message_id": "1416038363072401408",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -136,10 +136,10 @@
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1791972363778,
-    "draft_id": "1387554218864291840",
+    "last_message_time": 1791976063953,
     "last_pinned_message_id": null,
     "last_read_id": null,
+    "draft_id": "1387554218864291840",
     "league_id": "1387554218847502336",
     "previous_league_id": "1222634893318561792",
     "roster_positions": [
@@ -168,9 +168,9 @@
       "BN",
       "BN"
     ],
+    "group_id": null,
     "bracket_id": null,
     "bracket_overrides_id": null,
-    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 12
@@ -650,7 +650,7 @@
         "4034",
         "9488",
         "8146",
-        "13330",
+        "1466",
         "9511",
         "2216",
         "3451",
@@ -767,7 +767,6 @@
         "13346",
         "2393",
         "4035",
-        "4066",
         "4195",
         "5022",
         "5041",
@@ -779,7 +778,8 @@
         "7611",
         "8112",
         "8148",
-        "8205"
+        "8205",
+        "8210"
       ],
       "reserve": [
         "13281",
@@ -807,9 +807,9 @@
         "4035",
         "13346",
         "8112",
-        "4066",
-        "12489",
-        "7564",
+        "5022",
+        "7611",
+        "12474",
         "4195",
         "2393",
         "5041",
@@ -1204,7 +1204,7 @@
         "12507",
         "7547",
         "6786",
-        "10859",
+        "2505",
         "13298",
         "5844",
         "11786",
@@ -1743,7 +1743,7 @@
         "4034",
         "9488",
         "8146",
-        "13330",
+        "1466",
         "9511",
         "2216",
         "3451",
@@ -1910,7 +1910,6 @@
         "13346",
         "2393",
         "4035",
-        "4066",
         "4195",
         "5022",
         "5041",
@@ -1922,7 +1921,8 @@
         "7611",
         "8112",
         "8148",
-        "8205"
+        "8205",
+        "8210"
       ],
       "roster_id": 5,
       "custom_points": null,
@@ -1933,9 +1933,9 @@
         "4035",
         "13346",
         "8112",
-        "4066",
-        "12489",
-        "7564",
+        "5022",
+        "7611",
+        "12474",
         "4195",
         "2393",
         "5041",
@@ -1961,7 +1961,6 @@
         "1166": 0,
         "2393": 0,
         "4035": 0,
-        "4066": 0,
         "4195": 0,
         "5022": 0,
         "5041": 0,
@@ -1974,6 +1973,7 @@
         "8112": 0,
         "8148": 0,
         "8205": 0,
+        "8210": 0,
         "10226": 0,
         "11560": 0,
         "11575": 0,
@@ -2401,7 +2401,7 @@
         "12507",
         "7547",
         "6786",
-        "10859",
+        "2505",
         "13298",
         "5844",
         "11786",
@@ -3296,10 +3296,10 @@
       "adds": {
         "11630": 6
       },
-      "drops": null,
       "consenter_ids": [
         6
       ],
+      "drops": null,
       "roster_ids": [
         6
       ],
@@ -3324,12 +3324,12 @@
       "adds": {
         "13264": 2
       },
-      "drops": {
-        "4454": 2
-      },
       "consenter_ids": [
         2
       ],
+      "drops": {
+        "4454": 2
+      },
       "roster_ids": [
         2
       ],
@@ -3354,12 +3354,12 @@
       "adds": {
         "1166": 5
       },
-      "drops": {
-        "1373": 5
-      },
       "consenter_ids": [
         5
       ],
+      "drops": {
+        "1373": 5
+      },
       "roster_ids": [
         5
       ],
@@ -3384,12 +3384,12 @@
       "adds": {
         "4018": 2
       },
-      "drops": {
-        "11571": 2
-      },
       "consenter_ids": [
         2
       ],
+      "drops": {
+        "11571": 2
+      },
       "roster_ids": [
         2
       ],
@@ -3407,12 +3407,12 @@
       "creator": "733463671744880640",
       "transaction_id": "1412562460359041024",
       "adds": null,
-      "drops": {
-        "8392": 5
-      },
       "consenter_ids": [
         5
       ],
+      "drops": {
+        "8392": 5
+      },
       "roster_ids": [
         5
       ],
@@ -3432,12 +3432,12 @@
       "adds": {
         "6125": 11
       },
-      "drops": {
-        "12472": 11
-      },
       "consenter_ids": [
         11
       ],
+      "drops": {
+        "12472": 11
+      },
       "roster_ids": [
         11
       ],
@@ -3455,12 +3455,12 @@
       "creator": "737718651813244928",
       "transaction_id": "1412467120591093760",
       "adds": null,
-      "drops": {
-        "12469": 6
-      },
       "consenter_ids": [
         6
       ],
+      "drops": {
+        "12469": 6
+      },
       "roster_ids": [
         6
       ],
@@ -3478,12 +3478,12 @@
       "creator": "553779274944823296",
       "transaction_id": "1411212749962280960",
       "adds": null,
-      "drops": {
-        "2330": 8
-      },
       "consenter_ids": [
         8
       ],
+      "drops": {
+        "2330": 8
+      },
       "roster_ids": [
         8
       ],
@@ -3807,6 +3807,31 @@
       "status": "complete",
       "type": "free_agent",
       "metadata": null,
+      "created": 1791976063922,
+      "settings": null,
+      "leg": 6,
+      "draft_picks": [],
+      "creator": "733463671744880640",
+      "transaction_id": "1416053882601177088",
+      "adds": {
+        "8210": 5
+      },
+      "drops": {
+        "4066": 5
+      },
+      "consenter_ids": [
+        5
+      ],
+      "roster_ids": [
+        5
+      ],
+      "status_updated": 1791976063922,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
       "created": 1791972363747,
       "settings": null,
       "leg": 6,
@@ -3816,12 +3841,12 @@
       "adds": {
         "6141": 4
       },
-      "consenter_ids": [
-        4
-      ],
       "drops": {
         "10880": 4
       },
+      "consenter_ids": [
+        4
+      ],
       "roster_ids": [
         4
       ],
@@ -3841,12 +3866,12 @@
       "adds": {
         "11760": 4
       },
-      "consenter_ids": [
-        4
-      ],
       "drops": {
         "12617": 4
       },
+      "consenter_ids": [
+        4
+      ],
       "roster_ids": [
         4
       ],
@@ -3866,12 +3891,12 @@
       "adds": {
         "12711": 12
       },
-      "consenter_ids": [
-        12
-      ],
       "drops": {
         "7839": 12
       },
+      "consenter_ids": [
+        12
+      ],
       "roster_ids": [
         12
       ],
@@ -10938,6 +10963,28 @@
       "rotowire_id": 16104,
       "sportradar_id": "3a25c037-fa30-4740-b742-ec8e4f1a2a25",
       "fantasy_data_id": 23371
+    },
+    "8210": {
+      "player_id": "8210",
+      "full_name": "Chig Okonkwo",
+      "position": "TE",
+      "team": "WAS",
+      "age": 27,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "TE"
+      ],
+      "height": "75",
+      "weight": "238",
+      "years_exp": 4,
+      "college": "Maryland",
+      "birth_date": "1999-09-08",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 16042,
+      "sportradar_id": "14e11f9b-58c8-437f-abc0-a4e4df9a7c47",
+      "fantasy_data_id": 23489
     },
     "8228": {
       "player_id": "8228",
