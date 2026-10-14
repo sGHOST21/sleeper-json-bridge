@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-14T09:44:19.143Z",
+  "fetched_at": "2026-10-14T10:45:00.065Z",
   "current_week": 6,
   "league": {
     "name": "The D-League",
@@ -65,12 +65,11 @@
       "daily_waivers_last_ran": 6
     },
     "avatar": "31647870b5248d13691a1b97ccb9b0a0",
-    "company_id": null,
-    "last_message_id": "1416032558579306496",
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
     "shard": 169,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
+    "company_id": null,
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -128,18 +127,22 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
+    "last_message_id": "1416037237073641472",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1791970979880,
+    "last_message_time": 1791972095319,
     "last_pinned_message_id": null,
     "draft_id": "1398261761102098432",
     "last_read_id": null,
     "league_id": "1384998212942692352",
     "previous_league_id": "1222634114906075136",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -165,9 +168,6 @@
       "BN",
       "BN"
     ],
-    "group_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 14
@@ -1224,7 +1224,6 @@
         "12514",
         "12521",
         "12522",
-        "12617",
         "13279",
         "13347",
         "13405",
@@ -1236,17 +1235,18 @@
         "421",
         "4993",
         "5876",
+        "6485",
         "7528",
         "7611",
         "8142",
-        "8800",
+        "8329",
         "9487",
         "9757"
       ],
       "reserve": [
         "12469",
-        "8142",
-        "8800"
+        "12472",
+        "8142"
       ],
       "roster_id": 8,
       "settings": {
@@ -1265,19 +1265,19 @@
         "wins": 2
       },
       "starters": [
-        "3163",
+        "421",
         "7611",
         "12489",
         "12514",
         "11620",
-        "4993",
+        "12502",
         "9487",
         "13279",
         "3451",
         "11760",
-        "10880",
+        "8329",
         "5876",
-        "12617"
+        "6485"
       ],
       "taxi": [
         "13347",
@@ -2593,7 +2593,6 @@
         "12514",
         "12521",
         "12522",
-        "12617",
         "13279",
         "13347",
         "13405",
@@ -2605,10 +2604,11 @@
         "421",
         "4993",
         "5876",
+        "6485",
         "7528",
         "7611",
         "8142",
-        "8800",
+        "8329",
         "9487",
         "9757"
       ],
@@ -2616,19 +2616,19 @@
       "custom_points": null,
       "matchup_id": 6,
       "starters": [
-        "3163",
+        "421",
         "7611",
         "12489",
         "12514",
         "11620",
-        "4993",
+        "12502",
         "9487",
         "13279",
         "3451",
         "11760",
-        "10880",
+        "8329",
         "5876",
-        "12617"
+        "6485"
       ],
       "starters_points": [
         0,
@@ -2653,10 +2653,11 @@
         "4037": 0,
         "4993": 0,
         "5876": 0,
+        "6485": 0,
         "7528": 0,
         "7611": 0,
         "8142": 0,
-        "8800": 0,
+        "8329": 0,
         "9487": 0,
         "9757": 0,
         "10880": 0,
@@ -2670,7 +2671,6 @@
         "12514": 0,
         "12521": 0,
         "12522": 0,
-        "12617": 0,
         "13279": 0,
         "13347": 0,
         "13405": 0,
@@ -5160,6 +5160,77 @@
       "status": "complete",
       "type": "free_agent",
       "metadata": null,
+      "created": 1791972095282,
+      "settings": null,
+      "leg": 6,
+      "draft_picks": [],
+      "creator": "733456145330585600",
+      "transaction_id": "1416037236918480896",
+      "adds": {
+        "6485": 8
+      },
+      "drops": {
+        "12617": 8
+      },
+      "consenter_ids": [
+        8
+      ],
+      "roster_ids": [
+        8
+      ],
+      "status_updated": 1791972095282,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1791972049971,
+      "settings": null,
+      "leg": 6,
+      "draft_picks": [],
+      "creator": "733456145330585600",
+      "transaction_id": "1416037046870355968",
+      "adds": {
+        "8329": 8
+      },
+      "drops": null,
+      "consenter_ids": [
+        8
+      ],
+      "roster_ids": [
+        8
+      ],
+      "status_updated": 1791972049971,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1791972009633,
+      "settings": null,
+      "leg": 6,
+      "draft_picks": [],
+      "creator": "733456145330585600",
+      "transaction_id": "1416036877676371968",
+      "adds": null,
+      "drops": {
+        "8800": 8
+      },
+      "consenter_ids": [
+        8
+      ],
+      "roster_ids": [
+        8
+      ],
+      "status_updated": 1791972009633,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
       "created": 1791970979844,
       "settings": null,
       "leg": 6,
@@ -5169,12 +5240,12 @@
       "adds": {
         "3172": 12
       },
-      "consenter_ids": [
-        12
-      ],
       "drops": {
         "11667": 12
       },
+      "consenter_ids": [
+        12
+      ],
       "roster_ids": [
         12
       ],
@@ -11443,6 +11514,28 @@
       "rotowire_id": 13953,
       "sportradar_id": "7c51883f-8ea7-4f54-8c03-a562b4524858",
       "fantasy_data_id": 21134
+    },
+    "6485": {
+      "player_id": "6485",
+      "full_name": "Azeez Al-Shaair",
+      "position": "LB",
+      "team": "HOU",
+      "age": 29,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "LB"
+      ],
+      "height": "74",
+      "weight": "228",
+      "years_exp": 7,
+      "college": "Florida Atlantic",
+      "birth_date": "1997-08-04",
+      "espn_id": 3919117,
+      "yahoo_id": 32318,
+      "rotowire_id": 13829,
+      "sportradar_id": "e9348fc5-273d-4ac3-9760-462f37c025dc",
+      "fantasy_data_id": 21490
     },
     "650": {
       "player_id": "650",

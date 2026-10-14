@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-14T09:44:20.957Z",
+  "fetched_at": "2026-10-14T10:45:02.252Z",
   "current_week": 6,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -63,6 +63,10 @@
     },
     "avatar": "3a2a8f32f6fec7c6b6663d1495cf1168",
     "company_id": null,
+    "sport": "nfl",
+    "season_type": "regular",
+    "season": "2026",
+    "shard": 949,
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -108,28 +112,19 @@
       "pts_allow_7_13": 4,
       "st_ff": 1
     },
-    "season": "2026",
-    "season_type": "regular",
-    "shard": 949,
-    "sport": "nfl",
-    "last_message_id": "1415995196402860037",
+    "last_message_id": "1416035192904110080",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1791962072042,
+    "last_message_time": 1791971607952,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "draft_id": "1400845992303022080",
     "league_id": "1400845991007019008",
     "previous_league_id": null,
-    "group_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -151,6 +146,11 @@
       "BN",
       "BN"
     ],
+    "group_id": null,
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 8
   },
   "users": [
@@ -286,6 +286,7 @@
         "12495",
         "12518",
         "12529",
+        "12711",
         "13281",
         "13287",
         "13346",
@@ -295,7 +296,6 @@
         "7523",
         "7525",
         "7547",
-        "7839",
         "8146",
         "8183",
         "9221",
@@ -325,15 +325,15 @@
       },
       "starters": [
         "7523",
-        "0",
+        "12474",
         "13287",
         "9997",
         "8146",
         "4217",
         "12518",
         "8183",
-        "7839",
-        "MIN"
+        "12711",
+        "KC"
       ],
       "taxi": null
     },
@@ -515,14 +515,14 @@
         "wins": 1
       },
       "starters": [
-        "4943",
+        "11564",
         "7611",
         "12481",
         "11632",
         "12501",
         "10236",
         "8134",
-        "11564",
+        "4943",
         "2747",
         "SEA"
       ],
@@ -788,6 +788,7 @@
         "12495",
         "12518",
         "12529",
+        "12711",
         "13281",
         "13287",
         "13346",
@@ -797,7 +798,6 @@
         "7523",
         "7525",
         "7547",
-        "7839",
         "8146",
         "8183",
         "9221",
@@ -811,15 +811,15 @@
       "matchup_id": 4,
       "starters": [
         "7523",
-        "0",
+        "12474",
         "13287",
         "9997",
         "8146",
         "4217",
         "12518",
         "8183",
-        "7839",
-        "MIN"
+        "12711",
+        "KC"
       ],
       "starters_points": [
         0,
@@ -840,7 +840,6 @@
         "7523": 0,
         "7525": 0,
         "7547": 0,
-        "7839": 0,
         "8146": 0,
         "8183": 0,
         "9221": 0,
@@ -850,6 +849,7 @@
         "12495": 0,
         "12518": 0,
         "12529": 0,
+        "12711": 0,
         "13281": 0,
         "13287": 0,
         "13346": 0,
@@ -1031,14 +1031,14 @@
       "custom_points": null,
       "matchup_id": 2,
       "starters": [
-        "4943",
+        "11564",
         "7611",
         "12481",
         "11632",
         "12501",
         "10236",
         "8134",
-        "11564",
+        "4943",
         "2747",
         "SEA"
       ],
@@ -2534,6 +2534,31 @@
         2
       ],
       "status_updated": 1791359159874,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1791971607920,
+      "settings": null,
+      "leg": 6,
+      "draft_picks": [],
+      "creator": "737708656518385664",
+      "transaction_id": "1416035192774135808",
+      "adds": {
+        "12711": 1
+      },
+      "consenter_ids": [
+        1
+      ],
+      "drops": {
+        "7839": 1
+      },
+      "roster_ids": [
+        1
+      ],
+      "status_updated": 1791971607920,
       "waiver_budget": []
     }
   ],
