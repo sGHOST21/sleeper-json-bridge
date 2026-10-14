@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-14T19:43:42.126Z",
+  "fetched_at": "2026-10-14T20:41:34.041Z",
   "current_week": 6,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -521,7 +521,7 @@
         "11632",
         "12501",
         "10236",
-        "8134",
+        "11646",
         "4943",
         "2747",
         "SEA"
@@ -1037,7 +1037,7 @@
         "11632",
         "12501",
         "10236",
-        "8134",
+        "11646",
         "4943",
         "2747",
         "SEA"
@@ -3258,7 +3258,7 @@
       "team": "CAR",
       "age": 24,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -5766,7 +5766,7 @@
       "team": "NO",
       "age": 26,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-14T19:43:40.229Z",
+  "fetched_at": "2026-10-14T20:41:31.668Z",
   "current_week": 6,
   "league": {
     "name": "The D-League",
@@ -1434,7 +1434,7 @@
         "2216",
         "8146",
         "4217",
-        "9486",
+        "7594",
         "10229",
         "1945",
         "13363",
@@ -2816,7 +2816,7 @@
         "2216",
         "8146",
         "4217",
-        "9486",
+        "7594",
         "10229",
         "1945",
         "13363",
@@ -6765,7 +6765,7 @@
       "team": "CAR",
       "age": 24,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -9896,7 +9896,7 @@
       "team": "CAR",
       "age": 34,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "TE"
       ],
@@ -13489,7 +13489,7 @@
       "team": "NO",
       "age": 26,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -14568,7 +14568,7 @@
       "team": "TEN",
       "age": 25,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
