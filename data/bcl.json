@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-14T12:52:51.497Z",
+  "fetched_at": "2026-10-14T13:47:29.372Z",
   "current_week": 6,
   "league": {
     "name": "Brass City League",
@@ -68,11 +68,11 @@
     },
     "avatar": "71eb884a69970234d6aab2bcc692e78f",
     "company_id": null,
-    "last_message_id": "1416066181697200128",
     "sport": "nfl",
     "season_type": "regular",
     "season": "2026",
     "shard": 134,
+    "last_message_id": "1416093793316290560",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -136,9 +136,9 @@
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1791978996256,
-    "last_pinned_message_id": null,
+    "last_message_time": 1791985579379,
     "draft_id": "1387554218864291840",
+    "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1387554218847502336",
     "previous_league_id": "1222634893318561792",
@@ -168,9 +168,9 @@
       "BN",
       "BN"
     ],
-    "group_id": null,
     "bracket_id": null,
     "bracket_overrides_id": null,
+    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 12
@@ -522,6 +522,7 @@
         "11586",
         "11624",
         "11631",
+        "11647",
         "11665",
         "11834",
         "12517",
@@ -536,7 +537,6 @@
         "13417",
         "13453",
         "13545",
-        "4018",
         "5840",
         "6790",
         "7571",
@@ -567,11 +567,11 @@
       "starters": [
         "8183",
         "6790",
-        "10219",
+        "11647",
         "11834",
         "8121",
         "12517",
-        "13264",
+        "11624",
         "11631",
         "13545",
         "10898",
@@ -1332,8 +1332,8 @@
         "4881",
         "5045",
         "5892",
-        "6949",
         "7553",
+        "7672",
         "7811",
         "8150",
         "8659",
@@ -1373,7 +1373,7 @@
         "9500",
         "12711",
         "10917",
-        "6949",
+        "7672",
         "7811",
         "8659"
       ],
@@ -1618,6 +1618,7 @@
         "11586",
         "11624",
         "11631",
+        "11647",
         "11665",
         "11834",
         "12517",
@@ -1632,7 +1633,6 @@
         "13417",
         "13453",
         "13545",
-        "4018",
         "5840",
         "6790",
         "7571",
@@ -1646,11 +1646,11 @@
       "starters": [
         "8183",
         "6790",
-        "10219",
+        "11647",
         "11834",
         "8121",
         "12517",
-        "13264",
+        "11624",
         "11631",
         "13545",
         "10898",
@@ -1674,7 +1674,6 @@
         0
       ],
       "players_points": {
-        "4018": 0,
         "5840": 0,
         "6790": 0,
         "7571": 0,
@@ -1687,6 +1686,7 @@
         "11586": 0,
         "11624": 0,
         "11631": 0,
+        "11647": 0,
         "11665": 0,
         "11834": 0,
         "12517": 0,
@@ -2578,8 +2578,8 @@
         "4881",
         "5045",
         "5892",
-        "6949",
         "7553",
+        "7672",
         "7811",
         "8150",
         "8659",
@@ -2602,7 +2602,7 @@
         "9500",
         "12711",
         "10917",
-        "6949",
+        "7672",
         "7811",
         "8659"
       ],
@@ -2628,8 +2628,8 @@
         "4881": 0,
         "5045": 0,
         "5892": 0,
-        "6949": 0,
         "7553": 0,
+        "7672": 0,
         "7811": 0,
         "8150": 0,
         "8659": 0,
@@ -3801,6 +3801,31 @@
         5
       ],
       "status_updated": 1791386415192,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1791982627704,
+      "settings": null,
+      "leg": 6,
+      "draft_picks": [],
+      "creator": "1267177164097191936",
+      "transaction_id": "1416081413094064128",
+      "adds": {
+        "11647": 2
+      },
+      "drops": {
+        "4018": 2
+      },
+      "consenter_ids": [
+        2
+      ],
+      "roster_ids": [
+        2
+      ],
+      "status_updated": 1791982627704,
       "waiver_budget": []
     },
     {
@@ -9799,28 +9824,6 @@
       "sportradar_id": "64bd0f02-6a5d-407e-98f1-fd02048ea21d",
       "fantasy_data_id": 21831
     },
-    "6949": {
-      "player_id": "6949",
-      "full_name": "Jordyn Brooks",
-      "position": "LB",
-      "team": "MIA",
-      "age": 28,
-      "status": "Active",
-      "injury_status": "Questionable",
-      "fantasy_positions": [
-        "LB"
-      ],
-      "height": "72",
-      "weight": "240",
-      "years_exp": 6,
-      "college": "Texas Tech",
-      "birth_date": "1997-10-21",
-      "espn_id": 4043130,
-      "yahoo_id": 32697,
-      "rotowire_id": 14739,
-      "sportradar_id": "ef422c88-b74f-4720-a831-947010c44ebe",
-      "fantasy_data_id": 22005
-    },
     "7002": {
       "player_id": "7002",
       "full_name": "Juwan Johnson",
@@ -10374,6 +10377,28 @@
       "rotowire_id": 15196,
       "sportradar_id": "30915dd4-f19f-48cd-8425-f2cf29246b66",
       "fantasy_data_id": 22841
+    },
+    "7672": {
+      "player_id": "7672",
+      "full_name": "Ernest Jones",
+      "position": "LB",
+      "team": "SEA",
+      "age": 26,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "LB"
+      ],
+      "height": "74",
+      "weight": "233",
+      "years_exp": 5,
+      "college": "South Carolina",
+      "birth_date": "1999-11-22",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 15228,
+      "sportradar_id": "42c12021-abf6-40fa-b989-7ea52d0e7070",
+      "fantasy_data_id": 22865
     },
     "7715": {
       "player_id": "7715",
