@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-15T11:44:13.872Z",
+  "fetched_at": "2026-10-15T12:56:02.165Z",
   "current_week": 6,
   "league": {
     "name": "Brass City League",
@@ -68,10 +68,6 @@
     },
     "avatar": "71eb884a69970234d6aab2bcc692e78f",
     "company_id": null,
-    "shard": 134,
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -129,7 +125,11 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "last_message_id": "1416422412664229888",
+    "season": "2026",
+    "season_type": "regular",
+    "shard": 134,
+    "sport": "nfl",
+    "last_message_id": "1416429433799151616",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -137,7 +137,7 @@
     "draft_id": "1387554218864291840",
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1792063928337,
+    "last_message_time": 1792065602306,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1387554218847502336",
@@ -834,7 +834,7 @@
       "owner_id": "737718651813244928",
       "player_map": null,
       "players": [
-        "11370",
+        "11439",
         "11539",
         "11618",
         "11630",
@@ -851,13 +851,13 @@
         "3973",
         "5849",
         "5872",
+        "650",
         "7002",
         "7543",
         "7627",
         "7648",
         "8137",
         "8161",
-        "8266",
         "9221",
         "9480",
         "9486",
@@ -885,18 +885,18 @@
       },
       "starters": [
         "9758",
-        "9221",
         "12490",
+        "12534",
         "8137",
         "12501",
-        "7002",
-        "5872",
-        "11630",
-        "11539",
+        "9480",
+        "12526",
+        "11635",
+        "650",
         "7627",
         "12578",
         "12597",
-        "8266"
+        "7648"
       ],
       "taxi": [
         "11643",
@@ -1374,7 +1374,7 @@
         "12711",
         "10917",
         "7672",
-        "0",
+        "6911",
         "8659"
       ],
       "taxi": [
@@ -1999,7 +1999,7 @@
     {
       "points": 0,
       "players": [
-        "11370",
+        "11439",
         "11539",
         "11618",
         "11630",
@@ -2016,13 +2016,13 @@
         "3973",
         "5849",
         "5872",
+        "650",
         "7002",
         "7543",
         "7627",
         "7648",
         "8137",
         "8161",
-        "8266",
         "9221",
         "9480",
         "9486",
@@ -2037,14 +2037,14 @@
         "12534",
         "8137",
         "12501",
-        "7002",
-        "5872",
-        "11630",
-        "11539",
+        "9480",
+        "12526",
+        "11635",
+        "650",
         "7627",
         "12578",
         "12597",
-        "8266"
+        "7648"
       ],
       "starters_points": [
         0,
@@ -2062,6 +2062,7 @@
         0
       ],
       "players_points": {
+        "650": 0,
         "3973": 0,
         "5849": 0,
         "5872": 0,
@@ -2071,12 +2072,11 @@
         "7648": 0,
         "8137": 0,
         "8161": 0,
-        "8266": 0,
         "9221": 0,
         "9480": 0,
         "9486": 0,
         "9758": 0,
-        "11370": 0,
+        "11439": 0,
         "11539": 0,
         "11618": 0,
         "11630": 0,
@@ -2610,7 +2610,7 @@
         "12711",
         "10917",
         "7672",
-        "0",
+        "6911",
         "8659"
       ],
       "starters_points": [
@@ -3845,6 +3845,56 @@
       "status": "complete",
       "type": "free_agent",
       "metadata": null,
+      "created": 1792065602275,
+      "settings": null,
+      "leg": 6,
+      "draft_picks": [],
+      "creator": "737718651813244928",
+      "transaction_id": "1416429433673285632",
+      "adds": {
+        "650": 6
+      },
+      "consenter_ids": [
+        6
+      ],
+      "drops": {
+        "11370": 6
+      },
+      "roster_ids": [
+        6
+      ],
+      "status_updated": 1792065602275,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1792065433521,
+      "settings": null,
+      "leg": 6,
+      "draft_picks": [],
+      "creator": "737718651813244928",
+      "transaction_id": "1416428725867712512",
+      "adds": {
+        "11439": 6
+      },
+      "consenter_ids": [
+        6
+      ],
+      "drops": {
+        "8266": 6
+      },
+      "roster_ids": [
+        6
+      ],
+      "status_updated": 1792065433521,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
       "created": 1792063928308,
       "settings": null,
       "leg": 6,
@@ -4621,6 +4671,28 @@
       "rotowire_id": 17593,
       "sportradar_id": "05266280-f323-11ed-bd27-0bcbcaae8d67",
       "fantasy_data_id": 24309
+    },
+    "11439": {
+      "player_id": "11439",
+      "full_name": "Jaleel McLaughlin",
+      "position": "RB",
+      "team": "CLE",
+      "age": 26,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "RB"
+      ],
+      "height": "67",
+      "weight": "187",
+      "years_exp": 3,
+      "college": "Youngstown State",
+      "birth_date": "2000-09-13",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 17319,
+      "sportradar_id": "60b4ded0-f321-11ed-ab27-e38fa04fd6c0",
+      "fantasy_data_id": 24311
     },
     "11533": {
       "player_id": "11533",
@@ -9693,6 +9765,28 @@
       "rotowire_id": 13846,
       "sportradar_id": "17dfbad4-f4fc-4a65-a085-6cdcefe36879",
       "fantasy_data_id": 21118
+    },
+    "650": {
+      "player_id": "650",
+      "full_name": "Nick Folk",
+      "position": "K",
+      "team": "ATL",
+      "age": 41,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "K"
+      ],
+      "height": "73",
+      "weight": "225",
+      "years_exp": 19,
+      "college": "Arizona",
+      "birth_date": "1984-11-05",
+      "espn_id": 10621,
+      "yahoo_id": 8432,
+      "rotowire_id": 5365,
+      "sportradar_id": "b37c621e-1125-4c35-bea0-fcabb1527060",
+      "fantasy_data_id": 11694
     },
     "6650": {
       "player_id": "6650",
