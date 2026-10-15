@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-15T19:40:58.075Z",
+  "fetched_at": "2026-10-15T20:43:39.925Z",
   "current_week": 6,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -67,6 +67,7 @@
     "season_type": "regular",
     "season": "2026",
     "last_message_id": "1416145133706936320",
+    "shard": 949,
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -112,7 +113,7 @@
       "pts_allow_7_13": 4,
       "st_ff": 1
     },
-    "shard": 949,
+    "draft_id": "1400845992303022080",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -122,10 +123,13 @@
     "last_message_time": 1791997819882,
     "last_pinned_message_id": null,
     "last_read_id": null,
-    "draft_id": "1400845992303022080",
     "league_id": "1400845991007019008",
     "previous_league_id": null,
+    "bracket_id": null,
+    "bracket_overrides_id": null,
     "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -147,10 +151,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 8
   },
   "users": [
@@ -2549,10 +2549,10 @@
       "adds": {
         "9480": 6
       },
+      "drops": null,
       "consenter_ids": [
         6
       ],
-      "drops": null,
       "roster_ids": [
         6
       ],
@@ -2572,10 +2572,10 @@
       "adds": {
         "CAR": 6
       },
+      "drops": null,
       "consenter_ids": [
         6
       ],
-      "drops": null,
       "roster_ids": [
         6
       ],
@@ -2593,12 +2593,12 @@
       "creator": "1401314114613022720",
       "transaction_id": "1416144912059015168",
       "adds": null,
-      "consenter_ids": [
-        6
-      ],
       "drops": {
         "LV": 6
       },
+      "consenter_ids": [
+        6
+      ],
       "roster_ids": [
         6
       ],
@@ -2616,12 +2616,12 @@
       "creator": "1401314114613022720",
       "transaction_id": "1416144537386049536",
       "adds": null,
-      "consenter_ids": [
-        6
-      ],
       "drops": {
         "13337": 6
       },
+      "consenter_ids": [
+        6
+      ],
       "roster_ids": [
         6
       ],
@@ -2641,10 +2641,10 @@
       "adds": {
         "BUF": 6
       },
+      "drops": null,
       "consenter_ids": [
         6
       ],
-      "drops": null,
       "roster_ids": [
         6
       ],
@@ -2662,12 +2662,12 @@
       "creator": "1401314114613022720",
       "transaction_id": "1416143333167755264",
       "adds": null,
-      "consenter_ids": [
-        6
-      ],
       "drops": {
         "8154": 6
       },
+      "consenter_ids": [
+        6
+      ],
       "roster_ids": [
         6
       ],
@@ -2687,12 +2687,12 @@
       "adds": {
         "12711": 1
       },
-      "consenter_ids": [
-        1
-      ],
       "drops": {
         "7839": 1
       },
+      "consenter_ids": [
+        1
+      ],
       "roster_ids": [
         1
       ],
@@ -4138,7 +4138,7 @@
       "team": "SF",
       "age": 33,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -5216,7 +5216,7 @@
       "team": "PIT",
       "age": 28,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "RB"
       ],
@@ -6294,7 +6294,7 @@
       "team": "IND",
       "age": 25,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
