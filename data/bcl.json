@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-15T03:43:58.342Z",
+  "fetched_at": "2026-10-15T04:42:53.342Z",
   "current_week": 6,
   "league": {
     "name": "Brass City League",
@@ -1188,10 +1188,10 @@
         "fpts": 651,
         "fpts_against": 731,
         "fpts_against_decimal": 86,
-        "fpts_decimal": 8,
+        "fpts_decimal": 58,
         "losses": 2,
         "ppts": 779,
-        "ppts_decimal": 28,
+        "ppts_decimal": 78,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
@@ -1268,8 +1268,8 @@
       "settings": {
         "division": 2,
         "fpts": 701,
-        "fpts_against": 674,
-        "fpts_against_decimal": 54,
+        "fpts_against": 675,
+        "fpts_against_decimal": 4,
         "fpts_decimal": 18,
         "losses": 3,
         "ppts": 811,
