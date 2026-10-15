@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-15T21:43:20.142Z",
+  "fetched_at": "2026-10-15T22:41:34.143Z",
   "current_week": 6,
   "league": {
     "name": "Brass City League",
@@ -5714,7 +5714,7 @@
       "team": "GB",
       "age": 25,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "DB"
       ],
@@ -6683,7 +6683,7 @@
       "team": "WAS",
       "age": 25,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
@@ -9552,7 +9552,7 @@
       "team": "HOU",
       "age": 29,
       "status": "Active",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "fantasy_positions": [
         "RB"
       ],
@@ -9574,7 +9574,7 @@
       "team": "WAS",
       "age": 31,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
