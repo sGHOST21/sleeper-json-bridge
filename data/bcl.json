@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-15T05:42:53.110Z",
+  "fetched_at": "2026-10-15T06:55:21.757Z",
   "current_week": 6,
   "league": {
     "name": "Brass City League",
@@ -129,22 +129,19 @@
     "season_type": "regular",
     "shard": 134,
     "sport": "nfl",
-    "last_message_id": "1416180046548234240",
+    "last_message_id": "1416343638241214464",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1792006143752,
+    "last_message_time": 1792045147050,
     "last_pinned_message_id": null,
-    "last_read_id": null,
     "draft_id": "1387554218864291840",
+    "last_read_id": null,
     "league_id": "1387554218847502336",
     "previous_league_id": "1222634893318561792",
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -171,6 +168,9 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 12
@@ -519,8 +519,8 @@
         "10219",
         "10898",
         "11563",
+        "11610",
         "11624",
-        "11631",
         "11647",
         "11665",
         "11834",
@@ -572,7 +572,7 @@
         "8121",
         "12517",
         "11624",
-        "11631",
+        "0",
         "13545",
         "10898",
         "13377",
@@ -836,9 +836,9 @@
       "players": [
         "11370",
         "11539",
-        "11610",
         "11618",
         "11630",
+        "11631",
         "11635",
         "11643",
         "12490",
@@ -1622,8 +1622,8 @@
         "10219",
         "10898",
         "11563",
+        "11610",
         "11624",
-        "11631",
         "11647",
         "11665",
         "11834",
@@ -1658,7 +1658,7 @@
         "8121",
         "12517",
         "11624",
-        "11631",
+        "0",
         "13545",
         "10898",
         "13377",
@@ -1690,8 +1690,8 @@
         "10219": 0,
         "10898": 0,
         "11563": 0,
+        "11610": 0,
         "11624": 0,
-        "11631": 0,
         "11647": 0,
         "11665": 0,
         "11834": 0,
@@ -2001,9 +2001,9 @@
       "players": [
         "11370",
         "11539",
-        "11610",
         "11618",
         "11630",
+        "11631",
         "11635",
         "11643",
         "12490",
@@ -2078,9 +2078,9 @@
         "9758": 0,
         "11370": 0,
         "11539": 0,
-        "11610": 0,
         "11618": 0,
         "11630": 0,
+        "11631": 0,
         "11635": 0,
         "11643": 0,
         "12490": 0,
@@ -3495,6 +3495,37 @@
         8
       ],
       "status_updated": 1790821847957,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "trade",
+      "metadata": {
+        "notes": "Your trade was processed successfully!"
+      },
+      "created": 1791852871039,
+      "settings": null,
+      "leg": 5,
+      "draft_picks": [],
+      "creator": "737718651813244928",
+      "transaction_id": "1415537174195036160",
+      "adds": {
+        "11610": 2,
+        "11631": 6
+      },
+      "consenter_ids": [
+        2,
+        6
+      ],
+      "drops": {
+        "11610": 6,
+        "11631": 2
+      },
+      "roster_ids": [
+        2,
+        6
+      ],
+      "status_updated": 1792045147000,
       "waiver_budget": []
     },
     {
