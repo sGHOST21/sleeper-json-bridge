@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-15T22:41:35.215Z",
+  "fetched_at": "2026-10-15T23:37:56.895Z",
   "current_week": 6,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -66,7 +66,7 @@
     "sport": "nfl",
     "season_type": "regular",
     "season": "2026",
-    "last_message_id": "1416145133706936320",
+    "shard": 949,
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -112,20 +112,24 @@
       "pts_allow_7_13": 4,
       "st_ff": 1
     },
-    "shard": 949,
+    "last_message_id": "1416597567566864384",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1791997819882,
+    "last_message_time": 1792105688519,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "draft_id": "1400845992303022080",
     "league_id": "1400845991007019008",
     "previous_league_id": null,
+    "bracket_id": null,
+    "bracket_overrides_id": null,
     "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -147,10 +151,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 8
   },
   "users": [
@@ -460,7 +460,7 @@
         "8167",
         "4881",
         "6650",
-        "DEN"
+        "PHI"
       ],
       "taxi": null
     },
@@ -667,9 +667,9 @@
         "11834",
         "12514",
         "12534",
-        "13330",
         "4199",
         "5849",
+        "6083",
         "7002",
         "7564",
         "8131",
@@ -709,8 +709,8 @@
         "8131",
         "11584",
         "11834",
-        "11792",
-        "NYG"
+        "6083",
+        "SF"
       ],
       "taxi": null
     },
@@ -967,7 +967,7 @@
         "8167",
         "4881",
         "6650",
-        "DEN"
+        "PHI"
       ],
       "starters_points": [
         0,
@@ -1230,9 +1230,9 @@
         "11834",
         "12514",
         "12534",
-        "13330",
         "4199",
         "5849",
+        "6083",
         "7002",
         "7564",
         "8131",
@@ -1257,8 +1257,8 @@
         "8131",
         "11584",
         "11834",
-        "11792",
-        "NYG"
+        "6083",
+        "SF"
       ],
       "starters_points": [
         0,
@@ -1275,6 +1275,7 @@
       "players_points": {
         "4199": 0,
         "5849": 0,
+        "6083": 0,
         "7002": 0,
         "7564": 0,
         "8131": 0,
@@ -1290,7 +1291,6 @@
         "11834": 0,
         "12514": 0,
         "12534": 0,
-        "13330": 0,
         "NYG": 0,
         "SF": 0
       }
@@ -2534,6 +2534,31 @@
         2
       ],
       "status_updated": 1791359159874,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1792105688488,
+      "settings": null,
+      "leg": 6,
+      "draft_picks": [],
+      "creator": "1401317827809398784",
+      "transaction_id": "1416597567432630272",
+      "adds": {
+        "6083": 7
+      },
+      "consenter_ids": [
+        7
+      ],
+      "drops": {
+        "13330": 7
+      },
+      "roster_ids": [
+        7
+      ],
+      "status_updated": 1792105688488,
       "waiver_budget": []
     },
     {
@@ -4922,6 +4947,28 @@
       "rotowire_id": 13590,
       "sportradar_id": "33b0227d-4c21-4e71-b4cd-be35f7db9123",
       "fantasy_data_id": 20912
+    },
+    "6083": {
+      "player_id": "6083",
+      "full_name": "Matt Gay",
+      "position": "K",
+      "team": "LV",
+      "age": 32,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "K"
+      ],
+      "height": "72",
+      "weight": "232",
+      "years_exp": 7,
+      "college": "Utah",
+      "birth_date": "1994-03-15",
+      "espn_id": 4249087,
+      "yahoo_id": 31977,
+      "rotowire_id": 13673,
+      "sportradar_id": "2b90e091-ef78-4753-93eb-0acf3632c206",
+      "fantasy_data_id": 20769
     },
     "6130": {
       "player_id": "6130",

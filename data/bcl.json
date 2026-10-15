@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-15T22:41:34.143Z",
+  "fetched_at": "2026-10-15T23:37:55.798Z",
   "current_week": 6,
   "league": {
     "name": "Brass City League",
@@ -68,6 +68,11 @@
     },
     "avatar": "71eb884a69970234d6aab2bcc692e78f",
     "company_id": null,
+    "shard": 134,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
+    "last_message_id": "1416603474723909632",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -125,23 +130,21 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "shard": 134,
-    "sport": "nfl",
-    "last_message_id": "1416429433799151616",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1792065602306,
+    "last_message_time": 1792107096896,
     "last_pinned_message_id": null,
     "draft_id": "1387554218864291840",
     "last_read_id": null,
     "league_id": "1387554218847502336",
     "previous_league_id": "1222634893318561792",
+    "group_id": null,
+    "bracket_id": null,
+    "bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -168,9 +171,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 12
@@ -929,7 +929,7 @@
         "13375",
         "3257",
         "4943",
-        "6217",
+        "5944",
         "6650",
         "6788",
         "6794",
@@ -967,17 +967,17 @@
       "starters": [
         "7523",
         "13287",
-        "12529",
+        "8151",
         "7569",
         "11632",
         "8130",
-        "8151",
+        "8131",
         "12519",
         "6650",
         "10892",
         "13375",
         "6788",
-        "6217"
+        "5944"
       ],
       "taxi": null
     },
@@ -2106,7 +2106,7 @@
         "13375",
         "3257",
         "4943",
-        "6217",
+        "5944",
         "6650",
         "6788",
         "6794",
@@ -2127,17 +2127,17 @@
       "starters": [
         "7523",
         "13287",
-        "12529",
+        "8151",
         "7569",
         "11632",
         "8130",
-        "8151",
+        "8131",
         "12519",
         "6650",
         "10892",
         "13375",
         "6788",
-        "6217"
+        "5944"
       ],
       "starters_points": [
         0,
@@ -2157,7 +2157,7 @@
       "players_points": {
         "3257": 0,
         "4943": 0,
-        "6217": 0,
+        "5944": 0,
         "6650": 0,
         "6788": 0,
         "6794": 0,
@@ -3839,6 +3839,52 @@
         5
       ],
       "status_updated": 1791386415192,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1792107096856,
+      "settings": null,
+      "leg": 6,
+      "draft_picks": [],
+      "creator": "704027286583705600",
+      "transaction_id": "1416603474560286720",
+      "adds": {
+        "5944": 7
+      },
+      "consenter_ids": [
+        7
+      ],
+      "drops": null,
+      "roster_ids": [
+        7
+      ],
+      "status_updated": 1792107096856,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1792107065622,
+      "settings": null,
+      "leg": 6,
+      "draft_picks": [],
+      "creator": "704027286583705600",
+      "transaction_id": "1416603343555506176",
+      "adds": null,
+      "consenter_ids": [
+        7
+      ],
+      "drops": {
+        "6217": 7
+      },
+      "roster_ids": [
+        7
+      ],
+      "status_updated": 1792107065622,
       "waiver_budget": []
     },
     {
@@ -9588,6 +9634,28 @@
       "rotowire_id": 13536,
       "sportradar_id": "7e8c4641-2beb-4213-ba22-69fe0307005f",
       "fantasy_data_id": 20873
+    },
+    "5944": {
+      "player_id": "5944",
+      "full_name": "Bobby Okereke",
+      "position": "LB",
+      "team": "CAR",
+      "age": 30,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "LB"
+      ],
+      "height": "74",
+      "weight": "235",
+      "years_exp": 7,
+      "college": "Stanford",
+      "birth_date": "1996-07-29",
+      "espn_id": 3117253,
+      "yahoo_id": 31921,
+      "rotowire_id": 13782,
+      "sportradar_id": "6c338c70-42d9-4d35-bf87-04fe7e2f690a",
+      "fantasy_data_id": 20897
     },
     "5947": {
       "player_id": "5947",
