@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-16T19:41:07.508Z",
+  "fetched_at": "2026-10-16T20:43:22.965Z",
   "current_week": 6,
   "league": {
     "name": "Brass City League",
@@ -4991,8 +4991,8 @@
       "position": "RB",
       "team": "PHI",
       "age": 24,
-      "status": "Active",
-      "injury_status": "Doubtful",
+      "status": "Inactive",
+      "injury_status": "IR",
       "fantasy_positions": [
         "RB"
       ],
@@ -6555,7 +6555,7 @@
       "team": "IND",
       "age": 24,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "TE"
       ],
@@ -7614,7 +7614,7 @@
       "team": "CLE",
       "age": 22,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -8894,7 +8894,7 @@
       "team": "PHI",
       "age": 29,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "RB"
       ],
@@ -9026,7 +9026,7 @@
       "team": "LAC",
       "age": 30,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "DB"
       ],
@@ -10462,7 +10462,7 @@
       "team": "PHI",
       "age": 27,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -10660,7 +10660,7 @@
       "team": "BAL",
       "age": 26,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -12071,7 +12071,7 @@
       "team": "PHI",
       "age": 25,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -12467,7 +12467,7 @@
       "team": "BAL",
       "age": 26,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
