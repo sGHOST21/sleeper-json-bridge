@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-16T20:43:21.677Z",
+  "fetched_at": "2026-10-16T21:41:41.910Z",
   "current_week": 6,
   "league": {
     "name": "The D-League",
@@ -10391,7 +10391,7 @@
       "team": "NE",
       "age": 33,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "DB"
       ],
@@ -10810,7 +10810,7 @@
       "team": "ARI",
       "age": 30,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "DB"
       ],
@@ -14381,7 +14381,7 @@
       "team": "LAR",
       "age": 27,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "LB"
       ],
