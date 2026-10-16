@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-16T16:43:39.218Z",
+  "fetched_at": "2026-10-16T17:40:27.358Z",
   "current_week": 6,
   "league": {
     "name": "The D-League",
@@ -127,20 +127,24 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "last_message_id": "1416836649882595328",
+    "last_message_id": "1416875846660030464",
+    "draft_id": "1398261761102098432",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1792162690185,
+    "last_message_time": 1792172035426,
     "last_pinned_message_id": null,
     "last_read_id": null,
-    "draft_id": "1398261761102098432",
     "league_id": "1384998212942692352",
     "previous_league_id": "1222634114906075136",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
     "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -166,10 +170,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 14
   },
   "users": [
@@ -1618,6 +1618,7 @@
         "11576",
         "12484",
         "12536",
+        "12591",
         "13268",
         "13302",
         "13317",
@@ -1675,7 +1676,7 @@
         "2747",
         "6125",
         "7841",
-        "0",
+        "12591",
         "8280"
       ],
       "taxi": [
@@ -3058,6 +3059,7 @@
         "11576",
         "12484",
         "12536",
+        "12591",
         "13268",
         "13302",
         "13317",
@@ -3097,7 +3099,7 @@
         "2747",
         "6125",
         "7841",
-        "0",
+        "12591",
         "8280"
       ],
       "starters_points": [
@@ -3139,6 +3141,7 @@
         "11576": 0,
         "12484": 0,
         "12536": 0,
+        "12591": 0,
         "13268": 0,
         "13302": 0,
         "13317": 0,
@@ -5147,6 +5150,29 @@
         13
       ],
       "status_updated": 1791367036317,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1792172035391,
+      "settings": null,
+      "leg": 6,
+      "draft_picks": [],
+      "creator": "737708656518385664",
+      "transaction_id": "1416875846517493760",
+      "adds": {
+        "12591": 13
+      },
+      "drops": null,
+      "consenter_ids": [
+        13
+      ],
+      "roster_ids": [
+        13
+      ],
+      "status_updated": 1792172035391,
       "waiver_budget": []
     },
     {
@@ -10122,7 +10148,7 @@
       "team": "CAR",
       "age": 34,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "TE"
       ],
@@ -11091,7 +11117,7 @@
       "team": "TB",
       "age": 31,
       "status": "Active",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "fantasy_positions": [
         "QB"
       ],
@@ -12568,7 +12594,7 @@
       "team": "TB",
       "age": 28,
       "status": "Active",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "fantasy_positions": [
         "DB"
       ],
