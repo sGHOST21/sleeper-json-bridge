@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-16T18:48:49.624Z",
+  "fetched_at": "2026-10-16T19:41:08.515Z",
   "current_week": 6,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -3239,7 +3239,7 @@
       "team": "LAC",
       "age": 24,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -3833,7 +3833,7 @@
       "team": "CHI",
       "age": 24,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "RB"
       ],
@@ -3987,7 +3987,7 @@
       "team": "ARI",
       "age": 21,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "RB"
       ],
@@ -4558,7 +4558,7 @@
       "position": "QB",
       "team": "BAL",
       "age": 29,
-      "status": "Active",
+      "status": "Inactive",
       "injury_status": "Out",
       "fantasy_positions": [
         "QB"
@@ -4735,7 +4735,7 @@
       "team": "PIT",
       "age": 28,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -5263,7 +5263,7 @@
       "team": "PIT",
       "age": 28,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
@@ -6407,7 +6407,7 @@
       "team": "LAC",
       "age": 25,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
