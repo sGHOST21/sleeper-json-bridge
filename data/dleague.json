@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-17T17:38:05.575Z",
+  "fetched_at": "2026-10-17T18:40:59.878Z",
   "current_week": 6,
   "league": {
     "name": "The D-League",
@@ -8274,7 +8274,7 @@
       "team": "CAR",
       "age": 22,
       "status": "Active",
-      "injury_status": "IR",
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
