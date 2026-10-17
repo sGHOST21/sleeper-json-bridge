@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-17T14:39:06.290Z",
+  "fetched_at": "2026-10-17T15:39:13.667Z",
   "current_week": 6,
   "league": {
     "name": "The D-League",
@@ -11734,7 +11734,7 @@
       "position": "WR",
       "team": "NE",
       "age": 29,
-      "status": "Inactive",
+      "status": "Active",
       "injury_status": "IR",
       "fantasy_positions": [
         "WR"
