@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-17T20:38:39.801Z",
+  "fetched_at": "2026-10-17T21:38:52.700Z",
   "current_week": 6,
   "league": {
     "name": "The D-League",
@@ -9111,7 +9111,7 @@
       "position": "WR",
       "team": "BAL",
       "age": 22,
-      "status": "Inactive",
+      "status": "Active",
       "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
@@ -11603,7 +11603,7 @@
       "team": "SF",
       "age": 28,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "DL"
       ],
@@ -12660,7 +12660,7 @@
       "position": "QB",
       "team": "PHI",
       "age": 28,
-      "status": "Active",
+      "status": "Inactive",
       "injury_status": "IR",
       "fantasy_positions": [
         "QB"
