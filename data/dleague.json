@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-17T23:33:26.988Z",
+  "fetched_at": "2026-10-18T00:54:20.873Z",
   "current_week": 6,
   "league": {
     "name": "The D-League",
@@ -127,19 +127,24 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "last_message_id": "1416878206354571264",
-    "draft_id": "1398261761102098432",
+    "last_message_id": "1417345248647974912",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1792172598021,
+    "last_message_time": 1792283949580,
     "last_pinned_message_id": null,
+    "draft_id": "1398261761102098432",
     "last_read_id": null,
     "league_id": "1384998212942692352",
     "previous_league_id": "1222634114906075136",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -165,11 +170,6 @@
       "BN",
       "BN"
     ],
-    "group_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 14
   },
   "users": [
@@ -1459,7 +1459,6 @@
         "10892",
         "11589",
         "12527",
-        "13150",
         "13270",
         "13414",
         "13424",
@@ -1468,6 +1467,7 @@
         "4034",
         "4147",
         "4195",
+        "4663",
         "5022",
         "5041",
         "5332",
@@ -1485,8 +1485,8 @@
         "9758"
       ],
       "reserve": [
+        "10226",
         "11589",
-        "5859",
         "8205"
       ],
       "roster_id": 11,
@@ -1509,7 +1509,7 @@
         "9758",
         "4034",
         "12527",
-        "7039",
+        "5859",
         "5927",
         "5022",
         "2197",
@@ -2877,7 +2877,6 @@
         "10892",
         "11589",
         "12527",
-        "13150",
         "13270",
         "13414",
         "13424",
@@ -2886,6 +2885,7 @@
         "4034",
         "4147",
         "4195",
+        "4663",
         "5022",
         "5041",
         "5332",
@@ -2909,7 +2909,7 @@
         "9758",
         "4034",
         "12527",
-        "7039",
+        "5859",
         "5927",
         "5022",
         "2197",
@@ -2941,6 +2941,7 @@
         "4034": 0,
         "4147": 0,
         "4195": 0,
+        "4663": 0,
         "5022": 0,
         "5041": 0,
         "5332": 0,
@@ -2960,7 +2961,6 @@
         "10892": 0,
         "11589": 0,
         "12527": 0,
-        "13150": 0,
         "13270": 0,
         "13414": 0,
         "13424": 0
@@ -5163,6 +5163,52 @@
       "status": "complete",
       "type": "free_agent",
       "metadata": null,
+      "created": 1792283949551,
+      "settings": null,
+      "leg": 6,
+      "draft_picks": [],
+      "creator": "733463671744880640",
+      "transaction_id": "1417345248526450688",
+      "adds": {
+        "4663": 11
+      },
+      "consenter_ids": [
+        11
+      ],
+      "drops": null,
+      "roster_ids": [
+        11
+      ],
+      "status_updated": 1792283949551,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1792283913632,
+      "settings": null,
+      "leg": 6,
+      "draft_picks": [],
+      "creator": "733463671744880640",
+      "transaction_id": "1417345097871212544",
+      "adds": null,
+      "consenter_ids": [
+        11
+      ],
+      "drops": {
+        "13150": 11
+      },
+      "roster_ids": [
+        11
+      ],
+      "status_updated": 1792283913632,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
       "created": 1792172035391,
       "settings": null,
       "leg": 6,
@@ -5891,7 +5937,7 @@
       "full_name": "Dalton Kincaid",
       "position": "TE",
       "team": "BUF",
-      "age": 26,
+      "age": 27,
       "status": "Active",
       "injury_status": null,
       "fantasy_positions": [
@@ -8935,7 +8981,7 @@
       "position": "WR",
       "team": "NYJ",
       "age": 22,
-      "status": "Inactive",
+      "status": "Active",
       "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
