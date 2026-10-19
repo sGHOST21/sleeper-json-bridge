@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-19T00:55:38.291Z",
+  "fetched_at": "2026-10-19T01:43:24.606Z",
   "current_week": 6,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -63,10 +63,10 @@
     },
     "avatar": "3a2a8f32f6fec7c6b6663d1495cf1168",
     "company_id": null,
-    "shard": 949,
-    "season": "2026",
-    "season_type": "regular",
     "sport": "nfl",
+    "season_type": "regular",
+    "season": "2026",
+    "shard": 949,
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -112,22 +112,19 @@
       "pts_allow_7_13": 4,
       "st_ff": 1
     },
-    "last_message_id": "1417584985908510720",
-    "last_author_avatar": null,
-    "last_author_display_name": "sys",
-    "last_author_id": "166666666666666666",
-    "last_author_is_bot": true,
+    "last_message_id": "1417712536433721344",
+    "last_author_avatar": "494d97104f118d2421e8db834dd899d5",
+    "last_author_display_name": "NotoriousZAE",
+    "last_author_id": "1401314114613022720",
+    "last_author_is_bot": false,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1792341107397,
+    "last_message_time": 1792371517813,
     "last_pinned_message_id": null,
-    "draft_id": "1400845992303022080",
     "last_read_id": null,
+    "draft_id": "1400845992303022080",
     "league_id": "1400845991007019008",
     "previous_league_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -149,6 +146,9 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 8
@@ -929,7 +929,7 @@
       }
     },
     {
-      "points": 70.68,
+      "points": 74.48,
       "players": [
         "11635",
         "12507",
@@ -973,7 +973,7 @@
         7.9,
         14.3,
         0,
-        3.7,
+        7.5,
         0,
         17,
         3
@@ -989,7 +989,7 @@
         "8110": 0,
         "8136": 0,
         "8144": 14.3,
-        "8167": 3.7,
+        "8167": 7.5,
         "9226": 0,
         "9754": 6.7,
         "11635": 2.7,
@@ -1001,7 +1001,7 @@
       }
     },
     {
-      "points": 118.02,
+      "points": 119.42,
       "players": [
         "10236",
         "11560",
@@ -1043,7 +1043,7 @@
         3.6,
         0,
         28.5,
-        12.6,
+        14,
         10.8,
         15.7,
         13.02,
@@ -1068,7 +1068,7 @@
         "11646": 15.7,
         "12481": 0,
         "12489": 14.6,
-        "12501": 12.6,
+        "12501": 14,
         "SEA": 3
       }
     },
@@ -1145,7 +1145,7 @@
       }
     },
     {
-      "points": 53.96,
+      "points": 62.16,
       "players": [
         "10229",
         "10859",
@@ -1186,11 +1186,11 @@
         18.3,
         5,
         -0.2,
-        0,
+        2.6,
         13.3,
-        0,
+        2.9,
         5.2,
-        8.36,
+        11.06,
         0,
         4
       ],
@@ -1201,10 +1201,10 @@
         "4984": 18.3,
         "5001": 7.3,
         "5947": 13.3,
-        "6804": 8.36,
-        "8137": 0,
+        "6804": 11.06,
+        "8137": 2.6,
         "9480": 9.4,
-        "9484": 0,
+        "9484": 2.9,
         "9758": 23.98,
         "10229": 0,
         "10859": 0,
@@ -1291,7 +1291,7 @@
       }
     },
     {
-      "points": 81.28,
+      "points": 87.4,
       "players": [
         "10232",
         "11566",
@@ -1330,25 +1330,25 @@
         "NE"
       ],
       "starters_points": [
-        0.68,
+        1.2,
         7.3,
         27.9,
         25.4,
-        1.6,
+        4.2,
         1.4,
-        2,
+        5,
         0,
         9,
         6
       ],
       "players_points": {
         "2216": 0,
-        "3294": 0.68,
+        "3294": 1.2,
         "5012": 1.4,
         "5850": 0,
-        "6786": 1.6,
+        "6786": 4.2,
         "6790": 23,
-        "7588": 2,
+        "7588": 5,
         "8142": 0,
         "8148": 0,
         "8151": 27.9,
