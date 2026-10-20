@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-20T15:44:08.684Z",
+  "fetched_at": "2026-10-20T16:43:32.712Z",
   "current_week": 7,
   "league": {
     "name": "The D-League",
@@ -12,7 +12,7 @@
     },
     "settings": {
       "best_ball": 0,
-      "last_report": 5,
+      "last_report": 6,
       "waiver_budget": 100,
       "disable_adds": 0,
       "divisions": 0,
@@ -69,6 +69,7 @@
     "sport": "nfl",
     "season_type": "regular",
     "season": "2026",
+    "last_message_id": "1418298557064044544",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -126,7 +127,6 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "last_message_id": "1417591226504318976",
     "shard": 169,
     "last_author_avatar": null,
     "last_author_display_name": "sys",
@@ -134,12 +134,15 @@
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1792342595272,
+    "draft_id": "1398261761102098432",
+    "last_message_time": 1792511236019,
     "last_pinned_message_id": null,
     "last_read_id": null,
-    "draft_id": "1398261761102098432",
     "league_id": "1384998212942692352",
     "previous_league_id": "1222634114906075136",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -165,9 +168,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 14
@@ -12704,7 +12704,7 @@
       "player_id": "7528",
       "full_name": "Najee Harris",
       "position": "RB",
-      "team": "NYG",
+      "team": null,
       "age": 28,
       "status": "Active",
       "injury_status": null,
