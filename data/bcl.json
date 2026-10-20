@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-20T14:45:47.824Z",
+  "fetched_at": "2026-10-20T15:44:09.889Z",
   "current_week": 7,
   "league": {
     "name": "Brass City League",
@@ -15,7 +15,7 @@
     },
     "settings": {
       "best_ball": 0,
-      "last_report": 5,
+      "last_report": 6,
       "waiver_budget": 100,
       "disable_adds": 0,
       "divisions": 2,
@@ -68,6 +68,7 @@
     },
     "avatar": "71eb884a69970234d6aab2bcc692e78f",
     "company_id": null,
+    "last_message_id": "1418296535636074496",
     "shard": 134,
     "season": "2026",
     "season_type": "regular",
@@ -129,14 +130,13 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "last_message_id": "1418007480981553152",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1792441838073,
+    "last_message_time": 1792510754073,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "draft_id": "1387554218864291840",
