@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-20T06:53:43.782Z",
+  "fetched_at": "2026-10-20T07:50:25.475Z",
   "current_week": 7,
   "league": {
     "name": "The D-League",
@@ -4287,12 +4287,12 @@
       "adds": {
         "12547": 9
       },
-      "consenter_ids": [
-        9
-      ],
       "drops": {
         "11608": 9
       },
+      "consenter_ids": [
+        9
+      ],
       "roster_ids": [
         9
       ],
@@ -4317,12 +4317,12 @@
       "adds": {
         "2747": 13
       },
-      "consenter_ids": [
-        13
-      ],
       "drops": {
         "2020": 13
       },
+      "consenter_ids": [
+        13
+      ],
       "roster_ids": [
         13
       ],
@@ -4347,10 +4347,10 @@
       "adds": {
         "650": 6
       },
+      "drops": null,
       "consenter_ids": [
         6
       ],
-      "drops": null,
       "roster_ids": [
         6
       ],
@@ -4368,12 +4368,12 @@
       "creator": "871053074062589952",
       "transaction_id": "1415822506610245632",
       "adds": null,
-      "consenter_ids": [
-        6
-      ],
       "drops": {
         "12015": 6
       },
+      "consenter_ids": [
+        6
+      ],
       "roster_ids": [
         6
       ],
@@ -4393,12 +4393,12 @@
       "adds": {
         "9501": 14
       },
-      "consenter_ids": [
-        14
-      ],
       "drops": {
         "11687": 14
       },
+      "consenter_ids": [
+        14
+      ],
       "roster_ids": [
         14
       ],
@@ -4418,12 +4418,12 @@
       "adds": {
         "4454": 7
       },
-      "consenter_ids": [
-        7
-      ],
       "drops": {
         "8188": 7
       },
+      "consenter_ids": [
+        7
+      ],
       "roster_ids": [
         7
       ],
@@ -4443,12 +4443,12 @@
       "adds": {
         "12542": 7
       },
-      "consenter_ids": [
-        7
-      ],
       "drops": {
         "4177": 7
       },
+      "consenter_ids": [
+        7
+      ],
       "roster_ids": [
         7
       ],
@@ -4468,10 +4468,10 @@
       "adds": {
         "9479": 9
       },
+      "drops": null,
       "consenter_ids": [
         9
       ],
-      "drops": null,
       "roster_ids": [
         9
       ],
@@ -4491,12 +4491,12 @@
       "adds": {
         "11760": 8
       },
-      "consenter_ids": [
-        8
-      ],
       "drops": {
         "4999": 8
       },
+      "consenter_ids": [
+        8
+      ],
       "roster_ids": [
         8
       ],
@@ -4516,12 +4516,12 @@
       "adds": {
         "7083": 3
       },
-      "consenter_ids": [
-        3
-      ],
       "drops": {
         "2747": 3
       },
+      "consenter_ids": [
+        3
+      ],
       "roster_ids": [
         3
       ],
@@ -4541,12 +4541,12 @@
       "adds": {
         "8129": 4
       },
-      "consenter_ids": [
-        4
-      ],
       "drops": {
         "8161": 4
       },
+      "consenter_ids": [
+        4
+      ],
       "roster_ids": [
         4
       ],
@@ -4566,12 +4566,12 @@
       "adds": {
         "6214": 1
       },
-      "consenter_ids": [
-        1
-      ],
       "drops": {
         "8329": 1
       },
+      "consenter_ids": [
+        1
+      ],
       "roster_ids": [
         1
       ],
@@ -4591,12 +4591,12 @@
       "adds": {
         "12457": 10
       },
-      "consenter_ids": [
-        10
-      ],
       "drops": {
         "3678": 10
       },
+      "consenter_ids": [
+        10
+      ],
       "roster_ids": [
         10
       ],
@@ -4616,10 +4616,10 @@
       "adds": {
         "1945": 10
       },
+      "drops": null,
       "consenter_ids": [
         10
       ],
-      "drops": null,
       "roster_ids": [
         10
       ],
@@ -4639,10 +4639,10 @@
       "adds": {
         "7039": 11
       },
+      "drops": null,
       "consenter_ids": [
         11
       ],
-      "drops": null,
       "roster_ids": [
         11
       ],
@@ -4662,12 +4662,12 @@
       "adds": {
         "5876": 8
       },
-      "consenter_ids": [
-        8
-      ],
       "drops": {
         "6888": 8
       },
+      "consenter_ids": [
+        8
+      ],
       "roster_ids": [
         8
       ],
@@ -4687,10 +4687,10 @@
       "adds": {
         "6125": 13
       },
+      "drops": null,
       "consenter_ids": [
         13
       ],
-      "drops": null,
       "roster_ids": [
         13
       ],
@@ -4710,12 +4710,12 @@
       "adds": {
         "2020": 13
       },
-      "consenter_ids": [
-        13
-      ],
       "drops": {
         "12961": 13
       },
+      "consenter_ids": [
+        13
+      ],
       "roster_ids": [
         13
       ],
@@ -4735,12 +4735,12 @@
       "adds": {
         "12961": 13
       },
-      "consenter_ids": [
-        13
-      ],
       "drops": {
         "5095": 13
       },
+      "consenter_ids": [
+        13
+      ],
       "roster_ids": [
         13
       ],
