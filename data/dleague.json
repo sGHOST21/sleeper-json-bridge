@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-21T20:45:10.062Z",
+  "fetched_at": "2026-10-21T21:45:05.046Z",
   "current_week": 7,
   "league": {
     "name": "The D-League",
@@ -5901,7 +5901,7 @@
     },
     "10219": {
       "player_id": "10219",
-      "full_name": "Chris Rodriguez",
+      "full_name": "Chris Rodriguez Jr.",
       "position": "RB",
       "team": "JAX",
       "age": 27,
@@ -6099,7 +6099,7 @@
     },
     "10892": {
       "player_id": "10892",
-      "full_name": "Will Anderson",
+      "full_name": "Will Anderson Jr.",
       "position": "DL",
       "team": "HOU",
       "age": 25,
@@ -6410,7 +6410,7 @@
     },
     "11559": {
       "player_id": "11559",
-      "full_name": "Michael Penix",
+      "full_name": "Michael Penix Jr.",
       "position": "QB",
       "team": "ATL",
       "age": 26,
@@ -6960,7 +6960,7 @@
     },
     "11628": {
       "player_id": "11628",
-      "full_name": "Marvin Harrison",
+      "full_name": "Marvin Harrison Jr.",
       "position": "WR",
       "team": "HOU",
       "age": 24,
@@ -7004,7 +7004,7 @@
     },
     "11631": {
       "player_id": "11631",
-      "full_name": "Brian Thomas",
+      "full_name": "Brian Thomas Jr.",
       "position": "WR",
       "team": "JAX",
       "age": 24,
@@ -7119,7 +7119,7 @@
       "team": "MIA",
       "age": 23,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
@@ -7180,7 +7180,7 @@
     },
     "11655": {
       "player_id": "11655",
-      "full_name": "Tyrone Tracy",
+      "full_name": "Tyrone Tracy Jr.",
       "position": "RB",
       "team": "NYG",
       "age": 26,
@@ -7863,7 +7863,7 @@
     },
     "12495": {
       "player_id": "12495",
-      "full_name": "Ollie Gordon",
+      "full_name": "Ollie Gordon II",
       "position": "RB",
       "team": "MIA",
       "age": 22,
@@ -7995,7 +7995,7 @@
     },
     "12506": {
       "player_id": "12506",
-      "full_name": "Harold Fannin",
+      "full_name": "Harold Fannin Jr.",
       "position": "TE",
       "team": "CLE",
       "age": 22,
@@ -8193,7 +8193,7 @@
     },
     "12519": {
       "player_id": "12519",
-      "full_name": "Luther Burden",
+      "full_name": "Luther Burden III",
       "position": "WR",
       "team": "CHI",
       "age": 22,
@@ -8480,7 +8480,7 @@
     },
     "12541": {
       "player_id": "12541",
-      "full_name": "Dont'e Thornton",
+      "full_name": "Dont'e Thornton Jr.",
       "position": "WR",
       "team": "LV",
       "age": 23,
@@ -8502,7 +8502,7 @@
     },
     "12542": {
       "player_id": "12542",
-      "full_name": "Efton Chism",
+      "full_name": "Efton Chism III",
       "position": "WR",
       "team": "NE",
       "age": 24,
@@ -8524,7 +8524,7 @@
     },
     "12544": {
       "player_id": "12544",
-      "full_name": "LeQuint Allen",
+      "full_name": "LeQuint Allen Jr.",
       "position": "RB",
       "team": "JAX",
       "age": 22,
@@ -8746,7 +8746,7 @@
     },
     "12617": {
       "player_id": "12617",
-      "full_name": "Demetrius Knight",
+      "full_name": "Demetrius Knight Jr.",
       "position": "LB",
       "team": "CIN",
       "age": 26,
@@ -9054,7 +9054,7 @@
     },
     "13276": {
       "player_id": "13276",
-      "full_name": "Omar Cooper",
+      "full_name": "Omar Cooper Jr.",
       "position": "WR",
       "team": "NYJ",
       "age": 22,
@@ -9296,7 +9296,7 @@
     },
     "13298": {
       "player_id": "13298",
-      "full_name": "KC Concepcion",
+      "full_name": "KC Concepcion Jr.",
       "position": "WR",
       "team": "CLE",
       "age": 22,
@@ -9384,7 +9384,7 @@
     },
     "13305": {
       "player_id": "13305",
-      "full_name": "Mike Washington",
+      "full_name": "Mike Washington Jr.",
       "position": "RB",
       "team": "LV",
       "age": 23,
@@ -9428,7 +9428,7 @@
     },
     "13317": {
       "player_id": "13317",
-      "full_name": "Ted Hurst",
+      "full_name": "Ted Hurst III",
       "position": "WR",
       "team": "TB",
       "age": 22,
@@ -9516,7 +9516,7 @@
     },
     "13338": {
       "player_id": "13338",
-      "full_name": "Kevin Coleman",
+      "full_name": "Kevin Coleman Jr.",
       "position": "WR",
       "team": "MIA",
       "age": 23,
@@ -9626,7 +9626,7 @@
     },
     "13353": {
       "player_id": "13353",
-      "full_name": "Chris Brazzell",
+      "full_name": "Chris Brazzell II",
       "position": "WR",
       "team": "CAR",
       "age": 23,
@@ -10751,7 +10751,7 @@
     },
     "4037": {
       "player_id": "4037",
-      "full_name": "Chris Godwin",
+      "full_name": "Chris Godwin Jr.",
       "position": "WR",
       "team": "TB",
       "age": 30,
@@ -11016,7 +11016,7 @@
     },
     "4199": {
       "player_id": "4199",
-      "full_name": "Aaron Jones",
+      "full_name": "Aaron Jones Sr.",
       "position": "RB",
       "team": "MIN",
       "age": 31,
@@ -11347,7 +11347,7 @@
     },
     "4971": {
       "player_id": "4971",
-      "full_name": "Derwin James",
+      "full_name": "Derwin James Jr.",
       "position": "DB",
       "team": "LAC",
       "age": 30,
@@ -11484,7 +11484,7 @@
       "team": "HOU",
       "age": 30,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "TE"
       ],
@@ -11854,7 +11854,7 @@
     },
     "5872": {
       "player_id": "5872",
-      "full_name": "Deebo Samuel",
+      "full_name": "Deebo Samuel Sr.",
       "position": "WR",
       "team": "SF",
       "age": 30,
@@ -12278,7 +12278,7 @@
       "team": "HOU",
       "age": 29,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "LB"
       ],
@@ -12476,7 +12476,7 @@
       "team": "MIN",
       "age": 27,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -12669,7 +12669,7 @@
     },
     "6819": {
       "player_id": "6819",
-      "full_name": "Michael Pittman",
+      "full_name": "Michael Pittman Jr.",
       "position": "WR",
       "team": "PIT",
       "age": 29,
@@ -12691,7 +12691,7 @@
     },
     "6888": {
       "player_id": "6888",
-      "full_name": "Antoine Winfield",
+      "full_name": "Antoine Winfield Jr.",
       "position": "DB",
       "team": "TB",
       "age": 28,
@@ -12806,7 +12806,7 @@
       "team": "PIT",
       "age": 28,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
@@ -12938,7 +12938,7 @@
       "team": "PIT",
       "age": 29,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "DL",
         "LB"
@@ -13088,7 +13088,7 @@
     },
     "7543": {
       "player_id": "7543",
-      "full_name": "Travis Etienne",
+      "full_name": "Travis Etienne Jr.",
       "position": "RB",
       "team": "NO",
       "age": 27,
@@ -13132,7 +13132,7 @@
     },
     "7553": {
       "player_id": "7553",
-      "full_name": "Kyle Pitts",
+      "full_name": "Kyle Pitts Sr.",
       "position": "TE",
       "team": "ATL",
       "age": 26,
@@ -13420,7 +13420,7 @@
     },
     "7672": {
       "player_id": "7672",
-      "full_name": "Ernest Jones",
+      "full_name": "Ernest Jones IV",
       "position": "LB",
       "team": "SEA",
       "age": 26,
@@ -13640,7 +13640,7 @@
     },
     "8125": {
       "player_id": "8125",
-      "full_name": "Calvin Austin",
+      "full_name": "Calvin Austin III",
       "position": "WR",
       "team": "NYG",
       "age": 27,
@@ -13838,7 +13838,7 @@
     },
     "8138": {
       "player_id": "8138",
-      "full_name": "James Cook",
+      "full_name": "James Cook III",
       "position": "RB",
       "team": "BUF",
       "age": 27,
@@ -13970,7 +13970,7 @@
     },
     "8151": {
       "player_id": "8151",
-      "full_name": "Kenneth Walker",
+      "full_name": "Kenneth Walker III",
       "position": "RB",
       "team": "KC",
       "age": 26,
@@ -13992,7 +13992,7 @@
     },
     "8154": {
       "player_id": "8154",
-      "full_name": "Brian Robinson",
+      "full_name": "Brian Robinson Jr.",
       "position": "RB",
       "team": "ATL",
       "age": 27,
@@ -14438,7 +14438,7 @@
       "team": "LAR",
       "age": 27,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "LB"
       ],
@@ -14829,7 +14829,7 @@
     },
     "9494": {
       "player_id": "9494",
-      "full_name": "Marvin Mims",
+      "full_name": "Marvin Mims Jr.",
       "position": "WR",
       "team": "DEN",
       "age": 24,
@@ -15076,7 +15076,7 @@
       "team": "MIN",
       "age": 24,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
