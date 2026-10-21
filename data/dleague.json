@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-21T14:46:02.912Z",
+  "fetched_at": "2026-10-21T15:46:55.015Z",
   "current_week": 7,
   "league": {
     "name": "The D-League",
@@ -66,10 +66,7 @@
     },
     "avatar": "31647870b5248d13691a1b97ccb9b0a0",
     "company_id": null,
-    "shard": 169,
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
+    "last_message_id": "1418657963698069504",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -127,17 +124,20 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "last_message_id": "1418611150395867136",
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
+    "shard": 169,
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1792585764077,
+    "last_message_time": 1792596925237,
     "last_pinned_message_id": null,
-    "last_read_id": null,
     "draft_id": "1398261761102098432",
+    "last_read_id": null,
     "league_id": "1384998212942692352",
     "previous_league_id": "1222634114906075136",
     "bracket_id": null,
@@ -1145,6 +1145,7 @@
         "4950",
         "5947",
         "5967",
+        "6183",
         "6790",
         "6797",
         "6807",
@@ -1152,7 +1153,6 @@
         "8111",
         "8144",
         "8208",
-        "8311",
         "9500"
       ],
       "reserve": [
@@ -1184,12 +1184,12 @@
         "11646",
         "3214",
         "13274",
-        "9500",
-        "4227",
+        "13346",
+        "11539",
         "12574",
-        "6807",
+        "6183",
         "13371",
-        "8311"
+        "6807"
       ],
       "taxi": [
         "13545"
@@ -1556,10 +1556,10 @@
         "5995",
         "6806",
         "6813",
-        "7042",
         "7523",
         "7564",
         "7588",
+        "8122",
         "8150"
       ],
       "reserve": [
@@ -1582,15 +1582,15 @@
         "wins": 5
       },
       "starters": [
-        "7523",
+        "4017",
         "6813",
         "8150",
         "12501",
-        "11635",
+        "7564",
         "12518",
         "7588",
         "12519",
-        "7042",
+        "11792",
         "3172",
         "4960",
         "11739",
@@ -2506,6 +2506,7 @@
         "4950",
         "5947",
         "5967",
+        "6183",
         "6790",
         "6797",
         "6807",
@@ -2513,7 +2514,6 @@
         "8111",
         "8144",
         "8208",
-        "8311",
         "9500"
       ],
       "roster_id": 7,
@@ -2527,12 +2527,12 @@
         "11646",
         "3214",
         "13274",
-        "9500",
-        "4227",
+        "13346",
+        "11539",
         "12574",
-        "6807",
+        "6183",
         "13371",
-        "8311"
+        "6807"
       ],
       "starters_points": [
         0,
@@ -2558,6 +2558,7 @@
         "4950": 0,
         "5947": 0,
         "5967": 0,
+        "6183": 0,
         "6790": 0,
         "6797": 0,
         "6807": 0,
@@ -2565,7 +2566,6 @@
         "8111": 0,
         "8144": 0,
         "8208": 0,
-        "8311": 0,
         "9500": 0,
         "11539": 0,
         "11646": 0,
@@ -2988,25 +2988,25 @@
         "5995",
         "6806",
         "6813",
-        "7042",
         "7523",
         "7564",
         "7588",
+        "8122",
         "8150"
       ],
       "roster_id": 12,
       "custom_points": null,
       "matchup_id": 3,
       "starters": [
-        "7523",
+        "4017",
         "6813",
         "8150",
         "12501",
-        "11635",
+        "7564",
         "12518",
         "7588",
         "12519",
-        "7042",
+        "11792",
         "3172",
         "4960",
         "11739",
@@ -3040,10 +3040,10 @@
         "5995": 0,
         "6806": 0,
         "6813": 0,
-        "7042": 0,
         "7523": 0,
         "7564": 0,
         "7588": 0,
+        "8122": 0,
         "8150": 0,
         "11635": 0,
         "11739": 0,
@@ -5680,6 +5680,56 @@
         12
       ],
       "status_updated": 1791970979844,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1792596925206,
+      "settings": null,
+      "leg": 7,
+      "draft_picks": [],
+      "creator": "726920245125664768",
+      "transaction_id": "1418657963568025600",
+      "adds": {
+        "6183": 7
+      },
+      "drops": {
+        "8311": 7
+      },
+      "consenter_ids": [
+        7
+      ],
+      "roster_ids": [
+        7
+      ],
+      "status_updated": 1792596925206,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1792595287897,
+      "settings": null,
+      "leg": 7,
+      "draft_picks": [],
+      "creator": "737696652592291840",
+      "transaction_id": "1418651096196374528",
+      "adds": {
+        "8122": 12
+      },
+      "drops": {
+        "7042": 12
+      },
+      "consenter_ids": [
+        12
+      ],
+      "roster_ids": [
+        12
+      ],
+      "status_updated": 1792595287897,
       "waiver_budget": []
     },
     {
@@ -13540,6 +13590,28 @@
       "rotowire_id": 16027,
       "sportradar_id": "5f559fde-3a5f-4df6-99a2-cd1a4b103c68",
       "fantasy_data_id": 23167
+    },
+    "8122": {
+      "player_id": "8122",
+      "full_name": "Zonovan Knight",
+      "position": "RB",
+      "team": "ARI",
+      "age": 25,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "RB"
+      ],
+      "height": "71",
+      "weight": "210",
+      "years_exp": 4,
+      "college": "NC State",
+      "birth_date": "2001-04-11",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 16105,
+      "sportradar_id": "53df5e30-d3bd-11ec-96a0-c3471a31202c",
+      "fantasy_data_id": 23847
     },
     "8125": {
       "player_id": "8125",

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-21T14:46:05.437Z",
+  "fetched_at": "2026-10-21T15:46:56.667Z",
   "current_week": 7,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -63,11 +63,11 @@
     },
     "avatar": "3a2a8f32f6fec7c6b6663d1495cf1168",
     "company_id": null,
-    "shard": 949,
-    "season": "2026",
-    "season_type": "regular",
+    "last_message_id": "1418647592065134592",
     "sport": "nfl",
-    "last_message_id": "1418531955833667584",
+    "season_type": "regular",
+    "season": "2026",
+    "shard": 949,
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -118,13 +118,18 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
+    "draft_id": "1400845992303022080",
     "last_message_text_map": null,
-    "last_message_time": 1792566882622,
+    "last_message_time": 1792594452447,
     "last_pinned_message_id": null,
     "last_read_id": null,
-    "draft_id": "1400845992303022080",
     "league_id": "1400845991007019008",
     "previous_league_id": null,
+    "group_id": null,
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -146,11 +151,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 8
   },
   "users": [
@@ -484,11 +484,11 @@
         "12489",
         "12501",
         "2747",
+        "3214",
         "4943",
         "4983",
         "5859",
         "5872",
-        "5892",
         "6806",
         "7526",
         "7611",
@@ -514,12 +514,12 @@
       "starters": [
         "11564",
         "12489",
-        "6806",
+        "7611",
         "11632",
         "12501",
-        "10236",
+        "3214",
         "11646",
-        "4943",
+        "11560",
         "2747",
         "SEA"
       ],
@@ -1012,11 +1012,11 @@
         "12489",
         "12501",
         "2747",
+        "3214",
         "4943",
         "4983",
         "5859",
         "5872",
-        "5892",
         "6806",
         "7526",
         "7611",
@@ -1029,12 +1029,12 @@
       "starters": [
         "11564",
         "12489",
-        "6806",
+        "7611",
         "11632",
         "12501",
-        "10236",
+        "3214",
         "11646",
-        "4943",
+        "11560",
         "2747",
         "SEA"
       ],
@@ -1052,11 +1052,11 @@
       ],
       "players_points": {
         "2747": 0,
+        "3214": 0,
         "4943": 0,
         "4983": 0,
         "5859": 0,
         "5872": 0,
-        "5892": 0,
         "6806": 0,
         "7526": 0,
         "7611": 0,
@@ -2427,6 +2427,31 @@
         1
       ],
       "status_updated": 1791971607920,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1792594452413,
+      "settings": null,
+      "leg": 7,
+      "draft_picks": [],
+      "creator": "1400900697192439808",
+      "transaction_id": "1418647591918317568",
+      "adds": {
+        "3214": 4
+      },
+      "drops": {
+        "5892": 4
+      },
+      "consenter_ids": [
+        4
+      ],
+      "roster_ids": [
+        4
+      ],
+      "status_updated": 1792594452413,
       "waiver_budget": []
     }
   ],
@@ -3926,6 +3951,28 @@
       "rotowire_id": 10819,
       "sportradar_id": "87c481c7-7414-43cc-82df-19ca0c2ae22e",
       "fantasy_data_id": 17959
+    },
+    "3214": {
+      "player_id": "3214",
+      "full_name": "Hunter Henry",
+      "position": "TE",
+      "team": "NE",
+      "age": 31,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "TE"
+      ],
+      "height": "77",
+      "weight": "249",
+      "years_exp": 10,
+      "college": "Arkansas",
+      "birth_date": "1994-12-07",
+      "espn_id": 3046439,
+      "yahoo_id": 29269,
+      "rotowire_id": 10735,
+      "sportradar_id": "705899da-3c20-4bc3-b5d0-2e6e40655131",
+      "fantasy_data_id": 17975
     },
     "3271": {
       "player_id": "3271",

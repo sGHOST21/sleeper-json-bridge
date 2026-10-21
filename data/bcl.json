@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-21T14:46:04.394Z",
+  "fetched_at": "2026-10-21T15:46:55.829Z",
   "current_week": 7,
   "league": {
     "name": "Brass City League",
@@ -68,7 +68,6 @@
     },
     "avatar": "71eb884a69970234d6aab2bcc692e78f",
     "company_id": null,
-    "last_message_id": "1418531127236255744",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -128,20 +127,22 @@
     },
     "season": "2026",
     "season_type": "regular",
-    "sport": "nfl",
     "shard": 134,
-    "draft_id": "1387554218864291840",
+    "sport": "nfl",
+    "last_message_id": "1418650583262359552",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1792566685068,
+    "last_message_time": 1792595165605,
     "last_pinned_message_id": null,
+    "draft_id": "1387554218864291840",
     "last_read_id": null,
     "league_id": "1387554218847502336",
     "previous_league_id": "1222634893318561792",
+    "group_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -170,7 +171,6 @@
     ],
     "bracket_id": null,
     "bracket_overrides_id": null,
-    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 12
@@ -1155,6 +1155,7 @@
         "11583",
         "11739",
         "11786",
+        "11792",
         "12048",
         "12483",
         "12507",
@@ -1164,7 +1165,6 @@
         "13285",
         "13298",
         "13345",
-        "2505",
         "2617",
         "3172",
         "4017",
@@ -1209,7 +1209,7 @@
         "10859",
         "10213",
         "5844",
-        "11786",
+        "11792",
         "3172",
         "4960",
         "11739",
@@ -2380,6 +2380,7 @@
         "11583",
         "11739",
         "11786",
+        "11792",
         "12048",
         "12483",
         "12507",
@@ -2389,7 +2390,6 @@
         "13285",
         "13298",
         "13345",
-        "2505",
         "2617",
         "3172",
         "4017",
@@ -2417,7 +2417,7 @@
         "10859",
         "10213",
         "5844",
-        "11786",
+        "11792",
         "3172",
         "4960",
         "11739",
@@ -2439,7 +2439,6 @@
         0
       ],
       "players_points": {
-        "2505": 0,
         "2617": 0,
         "3172": 0,
         "4017": 0,
@@ -2459,6 +2458,7 @@
         "11583": 0,
         "11739": 0,
         "11786": 0,
+        "11792": 0,
         "12048": 0,
         "12483": 0,
         "12507": 0,
@@ -3935,6 +3935,31 @@
         12
       ],
       "status_updated": 1791971127227,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1792595165563,
+      "settings": null,
+      "leg": 7,
+      "draft_picks": [],
+      "creator": "737696652592291840",
+      "transaction_id": "1418650583090343936",
+      "adds": {
+        "11792": 10
+      },
+      "drops": {
+        "2505": 10
+      },
+      "consenter_ids": [
+        10
+      ],
+      "roster_ids": [
+        10
+      ],
+      "status_updated": 1792595165563,
       "waiver_budget": []
     }
   ],
