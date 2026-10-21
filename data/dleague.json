@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-21T22:42:51.476Z",
+  "fetched_at": "2026-10-21T23:41:51.122Z",
   "current_week": 7,
   "league": {
     "name": "The D-League",
@@ -6767,7 +6767,7 @@
       "team": "LV",
       "age": 23,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "TE"
       ],
@@ -10095,7 +10095,7 @@
       "team": "KC",
       "age": 37,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "TE"
       ],
@@ -13027,7 +13027,7 @@
       "team": "DEN",
       "age": 27,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -13997,7 +13997,7 @@
       "team": "ATL",
       "age": 27,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
@@ -14460,7 +14460,7 @@
       "team": "SEA",
       "age": 28,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
