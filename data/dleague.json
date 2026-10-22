@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-22T03:44:58.215Z",
+  "fetched_at": "2026-10-22T04:43:21.305Z",
   "current_week": 7,
   "league": {
     "name": "The D-League",
@@ -1493,8 +1493,8 @@
       "settings": {
         "division": 2,
         "fpts": 687,
-        "fpts_against": 732,
-        "fpts_against_decimal": 8,
+        "fpts_against": 731,
+        "fpts_against_decimal": 58,
         "fpts_decimal": 72,
         "losses": 4,
         "ppts": 742,
@@ -1650,13 +1650,13 @@
       "roster_id": 13,
       "settings": {
         "division": 2,
-        "fpts": 721,
+        "fpts": 720,
         "fpts_against": 724,
         "fpts_against_decimal": 18,
-        "fpts_decimal": 34,
+        "fpts_decimal": 84,
         "losses": 3,
-        "ppts": 888,
-        "ppts_decimal": 10,
+        "ppts": 887,
+        "ppts_decimal": 60,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 10,
