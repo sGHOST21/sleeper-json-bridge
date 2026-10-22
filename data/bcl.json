@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-22T19:44:26.445Z",
+  "fetched_at": "2026-10-22T20:42:57.246Z",
   "current_week": 7,
   "league": {
     "name": "Brass City League",
@@ -68,10 +68,6 @@
     },
     "avatar": "71eb884a69970234d6aab2bcc692e78f",
     "company_id": null,
-    "shard": 134,
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -129,19 +125,28 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "last_message_id": "1419028376924024832",
+    "season": "2026",
+    "season_type": "regular",
+    "shard": 134,
+    "sport": "nfl",
+    "last_message_id": "1419093222147268608",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1792685238633,
+    "last_message_time": 1792700698939,
     "last_pinned_message_id": null,
-    "last_read_id": null,
     "draft_id": "1387554218864291840",
+    "last_read_id": null,
     "league_id": "1387554218847502336",
     "previous_league_id": "1222634893318561792",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -168,11 +173,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 12
   },
   "users": [
@@ -1093,8 +1093,8 @@
         "5846",
         "5859",
         "5870",
+        "6083",
         "6904",
-        "7042",
         "7113",
         "8136",
         "8267",
@@ -1128,11 +1128,11 @@
         "9493",
         "4217",
         "5846",
-        "1339",
-        "7042",
+        "5859",
+        "6083",
         "4070",
         "8267",
-        "12530",
+        "13376",
         "11678"
       ],
       "taxi": [
@@ -1283,14 +1283,14 @@
         "wins": 3
       },
       "starters": [
-        "11566",
+        "12545",
         "7588",
         "8228",
-        "9487",
+        "12718",
         "8167",
         "9484",
-        "4983",
-        "11637",
+        "12495",
+        "4199",
         "11533",
         "6125",
         "6815",
@@ -2301,8 +2301,8 @@
         "5846",
         "5859",
         "5870",
+        "6083",
         "6904",
-        "7042",
         "7113",
         "8136",
         "8267",
@@ -2322,11 +2322,11 @@
         "9493",
         "4217",
         "5846",
-        "1339",
-        "7042",
+        "5859",
+        "6083",
         "4070",
         "8267",
-        "12530",
+        "13376",
         "11678"
       ],
       "starters_points": [
@@ -2354,8 +2354,8 @@
         "5846": 0,
         "5859": 0,
         "5870": 0,
+        "6083": 0,
         "6904": 0,
-        "7042": 0,
         "7113": 0,
         "8136": 0,
         "8267": 0,
@@ -2507,14 +2507,14 @@
       "custom_points": null,
       "matchup_id": 6,
       "starters": [
-        "11566",
+        "12545",
         "7588",
         "8228",
-        "9487",
+        "12718",
         "8167",
         "9484",
-        "4983",
-        "11637",
+        "12495",
+        "4199",
         "11533",
         "6125",
         "6815",
@@ -3941,6 +3941,31 @@
       "status": "complete",
       "type": "free_agent",
       "metadata": null,
+      "created": 1792700698906,
+      "settings": null,
+      "leg": 7,
+      "draft_picks": [],
+      "creator": "707633607593795584",
+      "transaction_id": "1419093222013071360",
+      "adds": {
+        "6083": 9
+      },
+      "consenter_ids": [
+        9
+      ],
+      "drops": {
+        "7042": 9
+      },
+      "roster_ids": [
+        9
+      ],
+      "status_updated": 1792700698906,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
       "created": 1792685238604,
       "settings": null,
       "leg": 7,
@@ -3950,12 +3975,12 @@
       "adds": {
         "2197": 5
       },
-      "drops": {
-        "11577": 5
-      },
       "consenter_ids": [
         5
       ],
+      "drops": {
+        "11577": 5
+      },
       "roster_ids": [
         5
       ],
@@ -3975,12 +4000,12 @@
       "adds": {
         "8122": 2
       },
-      "drops": {
-        "7571": 2
-      },
       "consenter_ids": [
         2
       ],
+      "drops": {
+        "7571": 2
+      },
       "roster_ids": [
         2
       ],
@@ -4000,10 +4025,10 @@
       "adds": {
         "6183": 7
       },
-      "drops": null,
       "consenter_ids": [
         7
       ],
+      "drops": null,
       "roster_ids": [
         7
       ],
@@ -4021,12 +4046,12 @@
       "creator": "704027286583705600",
       "transaction_id": "1418968851948830720",
       "adds": null,
-      "drops": {
-        "12015": 7
-      },
       "consenter_ids": [
         7
       ],
+      "drops": {
+        "12015": 7
+      },
       "roster_ids": [
         7
       ],
@@ -4046,12 +4071,12 @@
       "adds": {
         "11565": 7
       },
-      "drops": {
-        "4663": 7
-      },
       "consenter_ids": [
         7
       ],
+      "drops": {
+        "4663": 7
+      },
       "roster_ids": [
         7
       ],
@@ -4071,12 +4096,12 @@
       "adds": {
         "11792": 10
       },
-      "drops": {
-        "2505": 10
-      },
       "consenter_ids": [
         10
       ],
+      "drops": {
+        "2505": 10
+      },
       "roster_ids": [
         10
       ],
@@ -9443,6 +9468,28 @@
       "sportradar_id": "3ae55cda-ad32-46c5-bde7-470755f37f3a",
       "fantasy_data_id": 21015
     },
+    "6083": {
+      "player_id": "6083",
+      "full_name": "Matt Gay",
+      "position": "K",
+      "team": "LV",
+      "age": 32,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "K"
+      ],
+      "height": "72",
+      "weight": "232",
+      "years_exp": 7,
+      "college": "Utah",
+      "birth_date": "1994-03-15",
+      "espn_id": 4249087,
+      "yahoo_id": 31977,
+      "rotowire_id": 13673,
+      "sportradar_id": "2b90e091-ef78-4753-93eb-0acf3632c206",
+      "fantasy_data_id": 20769
+    },
     "6125": {
       "player_id": "6125",
       "full_name": "Jeffery Simmons",
@@ -9517,7 +9564,7 @@
       "team": "CLE",
       "age": 30,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "LB"
       ],
@@ -9825,7 +9872,7 @@
       "team": "GB",
       "age": 27,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "QB"
       ],
