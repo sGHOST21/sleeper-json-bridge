@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-22T20:42:56.314Z",
+  "fetched_at": "2026-10-22T21:42:02.337Z",
   "current_week": 7,
   "league": {
     "name": "The D-League",
@@ -7557,7 +7557,7 @@
       "player_id": "12457",
       "full_name": "Jaydon Blue",
       "position": "RB",
-      "team": null,
+      "team": "PHI",
       "age": 22,
       "status": "Active",
       "injury_status": null,
@@ -9191,7 +9191,7 @@
       "team": "ARI",
       "age": 21,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Doubtful",
       "fantasy_positions": [
         "RB"
       ],
@@ -13225,7 +13225,7 @@
       "team": "BAL",
       "age": 26,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -13821,7 +13821,7 @@
       "team": "DAL",
       "age": 25,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
