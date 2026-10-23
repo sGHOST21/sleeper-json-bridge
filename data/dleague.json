@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-23T09:44:52.720Z",
+  "fetched_at": "2026-10-23T10:42:31.937Z",
   "current_week": 7,
   "league": {
     "name": "The D-League",
@@ -5702,12 +5702,12 @@
       "adds": {
         "650": 6
       },
-      "drops": {
-        "11058": 6
-      },
       "consenter_ids": [
         6
       ],
+      "drops": {
+        "11058": 6
+      },
       "roster_ids": [
         6
       ],
@@ -5737,14 +5737,14 @@
         "8110": 5,
         "8210": 13
       },
-      "drops": {
-        "8110": 13,
-        "8210": 5
-      },
       "consenter_ids": [
         5,
         13
       ],
+      "drops": {
+        "8110": 13,
+        "8210": 5
+      },
       "roster_ids": [
         5,
         13
@@ -5765,12 +5765,12 @@
       "adds": {
         "13379": 6
       },
-      "drops": {
-        "10898": 6
-      },
       "consenter_ids": [
         6
       ],
+      "drops": {
+        "10898": 6
+      },
       "roster_ids": [
         6
       ],
@@ -5790,12 +5790,12 @@
       "adds": {
         "6183": 7
       },
-      "drops": {
-        "8311": 7
-      },
       "consenter_ids": [
         7
       ],
+      "drops": {
+        "8311": 7
+      },
       "roster_ids": [
         7
       ],
@@ -5815,12 +5815,12 @@
       "adds": {
         "8122": 12
       },
-      "drops": {
-        "7042": 12
-      },
       "consenter_ids": [
         12
       ],
+      "drops": {
+        "7042": 12
+      },
       "roster_ids": [
         12
       ],
@@ -5840,10 +5840,10 @@
       "adds": {
         "11565": 6
       },
-      "drops": null,
       "consenter_ids": [
         6
       ],
+      "drops": null,
       "roster_ids": [
         6
       ],
@@ -5861,12 +5861,12 @@
       "creator": "871053074062589952",
       "transaction_id": "1418611103038001152",
       "adds": null,
-      "drops": {
-        "5862": 6
-      },
       "consenter_ids": [
         6
       ],
+      "drops": {
+        "5862": 6
+      },
       "roster_ids": [
         6
       ],
@@ -5886,12 +5886,12 @@
       "adds": {
         "10880": 10
       },
-      "drops": {
-        "12457": 10
-      },
       "consenter_ids": [
         10
       ],
+      "drops": {
+        "12457": 10
+      },
       "roster_ids": [
         10
       ],
@@ -5911,12 +5911,12 @@
       "adds": {
         "6217": 13
       },
-      "drops": {
-        "8280": 13
-      },
       "consenter_ids": [
         13
       ],
+      "drops": {
+        "8280": 13
+      },
       "roster_ids": [
         13
       ],
