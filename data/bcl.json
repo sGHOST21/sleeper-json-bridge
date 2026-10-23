@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-23T21:42:31.748Z",
+  "fetched_at": "2026-10-23T22:41:27.586Z",
   "current_week": 7,
   "league": {
     "name": "Brass City League",
@@ -129,22 +129,20 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "last_message_id": "1419448896077172736",
+    "last_message_id": "1419488266708635648",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1792785498212,
+    "last_message_time": 1792794884902,
     "last_pinned_message_id": null,
-    "last_read_id": null,
     "draft_id": "1387554218864291840",
+    "last_read_id": null,
     "league_id": "1387554218847502336",
     "previous_league_id": "1222634893318561792",
     "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -171,6 +169,8 @@
       "BN",
       "BN"
     ],
+    "bracket_overrides_id": null,
+    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 12
@@ -1157,7 +1157,6 @@
         "11739",
         "11786",
         "11792",
-        "12048",
         "12483",
         "12507",
         "12527",
@@ -1166,6 +1165,7 @@
         "13285",
         "13298",
         "13345",
+        "13424",
         "2617",
         "3172",
         "4017",
@@ -2384,7 +2384,6 @@
         "11739",
         "11786",
         "11792",
-        "12048",
         "12483",
         "12507",
         "12527",
@@ -2393,6 +2392,7 @@
         "13285",
         "13298",
         "13345",
+        "13424",
         "2617",
         "3172",
         "4017",
@@ -2462,7 +2462,6 @@
         "11739": 0,
         "11786": 0,
         "11792": 0,
-        "12048": 0,
         "12483": 0,
         "12507": 0,
         "12527": 0,
@@ -2470,7 +2469,8 @@
         "13274": 0,
         "13285": 0,
         "13298": 0,
-        "13345": 0
+        "13345": 0,
+        "13424": 0
       }
     },
     {
@@ -3969,6 +3969,31 @@
         12
       ],
       "status_updated": 1791971127227,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1792794884864,
+      "settings": null,
+      "leg": 7,
+      "draft_picks": [],
+      "creator": "737696652592291840",
+      "transaction_id": "1419488266549215232",
+      "adds": {
+        "13424": 10
+      },
+      "drops": {
+        "12048": 10
+      },
+      "consenter_ids": [
+        10
+      ],
+      "roster_ids": [
+        10
+      ],
+      "status_updated": 1792794884864,
       "waiver_budget": []
     },
     {
@@ -7929,6 +7954,28 @@
       "rotowire_id": 19319,
       "sportradar_id": "4d5c31ba-45ea-4247-a41a-acfa82bdbd39",
       "fantasy_data_id": 26852
+    },
+    "13424": {
+      "player_id": "13424",
+      "full_name": "Seth McGowan",
+      "position": "RB",
+      "team": "IND",
+      "age": 25,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "RB"
+      ],
+      "height": "72",
+      "weight": "223",
+      "years_exp": 0,
+      "college": "Kentucky",
+      "birth_date": "2001-10-23",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 19303,
+      "sportradar_id": "17deebdc-0ec2-4f3f-9584-d21b01743265",
+      "fantasy_data_id": 26942
     },
     "13453": {
       "player_id": "13453",
