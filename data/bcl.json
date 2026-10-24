@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-23T23:39:52.336Z",
+  "fetched_at": "2026-10-24T01:00:10.608Z",
   "current_week": 7,
   "league": {
     "name": "Brass City League",
@@ -5711,7 +5711,7 @@
       "full_name": "Cole Bishop",
       "position": "DB",
       "team": "BUF",
-      "age": 23,
+      "age": 24,
       "status": "Active",
       "injury_status": null,
       "fantasy_positions": [
@@ -7077,7 +7077,7 @@
       "full_name": "Konata Mumpfield",
       "position": "WR",
       "team": "LAR",
-      "age": 23,
+      "age": 24,
       "status": "Active",
       "injury_status": null,
       "fantasy_positions": [
@@ -10628,7 +10628,7 @@
       "full_name": "Amon-Ra St. Brown",
       "position": "WR",
       "team": "DET",
-      "age": 26,
+      "age": 27,
       "status": "Active",
       "injury_status": null,
       "fantasy_positions": [
