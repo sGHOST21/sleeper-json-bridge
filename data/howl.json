@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-26T01:10:44.065Z",
+  "fetched_at": "2026-10-26T06:14:06.330Z",
   "current_week": 7,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -63,10 +63,10 @@
     },
     "avatar": "3a2a8f32f6fec7c6b6663d1495cf1168",
     "company_id": null,
-    "shard": 949,
-    "season": "2026",
-    "season_type": "regular",
     "sport": "nfl",
+    "season_type": "regular",
+    "season": "2026",
+    "shard": 949,
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -112,21 +112,19 @@
       "pts_allow_7_13": 4,
       "st_ff": 1
     },
-    "last_message_id": "1420236587458981888",
+    "last_message_id": "1420255417526755328",
     "draft_id": "1400845992303022080",
-    "last_author_avatar": "b9ab8ce919d8f9896a5d18a052ccef25",
-    "last_author_display_name": "WOLFxTru",
-    "last_author_id": "1400852933964230656",
+    "last_author_avatar": "d7f3e061493481b4d3b1581cbf307a7d",
+    "last_author_display_name": "DJAY363",
+    "last_author_id": "1400900697192439808",
     "last_author_is_bot": false,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1792973298472,
+    "last_message_time": 1792977787910,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1400845991007019008",
     "previous_league_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -149,6 +147,8 @@
       "BN"
     ],
     "group_id": null,
+    "bracket_id": null,
+    "bracket_overrides_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 8
@@ -994,7 +994,7 @@
       }
     },
     {
-      "points": 144.06,
+      "points": 150.06,
       "players": [
         "10236",
         "11560",
@@ -1040,13 +1040,13 @@
         14.1,
         1.9,
         22.12,
-        3,
-        10
+        8,
+        11
       ],
       "players_points": {
-        "2747": 3,
+        "2747": 8,
         "3214": 14.1,
-        "4943": 3.08,
+        "4943": 14.98,
         "4983": 0,
         "5859": 7.8,
         "5872": 0,
@@ -1057,16 +1057,16 @@
         "10236": 0,
         "11560": 22.12,
         "11564": 28.44,
-        "11624": 1.2,
+        "11624": 4.1,
         "11632": 18.1,
         "11646": 1.9,
         "12489": 14,
         "12501": 9.9,
-        "SEA": 10
+        "SEA": 11
       }
     },
     {
-      "points": 101.62,
+      "points": 110.02,
       "players": [
         "10222",
         "11604",
@@ -1109,14 +1109,14 @@
         22,
         0,
         26.8,
-        0,
+        8.4,
         10,
         14.82,
         11,
         -2
       ],
       "players_points": {
-        "1466": 0,
+        "1466": 8.4,
         "2133": 0,
         "2449": 0,
         "3451": 11,
@@ -1138,7 +1138,7 @@
       }
     },
     {
-      "points": 48.58,
+      "points": 54.96,
       "players": [
         "10229",
         "10859",
@@ -1176,11 +1176,11 @@
         "CAR"
       ],
       "starters_points": [
-        2.52,
+        7,
         5.9,
         5.5,
         0,
-        2.1,
+        4,
         14.8,
         2.8,
         17.96,
@@ -1189,8 +1189,8 @@
       ],
       "players_points": {
         "3198": 5.9,
-        "4039": 2.1,
-        "4046": 2.52,
+        "4039": 4,
+        "4046": 7,
         "4984": 0,
         "5001": 9.5,
         "5947": 0,
@@ -1201,7 +1201,7 @@
         "9758": 16.52,
         "10229": 0,
         "10859": 2.8,
-        "11435": 2.3,
+        "11435": 18.5,
         "11533": 0,
         "11581": 5.5,
         "11637": 0,
@@ -1282,7 +1282,7 @@
       }
     },
     {
-      "points": 68.2,
+      "points": 95.3,
       "players": [
         "10232",
         "11566",
@@ -1323,8 +1323,8 @@
       "starters_points": [
         0,
         17.2,
-        5.2,
-        8.7,
+        9.7,
+        31.3,
         0,
         13.1,
         0,
@@ -1342,9 +1342,9 @@
         "7588": 0,
         "8142": 0,
         "8148": 26.1,
-        "8151": 5.2,
+        "8151": 9.7,
         "8155": 0,
-        "9488": 8.7,
+        "9488": 31.3,
         "9500": 3.8,
         "9509": 17.2,
         "10232": 10.6,
