@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-26T13:08:48.651Z",
+  "fetched_at": "2026-10-26T19:19:27.414Z",
   "current_week": 7,
   "league": {
     "name": "The D-League",
@@ -70,7 +70,6 @@
     "season": "2026",
     "season_type": "regular",
     "sport": "nfl",
-    "last_message_id": "1420230361736024064",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -128,16 +127,17 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "last_author_avatar": null,
-    "last_author_display_name": "sys",
-    "last_author_id": "166666666666666666",
-    "last_author_is_bot": true,
+    "last_message_id": "1420448143341895680",
+    "last_author_avatar": "ce3f7be99a72770f8739c4cf6863b6b8",
+    "last_author_display_name": "Neek7",
+    "last_author_id": "716111666881851392",
+    "last_author_is_bot": false,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1792971814144,
+    "last_message_time": 1793023737325,
     "last_pinned_message_id": null,
-    "last_read_id": null,
     "draft_id": "1398261761102098432",
+    "last_read_id": null,
     "league_id": "1384998212942692352",
     "previous_league_id": "1222634114906075136",
     "group_id": null,
