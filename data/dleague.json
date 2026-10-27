@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-27T10:34:37.726Z",
+  "fetched_at": "2026-10-27T16:39:18.850Z",
   "current_week": 8,
   "league": {
     "name": "The D-League",
@@ -12,7 +12,7 @@
     },
     "settings": {
       "best_ball": 0,
-      "last_report": 6,
+      "last_report": 7,
       "waiver_budget": 100,
       "disable_adds": 0,
       "divisions": 0,
@@ -70,6 +70,7 @@
     "season_type": "regular",
     "season": "2026",
     "shard": 169,
+    "last_message_id": "1420835193303912448",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -127,14 +128,13 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "last_message_id": "1420448143341895680",
-    "last_author_avatar": "ce3f7be99a72770f8739c4cf6863b6b8",
-    "last_author_display_name": "Neek7",
-    "last_author_id": "716111666881851392",
-    "last_author_is_bot": false,
+    "last_author_avatar": null,
+    "last_author_display_name": "sys",
+    "last_author_id": "166666666666666666",
+    "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1793023737325,
+    "last_message_time": 1793116017226,
     "last_pinned_message_id": null,
     "draft_id": "1398261761102098432",
     "last_read_id": null,
@@ -1062,7 +1062,6 @@
         "6904",
         "7527",
         "7672",
-        "8119",
         "8130",
         "8136",
         "9230",
@@ -1071,7 +1070,6 @@
         "9756"
       ],
       "reserve": [
-        "13345",
         "2133",
         "6904"
       ],
@@ -1664,12 +1662,12 @@
         "wins": 4
       },
       "starters": [
-        "3257",
+        "11566",
         "9224",
-        "11576",
+        "8138",
         "10232",
-        "7526",
-        "8131",
+        "2449",
+        "5844",
         "8148",
         "9493",
         "2747",
@@ -2416,7 +2414,6 @@
         "6904",
         "7527",
         "7672",
-        "8119",
         "8130",
         "8136",
         "9230",
@@ -2469,7 +2466,6 @@
         "6904": 0,
         "7527": 0,
         "7672": 0,
-        "8119": 0,
         "8130": 0,
         "8136": 0,
         "9230": 0,
@@ -3097,12 +3093,12 @@
       "custom_points": null,
       "matchup_id": 5,
       "starters": [
-        "3257",
+        "11566",
         "9224",
-        "11576",
+        "8138",
         "10232",
-        "7526",
-        "8131",
+        "2449",
+        "5844",
         "8148",
         "9493",
         "2747",
@@ -4664,6 +4660,29 @@
         12
       ],
       "status_updated": 1791970979844,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1793115560501,
+      "settings": null,
+      "leg": 7,
+      "draft_picks": [],
+      "creator": "871053074062589952",
+      "transaction_id": "1420833277660372992",
+      "adds": null,
+      "consenter_ids": [
+        6
+      ],
+      "drops": {
+        "8119": 6
+      },
+      "roster_ids": [
+        6
+      ],
+      "status_updated": 1793115560501,
       "waiver_budget": []
     },
     {
@@ -12656,7 +12675,7 @@
       "team": "PHI",
       "age": 26,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
