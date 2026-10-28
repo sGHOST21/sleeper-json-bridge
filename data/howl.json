@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-28T16:03:20.255Z",
+  "fetched_at": "2026-10-28T21:05:02.295Z",
   "current_week": 8,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -765,7 +765,7 @@
         "6786",
         "12506",
         "7588",
-        "6790",
+        "11566",
         "12185",
         "NE"
       ],
@@ -1315,7 +1315,7 @@
         "6786",
         "12506",
         "7588",
-        "6790",
+        "11566",
         "12185",
         "NE"
       ],
@@ -2684,7 +2684,7 @@
       "team": "NYJ",
       "age": 22,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
@@ -3520,7 +3520,7 @@
       "team": "TEN",
       "age": 21,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -4466,7 +4466,7 @@
       "team": "NE",
       "age": 29,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -4531,8 +4531,8 @@
       "position": "WR",
       "team": "WAS",
       "age": 31,
-      "status": "Active",
-      "injury_status": "Out",
+      "status": "Inactive",
+      "injury_status": "IR",
       "fantasy_positions": [
         "WR"
       ],
@@ -4554,7 +4554,7 @@
       "team": "JAX",
       "age": 29,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -5038,7 +5038,7 @@
       "team": "CIN",
       "age": 26,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -5060,7 +5060,7 @@
       "team": "TB",
       "age": 27,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
@@ -5698,7 +5698,7 @@
       "team": "DET",
       "age": 24,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
