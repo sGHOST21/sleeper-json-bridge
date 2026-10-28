@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-27T21:19:50.904Z",
+  "fetched_at": "2026-10-28T01:22:16.075Z",
   "current_week": 8,
   "league": {
     "name": "The D-League",
@@ -69,8 +69,7 @@
     "sport": "nfl",
     "season_type": "regular",
     "season": "2026",
-    "shard": 169,
-    "last_message_id": "1420835193303912448",
+    "last_message_id": "1420955292136493056",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -128,18 +127,24 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
+    "shard": 169,
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1793116017226,
+    "last_message_time": 1793144651019,
     "last_pinned_message_id": null,
-    "draft_id": "1398261761102098432",
     "last_read_id": null,
+    "draft_id": "1398261761102098432",
     "league_id": "1384998212942692352",
     "previous_league_id": "1222634114906075136",
+    "group_id": null,
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -165,11 +170,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 14
   },
   "users": [
@@ -1176,16 +1176,16 @@
         "4943",
         "5967",
         "6790",
-        "8144",
+        "13274",
         "11646",
         "3214",
-        "13274",
-        "4950",
+        "5947",
+        "9500",
         "11539",
-        "12574",
         "6183",
+        "6807",
         "13371",
-        "6807"
+        "12574"
       ],
       "taxi": [
         "13545"
@@ -1265,7 +1265,7 @@
         "11620",
         "4993",
         "4037",
-        "9757",
+        "9487",
         "3451",
         "11760",
         "8329",
@@ -1389,7 +1389,6 @@
         "2216",
         "4199",
         "4217",
-        "4968",
         "4984",
         "5045",
         "7002",
@@ -1402,9 +1401,9 @@
         "9508"
       ],
       "reserve": [
+        "11655",
         "12508",
-        "13286",
-        "4968"
+        "13286"
       ],
       "roster_id": 10,
       "settings": {
@@ -1423,17 +1422,17 @@
         "wins": 4
       },
       "starters": [
-        "11563",
+        "4984",
         "8228",
         "7594",
-        "8126",
+        "10229",
         "8146",
         "4217",
         "12495",
         "4199",
         "1945",
         "13363",
-        "8280",
+        "13375",
         "11678",
         "10880"
       ],
@@ -1662,14 +1661,14 @@
         "wins": 4
       },
       "starters": [
-        "11566",
+        "4881",
         "9224",
         "8138",
         "10232",
-        "2449",
-        "5844",
-        "8148",
         "9493",
+        "5844",
+        "11576",
+        "2449",
         "2747",
         "6125",
         "7841",
@@ -2522,16 +2521,16 @@
         "4943",
         "5967",
         "6790",
-        "8144",
+        "13274",
         "11646",
         "3214",
-        "13274",
-        "4950",
+        "5947",
+        "9500",
         "11539",
-        "12574",
         "6183",
+        "6807",
         "13371",
-        "6807"
+        "12574"
       ],
       "starters_points": [
         0,
@@ -2622,7 +2621,7 @@
         "11620",
         "4993",
         "4037",
-        "9757",
+        "9487",
         "3451",
         "11760",
         "8329",
@@ -2794,7 +2793,6 @@
         "2216",
         "4199",
         "4217",
-        "4968",
         "4984",
         "5045",
         "7002",
@@ -2813,7 +2811,7 @@
         "4984",
         "8228",
         "7594",
-        "8126",
+        "10229",
         "8146",
         "4217",
         "12495",
@@ -2844,7 +2842,6 @@
         "2216": 0,
         "4199": 0,
         "4217": 0,
-        "4968": 0,
         "4984": 0,
         "5045": 0,
         "7002": 0,
@@ -3093,14 +3090,14 @@
       "custom_points": null,
       "matchup_id": 5,
       "starters": [
-        "11566",
+        "4881",
         "9224",
         "8138",
         "10232",
-        "2449",
-        "5844",
-        "8148",
         "9493",
+        "5844",
+        "11576",
+        "2449",
         "2747",
         "6125",
         "7841",
@@ -4660,6 +4657,29 @@
         12
       ],
       "status_updated": 1791970979844,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1793144650999,
+      "settings": null,
+      "leg": 7,
+      "draft_picks": [],
+      "creator": "471428050836254720",
+      "transaction_id": "1420955292048314368",
+      "adds": null,
+      "consenter_ids": [
+        10
+      ],
+      "drops": {
+        "4968": 10
+      },
+      "roster_ids": [
+        10
+      ],
+      "status_updated": 1793144650999,
       "waiver_budget": []
     },
     {
@@ -9498,7 +9518,7 @@
       "player_id": "3172",
       "full_name": "DeForest Buckner",
       "position": "DT",
-      "team": "IND",
+      "team": "SF",
       "age": 32,
       "status": "Active",
       "injury_status": null,
