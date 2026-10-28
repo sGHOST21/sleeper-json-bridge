@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-28T01:22:18.287Z",
+  "fetched_at": "2026-10-28T08:32:39.653Z",
   "current_week": 8,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -56,18 +56,17 @@
       "trade_review_days": 2,
       "bench_lock": 0,
       "offseason_adds": 0,
-      "leg": 7,
+      "leg": 8,
       "reserve_slots": 3,
       "reserve_allow_cov": 0,
       "daily_waivers_last_ran": 6
     },
     "avatar": "3a2a8f32f6fec7c6b6663d1495cf1168",
     "company_id": null,
-    "shard": 949,
-    "season": "2026",
-    "season_type": "regular",
     "sport": "nfl",
-    "last_message_id": "1420844510430130176",
+    "season_type": "regular",
+    "season": "2026",
+    "last_message_id": "1421068552290533376",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -113,21 +112,22 @@
       "pts_allow_7_13": 4,
       "st_ff": 1
     },
+    "shard": 949,
     "last_author_avatar": null,
     "last_author_display_name": "sys",
-    "draft_id": "1400845992303022080",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1793118238602,
+    "last_message_time": 1793171654345,
     "last_pinned_message_id": null,
     "last_read_id": null,
+    "draft_id": "1400845992303022080",
     "league_id": "1400845991007019008",
     "previous_league_id": null,
-    "group_id": null,
     "bracket_id": null,
     "bracket_overrides_id": null,
+    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "roster_positions": [
@@ -284,8 +284,8 @@
       "players": [
         "12474",
         "12495",
+        "12517",
         "12518",
-        "13274",
         "13281",
         "13287",
         "13346",
@@ -322,13 +322,13 @@
         "wins": 6
       },
       "starters": [
-        "8183",
+        "7523",
         "9221",
-        "12474",
+        "12495",
         "9997",
         "7547",
-        "4217",
-        "12495",
+        "12518",
+        "8146",
         "3163",
         "7839",
         "MIN"
@@ -378,7 +378,7 @@
         "fpts_decimal": 99,
         "losses": 4,
         "ppts": 1201,
-        "ppts_decimal": 70,
+        "ppts_decimal": 60,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
@@ -445,7 +445,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 23,
-        "waiver_position": 3,
+        "waiver_position": 2,
         "wins": 3
       },
       "starters": [
@@ -506,7 +506,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 7,
+        "waiver_position": 6,
         "wins": 2
       },
       "starters": [
@@ -538,8 +538,8 @@
         "11604",
         "11631",
         "12490",
-        "12508",
         "12545",
+        "1373",
         "1466",
         "2133",
         "2449",
@@ -568,7 +568,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 2,
+        "waiver_position": 7,
         "wins": 3
       },
       "starters": [
@@ -629,7 +629,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 5,
+        "waiver_position": 4,
         "wins": 3
       },
       "starters": [
@@ -690,7 +690,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 16,
-        "waiver_position": 6,
+        "waiver_position": 5,
         "wins": 3
       },
       "starters": [
@@ -754,7 +754,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 4,
+        "waiver_position": 3,
         "wins": 5
       },
       "starters": [
@@ -779,8 +779,8 @@
       "players": [
         "12474",
         "12495",
+        "12517",
         "12518",
-        "13274",
         "13281",
         "13287",
         "13346",
@@ -802,13 +802,13 @@
       "custom_points": null,
       "matchup_id": 3,
       "starters": [
-        "8183",
+        "7523",
         "9221",
-        "12474",
+        "12495",
         "9997",
         "7547",
-        "4217",
-        "12495",
+        "12518",
+        "8146",
         "3163",
         "7839",
         "MIN"
@@ -840,8 +840,8 @@
         "9997": 0,
         "12474": 0,
         "12495": 0,
+        "12517": 0,
         "12518": 0,
-        "13274": 0,
         "13281": 0,
         "13287": 0,
         "13346": 0,
@@ -1073,8 +1073,8 @@
         "11604",
         "11631",
         "12490",
-        "12508",
         "12545",
+        "1373",
         "1466",
         "2133",
         "2449",
@@ -1116,6 +1116,7 @@
         0
       ],
       "players_points": {
+        "1373": 0,
         "1466": 0,
         "2133": 0,
         "2449": 0,
@@ -1131,7 +1132,6 @@
         "11604": 0,
         "11631": 0,
         "12490": 0,
-        "12508": 0,
         "12545": 0,
         "BAL": 0
       }
@@ -2096,6 +2096,66 @@
     },
     {
       "status": "complete",
+      "type": "waiver",
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      },
+      "created": 1793154686910,
+      "settings": {
+        "seq": 1,
+        "waiver_bid": 0
+      },
+      "leg": 7,
+      "draft_picks": [],
+      "creator": "737708656518385664",
+      "transaction_id": "1420997385710047232",
+      "adds": {
+        "12517": 1
+      },
+      "drops": {
+        "13274": 1
+      },
+      "consenter_ids": [
+        1
+      ],
+      "roster_ids": [
+        1
+      ],
+      "status_updated": 1793171654299,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "waiver",
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      },
+      "created": 1793105072236,
+      "settings": {
+        "seq": 0,
+        "waiver_bid": 0
+      },
+      "leg": 7,
+      "draft_picks": [],
+      "creator": "1401030298161950720",
+      "transaction_id": "1420789286688591872",
+      "adds": {
+        "1373": 5
+      },
+      "drops": {
+        "12508": 5
+      },
+      "consenter_ids": [
+        5
+      ],
+      "roster_ids": [
+        5
+      ],
+      "status_updated": 1793171654299,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
       "type": "free_agent",
       "metadata": null,
       "created": 1793104978292,
@@ -2105,12 +2165,12 @@
       "creator": "1401030298161950720",
       "transaction_id": "1420788892658868224",
       "adds": null,
-      "consenter_ids": [
-        5
-      ],
       "drops": {
         "6904": 5
       },
+      "consenter_ids": [
+        5
+      ],
       "roster_ids": [
         5
       ],
@@ -2128,12 +2188,12 @@
       "creator": "1401317827809398784",
       "transaction_id": "1420072209141059584",
       "adds": null,
-      "consenter_ids": [
-        7
-      ],
       "drops": {
         "11792": 7
       },
+      "consenter_ids": [
+        7
+      ],
       "roster_ids": [
         7
       ],
@@ -2151,12 +2211,12 @@
       "creator": "737708656518385664",
       "transaction_id": "1419848610014605312",
       "adds": null,
-      "consenter_ids": [
-        1
-      ],
       "drops": {
         "8132": 1
       },
+      "consenter_ids": [
+        1
+      ],
       "roster_ids": [
         1
       ],
@@ -2176,12 +2236,12 @@
       "adds": {
         "1945": 2
       },
-      "consenter_ids": [
-        2
-      ],
       "drops": {
         "7571": 2
       },
+      "consenter_ids": [
+        2
+      ],
       "roster_ids": [
         2
       ],
@@ -2201,12 +2261,12 @@
       "adds": {
         "3214": 4
       },
-      "consenter_ids": [
-        4
-      ],
       "drops": {
         "5892": 4
       },
+      "consenter_ids": [
+        4
+      ],
       "roster_ids": [
         4
       ],
@@ -2244,7 +2304,7 @@
       "team": "KC",
       "age": 26,
       "status": "Active",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -2288,7 +2348,7 @@
       "team": "BUF",
       "age": 27,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "TE"
       ],
@@ -2640,7 +2700,7 @@
       "team": "LAC",
       "age": 24,
       "status": "Active",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -2684,7 +2744,7 @@
       "team": "CAR",
       "age": 24,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -3058,7 +3118,7 @@
       "team": "TB",
       "age": 24,
       "status": "Active",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -3102,7 +3162,7 @@
       "team": "IND",
       "age": 24,
       "status": "Active",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "TE"
       ],
@@ -3212,7 +3272,7 @@
       "team": "CHI",
       "age": 24,
       "status": "Active",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
@@ -3344,7 +3404,7 @@
       "team": "ARI",
       "age": 21,
       "status": "Active",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
@@ -3468,6 +3528,28 @@
       "rotowire_id": 19607,
       "sportradar_id": "4dea3ae1-8c53-4ef1-bd72-e2d2dfb3fa97",
       "fantasy_data_id": 26981
+    },
+    "1373": {
+      "player_id": "1373",
+      "full_name": "Geno Smith",
+      "position": "QB",
+      "team": "NYJ",
+      "age": 36,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "QB"
+      ],
+      "height": "74",
+      "weight": "221",
+      "years_exp": 13,
+      "college": "West Virginia",
+      "birth_date": "1990-10-10",
+      "espn_id": 15864,
+      "yahoo_id": 26662,
+      "rotowire_id": 8743,
+      "sportradar_id": "cfc93f5e-105e-4a5e-88d3-f4279893cfa8",
+      "fantasy_data_id": 14895
     },
     "1466": {
       "player_id": "1466",
@@ -3982,7 +4064,7 @@
       "team": "BAL",
       "age": 29,
       "status": "Active",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "QB"
       ],
@@ -4026,7 +4108,7 @@
       "team": "BUF",
       "age": 29,
       "status": "Active",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -4664,7 +4746,7 @@
       "team": "PHI",
       "age": 27,
       "status": "Active",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -4796,7 +4878,7 @@
       "team": "TB",
       "age": 27,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "RB"
       ],
@@ -4972,7 +5054,7 @@
       "team": "ATL",
       "age": 25,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -5280,7 +5362,7 @@
       "team": "ATL",
       "age": 27,
       "status": "Active",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
@@ -5302,7 +5384,7 @@
       "team": "NYJ",
       "age": 25,
       "status": "Active",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
@@ -5676,7 +5758,7 @@
       "team": "SEA",
       "age": 25,
       "status": "Active",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
