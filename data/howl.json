@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-29T00:57:08.088Z",
+  "fetched_at": "2026-10-29T07:05:42.822Z",
   "current_week": 8,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -309,7 +309,7 @@
       "roster_id": 1,
       "settings": {
         "fpts": 1131,
-        "fpts_against": 993,
+        "fpts_against": 994,
         "fpts_against_decimal": 22,
         "fpts_decimal": 44,
         "losses": 1,
@@ -680,7 +680,7 @@
       "reserve": null,
       "roster_id": 7,
       "settings": {
-        "fpts": 884,
+        "fpts": 885,
         "fpts_against": 926,
         "fpts_against_decimal": 8,
         "fpts_decimal": 4,
