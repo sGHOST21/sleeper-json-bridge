@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-30T19:22:51.228Z",
+  "fetched_at": "2026-10-30T23:46:40.688Z",
   "current_week": 8,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -110,21 +110,26 @@
     },
     "season": "2026",
     "season_type": "regular",
-    "sport": "nfl",
     "shard": 949,
-    "last_message_id": "1421538234889953280",
+    "sport": "nfl",
+    "last_message_id": "1422028899855921152",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1793283635403,
+    "last_message_time": 1793400619046,
     "last_pinned_message_id": null,
     "draft_id": "1400845992303022080",
     "last_read_id": null,
     "league_id": "1400845991007019008",
     "previous_league_id": null,
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -146,11 +151,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 8
   },
   "users": [
@@ -282,13 +282,13 @@
       "owner_id": "737708656518385664",
       "player_map": null,
       "players": [
+        "10213",
         "12474",
         "12495",
         "12517",
         "12518",
         "13281",
         "13287",
-        "13346",
         "3163",
         "4217",
         "4866",
@@ -352,6 +352,7 @@
         "12526",
         "12527",
         "13279",
+        "13301",
         "13414",
         "1945",
         "4037",
@@ -368,6 +369,7 @@
         "PIT"
       ],
       "reserve": [
+        "5927",
         "7543"
       ],
       "roster_id": 2,
@@ -777,13 +779,13 @@
     {
       "points": 0,
       "players": [
+        "10213",
         "12474",
         "12495",
         "12517",
         "12518",
         "13281",
         "13287",
-        "13346",
         "3163",
         "4217",
         "4866",
@@ -838,13 +840,13 @@
         "9221": 0,
         "9753": 0,
         "9997": 0,
+        "10213": 0,
         "12474": 0,
         "12495": 0,
         "12517": 0,
         "12518": 0,
         "13281": 0,
         "13287": 0,
-        "13346": 0,
         "MIN": 0
       }
     },
@@ -857,6 +859,7 @@
         "12526",
         "12527",
         "13279",
+        "13301",
         "13414",
         "1945",
         "4037",
@@ -917,6 +920,7 @@
         "12526": 11.8,
         "12527": 0,
         "13279": 0,
+        "13301": 0,
         "13414": 0,
         "HOU": 0,
         "PIT": 0
@@ -2277,6 +2281,54 @@
       "status": "complete",
       "type": "free_agent",
       "metadata": null,
+      "created": 1793400619022,
+      "settings": null,
+      "leg": 8,
+      "draft_picks": [],
+      "creator": "1400852933964230656",
+      "transaction_id": "1422028899755286528",
+      "adds": {
+        "13301": 2
+      },
+      "drops": null,
+      "consenter_ids": [
+        2
+      ],
+      "roster_ids": [
+        2
+      ],
+      "status_updated": 1793400619022,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1793398256810,
+      "settings": null,
+      "leg": 8,
+      "draft_picks": [],
+      "creator": "737708656518385664",
+      "transaction_id": "1422018991919996928",
+      "adds": {
+        "10213": 1
+      },
+      "drops": {
+        "13346": 1
+      },
+      "consenter_ids": [
+        1
+      ],
+      "roster_ids": [
+        1
+      ],
+      "status_updated": 1793398256810,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
       "created": 1793195922770,
       "settings": null,
       "leg": 8,
@@ -2442,6 +2494,28 @@
     }
   ],
   "player_map": {
+    "10213": {
+      "player_id": "10213",
+      "full_name": "Tre Tucker",
+      "position": "WR",
+      "team": "LV",
+      "age": 25,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "WR"
+      ],
+      "height": "68",
+      "weight": "182",
+      "years_exp": 3,
+      "college": "Cincinnati",
+      "birth_date": "2001-03-08",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 16694,
+      "sportradar_id": "9beb72c5-5a81-413c-ada3-ff4854c95cf4",
+      "fantasy_data_id": 24177
+    },
     "10222": {
       "player_id": "10222",
       "full_name": "Jayden Reed",
@@ -2493,7 +2567,7 @@
       "team": "ARI",
       "age": 26,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -2889,7 +2963,7 @@
       "team": "LAC",
       "age": 24,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -3131,7 +3205,7 @@
       "team": "DEN",
       "age": 25,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "RB"
       ],
@@ -3329,7 +3403,7 @@
       "team": "CHI",
       "age": 22,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "TE"
       ],
@@ -3549,7 +3623,7 @@
       "team": "TEN",
       "age": 21,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ],
@@ -3593,7 +3667,7 @@
       "team": "ARI",
       "age": 21,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "RB"
       ],
@@ -3629,6 +3703,28 @@
       "rotowire_id": 19242,
       "sportradar_id": "395b5873-4054-4190-913c-60b664d11e61",
       "fantasy_data_id": 26762
+    },
+    "13301": {
+      "player_id": "13301",
+      "full_name": "Antonio Williams",
+      "position": "WR",
+      "team": "WAS",
+      "age": 22,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "WR"
+      ],
+      "height": "71",
+      "weight": "195",
+      "years_exp": 0,
+      "college": "Clemson",
+      "birth_date": "2004-07-14",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 19237,
+      "sportradar_id": "d80b6d95-5b56-4e52-9a19-05957961f506",
+      "fantasy_data_id": 26859
     },
     "13330": {
       "player_id": "13330",
@@ -3769,7 +3865,7 @@
       "team": "KC",
       "age": 37,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "TE"
       ],
@@ -4253,7 +4349,7 @@
       "team": "PHI",
       "age": 29,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "RB"
       ],
@@ -4957,7 +5053,7 @@
       "team": "PHI",
       "age": 27,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ],
@@ -5331,7 +5427,7 @@
       "team": "ARI",
       "age": 26,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "RB"
       ],
