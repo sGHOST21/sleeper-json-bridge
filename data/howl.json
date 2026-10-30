@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-29T20:18:03.352Z",
+  "fetched_at": "2026-10-30T00:59:42.333Z",
   "current_week": 8,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -450,13 +450,13 @@
       },
       "starters": [
         "421",
+        "12507",
         "12512",
-        "4035",
         "13298",
-        "8144",
-        "7553",
-        "8167",
         "6794",
+        "8110",
+        "8167",
+        "4881",
         "6650",
         "DEN"
       ],
@@ -849,7 +849,7 @@
       }
     },
     {
-      "points": 0,
+      "points": 2,
       "players": [
         "11563",
         "1166",
@@ -894,7 +894,7 @@
         0,
         0,
         0,
-        0,
+        2,
         0,
         0,
         0
@@ -914,7 +914,7 @@
         "8138": 0,
         "11563": 0,
         "11786": 0,
-        "12526": 0,
+        "12526": 2,
         "12527": 0,
         "13279": 0,
         "13414": 0,
@@ -923,7 +923,7 @@
       }
     },
     {
-      "points": 0,
+      "points": 6.3,
       "players": [
         "11635",
         "12507",
@@ -950,13 +950,13 @@
       "matchup_id": 2,
       "starters": [
         "421",
+        "12507",
         "12512",
-        "4035",
         "13298",
-        "8144",
-        "7553",
-        "8167",
         "6794",
+        "8110",
+        "8167",
+        "4881",
         "6650",
         "DEN"
       ],
@@ -967,7 +967,7 @@
         0,
         0,
         0,
-        0,
+        6.3,
         0,
         0,
         0
@@ -983,7 +983,7 @@
         "8110": 0,
         "8136": 0,
         "8144": 0,
-        "8167": 0,
+        "8167": 6.3,
         "9226": 0,
         "9754": 0,
         "11635": 0,
@@ -1067,7 +1067,7 @@
       }
     },
     {
-      "points": 0,
+      "points": 13.5,
       "players": [
         "10222",
         "11604",
@@ -1110,7 +1110,7 @@
         0,
         0,
         0,
-        0,
+        13.5,
         0,
         0,
         0
@@ -1126,7 +1126,7 @@
         "6801": 0,
         "6813": 0,
         "7569": 0,
-        "7594": 0,
+        "7594": 13.5,
         "8228": 0,
         "10222": 0,
         "11604": 0,
@@ -1137,7 +1137,7 @@
       }
     },
     {
-      "points": 0,
+      "points": 25.98,
       "players": [
         "10229",
         "10859",
@@ -1177,14 +1177,14 @@
       "starters_points": [
         0,
         0,
+        2.5,
         0,
         0,
+        8.2,
         0,
+        6.28,
         0,
-        0,
-        0,
-        0,
-        0
+        9
       ],
       "players_points": {
         "3198": 0,
@@ -1193,23 +1193,23 @@
         "4984": 0,
         "5001": 0,
         "5947": 0,
-        "6804": 0,
+        "6804": 6.28,
         "7526": 0,
         "8137": 0,
         "9480": 0,
-        "9484": 0,
+        "9484": 8.2,
         "9758": 0,
         "10229": 0,
         "10859": 0,
         "11435": 0,
         "11533": 0,
-        "11581": 0,
+        "11581": 2.5,
         "BUF": 0,
-        "CAR": 0
+        "CAR": 9
       }
     },
     {
-      "points": 0,
+      "points": 2.12,
       "players": [
         "11559",
         "11576",
@@ -1247,7 +1247,7 @@
         "CIN"
       ],
       "starters_points": [
-        0,
+        2.12,
         0,
         0,
         0,
@@ -1266,7 +1266,7 @@
         "8131": 0,
         "8150": 0,
         "9224": 0,
-        "9228": 0,
+        "9228": 2.12,
         "9487": 0,
         "9493": 0,
         "11559": 0,
@@ -1335,7 +1335,7 @@
         "2216": 0,
         "3294": 0,
         "5012": 0,
-        "5850": 0,
+        "5850": 3.1,
         "6786": 0,
         "6790": 0,
         "7588": 0,
@@ -2713,7 +2713,7 @@
       "team": "NYJ",
       "age": 22,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "RB"
       ],
@@ -2779,7 +2779,7 @@
       "team": "LV",
       "age": 23,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "TE"
       ],
@@ -2931,7 +2931,7 @@
       "full_name": "Jalen Coker",
       "position": "WR",
       "team": "CAR",
-      "age": 24,
+      "age": 25,
       "status": "Active",
       "injury_status": null,
       "fantasy_positions": [
@@ -3131,7 +3131,7 @@
       "team": "DEN",
       "age": 25,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
@@ -3197,7 +3197,7 @@
       "team": "GB",
       "age": 23,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -3769,7 +3769,7 @@
       "team": "KC",
       "age": 37,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "TE"
       ],
@@ -3857,7 +3857,7 @@
       "team": "WAS",
       "age": 32,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -5067,7 +5067,7 @@
       "team": "CIN",
       "age": 26,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
