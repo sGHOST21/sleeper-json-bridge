@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-30T14:08:43.975Z",
+  "fetched_at": "2026-10-30T19:22:49.480Z",
   "current_week": 8,
   "league": {
     "name": "The D-League",
@@ -1097,7 +1097,7 @@
         "6794",
         "8130",
         "6801",
-        "8136",
+        "13345",
         "650",
         "12978",
         "7672",
@@ -2430,7 +2430,7 @@
         "6794",
         "8130",
         "6801",
-        "8136",
+        "13345",
         "650",
         "12978",
         "7672",
@@ -5603,7 +5603,7 @@
       "team": "KC",
       "age": 26,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -6860,7 +6860,7 @@
       "team": "CLE",
       "age": 25,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "DL"
       ],
@@ -7785,7 +7785,7 @@
       "team": "TB",
       "age": 24,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ],
@@ -7829,7 +7829,7 @@
       "team": "IND",
       "age": 24,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "TE"
       ],
@@ -10542,7 +10542,7 @@
       "team": "MIN",
       "age": 31,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "RB"
       ],
@@ -10718,7 +10718,7 @@
       "team": "BAL",
       "age": 29,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "QB"
       ],
@@ -13517,7 +13517,7 @@
       "team": "ATL",
       "age": 27,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "RB"
       ],
