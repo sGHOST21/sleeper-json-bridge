@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-31T12:29:34.307Z",
+  "fetched_at": "2026-10-31T17:43:36.350Z",
   "current_week": 8,
   "league": {
     "name": "The D-League",
@@ -7983,7 +7983,7 @@
       "team": "NE",
       "age": 24,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "RB"
       ],
@@ -8072,7 +8072,7 @@
       "team": "CHI",
       "age": 24,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "RB"
       ],
@@ -11313,7 +11313,7 @@
       "team": "NE",
       "age": 29,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ],

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-31T12:29:35.468Z",
+  "fetched_at": "2026-10-31T17:43:37.573Z",
   "current_week": 8,
   "league": {
     "name": "Brass City League",
@@ -810,7 +810,7 @@
       "starters": [
         "11560",
         "7611",
-        "12489",
+        "7567",
         "7564",
         "8112",
         "5022",
@@ -1946,7 +1946,7 @@
       "starters": [
         "11560",
         "7611",
-        "12489",
+        "7567",
         "7564",
         "8112",
         "5022",
@@ -6989,7 +6989,7 @@
       "team": "NE",
       "age": 24,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "RB"
       ],
@@ -7056,7 +7056,7 @@
       "team": "CHI",
       "age": 24,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "RB"
       ],
@@ -9879,7 +9879,7 @@
       "team": "NE",
       "age": 29,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ],

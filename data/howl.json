@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-31T12:29:36.390Z",
+  "fetched_at": "2026-10-31T17:43:38.334Z",
   "current_week": 8,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -327,7 +327,7 @@
         "12495",
         "9997",
         "7547",
-        "12517",
+        "12518",
         "8146",
         "3163",
         "7839",
@@ -809,7 +809,7 @@
         "12495",
         "9997",
         "7547",
-        "12517",
+        "12518",
         "8146",
         "3163",
         "7839",
@@ -3513,7 +3513,7 @@
       "team": "NE",
       "age": 24,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "RB"
       ],
@@ -3535,7 +3535,7 @@
       "team": "CHI",
       "age": 24,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "RB"
       ],
@@ -4591,7 +4591,7 @@
       "team": "NE",
       "age": 29,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ],
