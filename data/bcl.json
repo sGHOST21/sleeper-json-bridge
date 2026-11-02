@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-02T15:53:22.169Z",
+  "fetched_at": "2026-11-02T23:30:18.575Z",
   "current_week": 8,
   "league": {
     "name": "Brass City League",
@@ -7656,8 +7656,8 @@
       "position": "RB",
       "team": "SEA",
       "age": 23,
-      "status": "Inactive",
-      "injury_status": "IR",
+      "status": "Active",
+      "injury_status": null,
       "fantasy_positions": [
         "RB"
       ],
@@ -9290,7 +9290,7 @@
       "team": "LAR",
       "age": 38,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "QB"
       ],
