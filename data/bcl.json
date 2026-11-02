@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-02T06:02:50.640Z",
+  "fetched_at": "2026-11-02T15:53:22.169Z",
   "current_week": 8,
   "league": {
     "name": "Brass City League",
@@ -68,10 +68,6 @@
     },
     "avatar": "71eb884a69970234d6aab2bcc692e78f",
     "company_id": null,
-    "shard": 134,
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -129,22 +125,26 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "last_message_id": "1422794638829297664",
+    "season": "2026",
+    "season_type": "regular",
+    "shard": 134,
+    "sport": "nfl",
+    "last_message_id": "1422993641185480704",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1793583185444,
+    "last_message_time": 1793630631304,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "draft_id": "1387554218864291840",
     "league_id": "1387554218847502336",
     "previous_league_id": "1222634893318561792",
+    "group_id": null,
     "bracket_id": null,
     "bracket_overrides_id": null,
-    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "roster_positions": [
@@ -1013,10 +1013,10 @@
         "5001",
         "5012",
         "5045",
+        "5876",
         "5892",
         "5991",
         "5995",
-        "6485",
         "6783",
         "6801",
         "6813",
@@ -1057,9 +1057,9 @@
         "10236",
         "2747",
         "5991",
-        "6485",
+        "0",
         "8339",
-        "0"
+        "5876"
       ],
       "taxi": [
         "11650",
@@ -2207,10 +2207,10 @@
         "5001",
         "5012",
         "5045",
+        "5876",
         "5892",
         "5991",
         "5995",
-        "6485",
         "6783",
         "6801",
         "6813",
@@ -2234,9 +2234,9 @@
         "10236",
         "2747",
         "5991",
-        "6485",
+        "0",
         "8339",
-        "0"
+        "5876"
       ],
       "starters_points": [
         27.56,
@@ -2261,10 +2261,10 @@
         "5001": 0,
         "5012": 2.9,
         "5045": 7.3,
+        "5876": 0,
         "5892": 0,
         "5991": 6,
         "5995": 5.5,
-        "6485": 0,
         "6783": 0,
         "6801": 32.5,
         "6813": 4.7,
@@ -4450,6 +4450,31 @@
         10
       ],
       "status_updated": 1792595165563,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1793630631272,
+      "settings": null,
+      "leg": 8,
+      "draft_picks": [],
+      "creator": "553779274944823296",
+      "transaction_id": "1422993641055457280",
+      "adds": {
+        "5876": 8
+      },
+      "consenter_ids": [
+        8
+      ],
+      "drops": {
+        "6485": 8
+      },
+      "roster_ids": [
+        8
+      ],
+      "status_updated": 1793630631272,
       "waiver_budget": []
     },
     {
@@ -9984,6 +10009,28 @@
       "rotowire_id": 13429,
       "sportradar_id": "628a6a0a-4fde-4024-8d7c-28674953d5af",
       "fantasy_data_id": 20932
+    },
+    "5876": {
+      "player_id": "5876",
+      "full_name": "Julian Love",
+      "position": "DB",
+      "team": "SEA",
+      "age": 28,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "DB"
+      ],
+      "height": "71",
+      "weight": "195",
+      "years_exp": 7,
+      "college": "Notre Dame",
+      "birth_date": "1998-03-19",
+      "espn_id": 4046675,
+      "yahoo_id": 31940,
+      "rotowire_id": 13533,
+      "sportradar_id": "a1052a59-114e-4340-8936-bffb17431300",
+      "fantasy_data_id": 20864
     },
     "5892": {
       "player_id": "5892",
