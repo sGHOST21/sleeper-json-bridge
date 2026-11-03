@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-11-02T23:30:17.495Z",
-  "current_week": 8,
+  "fetched_at": "2026-11-03T06:47:33.031Z",
+  "current_week": 9,
   "league": {
     "name": "The D-League",
     "status": "in_season",
@@ -30,7 +30,7 @@
       "playoff_type": 1,
       "taxi_slots": 3,
       "sub_start_time_eligibility": 0,
-      "last_scored_leg": 7,
+      "last_scored_leg": 8,
       "daily_waivers_days": 1093,
       "sub_lock_if_starter_active": 0,
       "playoff_week_start": 15,
@@ -66,10 +66,6 @@
     },
     "avatar": "31647870b5248d13691a1b97ccb9b0a0",
     "company_id": null,
-    "shard": 169,
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -127,6 +123,10 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
+    "season": "2026",
+    "season_type": "regular",
+    "shard": 169,
+    "sport": "nfl",
     "last_message_id": "1422664254154080256",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
@@ -135,14 +135,14 @@
     "last_message_attachment": null,
     "last_message_text_map": null,
     "last_message_time": 1793552099316,
+    "draft_id": "1398261761102098432",
     "last_pinned_message_id": null,
     "last_read_id": null,
-    "draft_id": "1398261761102098432",
     "league_id": "1384998212942692352",
     "previous_league_id": "1222634114906075136",
+    "group_id": null,
     "bracket_id": null,
     "bracket_overrides_id": null,
-    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "roster_positions": [
@@ -644,9 +644,9 @@
         "allow_pn_inactive_starters": "on",
         "allow_pn_player_injury_status": "on",
         "allow_pn_scoring": "on",
-        "record": "LWLLLWL",
+        "record": "LWLLLWLL",
         "restrict_pn_scoring_starters_only": "on",
-        "streak": "1L"
+        "streak": "2L"
       },
       "owner_id": "716111666881851392",
       "player_map": null,
@@ -685,13 +685,13 @@
       "roster_id": 1,
       "settings": {
         "division": 1,
-        "fpts": 693,
-        "fpts_against": 845,
-        "fpts_against_decimal": 50,
-        "fpts_decimal": 20,
-        "losses": 5,
-        "ppts": 860,
-        "ppts_decimal": 58,
+        "fpts": 801,
+        "fpts_against": 993,
+        "fpts_against_decimal": 40,
+        "fpts_decimal": 28,
+        "losses": 6,
+        "ppts": 979,
+        "ppts_decimal": 86,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 45,
@@ -724,8 +724,8 @@
       "keepers": null,
       "league_id": "1384998212942692352",
       "metadata": {
-        "record": "WLWLWWW",
-        "streak": "3W"
+        "record": "WLWLWWWL",
+        "streak": "1L"
       },
       "owner_id": "730228964399886336",
       "player_map": null,
@@ -762,13 +762,13 @@
       "roster_id": 2,
       "settings": {
         "division": 1,
-        "fpts": 875,
-        "fpts_against": 858,
-        "fpts_against_decimal": 92,
-        "fpts_decimal": 12,
-        "losses": 2,
-        "ppts": 942,
-        "ppts_decimal": 24,
+        "fpts": 965,
+        "fpts_against": 1003,
+        "fpts_against_decimal": 20,
+        "fpts_decimal": 4,
+        "losses": 3,
+        "ppts": 1056,
+        "ppts_decimal": 6,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 20,
@@ -800,8 +800,8 @@
       "league_id": "1384998212942692352",
       "metadata": {
         "p_nick_6786": "Cee-deez-nuts",
-        "record": "LWWLLLL",
-        "streak": "4L"
+        "record": "LWWLLLLL",
+        "streak": "5L"
       },
       "owner_id": "726077702712389632",
       "player_map": null,
@@ -833,13 +833,13 @@
       "roster_id": 3,
       "settings": {
         "division": 1,
-        "fpts": 682,
-        "fpts_against": 813,
-        "fpts_against_decimal": 44,
-        "fpts_decimal": 10,
-        "losses": 5,
-        "ppts": 778,
-        "ppts_decimal": 54,
+        "fpts": 772,
+        "fpts_against": 958,
+        "fpts_against_decimal": 90,
+        "fpts_decimal": 34,
+        "losses": 6,
+        "ppts": 887,
+        "ppts_decimal": 28,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
@@ -872,8 +872,8 @@
         "p_nick_7527": "MacSauce",
         "p_nick_8122": "Any 3rd",
         "p_nick_96": "MVP",
-        "record": "LWWWLLW",
-        "streak": "1W"
+        "record": "LWWWLLWL",
+        "streak": "1L"
       },
       "owner_id": "703353523932336128",
       "player_map": null,
@@ -916,13 +916,13 @@
       "roster_id": 4,
       "settings": {
         "division": 1,
-        "fpts": 788,
-        "fpts_against": 801,
-        "fpts_against_decimal": 62,
-        "fpts_decimal": 64,
-        "losses": 3,
-        "ppts": 916,
-        "ppts_decimal": 18,
+        "fpts": 873,
+        "fpts_against": 926,
+        "fpts_against_decimal": 52,
+        "fpts_decimal": 10,
+        "losses": 4,
+        "ppts": 1012,
+        "ppts_decimal": 14,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
@@ -960,9 +960,9 @@
         "allow_pn_scoring": "off",
         "p_nick_4984": "Best QB in the leauge",
         "p_nick_7042": "Best kicker in the leauge",
-        "record": "LLLWLLL",
+        "record": "LLLWLLLL",
         "restrict_pn_scoring_starters_only": "on",
-        "streak": "3L"
+        "streak": "4L"
       },
       "owner_id": "553779274944823296",
       "player_map": null,
@@ -999,13 +999,13 @@
       "roster_id": 5,
       "settings": {
         "division": 1,
-        "fpts": 595,
-        "fpts_against": 866,
-        "fpts_against_decimal": 22,
-        "fpts_decimal": 70,
-        "losses": 6,
-        "ppts": 733,
-        "ppts_decimal": 26,
+        "fpts": 628,
+        "fpts_against": 985,
+        "fpts_against_decimal": 82,
+        "fpts_decimal": 38,
+        "losses": 7,
+        "ppts": 815,
+        "ppts_decimal": 94,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
@@ -1037,8 +1037,8 @@
         "p_nick_1166": "Lil Kirkio",
         "p_nick_6794": "Jjettas",
         "p_nick_8151": "K9",
-        "record": "WWWWWLW",
-        "streak": "1W"
+        "record": "WWWWWLWW",
+        "streak": "2W"
       },
       "owner_id": "871053074062589952",
       "player_map": null,
@@ -1078,18 +1078,18 @@
       "roster_id": 6,
       "settings": {
         "division": 2,
-        "fpts": 1010,
-        "fpts_against": 805,
-        "fpts_against_decimal": 32,
-        "fpts_decimal": 4,
+        "fpts": 1154,
+        "fpts_against": 895,
+        "fpts_against_decimal": 24,
+        "fpts_decimal": 32,
         "losses": 1,
-        "ppts": 1147,
-        "ppts_decimal": 74,
+        "ppts": 1304,
+        "ppts_decimal": 8,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 15,
         "waiver_position": 10,
-        "wins": 6
+        "wins": 7
       },
       "starters": [
         "9230",
@@ -1118,9 +1118,9 @@
       "metadata": {
         "allow_pn_scoring": "on",
         "p_nick_6797": "Vanilla Vick",
-        "record": "LLLLLWL",
+        "record": "LLLLLWLW",
         "restrict_pn_scoring_starters_only": "on",
-        "streak": "1L"
+        "streak": "1W"
       },
       "owner_id": "726920245125664768",
       "player_map": null,
@@ -1159,18 +1159,18 @@
       "roster_id": 7,
       "settings": {
         "division": 1,
-        "fpts": 791,
-        "fpts_against": 971,
-        "fpts_against_decimal": 38,
-        "fpts_decimal": 72,
+        "fpts": 949,
+        "fpts_against": 1065,
+        "fpts_against_decimal": 62,
+        "fpts_decimal": 14,
         "losses": 6,
-        "ppts": 948,
-        "ppts_decimal": 36,
+        "ppts": 1106,
+        "ppts_decimal": 98,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 28,
         "waiver_position": 13,
-        "wins": 1
+        "wins": 2
       },
       "starters": [
         "4943",
@@ -1199,9 +1199,9 @@
         "allow_pn_inactive_starters": "on",
         "allow_pn_player_injury_status": "on",
         "allow_pn_scoring": "on",
-        "record": "WLLLWLL",
+        "record": "WLLLWLLL",
         "restrict_pn_scoring_starters_only": "on",
-        "streak": "2L"
+        "streak": "3L"
       },
       "owner_id": "733456145330585600",
       "player_map": null,
@@ -1244,13 +1244,13 @@
       "roster_id": 8,
       "settings": {
         "division": 2,
-        "fpts": 761,
-        "fpts_against": 935,
-        "fpts_against_decimal": 36,
-        "fpts_decimal": 30,
-        "losses": 5,
-        "ppts": 853,
-        "ppts_decimal": 92,
+        "fpts": 855,
+        "fpts_against": 1092,
+        "fpts_against_decimal": 78,
+        "fpts_decimal": 54,
+        "losses": 6,
+        "ppts": 976,
+        "ppts_decimal": 48,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 5,
@@ -1283,8 +1283,8 @@
       "keepers": null,
       "league_id": "1384998212942692352",
       "metadata": {
-        "record": "WWLWWLW",
-        "streak": "1W"
+        "record": "WWLWWLWW",
+        "streak": "2W"
       },
       "owner_id": "728665102038966272",
       "player_map": null,
@@ -1327,18 +1327,18 @@
       "roster_id": 9,
       "settings": {
         "division": 2,
-        "fpts": 888,
-        "fpts_against": 775,
-        "fpts_against_decimal": 66,
-        "fpts_decimal": 34,
+        "fpts": 1007,
+        "fpts_against": 808,
+        "fpts_against_decimal": 34,
+        "fpts_decimal": 94,
         "losses": 2,
-        "ppts": 1036,
-        "ppts_decimal": 56,
+        "ppts": 1182,
+        "ppts_decimal": 6,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 39,
         "waiver_position": 12,
-        "wins": 5
+        "wins": 6
       },
       "starters": [
         "3294",
@@ -1366,8 +1366,8 @@
       "keepers": null,
       "league_id": "1384998212942692352",
       "metadata": {
-        "record": "LLWWWWL",
-        "streak": "1L"
+        "record": "LLWWWWLW",
+        "streak": "1W"
       },
       "owner_id": "471428050836254720",
       "player_map": null,
@@ -1409,18 +1409,18 @@
       "roster_id": 10,
       "settings": {
         "division": 1,
-        "fpts": 946,
-        "fpts_against": 825,
-        "fpts_against_decimal": 6,
-        "fpts_decimal": 2,
+        "fpts": 1072,
+        "fpts_against": 922,
+        "fpts_against_decimal": 84,
+        "fpts_decimal": 18,
         "losses": 3,
-        "ppts": 1070,
-        "ppts_decimal": 72,
+        "ppts": 1205,
+        "ppts_decimal": 98,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 62,
         "waiver_position": 11,
-        "wins": 4
+        "wins": 5
       },
       "starters": [
         "4984",
@@ -1447,8 +1447,8 @@
       "keepers": null,
       "league_id": "1384998212942692352",
       "metadata": {
-        "record": "WLWLLLW",
-        "streak": "1W"
+        "record": "WLWLLLWL",
+        "streak": "1L"
       },
       "owner_id": "733463671744880640",
       "player_map": null,
@@ -1490,13 +1490,13 @@
       "roster_id": 11,
       "settings": {
         "division": 2,
-        "fpts": 794,
-        "fpts_against": 788,
-        "fpts_against_decimal": 98,
-        "fpts_decimal": 54,
-        "losses": 4,
-        "ppts": 867,
-        "ppts_decimal": 64,
+        "fpts": 892,
+        "fpts_against": 915,
+        "fpts_against_decimal": 14,
+        "fpts_decimal": 32,
+        "losses": 5,
+        "ppts": 969,
+        "ppts_decimal": 32,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 53,
@@ -1528,8 +1528,8 @@
       "keepers": null,
       "league_id": "1384998212942692352",
       "metadata": {
-        "record": "WWWWLWW",
-        "streak": "2W"
+        "record": "WWWWLWWW",
+        "streak": "3W"
       },
       "owner_id": "737696652592291840",
       "player_map": null,
@@ -1566,18 +1566,18 @@
       "roster_id": 12,
       "settings": {
         "division": 2,
-        "fpts": 1057,
-        "fpts_against": 797,
-        "fpts_against_decimal": 38,
-        "fpts_decimal": 42,
+        "fpts": 1182,
+        "fpts_against": 881,
+        "fpts_against_decimal": 84,
+        "fpts_decimal": 32,
         "losses": 1,
-        "ppts": 1169,
-        "ppts_decimal": 82,
+        "ppts": 1307,
+        "ppts_decimal": 32,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
         "waiver_position": 5,
-        "wins": 6
+        "wins": 7
       },
       "starters": [
         "7523",
@@ -1604,8 +1604,8 @@
       "league_id": "1384998212942692352",
       "metadata": {
         "p_nick_9493": "",
-        "record": "LWLLWWW",
-        "streak": "3W"
+        "record": "LWLLWWWW",
+        "streak": "4W"
       },
       "owner_id": "737708656518385664",
       "player_map": null,
@@ -1648,18 +1648,18 @@
       "roster_id": 13,
       "settings": {
         "division": 2,
-        "fpts": 863,
-        "fpts_against": 862,
-        "fpts_against_decimal": 72,
-        "fpts_decimal": 2,
+        "fpts": 1010,
+        "fpts_against": 970,
+        "fpts_against_decimal": 80,
+        "fpts_decimal": 92,
         "losses": 3,
-        "ppts": 1039,
-        "ppts_decimal": 8,
+        "ppts": 1233,
+        "ppts_decimal": 46,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 10,
         "waiver_position": 9,
-        "wins": 4
+        "wins": 5
       },
       "starters": [
         "4881",
@@ -1687,8 +1687,8 @@
       "keepers": null,
       "league_id": "1384998212942692352",
       "metadata": {
-        "record": "WLLWWWL",
-        "streak": "1L"
+        "record": "WLLWWWLW",
+        "streak": "1W"
       },
       "owner_id": "737718651813244928",
       "player_map": null,
@@ -1726,18 +1726,18 @@
       "roster_id": 14,
       "settings": {
         "division": 2,
-        "fpts": 1054,
-        "fpts_against": 854,
-        "fpts_against_decimal": 16,
-        "fpts_decimal": 56,
+        "fpts": 1200,
+        "fpts_against": 944,
+        "fpts_against_decimal": 40,
+        "fpts_decimal": 2,
         "losses": 3,
-        "ppts": 1179,
-        "ppts_decimal": 72,
+        "ppts": 1341,
+        "ppts_decimal": 28,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
         "waiver_position": 1,
-        "wins": 4
+        "wins": 5
       },
       "starters": [
         "11564",
@@ -1939,7 +1939,7 @@
   ],
   "matchups": [
     {
-      "points": 108.08,
+      "points": 0,
       "players": [
         "11439",
         "11626",
@@ -1971,7 +1971,7 @@
       ],
       "roster_id": 1,
       "custom_points": null,
-      "matchup_id": 5,
+      "matchup_id": 4,
       "starters": [
         "1166",
         "12490",
@@ -1988,52 +1988,52 @@
         "8267"
       ],
       "starters_points": [
-        28.18,
-        28.9,
-        0.1,
-        0.9,
-        8.7,
-        2.7,
-        7.7,
-        3.9,
-        10,
-        2,
-        6.5,
-        1.5,
-        7
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ],
       "players_points": {
-        "1166": 28.18,
-        "1373": 19,
-        "6083": 10,
-        "6214": 6.5,
-        "6911": 1.5,
+        "1166": 0,
+        "1373": 0,
+        "6083": 0,
+        "6214": 0,
+        "6911": 0,
         "7090": 0,
         "7670": 0,
-        "8267": 7,
+        "8267": 0,
         "9225": 0,
-        "9494": 3.9,
+        "9494": 0,
         "9502": 0,
         "11439": 0,
         "11626": 0,
-        "11637": 0.9,
-        "11667": 2,
+        "11637": 0,
+        "11667": 0,
         "12483": 0,
         "12487": 0,
-        "12490": 28.9,
-        "12493": 7.7,
-        "12531": 0.1,
+        "12490": 0,
+        "12493": 0,
+        "12531": 0,
         "12535": 0,
         "12544": 0,
         "13269": 0,
         "13288": 0,
-        "13294": 8.7,
-        "13330": 2.7,
-        "13338": 12.1
+        "13294": 0,
+        "13330": 0,
+        "13338": 0
       }
     },
     {
-      "points": 89.92,
+      "points": 0,
       "players": [
         "10859",
         "10917",
@@ -2063,7 +2063,7 @@
       ],
       "roster_id": 2,
       "custom_points": null,
-      "matchup_id": 7,
+      "matchup_id": 6,
       "starters": [
         "6804",
         "11435",
@@ -2080,50 +2080,50 @@
         "10947"
       ],
       "starters_points": [
-        22.52,
         0,
-        13.3,
-        2.3,
-        14.3,
-        5,
-        1.4,
-        11.6,
-        5,
-        0.5,
-        7.5,
-        5.5,
-        1
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ],
       "players_points": {
-        "1479": 10.2,
+        "1479": 0,
         "3321": 0,
-        "4081": 5.5,
-        "5846": 1.4,
+        "4081": 0,
+        "5846": 0,
         "6768": 0,
-        "6804": 22.52,
-        "7600": 10.6,
-        "7627": 7.5,
-        "7839": 5,
-        "8112": 2.3,
+        "6804": 0,
+        "7600": 0,
+        "7627": 0,
+        "7839": 0,
+        "8112": 0,
         "8125": 0,
         "8155": 0,
-        "8167": 14.3,
-        "8180": 11.8,
+        "8167": 0,
+        "8180": 0,
         "9504": 0,
-        "10859": 5,
-        "10917": 0.5,
-        "10947": 1,
+        "10859": 0,
+        "10917": 0,
+        "10947": 0,
         "11435": 0,
-        "11559": 1.1,
-        "11586": 13.3,
+        "11559": 0,
+        "11586": 0,
         "11603": 0,
-        "11783": 11.6,
-        "12713": 5,
-        "13413": 3
+        "11783": 0,
+        "12713": 0,
+        "13413": 0
       }
     },
     {
-      "points": 79.74,
+      "points": 0,
       "players": [
         "10235",
         "10236",
@@ -2150,7 +2150,7 @@
       ],
       "roster_id": 3,
       "custom_points": null,
-      "matchup_id": 3,
+      "matchup_id": 4,
       "starters": [
         "4046",
         "11581",
@@ -2167,47 +2167,47 @@
         "8289"
       ],
       "starters_points": [
-        25.44,
-        2.1,
         0,
-        9.3,
         0,
-        16.6,
-        2.8,
         0,
-        12,
-        0.5,
-        5.5,
-        2.5,
-        3
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ],
       "players_points": {
         "4039": 0,
-        "4046": 25.44,
+        "4046": 0,
         "4971": 0,
-        "6786": 9.3,
-        "6815": 5.5,
-        "7021": 10.6,
-        "7083": -1,
+        "6786": 0,
+        "6815": 0,
+        "7021": 0,
+        "7083": 0,
         "7640": 0,
         "8121": 0,
-        "8289": 3,
-        "8659": 5,
+        "8289": 0,
+        "8659": 0,
         "8676": 0,
         "8917": 0,
         "10235": 0,
-        "10236": 16.6,
-        "11533": 12,
-        "11581": 2.1,
-        "11624": 2.8,
-        "11647": 4,
-        "11665": 0.5,
-        "12471": 4.3,
-        "12530": 2.5
+        "10236": 0,
+        "11533": 0,
+        "11581": 0,
+        "11624": 0,
+        "11647": 0,
+        "11665": 0,
+        "12471": 0,
+        "12530": 0
       }
     },
     {
-      "points": 84.46,
+      "points": 0,
       "players": [
         "10218",
         "11571",
@@ -2241,7 +2241,7 @@
       ],
       "roster_id": 4,
       "custom_points": null,
-      "matchup_id": 2,
+      "matchup_id": 3,
       "starters": [
         "5870",
         "12507",
@@ -2258,54 +2258,54 @@
         "8266"
       ],
       "starters_points": [
-        8.46,
-        3.7,
-        14,
-        8.8,
-        7.9,
-        14.3,
-        1.5,
-        7.8,
-        1,
-        5,
-        4.5,
-        2,
-        5.5
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ],
       "players_points": {
         "2393": 0,
-        "5840": 5,
-        "5870": 8.46,
+        "5840": 0,
+        "5870": 0,
         "6803": 0,
-        "7136": 2,
+        "7136": 0,
         "7525": 0,
-        "7567": 14,
-        "7648": 4.5,
-        "8266": 5.5,
-        "9482": 7.8,
-        "9484": 14.3,
+        "7567": 0,
+        "7648": 0,
+        "8266": 0,
+        "9482": 0,
+        "9484": 0,
         "10218": 0,
-        "11571": 1.5,
-        "11610": 13,
+        "11571": 0,
+        "11610": 0,
         "11630": 0,
-        "11631": 7.7,
+        "11631": 0,
         "11632": 0,
         "11638": 0,
         "11834": 0,
-        "12185": 1,
+        "12185": 0,
         "12492": 0,
         "12497": 0,
-        "12507": 3.7,
-        "12526": 8.8,
+        "12507": 0,
+        "12526": 0,
         "12545": 0,
         "13281": 0,
-        "13301": 7.9,
-        "13311": 4.9,
-        "13320": 0.5
+        "13301": 0,
+        "13311": 0,
+        "13320": 0
       }
     },
     {
-      "points": 32.68,
+      "points": 0,
       "players": [
         "10222",
         "11199",
@@ -2334,7 +2334,7 @@
       ],
       "roster_id": 5,
       "custom_points": null,
-      "matchup_id": 6,
+      "matchup_id": 5,
       "starters": [
         "96",
         "6130",
@@ -2351,49 +2351,49 @@
         "4135"
       ],
       "starters_points": [
-        5.88,
         0,
         0,
-        2.7,
         0,
-        2.9,
-        5.2,
         0,
-        6,
-        6,
         0,
-        2,
-        2
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ],
       "players_points": {
-        "96": 5.88,
+        "96": 0,
         "4066": 0,
-        "4135": 2,
-        "5012": 2.9,
-        "5991": 6,
-        "6039": 3.8,
+        "4135": 0,
+        "5012": 0,
+        "5991": 0,
+        "6039": 0,
         "6130": 0,
         "6302": 0,
         "6783": 0,
-        "7571": 2.7,
+        "7571": 0,
         "8110": 0,
         "9226": 0,
-        "9480": 6.5,
-        "9511": 3.8,
+        "9480": 0,
+        "9511": 0,
         "10222": 0,
         "11199": 0,
         "11560": 0,
-        "11625": 23.7,
-        "11786": 6,
+        "11625": 0,
+        "11786": 0,
         "12534": 0,
         "13276": 0,
-        "13298": 5.2,
-        "13349": 6.8,
-        "13376": 2
+        "13298": 0,
+        "13349": 0,
+        "13376": 0
       }
     },
     {
-      "points": 115.98,
+      "points": 0,
       "players": [
         "11565",
         "12510",
@@ -2442,52 +2442,52 @@
         "13379"
       ],
       "starters_points": [
-        8.98,
-        7.6,
-        13,
         0,
-        11.8,
-        16.7,
-        32.5,
-        18.4,
-        -1,
-        3,
         0,
-        2.5,
-        2.5
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ],
       "players_points": {
-        "650": -1,
+        "650": 0,
         "2133": 0,
-        "3198": 13,
+        "3198": 0,
         "5001": 0,
-        "6788": 2.5,
-        "6794": 11.8,
-        "6801": 32.5,
+        "6788": 0,
+        "6794": 0,
+        "6801": 0,
         "6904": 0,
         "7527": 0,
-        "7561": 5.7,
+        "7561": 0,
         "7672": 0,
-        "8130": 16.7,
-        "8136": 13,
-        "8161": 15.64,
-        "9230": 8.98,
+        "8130": 0,
+        "8136": 0,
+        "8161": 0,
+        "9230": 0,
         "9488": 0,
-        "9509": 7.6,
-        "9756": 10.6,
+        "9509": 0,
+        "9756": 0,
         "11565": 0,
         "12510": 0,
-        "12524": 0.08,
+        "12524": 0,
         "12529": 0,
         "12533": 0,
-        "12978": 3,
-        "13305": 8.3,
-        "13345": 18.4,
-        "13379": 2.5
+        "12978": 0,
+        "13305": 0,
+        "13345": 0,
+        "13379": 0
       }
     },
     {
-      "points": 110,
+      "points": 0,
       "players": [
         "11539",
         "11646",
@@ -2518,7 +2518,7 @@
       ],
       "roster_id": 7,
       "custom_points": null,
-      "matchup_id": 4,
+      "matchup_id": 5,
       "starters": [
         "4943",
         "5967",
@@ -2536,50 +2536,50 @@
       ],
       "starters_points": [
         0,
-        26.2,
         0,
-        5.5,
-        10.1,
-        4.5,
-        11.9,
-        10.3,
-        6,
-        11.5,
-        14.5,
         0,
-        9.5
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ],
       "players_points": {
-        "3214": 4.5,
-        "4454": 3.4,
-        "4866": 11.9,
+        "3214": 0,
+        "4454": 0,
+        "4866": 0,
         "4943": 0,
         "4950": 0,
-        "5947": 3.4,
-        "5967": 26.2,
-        "6183": 11.5,
+        "5947": 0,
+        "5967": 0,
+        "6183": 0,
         "6790": 0,
-        "6797": 8.78,
-        "6807": 14.5,
+        "6797": 0,
+        "6807": 0,
         "7543": 0,
         "8111": 0,
         "8144": 0,
         "8208": 0,
-        "9500": 10.3,
-        "11539": 6,
-        "11646": 10.1,
+        "9500": 0,
+        "11539": 0,
+        "11646": 0,
         "12048": 0,
         "12541": 0,
-        "12542": 5.2,
-        "12617": 9.5,
-        "13274": 5.5,
-        "13346": 6.7,
+        "12542": 0,
+        "12617": 0,
+        "13274": 0,
+        "13346": 0,
         "13371": 0,
-        "13545": 2
+        "13545": 0
       }
     },
     {
-      "points": 78.04,
+      "points": 0,
       "players": [
         "10927",
         "10955",
@@ -2613,7 +2613,7 @@
       ],
       "roster_id": 8,
       "custom_points": null,
-      "matchup_id": 4,
+      "matchup_id": 3,
       "starters": [
         "3163",
         "7611",
@@ -2630,54 +2630,54 @@
         "6949"
       ],
       "starters_points": [
-        10.04,
-        10.5,
-        9.9,
-        3.1,
         0,
-        15.6,
         0,
-        2.9,
-        9,
         0,
-        3.5,
-        8,
-        5.5
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ],
       "players_points": {
-        "421": 9.28,
-        "3163": 10.04,
+        "421": 0,
+        "3163": 0,
         "3451": 0,
         "4037": 0,
-        "4993": 15.6,
-        "6949": 5.5,
+        "4993": 0,
+        "6949": 0,
         "7607": 0,
-        "7611": 10.5,
+        "7611": 0,
         "8142": 0,
-        "8329": 3.5,
-        "9487": 3.1,
+        "8329": 0,
+        "9487": 0,
         "9757": 0,
-        "10927": 8,
-        "10955": 9,
+        "10927": 0,
+        "10955": 0,
         "11620": 0,
-        "11627": 0.8,
+        "11627": 0,
         "11760": 0,
-        "12469": 9.9,
+        "12469": 0,
         "12472": 0,
         "12489": 0,
-        "12502": 12.1,
+        "12502": 0,
         "12514": 0,
         "12521": 0,
-        "12522": 26.26,
-        "13150": 2.9,
+        "12522": 0,
+        "13150": 0,
         "13279": 0,
         "13347": 0,
         "13405": 0,
-        "13421": 1
+        "13421": 0
       }
     },
     {
-      "points": 112.6,
+      "points": 0,
       "players": [
         "10213",
         "11370",
@@ -2711,7 +2711,7 @@
       ],
       "roster_id": 9,
       "custom_points": null,
-      "matchup_id": 6,
+      "matchup_id": 7,
       "starters": [
         "3294",
         "11584",
@@ -2728,54 +2728,54 @@
         "5843"
       ],
       "starters_points": [
-        19.8,
-        22,
-        5.9,
-        5.8,
         0,
-        9.2,
-        19.4,
         0,
-        12,
-        5.5,
-        12,
-        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
         0
       ],
       "players_points": {
-        "1466": 9.2,
-        "2617": 12,
-        "3294": 19.8,
+        "1466": 0,
+        "2617": 0,
+        "3294": 0,
         "4035": 0,
         "5843": 0,
-        "5849": 20.9,
+        "5849": 0,
         "5892": 0,
-        "6650": 12,
-        "8134": 8.9,
-        "8137": 5.8,
+        "6650": 0,
+        "8134": 0,
+        "8137": 0,
         "8183": 0,
-        "9479": 10.9,
+        "9479": 0,
         "9997": 0,
         "10213": 0,
         "11370": 0,
         "11583": 0,
-        "11584": 22,
+        "11584": 0,
         "11618": 0,
-        "11705": 1,
-        "12491": 3.8,
-        "12499": 4.9,
-        "12506": 19.4,
-        "12509": 4.6,
-        "12512": 5.9,
-        "12547": 10.8,
-        "12556": 5.5,
+        "11705": 0,
+        "12491": 0,
+        "12499": 0,
+        "12506": 0,
+        "12509": 0,
+        "12512": 0,
+        "12547": 0,
+        "12556": 0,
         "13272": 0,
         "13402": 0,
         "13417": 0
       }
     },
     {
-      "points": 126.16,
+      "points": 0,
       "players": [
         "10229",
         "10880",
@@ -2825,53 +2825,53 @@
         "10880"
       ],
       "starters_points": [
-        27.56,
-        19.8,
-        21.4,
-        14.8,
-        11.3,
-        3.4,
-        6.9,
-        5,
-        8,
         0,
-        4,
-        2.5,
-        1.5
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ],
       "players_points": {
-        "1945": 8,
+        "1945": 0,
         "2216": 0,
-        "4199": 5,
+        "4199": 0,
         "4217": 0,
-        "4984": 27.56,
-        "5045": 7.3,
+        "4984": 0,
+        "5045": 0,
         "7002": 0,
-        "7594": 21.4,
-        "8126": 13.7,
-        "8146": 11.3,
-        "8228": 19.8,
+        "7594": 0,
+        "8126": 0,
+        "8146": 0,
+        "8228": 0,
         "9486": 0,
         "9508": 0,
-        "10229": 14.8,
-        "10880": 1.5,
-        "11563": 18.28,
-        "11575": 3,
+        "10229": 0,
+        "10880": 0,
+        "11563": 0,
+        "11575": 0,
         "11655": 0,
-        "11678": 2.5,
-        "12457": 1.4,
-        "12495": 6.9,
-        "12498": 3.4,
+        "11678": 0,
+        "12457": 0,
+        "12495": 0,
+        "12498": 0,
         "12508": 0,
         "13275": 0,
         "13286": 0,
-        "13287": 2.3,
+        "13287": 0,
         "13363": 0,
-        "13375": 4
+        "13375": 0
       }
     },
     {
-      "points": 97.78,
+      "points": 0,
       "players": [
         "10226",
         "10892",
@@ -2904,7 +2904,7 @@
       ],
       "roster_id": 11,
       "custom_points": null,
-      "matchup_id": 1,
+      "matchup_id": 2,
       "starters": [
         "6770",
         "4663",
@@ -2921,53 +2921,53 @@
         "8311"
       ],
       "starters_points": [
-        42.48,
-        5.6,
-        8.8,
-        2.7,
         0,
-        5.2,
-        2.4,
-        1.6,
-        4,
-        8,
-        9.5,
-        4.5,
-        3
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ],
       "players_points": {
         "2197": 0,
         "4034": 0,
-        "4147": 2.4,
-        "4195": 4,
-        "4663": 5.6,
-        "5022": 5.2,
+        "4147": 0,
+        "4195": 0,
+        "4663": 0,
+        "5022": 0,
         "5041": 0,
-        "5332": 9.5,
-        "5848": 2.7,
+        "5332": 0,
+        "5848": 0,
         "5859": 0,
         "5927": 0,
-        "6770": 42.48,
+        "6770": 0,
         "6819": 0,
-        "7049": 2.1,
-        "7553": 1.6,
+        "7049": 0,
+        "7553": 0,
         "8205": 0,
-        "8311": 3,
-        "8339": 4.5,
-        "8343": 8,
+        "8311": 0,
+        "8339": 0,
+        "8343": 0,
         "9758": 0,
         "10226": 0,
         "10892": 0,
         "11589": 0,
         "12485": 0,
-        "12527": 8.8,
+        "12527": 0,
         "13270": 0,
         "13414": 0,
-        "13424": 3.4
+        "13424": 0
       }
     },
     {
-      "points": 109.8,
+      "points": 0,
       "players": [
         "11635",
         "11739",
@@ -2997,7 +2997,7 @@
       ],
       "roster_id": 12,
       "custom_points": null,
-      "matchup_id": 2,
+      "matchup_id": 1,
       "starters": [
         "7523",
         "6813",
@@ -3014,50 +3014,50 @@
         "12578"
       ],
       "starters_points": [
-        20.4,
-        5.7,
-        12.4,
-        17.4,
-        26.1,
-        1.6,
-        5.2,
         0,
         0,
-        1.5,
-        9.5,
-        5,
-        5
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ],
       "players_points": {
-        "2505": 1.6,
-        "4017": 12.16,
+        "2505": 0,
+        "4017": 0,
         "4137": 0,
-        "4892": -1.6,
-        "4960": 9.5,
-        "4981": 1.5,
-        "4983": 15.6,
-        "5871": 1.5,
+        "4892": 0,
+        "4960": 0,
+        "4981": 0,
+        "4983": 0,
+        "5871": 0,
         "5872": 0,
-        "5995": 5.5,
-        "6806": 1.3,
-        "6813": 5.7,
-        "7523": 20.4,
-        "7564": 26.1,
-        "7588": 5.2,
-        "8122": 1.3,
-        "8150": 12.4,
-        "11635": 10.6,
-        "11739": 5,
+        "5995": 0,
+        "6806": 0,
+        "6813": 0,
+        "7523": 0,
+        "7564": 0,
+        "7588": 0,
+        "8122": 0,
+        "8150": 0,
+        "11635": 0,
+        "11739": 0,
         "11792": 0,
-        "12501": 17.4,
-        "12518": 3.8,
+        "12501": 0,
+        "12518": 0,
         "12519": 0,
-        "12578": 5,
+        "12578": 0,
         "13420": 0
       }
     },
     {
-      "points": 137.9,
+      "points": 0,
       "players": [
         "10232",
         "11566",
@@ -3091,16 +3091,16 @@
       ],
       "roster_id": 13,
       "custom_points": null,
-      "matchup_id": 5,
+      "matchup_id": 6,
       "starters": [
-        "4881",
+        "11566",
         "9224",
-        "8138",
-        "10232",
+        "9753",
+        "2449",
         "9493",
         "5844",
-        "11576",
-        "2449",
+        "8138",
+        "8132",
         "2747",
         "6125",
         "7841",
@@ -3109,53 +3109,53 @@
       ],
       "starters_points": [
         0,
-        13.6,
-        17.1,
-        22.8,
-        19.5,
-        13.8,
-        22.3,
-        11.3,
         0,
         0,
-        7,
-        4.5,
-        6
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ],
       "players_points": {
-        "2449": 11.3,
+        "2449": 0,
         "2747": 0,
-        "3257": 4.46,
+        "3257": 0,
         "4881": 0,
-        "5844": 13.8,
+        "5844": 0,
         "6125": 0,
-        "6217": 6,
-        "7526": 13.4,
-        "7841": 7,
+        "6217": 0,
+        "7526": 0,
+        "7841": 0,
         "8131": 0,
-        "8132": 33.6,
-        "8138": 17.1,
-        "8148": 15.5,
+        "8132": 0,
+        "8138": 0,
+        "8148": 0,
         "8154": 0,
-        "8210": 3.2,
-        "9224": 13.6,
-        "9493": 19.5,
+        "8210": 0,
+        "9224": 0,
+        "9493": 0,
         "9753": 0,
-        "10232": 22.8,
-        "11566": 14.98,
-        "11576": 22.3,
+        "10232": 0,
+        "11566": 0,
+        "11576": 0,
         "12484": 0,
         "12536": 0,
-        "12591": 4.5,
+        "12591": 0,
         "13268": 0,
         "13302": 0,
         "13317": 0,
-        "13337": 22.8,
+        "13337": 0,
         "13353": 0
       }
     },
     {
-      "points": 136.46,
+      "points": 0,
       "players": [
         "10219",
         "11564",
@@ -3186,7 +3186,7 @@
       ],
       "roster_id": 14,
       "custom_points": null,
-      "matchup_id": 3,
+      "matchup_id": 2,
       "starters": [
         "11564",
         "9221",
@@ -3203,529 +3203,51 @@
         "13453"
       ],
       "starters_points": [
-        21.46,
-        23.8,
-        10.4,
-        9.1,
-        2.3,
-        24.7,
-        20.2,
         0,
-        3,
-        10,
         0,
-        5.5,
-        6
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ],
       "players_points": {
         "3973": 0,
-        "4070": 10,
-        "5850": 20.2,
-        "7547": 9.1,
+        "4070": 0,
+        "5850": 0,
+        "7547": 0,
         "7569": 0,
-        "8151": 10.4,
-        "8408": 2,
-        "9221": 23.8,
-        "9228": 11.86,
-        "9501": 15.1,
-        "9754": 6.7,
-        "10219": 12.3,
-        "11564": 21.46,
-        "11604": 24.7,
+        "8151": 0,
+        "8408": 0,
+        "9221": 0,
+        "9228": 0,
+        "9501": 0,
+        "9754": 0,
+        "10219": 0,
+        "11564": 0,
+        "11604": 0,
         "11628": 0,
-        "11643": 0.5,
+        "11643": 0,
         "12474": 0,
         "12481": 0,
         "12517": 0,
-        "12567": 5.5,
-        "12711": 3,
+        "12567": 0,
+        "12711": 0,
         "13285": 0,
-        "13293": 2.3,
-        "13296": 6.3,
+        "13293": 0,
+        "13296": 0,
         "13377": 0,
-        "13453": 6
+        "13453": 0
       }
     }
   ],
   "recent_transactions": [
-    {
-      "status": "complete",
-      "type": "waiver",
-      "metadata": {
-        "notes": "Your waiver claim was processed successfully!"
-      },
-      "created": 1791938415751,
-      "settings": {
-        "seq": 2,
-        "waiver_bid": 0
-      },
-      "leg": 5,
-      "draft_picks": [],
-      "creator": "728665102038966272",
-      "transaction_id": "1415895974722686976",
-      "adds": {
-        "12547": 9
-      },
-      "consenter_ids": [
-        9
-      ],
-      "drops": {
-        "11608": 9
-      },
-      "roster_ids": [
-        9
-      ],
-      "status_updated": 1791961978570,
-      "waiver_budget": []
-    },
-    {
-      "status": "complete",
-      "type": "waiver",
-      "metadata": {
-        "notes": "Your waiver claim was processed successfully!"
-      },
-      "created": 1791933032639,
-      "settings": {
-        "seq": 0,
-        "waiver_bid": 10
-      },
-      "leg": 5,
-      "draft_picks": [],
-      "creator": "737708656518385664",
-      "transaction_id": "1415873396318711808",
-      "adds": {
-        "2747": 13
-      },
-      "consenter_ids": [
-        13
-      ],
-      "drops": {
-        "2020": 13
-      },
-      "roster_ids": [
-        13
-      ],
-      "status_updated": 1791961978570,
-      "waiver_budget": []
-    },
-    {
-      "status": "complete",
-      "type": "waiver",
-      "metadata": {
-        "notes": "Your waiver claim was processed successfully!"
-      },
-      "created": 1791920922158,
-      "settings": {
-        "seq": 1,
-        "waiver_bid": 0
-      },
-      "leg": 5,
-      "draft_picks": [],
-      "creator": "871053074062589952",
-      "transaction_id": "1415822601279803392",
-      "adds": {
-        "650": 6
-      },
-      "consenter_ids": [
-        6
-      ],
-      "drops": null,
-      "roster_ids": [
-        6
-      ],
-      "status_updated": 1791961978570,
-      "waiver_budget": []
-    },
-    {
-      "status": "complete",
-      "type": "free_agent",
-      "metadata": null,
-      "created": 1791920899587,
-      "settings": null,
-      "leg": 5,
-      "draft_picks": [],
-      "creator": "871053074062589952",
-      "transaction_id": "1415822506610245632",
-      "adds": null,
-      "consenter_ids": [
-        6
-      ],
-      "drops": {
-        "12015": 6
-      },
-      "roster_ids": [
-        6
-      ],
-      "status_updated": 1791920899587,
-      "waiver_budget": []
-    },
-    {
-      "status": "complete",
-      "type": "free_agent",
-      "metadata": null,
-      "created": 1791725631859,
-      "settings": null,
-      "leg": 5,
-      "draft_picks": [],
-      "creator": "737718651813244928",
-      "transaction_id": "1415003494397579264",
-      "adds": {
-        "9501": 14
-      },
-      "consenter_ids": [
-        14
-      ],
-      "drops": {
-        "11687": 14
-      },
-      "roster_ids": [
-        14
-      ],
-      "status_updated": 1791725631859,
-      "waiver_budget": []
-    },
-    {
-      "status": "complete",
-      "type": "free_agent",
-      "metadata": null,
-      "created": 1791721817963,
-      "settings": null,
-      "leg": 5,
-      "draft_picks": [],
-      "creator": "726920245125664768",
-      "transaction_id": "1414987497758375936",
-      "adds": {
-        "4454": 7
-      },
-      "consenter_ids": [
-        7
-      ],
-      "drops": {
-        "8188": 7
-      },
-      "roster_ids": [
-        7
-      ],
-      "status_updated": 1791721817963,
-      "waiver_budget": []
-    },
-    {
-      "status": "complete",
-      "type": "free_agent",
-      "metadata": null,
-      "created": 1791721708862,
-      "settings": null,
-      "leg": 5,
-      "draft_picks": [],
-      "creator": "726920245125664768",
-      "transaction_id": "1414987040155529216",
-      "adds": {
-        "12542": 7
-      },
-      "consenter_ids": [
-        7
-      ],
-      "drops": {
-        "4177": 7
-      },
-      "roster_ids": [
-        7
-      ],
-      "status_updated": 1791721708862,
-      "waiver_budget": []
-    },
-    {
-      "status": "complete",
-      "type": "free_agent",
-      "metadata": null,
-      "created": 1791664990487,
-      "settings": null,
-      "leg": 5,
-      "draft_picks": [],
-      "creator": "728665102038966272",
-      "transaction_id": "1414749146044289024",
-      "adds": {
-        "9479": 9
-      },
-      "consenter_ids": [
-        9
-      ],
-      "drops": null,
-      "roster_ids": [
-        9
-      ],
-      "status_updated": 1791664990487,
-      "waiver_budget": []
-    },
-    {
-      "status": "complete",
-      "type": "free_agent",
-      "metadata": null,
-      "created": 1791653060335,
-      "settings": null,
-      "leg": 5,
-      "draft_picks": [],
-      "creator": "733456145330585600",
-      "transaction_id": "1414699107364114432",
-      "adds": {
-        "11760": 8
-      },
-      "consenter_ids": [
-        8
-      ],
-      "drops": {
-        "4999": 8
-      },
-      "roster_ids": [
-        8
-      ],
-      "status_updated": 1791653060335,
-      "waiver_budget": []
-    },
-    {
-      "status": "complete",
-      "type": "free_agent",
-      "metadata": null,
-      "created": 1791482312410,
-      "settings": null,
-      "leg": 5,
-      "draft_picks": [],
-      "creator": "726077702712389632",
-      "transaction_id": "1413982938655141888",
-      "adds": {
-        "7083": 3
-      },
-      "consenter_ids": [
-        3
-      ],
-      "drops": {
-        "2747": 3
-      },
-      "roster_ids": [
-        3
-      ],
-      "status_updated": 1791482312410,
-      "waiver_budget": []
-    },
-    {
-      "status": "complete",
-      "type": "free_agent",
-      "metadata": null,
-      "created": 1791477291157,
-      "settings": null,
-      "leg": 5,
-      "draft_picks": [],
-      "creator": "703353523932336128",
-      "transaction_id": "1413961877997809664",
-      "adds": {
-        "8129": 4
-      },
-      "consenter_ids": [
-        4
-      ],
-      "drops": {
-        "8161": 4
-      },
-      "roster_ids": [
-        4
-      ],
-      "status_updated": 1791477291157,
-      "waiver_budget": []
-    },
-    {
-      "status": "complete",
-      "type": "free_agent",
-      "metadata": null,
-      "created": 1791477236865,
-      "settings": null,
-      "leg": 5,
-      "draft_picks": [],
-      "creator": "716111666881851392",
-      "transaction_id": "1413961650280611840",
-      "adds": {
-        "6214": 1
-      },
-      "consenter_ids": [
-        1
-      ],
-      "drops": {
-        "8329": 1
-      },
-      "roster_ids": [
-        1
-      ],
-      "status_updated": 1791477236865,
-      "waiver_budget": []
-    },
-    {
-      "status": "complete",
-      "type": "free_agent",
-      "metadata": null,
-      "created": 1791373793120,
-      "settings": null,
-      "leg": 5,
-      "draft_picks": [],
-      "creator": "471428050836254720",
-      "transaction_id": "1413527775767269376",
-      "adds": {
-        "12457": 10
-      },
-      "consenter_ids": [
-        10
-      ],
-      "drops": {
-        "3678": 10
-      },
-      "roster_ids": [
-        10
-      ],
-      "status_updated": 1791373793120,
-      "waiver_budget": []
-    },
-    {
-      "status": "complete",
-      "type": "free_agent",
-      "metadata": null,
-      "created": 1791373644138,
-      "settings": null,
-      "leg": 5,
-      "draft_picks": [],
-      "creator": "471428050836254720",
-      "transaction_id": "1413527150887280640",
-      "adds": {
-        "1945": 10
-      },
-      "consenter_ids": [
-        10
-      ],
-      "drops": null,
-      "roster_ids": [
-        10
-      ],
-      "status_updated": 1791373644138,
-      "waiver_budget": []
-    },
-    {
-      "status": "complete",
-      "type": "free_agent",
-      "metadata": null,
-      "created": 1791373572837,
-      "settings": null,
-      "leg": 5,
-      "draft_picks": [],
-      "creator": "733463671744880640",
-      "transaction_id": "1413526851833401344",
-      "adds": {
-        "7039": 11
-      },
-      "consenter_ids": [
-        11
-      ],
-      "drops": null,
-      "roster_ids": [
-        11
-      ],
-      "status_updated": 1791373572837,
-      "waiver_budget": []
-    },
-    {
-      "status": "complete",
-      "type": "free_agent",
-      "metadata": null,
-      "created": 1791368195614,
-      "settings": null,
-      "leg": 5,
-      "draft_picks": [],
-      "creator": "733456145330585600",
-      "transaction_id": "1413504298125479936",
-      "adds": {
-        "5876": 8
-      },
-      "consenter_ids": [
-        8
-      ],
-      "drops": {
-        "6888": 8
-      },
-      "roster_ids": [
-        8
-      ],
-      "status_updated": 1791368195614,
-      "waiver_budget": []
-    },
-    {
-      "status": "complete",
-      "type": "free_agent",
-      "metadata": null,
-      "created": 1791367275864,
-      "settings": null,
-      "leg": 5,
-      "draft_picks": [],
-      "creator": "737708656518385664",
-      "transaction_id": "1413500440414265344",
-      "adds": {
-        "6125": 13
-      },
-      "consenter_ids": [
-        13
-      ],
-      "drops": null,
-      "roster_ids": [
-        13
-      ],
-      "status_updated": 1791367275864,
-      "waiver_budget": []
-    },
-    {
-      "status": "complete",
-      "type": "free_agent",
-      "metadata": null,
-      "created": 1791367101562,
-      "settings": null,
-      "leg": 5,
-      "draft_picks": [],
-      "creator": "737708656518385664",
-      "transaction_id": "1413499709334528000",
-      "adds": {
-        "2020": 13
-      },
-      "consenter_ids": [
-        13
-      ],
-      "drops": {
-        "12961": 13
-      },
-      "roster_ids": [
-        13
-      ],
-      "status_updated": 1791367101562,
-      "waiver_budget": []
-    },
-    {
-      "status": "complete",
-      "type": "free_agent",
-      "metadata": null,
-      "created": 1791367036317,
-      "settings": null,
-      "leg": 5,
-      "draft_picks": [],
-      "creator": "737708656518385664",
-      "transaction_id": "1413499435681329152",
-      "adds": {
-        "12961": 13
-      },
-      "consenter_ids": [
-        13
-      ],
-      "drops": {
-        "5095": 13
-      },
-      "roster_ids": [
-        13
-      ],
-      "status_updated": 1791367036317,
-      "waiver_budget": []
-    },
     {
       "status": "complete",
       "type": "waiver",
@@ -5685,7 +5207,7 @@
       "team": "JAX",
       "age": 27,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
@@ -6561,28 +6083,6 @@
       "sportradar_id": "ad9fc7e3-0a6d-4e41-84c2-cf43b71aee13",
       "fantasy_data_id": 24943
     },
-    "11608": {
-      "player_id": "11608",
-      "full_name": "Isaiah Williams",
-      "position": "WR",
-      "team": "NYJ",
-      "age": 25,
-      "status": "Active",
-      "injury_status": null,
-      "fantasy_positions": [
-        "WR"
-      ],
-      "height": "70",
-      "weight": "185",
-      "years_exp": 2,
-      "college": "Illinois",
-      "birth_date": "2001-01-29",
-      "espn_id": null,
-      "yahoo_id": null,
-      "rotowire_id": 17977,
-      "sportradar_id": "2ddb2f40-07bc-11ef-82d9-5f86367458d3",
-      "fantasy_data_id": 25205
-    },
     "11610": {
       "player_id": "11610",
       "full_name": "Malik Washington",
@@ -7068,28 +6568,6 @@
       "sportradar_id": "f213bbc9-1294-4bce-84b0-3752e63ff363",
       "fantasy_data_id": 24968
     },
-    "11687": {
-      "player_id": "11687",
-      "full_name": "Edgerrin Cooper",
-      "position": "LB",
-      "team": "GB",
-      "age": 24,
-      "status": "Inactive",
-      "injury_status": "IR",
-      "fantasy_positions": [
-        "LB"
-      ],
-      "height": "74",
-      "weight": "229",
-      "years_exp": 2,
-      "college": "Texas A&M",
-      "birth_date": "2001-11-17",
-      "espn_id": null,
-      "yahoo_id": null,
-      "rotowire_id": 17753,
-      "sportradar_id": "5424462c-3f8e-4e2a-832d-c29916d395cb",
-      "fantasy_data_id": 25021
-    },
     "11705": {
       "player_id": "11705",
       "full_name": "Tykee Smith",
@@ -7265,28 +6743,6 @@
       "rotowire_id": 17975,
       "sportradar_id": "2a638f35-a80a-46db-9722-12b49d45ab52",
       "fantasy_data_id": 25198
-    },
-    "12015": {
-      "player_id": "12015",
-      "full_name": "Harrison Mevis",
-      "position": "K",
-      "team": null,
-      "age": 24,
-      "status": "Active",
-      "injury_status": null,
-      "fantasy_positions": [
-        "K"
-      ],
-      "height": "71",
-      "weight": "243",
-      "years_exp": 2,
-      "college": "Missouri",
-      "birth_date": "2002-03-27",
-      "espn_id": null,
-      "yahoo_id": null,
-      "rotowire_id": 17921,
-      "sportradar_id": "663ada70-0717-11ef-94de-1b2fbd1e412b",
-      "fantasy_data_id": 25119
     },
     "12048": {
       "player_id": "12048",
@@ -7581,7 +7037,7 @@
       "team": "JAX",
       "age": 23,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
@@ -8574,7 +8030,7 @@
       "team": "BAL",
       "age": 25,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "K"
       ],
@@ -8610,28 +8066,6 @@
       "rotowire_id": 18743,
       "sportradar_id": "80dce1ba-c997-47e6-a37e-e92fefcbdc1b",
       "fantasy_data_id": 26106
-    },
-    "12961": {
-      "player_id": "12961",
-      "full_name": "Ryan Fitzgerald",
-      "position": "K",
-      "team": "CAR",
-      "age": 26,
-      "status": "Active",
-      "injury_status": null,
-      "fantasy_positions": [
-        "K"
-      ],
-      "height": "71",
-      "weight": "201",
-      "years_exp": 1,
-      "college": "Florida State",
-      "birth_date": "2000-08-13",
-      "espn_id": null,
-      "yahoo_id": null,
-      "rotowire_id": 18508,
-      "sportradar_id": "7bf5a2e0-2512-11f0-9825-33176da47896",
-      "fantasy_data_id": 26108
     },
     "12978": {
       "player_id": "12978",
@@ -9889,28 +9323,6 @@
       "sportradar_id": "441eb531-1ec8-4f65-9174-78bc6adada63",
       "fantasy_data_id": 16191
     },
-    "2020": {
-      "player_id": "2020",
-      "full_name": "Cairo Santos",
-      "position": "K",
-      "team": "CHI",
-      "age": 34,
-      "status": "Active",
-      "injury_status": null,
-      "fantasy_positions": [
-        "K"
-      ],
-      "height": "68",
-      "weight": "173",
-      "years_exp": 12,
-      "college": "Tulane",
-      "birth_date": "1991-11-12",
-      "espn_id": 17427,
-      "yahoo_id": 28227,
-      "rotowire_id": 9633,
-      "sportradar_id": "d96ff17c-841a-4768-8e08-3a4cfcb7f717",
-      "fantasy_data_id": 16301
-    },
     "2133": {
       "player_id": "2133",
       "full_name": "Davante Adams",
@@ -10352,28 +9764,6 @@
       "sportradar_id": "e0a31d02-9d1c-4dab-adb4-a5d9bbee8b36",
       "fantasy_data_id": 18422
     },
-    "3678": {
-      "player_id": "3678",
-      "full_name": "Wil Lutz",
-      "position": "K",
-      "team": "DEN",
-      "age": 32,
-      "status": "Active",
-      "injury_status": null,
-      "fantasy_positions": [
-        "K"
-      ],
-      "height": "71",
-      "weight": "184",
-      "years_exp": 10,
-      "college": "Georgia State",
-      "birth_date": "1994-07-07",
-      "espn_id": 2985659,
-      "yahoo_id": 29754,
-      "rotowire_id": 11309,
-      "sportradar_id": "c4cf84d0-6022-4ac1-a9ba-85587921c53f",
-      "fantasy_data_id": 18478
-    },
     "3973": {
       "player_id": "3973",
       "full_name": "Myles Garrett",
@@ -10602,7 +9992,7 @@
       "team": "BAL",
       "age": 31,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "DL"
       ],
@@ -10660,28 +10050,6 @@
       "rotowire_id": 11698,
       "sportradar_id": "e601812f-ce24-4e99-bee0-e33c1e9014e4",
       "fantasy_data_id": 18993
-    },
-    "4177": {
-      "player_id": "4177",
-      "full_name": "Mack Hollins",
-      "position": "WR",
-      "team": "NE",
-      "age": 33,
-      "status": "Inactive",
-      "injury_status": "IR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "height": "76",
-      "weight": "221",
-      "years_exp": 9,
-      "college": "North Carolina",
-      "birth_date": "1993-09-16",
-      "espn_id": 2991662,
-      "yahoo_id": 30231,
-      "rotowire_id": 11861,
-      "sportradar_id": "93cb5790-1012-4c42-bccb-5748c27ba7d6",
-      "fantasy_data_id": 19023
     },
     "4195": {
       "player_id": "4195",
@@ -10976,7 +10344,7 @@
       "team": "BAL",
       "age": 29,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "LB"
       ],
@@ -11146,28 +10514,6 @@
       "sportradar_id": "1012cbe0-7eba-4169-bfca-183a0204e1a7",
       "fantasy_data_id": 19853
     },
-    "4999": {
-      "player_id": "4999",
-      "full_name": "Josh Sweat",
-      "position": "DE",
-      "team": "ARI",
-      "age": 29,
-      "status": "Active",
-      "injury_status": null,
-      "fantasy_positions": [
-        "DL"
-      ],
-      "height": "77",
-      "weight": "265",
-      "years_exp": 8,
-      "college": "Florida State",
-      "birth_date": "1997-03-29",
-      "espn_id": 3693166,
-      "yahoo_id": 31101,
-      "rotowire_id": 12546,
-      "sportradar_id": "66a67b5d-500d-46e8-90c6-e2f127d38190",
-      "fantasy_data_id": 19918
-    },
     "5001": {
       "player_id": "5001",
       "full_name": "Dalton Schultz",
@@ -11277,28 +10623,6 @@
       "rotowire_id": 12586,
       "sportradar_id": "b55ae5ba-593f-4560-9cab-14e10698e01d",
       "fantasy_data_id": 19800
-    },
-    "5095": {
-      "player_id": "5095",
-      "full_name": "Daniel Carlson",
-      "position": "K",
-      "team": "NO",
-      "age": 31,
-      "status": "Active",
-      "injury_status": null,
-      "fantasy_positions": [
-        "K"
-      ],
-      "height": "77",
-      "weight": "222",
-      "years_exp": 8,
-      "college": "Auburn",
-      "birth_date": "1995-01-23",
-      "espn_id": 3051909,
-      "yahoo_id": 31137,
-      "rotowire_id": 12842,
-      "sportradar_id": "7bb70550-c28a-4e47-9a13-cc0c0fef8b38",
-      "fantasy_data_id": 19989
     },
     "5332": {
       "player_id": "5332",
@@ -11705,7 +11029,7 @@
       "team": "JAX",
       "age": 29,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -11771,7 +11095,7 @@
       "team": "BAL",
       "age": 28,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
@@ -12424,28 +11748,6 @@
       "rotowire_id": 14378,
       "sportradar_id": "1aefd5e2-1f85-471a-91a5-4aad4cf6fe6d",
       "fantasy_data_id": 21744
-    },
-    "6888": {
-      "player_id": "6888",
-      "full_name": "Antoine Winfield Jr.",
-      "position": "DB",
-      "team": "TB",
-      "age": 28,
-      "status": "Active",
-      "injury_status": null,
-      "fantasy_positions": [
-        "DB"
-      ],
-      "height": "69",
-      "weight": "203",
-      "years_exp": 6,
-      "college": "Minnesota",
-      "birth_date": "1998-08-16",
-      "espn_id": 4034790,
-      "yahoo_id": 32715,
-      "rotowire_id": 14484,
-      "sportradar_id": "27732f2b-2009-4954-a0a0-d29f5ce1abdf",
-      "fantasy_data_id": 21940
     },
     "6904": {
       "player_id": "6904",
@@ -13901,28 +13203,6 @@
       "sportradar_id": "d5aef708-ad61-4ab8-a637-62ff96e92040",
       "fantasy_data_id": 23241
     },
-    "8188": {
-      "player_id": "8188",
-      "full_name": "Tyquan Thornton",
-      "position": "WR",
-      "team": "KC",
-      "age": 26,
-      "status": "Inactive",
-      "injury_status": "IR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "height": "74",
-      "weight": "185",
-      "years_exp": 4,
-      "college": "Baylor",
-      "birth_date": "2000-08-07",
-      "espn_id": null,
-      "yahoo_id": null,
-      "rotowire_id": 15831,
-      "sportradar_id": "74cda487-2026-42e0-ae32-77f3502cfb11",
-      "fantasy_data_id": 23469
-    },
     "8205": {
       "player_id": "8205",
       "full_name": "Isiah Pacheco",
@@ -14502,7 +13782,7 @@
       "full_name": "Tucker Kraft",
       "position": "TE",
       "team": "GB",
-      "age": 25,
+      "age": 26,
       "status": "Active",
       "injury_status": null,
       "fantasy_positions": [
