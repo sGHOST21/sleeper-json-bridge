@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-03T15:07:57.908Z",
+  "fetched_at": "2026-11-03T20:58:59.111Z",
   "current_week": 9,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -10,7 +10,7 @@
     },
     "settings": {
       "best_ball": 0,
-      "last_report": 7,
+      "last_report": 8,
       "waiver_budget": 100,
       "disable_adds": 0,
       "capacity_override": 0,
@@ -63,11 +63,10 @@
     },
     "avatar": "3a2a8f32f6fec7c6b6663d1495cf1168",
     "company_id": null,
-    "last_message_id": "1422028899855921152",
-    "sport": "nfl",
     "shard": 949,
     "season": "2026",
     "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -113,19 +112,24 @@
       "pts_allow_7_13": 4,
       "st_ff": 1
     },
-    "draft_id": "1400845992303022080",
+    "last_message_id": "1423396578068090880",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1793400619046,
+    "last_message_time": 1793726698942,
     "last_pinned_message_id": null,
     "last_read_id": null,
+    "draft_id": "1400845992303022080",
     "league_id": "1400845991007019008",
     "previous_league_id": null,
     "group_id": null,
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -147,10 +151,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 8
   },
   "users": [
@@ -3240,7 +3240,7 @@
       "position": "RB",
       "team": "ARI",
       "age": 21,
-      "status": "Active",
+      "status": "Inactive",
       "injury_status": "Out",
       "fantasy_positions": [
         "RB"

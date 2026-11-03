@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-03T15:07:57.115Z",
+  "fetched_at": "2026-11-03T20:58:58.209Z",
   "current_week": 9,
   "league": {
     "name": "Brass City League",
@@ -15,7 +15,7 @@
     },
     "settings": {
       "best_ball": 0,
-      "last_report": 7,
+      "last_report": 8,
       "waiver_budget": 100,
       "disable_adds": 0,
       "divisions": 2,
@@ -68,10 +68,7 @@
     },
     "avatar": "71eb884a69970234d6aab2bcc692e78f",
     "company_id": null,
-    "shard": 134,
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
+    "last_message_id": "1423397925207248896",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -129,17 +126,20 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "last_message_id": "1423339374367510528",
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
+    "shard": 134,
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1793713060517,
+    "last_message_time": 1793727020126,
     "last_pinned_message_id": null,
-    "last_read_id": null,
     "draft_id": "1387554218864291840",
+    "last_read_id": null,
     "league_id": "1387554218847502336",
     "previous_league_id": "1222634893318561792",
     "bracket_id": null,
@@ -603,13 +603,11 @@
         "12574",
         "13305",
         "13330",
-        "13968",
         "1466",
         "2216",
         "3294",
         "3451",
         "4034",
-        "4971",
         "5850",
         "6804",
         "6807",
@@ -653,7 +651,7 @@
         "1466",
         "9511",
         "12542",
-        "13968",
+        "0",
         "8280",
         "10914",
         "11682",
@@ -1367,9 +1365,9 @@
         "11564",
         "11584",
         "12512",
-        "11646",
+        "2449",
         "9997",
-        "7553",
+        "12518",
         "7594",
         "8150",
         "7839",
@@ -1721,13 +1719,11 @@
         "12574",
         "13305",
         "13330",
-        "13968",
         "1466",
         "2216",
         "3294",
         "3451",
         "4034",
-        "4971",
         "5850",
         "6804",
         "6807",
@@ -1782,7 +1778,6 @@
         "3294": 0,
         "3451": 0,
         "4034": 0,
-        "4971": 0,
         "5850": 0,
         "6804": 0,
         "6807": 0,
@@ -1801,8 +1796,7 @@
         "12542": 0,
         "12574": 0,
         "13305": 0,
-        "13330": 0,
-        "13968": 0
+        "13330": 0
       }
     },
     {
@@ -2605,9 +2599,9 @@
         "11564",
         "11584",
         "12512",
-        "11646",
+        "2449",
         "9997",
-        "7553",
+        "12518",
         "7594",
         "8150",
         "7839",
@@ -4101,6 +4095,52 @@
         10
       ],
       "status_updated": 1792595165563,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1793727020090,
+      "settings": null,
+      "leg": 8,
+      "draft_picks": [],
+      "creator": "1226245792746971136",
+      "transaction_id": "1423397925056200704",
+      "adds": null,
+      "consenter_ids": [
+        3
+      ],
+      "drops": {
+        "13968": 3
+      },
+      "roster_ids": [
+        3
+      ],
+      "status_updated": 1793727020090,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1793727002000,
+      "settings": null,
+      "leg": 8,
+      "draft_picks": [],
+      "creator": "1226245792746971136",
+      "transaction_id": "1423397849181237248",
+      "adds": null,
+      "consenter_ids": [
+        3
+      ],
+      "drops": {
+        "4971": 3
+      },
+      "roster_ids": [
+        3
+      ],
+      "status_updated": 1793727002000,
       "waiver_budget": []
     },
     {
@@ -7308,7 +7348,7 @@
       "position": "RB",
       "team": "ARI",
       "age": 21,
-      "status": "Active",
+      "status": "Inactive",
       "injury_status": "Out",
       "fantasy_positions": [
         "RB"
