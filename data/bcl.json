@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-03T20:58:58.209Z",
+  "fetched_at": "2026-11-04T01:21:13.616Z",
   "current_week": 9,
   "league": {
     "name": "Brass City League",
@@ -807,11 +807,11 @@
       "starters": [
         "11560",
         "7611",
-        "7567",
+        "12474",
         "7564",
         "8112",
         "5022",
-        "13301",
+        "12481",
         "8148",
         "4195",
         "8343",
@@ -1936,11 +1936,11 @@
       "starters": [
         "11560",
         "7611",
-        "7567",
+        "12474",
         "7564",
         "8112",
         "5022",
-        "13301",
+        "12481",
         "8148",
         "4195",
         "8343",
@@ -5694,7 +5694,7 @@
       "full_name": "Jared Verse",
       "position": "DL",
       "team": "CLE",
-      "age": 25,
+      "age": 26,
       "status": "Active",
       "injury_status": null,
       "fantasy_positions": [
@@ -7062,8 +7062,8 @@
       "position": "K",
       "team": "BAL",
       "age": 25,
-      "status": "Active",
-      "injury_status": "Questionable",
+      "status": "Inactive",
+      "injury_status": "IR",
       "fantasy_positions": [
         "K"
       ],
@@ -7349,7 +7349,7 @@
       "team": "ARI",
       "age": 21,
       "status": "Inactive",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "fantasy_positions": [
         "RB"
       ],
@@ -8981,8 +8981,8 @@
       "position": "WR",
       "team": "ARI",
       "age": 31,
-      "status": "Active",
-      "injury_status": "Out",
+      "status": "Inactive",
+      "injury_status": "IR",
       "fantasy_positions": [
         "WR"
       ],
