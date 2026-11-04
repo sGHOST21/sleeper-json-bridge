@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-04T17:15:28.108Z",
+  "fetched_at": "2026-11-04T22:39:22.451Z",
   "current_week": 9,
   "league": {
     "name": "The D-League",
@@ -66,10 +66,10 @@
     },
     "avatar": "31647870b5248d13691a1b97ccb9b0a0",
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
     "shard": 169,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -127,19 +127,24 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "last_message_id": "1423704836955750400",
+    "last_message_id": "1423819146788941824",
+    "draft_id": "1398261761102098432",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1793800193589,
+    "last_message_time": 1793827447176,
     "last_pinned_message_id": null,
-    "draft_id": "1398261761102098432",
     "last_read_id": null,
     "league_id": "1384998212942692352",
     "previous_league_id": "1222634114906075136",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -165,11 +170,6 @@
       "BN",
       "BN"
     ],
-    "group_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 14
   },
   "users": [
@@ -1039,6 +1039,7 @@
       "owner_id": "871053074062589952",
       "player_map": null,
       "players": [
+        "11557",
         "11565",
         "11729",
         "12510",
@@ -1063,7 +1064,6 @@
         "8130",
         "8136",
         "8161",
-        "9230",
         "9488",
         "9509",
         "9756"
@@ -1151,6 +1151,7 @@
         "9500"
       ],
       "reserve": [
+        "4454",
         "7543",
         "8208"
       ],
@@ -1171,13 +1172,13 @@
         "wins": 2
       },
       "starters": [
-        "4943",
-        "5967",
+        "6797",
+        "4866",
         "6790",
-        "13274",
+        "8144",
         "11646",
         "3214",
-        "4866",
+        "13346",
         "9500",
         "11539",
         "6183",
@@ -1466,7 +1467,6 @@
         "5022",
         "5041",
         "5332",
-        "5848",
         "5859",
         "5927",
         "6770",
@@ -1547,9 +1547,9 @@
         "4960",
         "4981",
         "4983",
-        "5871",
         "5872",
         "5995",
+        "6118",
         "6806",
         "6813",
         "7523",
@@ -1587,7 +1587,7 @@
         "7588",
         "12519",
         "11792",
-        "5871",
+        "6118",
         "4960",
         "11739",
         "12578"
@@ -1698,17 +1698,17 @@
         "11643",
         "12474",
         "12517",
-        "12567",
-        "12711",
         "13285",
         "13293",
         "13296",
         "13377",
         "13453",
+        "2020",
         "3973",
         "4070",
         "5850",
         "6786",
+        "7016",
         "7021",
         "7547",
         "8151",
@@ -1746,10 +1746,10 @@
         "11604",
         "5850",
         "12517",
-        "12711",
+        "2020",
         "13377",
         "4070",
-        "12567",
+        "7016",
         "13453"
       ],
       "taxi": [
@@ -2392,6 +2392,7 @@
     {
       "points": 0,
       "players": [
+        "11557",
         "11565",
         "11729",
         "12510",
@@ -2416,7 +2417,6 @@
         "8130",
         "8136",
         "8161",
-        "9230",
         "9488",
         "9509",
         "9756"
@@ -2469,10 +2469,10 @@
         "8130": 0,
         "8136": 0,
         "8161": 0,
-        "9230": 0,
         "9488": 0,
         "9509": 0,
         "9756": 0,
+        "11557": 0,
         "11565": 0,
         "11729": 0,
         "12510": 0,
@@ -2519,13 +2519,13 @@
       "custom_points": null,
       "matchup_id": 5,
       "starters": [
-        "4943",
-        "5967",
+        "6797",
+        "4866",
         "6790",
-        "13274",
+        "8144",
         "11646",
         "3214",
-        "4866",
+        "13346",
         "9500",
         "11539",
         "6183",
@@ -2887,7 +2887,6 @@
         "5022",
         "5041",
         "5332",
-        "5848",
         "5859",
         "5927",
         "6770",
@@ -2942,7 +2941,6 @@
         "5022": 0,
         "5041": 0,
         "5332": 0,
-        "5848": 0,
         "5859": 0,
         "5927": 0,
         "6770": 0,
@@ -2983,9 +2981,9 @@
         "4960",
         "4981",
         "4983",
-        "5871",
         "5872",
         "5995",
+        "6118",
         "6806",
         "6813",
         "7523",
@@ -3007,7 +3005,7 @@
         "7588",
         "12519",
         "11792",
-        "5871",
+        "6118",
         "4960",
         "11739",
         "12578"
@@ -3035,9 +3033,9 @@
         "4960": 0,
         "4981": 0,
         "4983": 0,
-        "5871": 0,
         "5872": 0,
         "5995": 0,
+        "6118": 0,
         "6806": 0,
         "6813": 0,
         "7523": 0,
@@ -3163,17 +3161,17 @@
         "11643",
         "12474",
         "12517",
-        "12567",
-        "12711",
         "13285",
         "13293",
         "13296",
         "13377",
         "13453",
+        "2020",
         "3973",
         "4070",
         "5850",
         "6786",
+        "7016",
         "7021",
         "7547",
         "8151",
@@ -3195,10 +3193,10 @@
         "11604",
         "5850",
         "12517",
-        "12711",
+        "2020",
         "13377",
         "4070",
-        "12567",
+        "7016",
         "13453"
       ],
       "starters_points": [
@@ -3217,10 +3215,12 @@
         0
       ],
       "players_points": {
+        "2020": 0,
         "3973": 0,
         "4070": 0,
         "5850": 0,
         "6786": 0,
+        "7016": 0,
         "7021": 0,
         "7547": 0,
         "8151": 0,
@@ -3236,8 +3236,6 @@
         "11643": 0,
         "12474": 0,
         "12517": 0,
-        "12567": 0,
-        "12711": 0,
         "13285": 0,
         "13293": 0,
         "13296": 0,
@@ -5458,6 +5456,129 @@
       "status": "complete",
       "type": "free_agent",
       "metadata": null,
+      "created": 1793827447147,
+      "settings": null,
+      "leg": 9,
+      "draft_picks": [],
+      "creator": "737696652592291840",
+      "transaction_id": "1423819146663096320",
+      "adds": {
+        "6118": 12
+      },
+      "consenter_ids": [
+        12
+      ],
+      "drops": {
+        "5871": 12
+      },
+      "roster_ids": [
+        12
+      ],
+      "status_updated": 1793827447147,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1793816886174,
+      "settings": null,
+      "leg": 9,
+      "draft_picks": [],
+      "creator": "871053074062589952",
+      "transaction_id": "1423774850731778048",
+      "adds": {
+        "11557": 6
+      },
+      "consenter_ids": [
+        6
+      ],
+      "drops": {
+        "9230": 6
+      },
+      "roster_ids": [
+        6
+      ],
+      "status_updated": 1793816886174,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1793816488825,
+      "settings": null,
+      "leg": 9,
+      "draft_picks": [],
+      "creator": "737718651813244928",
+      "transaction_id": "1423773184133521408",
+      "adds": {
+        "7016": 14
+      },
+      "consenter_ids": [
+        14
+      ],
+      "drops": {
+        "12567": 14
+      },
+      "roster_ids": [
+        14
+      ],
+      "status_updated": 1793816488825,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1793816238843,
+      "settings": null,
+      "leg": 9,
+      "draft_picks": [],
+      "creator": "737718651813244928",
+      "transaction_id": "1423772135628734464",
+      "adds": {
+        "2020": 14
+      },
+      "consenter_ids": [
+        14
+      ],
+      "drops": {
+        "12711": 14
+      },
+      "roster_ids": [
+        14
+      ],
+      "status_updated": 1793816238843,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1793816158305,
+      "settings": null,
+      "leg": 9,
+      "draft_picks": [],
+      "creator": "733463671744880640",
+      "transaction_id": "1423771797832126464",
+      "adds": null,
+      "consenter_ids": [
+        11
+      ],
+      "drops": {
+        "5848": 11
+      },
+      "roster_ids": [
+        11
+      ],
+      "status_updated": 1793816158305,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
       "created": 1793800193557,
       "settings": null,
       "leg": 9,
@@ -5467,10 +5588,10 @@
       "adds": {
         "11729": 6
       },
-      "drops": null,
       "consenter_ids": [
         6
       ],
+      "drops": null,
       "roster_ids": [
         6
       ],
@@ -5530,7 +5651,7 @@
       "team": "JAX",
       "age": 27,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "RB"
       ],
@@ -5596,7 +5717,7 @@
       "team": "KC",
       "age": 26,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -6721,7 +6842,7 @@
       "team": "MIA",
       "age": 23,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
@@ -6831,7 +6952,7 @@
       "team": "CLE",
       "age": 26,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "DL"
       ],
@@ -7492,7 +7613,7 @@
       "team": "NYJ",
       "age": 22,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "TE"
       ],
@@ -8264,7 +8385,7 @@
       "team": "NYG",
       "age": 22,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "DL",
         "LB"
@@ -8287,7 +8408,7 @@
       "team": "CLE",
       "age": 23,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "LB"
       ],
@@ -9079,7 +9200,7 @@
       "team": "CLE",
       "age": 22,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -9323,7 +9444,7 @@
       "team": "MIA",
       "age": 23,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
@@ -9587,7 +9708,7 @@
       "team": "KC",
       "age": 37,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "TE"
       ],
@@ -9645,6 +9766,28 @@
       "rotowire_id": 9646,
       "sportradar_id": "441eb531-1ec8-4f65-9174-78bc6adada63",
       "fantasy_data_id": 16191
+    },
+    "2020": {
+      "player_id": "2020",
+      "full_name": "Cairo Santos",
+      "position": "K",
+      "team": "CHI",
+      "age": 34,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "K"
+      ],
+      "height": "68",
+      "weight": "173",
+      "years_exp": 12,
+      "college": "Tulane",
+      "birth_date": "1991-11-12",
+      "espn_id": 17427,
+      "yahoo_id": 28227,
+      "rotowire_id": 9633,
+      "sportradar_id": "d96ff17c-841a-4768-8e08-3a4cfcb7f717",
+      "fantasy_data_id": 16301
     },
     "2133": {
       "player_id": "2133",
@@ -10160,7 +10303,7 @@
       "team": "NO",
       "age": 31,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
@@ -10623,7 +10766,7 @@
       "team": "SEA",
       "age": 29,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "fantasy_positions": [
         "QB"
       ],
@@ -11308,7 +11451,7 @@
       "team": "HOU",
       "age": 29,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "RB"
       ],
@@ -11352,7 +11495,7 @@
       "team": "JAX",
       "age": 29,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -11499,6 +11642,28 @@
       "sportradar_id": "2b90e091-ef78-4753-93eb-0acf3632c206",
       "fantasy_data_id": 20769
     },
+    "6118": {
+      "player_id": "6118",
+      "full_name": "Quinnen Williams",
+      "position": "DT",
+      "team": "DAL",
+      "age": 28,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "DL"
+      ],
+      "height": "75",
+      "weight": "303",
+      "years_exp": 7,
+      "college": "Alabama",
+      "birth_date": "1997-12-05",
+      "espn_id": 4040982,
+      "yahoo_id": 31835,
+      "rotowire_id": 13584,
+      "sportradar_id": "b8e0fa49-1122-4e97-9fe2-d90f6b7cb444",
+      "fantasy_data_id": 20989
+    },
     "6125": {
       "player_id": "6125",
       "full_name": "Jeffery Simmons",
@@ -11617,7 +11782,7 @@
       "team": "CLE",
       "age": 30,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "LB"
       ],
@@ -12182,6 +12347,29 @@
       "sportradar_id": "0226b03b-f91d-4223-9813-9fcd2e9c3acc",
       "fantasy_data_id": 21738
     },
+    "7016": {
+      "player_id": "7016",
+      "full_name": "Jeremy Chinn",
+      "position": "DB",
+      "team": "LV",
+      "age": 28,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "DB",
+        "LB"
+      ],
+      "height": "75",
+      "weight": "220",
+      "years_exp": 6,
+      "college": "Southern Illinois",
+      "birth_date": "1998-02-26",
+      "espn_id": 4043169,
+      "yahoo_id": 32734,
+      "rotowire_id": 14623,
+      "sportradar_id": "5f623fbc-415e-4035-b423-7850cf1153b4",
+      "fantasy_data_id": 21921
+    },
     "7021": {
       "player_id": "7021",
       "full_name": "Rico Dowdle",
@@ -12475,7 +12663,7 @@
       "team": "DET",
       "age": 27,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -13247,7 +13435,7 @@
       "team": "DAL",
       "age": 25,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -13335,7 +13523,7 @@
       "team": "NYJ",
       "age": 26,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],

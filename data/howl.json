@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-04T17:15:30.179Z",
+  "fetched_at": "2026-11-04T22:39:24.764Z",
   "current_week": 9,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -2195,7 +2195,7 @@
       "team": "KC",
       "age": 26,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -3427,7 +3427,7 @@
       "team": "CLE",
       "age": 22,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -3493,7 +3493,7 @@
       "team": "KC",
       "age": 37,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "TE"
       ],
@@ -3779,7 +3779,7 @@
       "team": "NO",
       "age": 31,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
@@ -3977,7 +3977,7 @@
       "team": "SEA",
       "age": 29,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "fantasy_positions": [
         "QB"
       ],
@@ -4219,7 +4219,7 @@
       "team": "HOU",
       "age": 29,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "RB"
       ],
@@ -4263,7 +4263,7 @@
       "team": "JAX",
       "age": 29,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -4681,7 +4681,7 @@
       "team": "DET",
       "age": 27,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -5055,7 +5055,7 @@
       "team": "DAL",
       "age": 25,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -5143,7 +5143,7 @@
       "team": "NYJ",
       "age": 26,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
