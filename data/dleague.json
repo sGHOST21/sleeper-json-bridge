@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-04T09:12:38.989Z",
+  "fetched_at": "2026-11-04T17:15:28.108Z",
   "current_week": 9,
   "league": {
     "name": "The D-League",
@@ -66,6 +66,10 @@
     },
     "avatar": "31647870b5248d13691a1b97ccb9b0a0",
     "company_id": null,
+    "sport": "nfl",
+    "season_type": "regular",
+    "season": "2026",
+    "shard": 169,
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -123,18 +127,14 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "shard": 169,
-    "sport": "nfl",
-    "last_message_id": "1423620183708168192",
+    "last_message_id": "1423704836955750400",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1793780010682,
+    "last_message_time": 1793800193589,
     "last_pinned_message_id": null,
     "draft_id": "1398261761102098432",
     "last_read_id": null,
@@ -1040,6 +1040,7 @@
       "player_map": null,
       "players": [
         "11565",
+        "11729",
         "12510",
         "12524",
         "12529",
@@ -1068,6 +1069,7 @@
         "9756"
       ],
       "reserve": [
+        "12533",
         "2133",
         "6904"
       ],
@@ -1088,7 +1090,7 @@
         "wins": 7
       },
       "starters": [
-        "9230",
+        "11565",
         "9509",
         "3198",
         "9488",
@@ -1337,7 +1339,7 @@
         "wins": 6
       },
       "starters": [
-        "3294",
+        "8183",
         "11584",
         "12512",
         "8137",
@@ -1427,7 +1429,7 @@
         "4217",
         "13286",
         "2216",
-        "0",
+        "7042",
         "13363",
         "13375",
         "11678",
@@ -1503,7 +1505,7 @@
         "6770",
         "4034",
         "12527",
-        "12485",
+        "8135",
         "5859",
         "5022",
         "13424",
@@ -2391,6 +2393,7 @@
       "points": 0,
       "players": [
         "11565",
+        "11729",
         "12510",
         "12524",
         "12529",
@@ -2422,7 +2425,7 @@
       "custom_points": null,
       "matchup_id": 7,
       "starters": [
-        "9230",
+        "11565",
         "9509",
         "3198",
         "9488",
@@ -2471,6 +2474,7 @@
         "9509": 0,
         "9756": 0,
         "11565": 0,
+        "11729": 0,
         "12510": 0,
         "12524": 0,
         "12529": 0,
@@ -2708,7 +2712,7 @@
       "custom_points": null,
       "matchup_id": 7,
       "starters": [
-        "3294",
+        "8183",
         "11584",
         "12512",
         "8137",
@@ -2813,7 +2817,7 @@
         "4217",
         "13286",
         "2216",
-        "0",
+        "7042",
         "13363",
         "13375",
         "11678",
@@ -2904,7 +2908,7 @@
         "6770",
         "4034",
         "12527",
-        "12485",
+        "8135",
         "5859",
         "5022",
         "13424",
@@ -5449,6 +5453,29 @@
       ],
       "status_updated": 1793178798237,
       "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1793800193557,
+      "settings": null,
+      "leg": 9,
+      "draft_picks": [],
+      "creator": "871053074062589952",
+      "transaction_id": "1423704836825772032",
+      "adds": {
+        "11729": 6
+      },
+      "drops": null,
+      "consenter_ids": [
+        6
+      ],
+      "roster_ids": [
+        6
+      ],
+      "status_updated": 1793800193557,
+      "waiver_budget": []
     }
   ],
   "player_map": {
@@ -5770,7 +5797,7 @@
       "team": "CIN",
       "age": 25,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "DB"
       ],
@@ -10089,7 +10116,7 @@
       "team": "CLE",
       "age": 31,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "QB"
       ],
@@ -12249,8 +12276,8 @@
       "position": "QB",
       "team": "BAL",
       "age": 28,
-      "status": "Active",
-      "injury_status": "Doubtful",
+      "status": "Inactive",
+      "injury_status": "Out",
       "fantasy_positions": [
         "QB"
       ],

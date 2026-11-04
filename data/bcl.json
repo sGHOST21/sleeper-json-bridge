@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-04T09:12:40.143Z",
+  "fetched_at": "2026-11-04T17:15:29.111Z",
   "current_week": 9,
   "league": {
     "name": "Brass City League",
@@ -68,11 +68,10 @@
     },
     "avatar": "71eb884a69970234d6aab2bcc692e78f",
     "company_id": null,
-    "shard": 134,
-    "season": "2026",
-    "season_type": "regular",
     "sport": "nfl",
-    "last_message_id": "1423619735869734912",
+    "season_type": "regular",
+    "season": "2026",
+    "shard": 134,
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -130,18 +129,24 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "draft_id": "1387554218864291840",
+    "last_message_id": "1423681242439671808",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1793779903908,
+    "last_message_time": 1793794568218,
     "last_pinned_message_id": null,
-    "last_read_id": null,
+    "draft_id": "1387554218864291840",
     "league_id": "1387554218847502336",
     "previous_league_id": "1222634893318561792",
+    "last_read_id": null,
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -168,11 +173,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 12
   },
   "users": [
@@ -1331,12 +1331,12 @@
         "2449",
         "4881",
         "6217",
-        "6911",
         "7553",
         "7594",
         "7672",
         "7839",
         "8150",
+        "8330",
         "9482",
         "9500",
         "9508",
@@ -1375,7 +1375,7 @@
         "7839",
         "10917",
         "7672",
-        "6911",
+        "8330",
         "6217"
       ],
       "taxi": [
@@ -2586,12 +2586,12 @@
         "2449",
         "4881",
         "6217",
-        "6911",
         "7553",
         "7594",
         "7672",
         "7839",
         "8150",
+        "8330",
         "9482",
         "9500",
         "9508",
@@ -2613,7 +2613,7 @@
         "7839",
         "10917",
         "7672",
-        "6911",
+        "8330",
         "6217"
       ],
       "starters_points": [
@@ -2636,12 +2636,12 @@
         "2449": 0,
         "4881": 0,
         "6217": 0,
-        "6911": 0,
         "7553": 0,
         "7594": 0,
         "7672": 0,
         "7839": 0,
         "8150": 0,
+        "8330": 0,
         "9482": 0,
         "9500": 0,
         "9508": 0,
@@ -4468,6 +4468,31 @@
         3
       ],
       "status_updated": 1793182466895,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1793794568186,
+      "settings": null,
+      "leg": 9,
+      "draft_picks": [],
+      "creator": "737708656518385664",
+      "transaction_id": "1423681242309640192",
+      "adds": {
+        "8330": 12
+      },
+      "drops": {
+        "6911": 12
+      },
+      "consenter_ids": [
+        12
+      ],
+      "roster_ids": [
+        12
+      ],
+      "status_updated": 1793794568186,
       "waiver_budget": []
     }
   ],
@@ -8625,7 +8650,7 @@
       "team": "CLE",
       "age": 31,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "QB"
       ],
@@ -11969,6 +11994,28 @@
       "rotowire_id": 16006,
       "sportradar_id": "95490459-68e2-4c72-bb60-eae1aab0ecb3",
       "fantasy_data_id": 23437
+    },
+    "8330": {
+      "player_id": "8330",
+      "full_name": "Quentin Lake",
+      "position": "DB",
+      "team": "LAR",
+      "age": 27,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "DB"
+      ],
+      "height": "73",
+      "weight": "204",
+      "years_exp": 4,
+      "college": "UCLA",
+      "birth_date": "1999-01-29",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 16146,
+      "sportradar_id": "c2c112f0-13bd-44a8-a447-f3429c4f3e65",
+      "fantasy_data_id": 23559
     },
     "8339": {
       "player_id": "8339",
