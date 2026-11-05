@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-05T12:21:15.797Z",
+  "fetched_at": "2026-11-05T20:40:00.024Z",
   "current_week": 9,
   "league": {
     "name": "The D-League",
@@ -127,17 +127,17 @@
     "season_type": "regular",
     "shard": 169,
     "sport": "nfl",
-    "last_message_id": "1423900838060990464",
+    "last_message_id": "1424047538566176768",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1793846923894,
+    "last_message_time": 1793881900019,
     "last_pinned_message_id": null,
-    "draft_id": "1398261761102098432",
     "last_read_id": null,
+    "draft_id": "1398261761102098432",
     "league_id": "1384998212942692352",
     "previous_league_id": "1222634114906075136",
     "roster_positions": [
@@ -165,9 +165,9 @@
       "BN",
       "BN"
     ],
-    "group_id": null,
     "bracket_id": null,
     "bracket_overrides_id": null,
+    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 14
@@ -1390,7 +1390,7 @@
         "4199",
         "4217",
         "4984",
-        "5045",
+        "5017",
         "7002",
         "7042",
         "7594",
@@ -1434,7 +1434,7 @@
         "13363",
         "13375",
         "11678",
-        "0"
+        "5017"
       ],
       "taxi": [
         "11575",
@@ -1466,6 +1466,7 @@
         "4663",
         "5022",
         "5041",
+        "5045",
         "5332",
         "5859",
         "5927",
@@ -1895,6 +1896,13 @@
     {
       "round": 2,
       "season": "2026",
+      "roster_id": 11,
+      "owner_id": 10,
+      "previous_owner_id": 11
+    },
+    {
+      "round": 3,
+      "season": "2027",
       "roster_id": 11,
       "owner_id": 10,
       "previous_owner_id": 11
@@ -2809,7 +2817,7 @@
         "4199",
         "4217",
         "4984",
-        "5045",
+        "5017",
         "7002",
         "7042",
         "7594",
@@ -2835,7 +2843,7 @@
         "13363",
         "13375",
         "11678",
-        "0"
+        "5017"
       ],
       "starters_points": [
         0,
@@ -2858,7 +2866,7 @@
         "4199": 0,
         "4217": 0,
         "4984": 0,
-        "5045": 0,
+        "5017": 0,
         "7002": 0,
         "7042": 0,
         "7594": 0,
@@ -2900,6 +2908,7 @@
         "4663",
         "5022",
         "5041",
+        "5045",
         "5332",
         "5859",
         "5927",
@@ -2954,6 +2963,7 @@
         "4663": 0,
         "5022": 0,
         "5041": 0,
+        "5045": 0,
         "5332": 0,
         "5859": 0,
         "5927": 0,
@@ -5468,6 +5478,29 @@
     },
     {
       "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1793881899983,
+      "settings": null,
+      "leg": 9,
+      "draft_picks": [],
+      "creator": "471428050836254720",
+      "transaction_id": "1424047538410921984",
+      "adds": {
+        "5017": 10
+      },
+      "consenter_ids": [
+        10
+      ],
+      "drops": null,
+      "roster_ids": [
+        10
+      ],
+      "status_updated": 1793881899983,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
       "type": "trade",
       "metadata": null,
       "created": 1793835861778,
@@ -5496,13 +5529,13 @@
       "adds": {
         "6803": 3
       },
-      "drops": {
-        "6803": 4
-      },
       "consenter_ids": [
         3,
         4
       ],
+      "drops": {
+        "6803": 4
+      },
       "roster_ids": [
         3,
         4
@@ -5523,12 +5556,12 @@
       "adds": {
         "6118": 12
       },
-      "drops": {
-        "5871": 12
-      },
       "consenter_ids": [
         12
       ],
+      "drops": {
+        "5871": 12
+      },
       "roster_ids": [
         12
       ],
@@ -5548,12 +5581,12 @@
       "adds": {
         "11557": 6
       },
-      "drops": {
-        "9230": 6
-      },
       "consenter_ids": [
         6
       ],
+      "drops": {
+        "9230": 6
+      },
       "roster_ids": [
         6
       ],
@@ -5573,12 +5606,12 @@
       "adds": {
         "7016": 14
       },
-      "drops": {
-        "12567": 14
-      },
       "consenter_ids": [
         14
       ],
+      "drops": {
+        "12567": 14
+      },
       "roster_ids": [
         14
       ],
@@ -5598,12 +5631,12 @@
       "adds": {
         "2020": 14
       },
-      "drops": {
-        "12711": 14
-      },
       "consenter_ids": [
         14
       ],
+      "drops": {
+        "12711": 14
+      },
       "roster_ids": [
         14
       ],
@@ -5621,16 +5654,54 @@
       "creator": "733463671744880640",
       "transaction_id": "1423771797832126464",
       "adds": null,
-      "drops": {
-        "5848": 11
-      },
       "consenter_ids": [
         11
       ],
+      "drops": {
+        "5848": 11
+      },
       "roster_ids": [
         11
       ],
       "status_updated": 1793816158305,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "trade",
+      "metadata": null,
+      "created": 1793805945777,
+      "settings": {
+        "is_counter": 1
+      },
+      "leg": 9,
+      "draft_picks": [
+        {
+          "round": 3,
+          "season": "2027",
+          "league_id": null,
+          "roster_id": 11,
+          "owner_id": 10,
+          "previous_owner_id": 11
+        }
+      ],
+      "creator": "733463671744880640",
+      "transaction_id": "1423728963385061376",
+      "adds": {
+        "5045": 11
+      },
+      "consenter_ids": [
+        10,
+        11
+      ],
+      "drops": {
+        "5045": 10
+      },
+      "roster_ids": [
+        10,
+        11
+      ],
+      "status_updated": 1793881813293,
       "waiver_budget": []
     },
     {
@@ -5646,10 +5717,10 @@
       "adds": {
         "11729": 6
       },
-      "drops": null,
       "consenter_ids": [
         6
       ],
+      "drops": null,
       "roster_ids": [
         6
       ],
@@ -6812,7 +6883,7 @@
       "team": "NYG",
       "age": 23,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -11082,6 +11153,28 @@
       "sportradar_id": "0618f387-9b72-4270-8b8f-dec4cccc9e4a",
       "fantasy_data_id": 19803
     },
+    "5017": {
+      "player_id": "5017",
+      "full_name": "Jessie Bates III",
+      "position": "DB",
+      "team": "ATL",
+      "age": 29,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "DB"
+      ],
+      "height": "73",
+      "weight": "210",
+      "years_exp": 8,
+      "college": "Wake Forest",
+      "birth_date": "1997-02-26",
+      "espn_id": 3919512,
+      "yahoo_id": 31024,
+      "rotowire_id": 12564,
+      "sportradar_id": "89c84a59-18ad-4aeb-8879-d4ba7dd1491e",
+      "fantasy_data_id": 19873
+    },
     "5022": {
       "player_id": "5022",
       "full_name": "Dallas Goedert",
@@ -12454,7 +12547,7 @@
       "player_id": "7039",
       "full_name": "Cody White",
       "position": "WR",
-      "team": "LV",
+      "team": null,
       "age": 27,
       "status": "Active",
       "injury_status": null,
