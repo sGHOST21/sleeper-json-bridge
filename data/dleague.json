@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-04T22:39:22.451Z",
+  "fetched_at": "2026-11-05T03:29:42.913Z",
   "current_week": 9,
   "league": {
     "name": "The D-League",
@@ -66,10 +66,6 @@
     },
     "avatar": "31647870b5248d13691a1b97ccb9b0a0",
     "company_id": null,
-    "shard": 169,
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -127,24 +123,23 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "last_message_id": "1423819146788941824",
-    "draft_id": "1398261761102098432",
+    "season": "2026",
+    "season_type": "regular",
+    "shard": 169,
+    "sport": "nfl",
+    "last_message_id": "1423900838060990464",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1793827447176,
+    "last_message_time": 1793846923894,
     "last_pinned_message_id": null,
+    "draft_id": "1398261761102098432",
     "last_read_id": null,
     "league_id": "1384998212942692352",
     "previous_league_id": "1222634114906075136",
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -170,6 +165,11 @@
       "BN",
       "BN"
     ],
+    "group_id": null,
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 14
   },
   "users": [
@@ -817,6 +817,7 @@
         "12530",
         "4039",
         "4046",
+        "6803",
         "6815",
         "7569",
         "7640",
@@ -895,7 +896,6 @@
         "2393",
         "5840",
         "5870",
-        "6803",
         "7136",
         "7525",
         "7567",
@@ -1660,14 +1660,14 @@
         "wins": 5
       },
       "starters": [
-        "4881",
+        "11566",
         "9224",
-        "8138",
-        "10232",
+        "8132",
+        "2449",
         "9493",
         "5844",
-        "11576",
-        "2449",
+        "8138",
+        "8148",
         "2747",
         "6125",
         "7841",
@@ -1813,6 +1813,20 @@
       "season": "2027",
       "roster_id": 3,
       "owner_id": 14,
+      "previous_owner_id": 3
+    },
+    {
+      "round": 3,
+      "season": "2027",
+      "roster_id": 3,
+      "owner_id": 4,
+      "previous_owner_id": 3
+    },
+    {
+      "round": 2,
+      "season": "2028",
+      "roster_id": 3,
+      "owner_id": 4,
       "previous_owner_id": 3
     },
     {
@@ -2141,6 +2155,7 @@
         "12530",
         "4039",
         "4046",
+        "6803",
         "6815",
         "7569",
         "7640",
@@ -2185,6 +2200,7 @@
       "players_points": {
         "4039": 0,
         "4046": 0,
+        "6803": 0,
         "6815": 0,
         "7569": 0,
         "7640": 0,
@@ -2227,7 +2243,6 @@
         "2393",
         "5840",
         "5870",
-        "6803",
         "7136",
         "7525",
         "7567",
@@ -2273,7 +2288,6 @@
         "2393": 0,
         "5840": 0,
         "5870": 0,
-        "6803": 0,
         "7136": 0,
         "7525": 0,
         "7567": 0,
@@ -3092,12 +3106,12 @@
       "starters": [
         "11566",
         "9224",
-        "9753",
+        "8132",
         "2449",
         "9493",
         "5844",
         "8138",
-        "8132",
+        "8148",
         "2747",
         "6125",
         "7841",
@@ -5454,6 +5468,50 @@
     },
     {
       "status": "complete",
+      "type": "trade",
+      "metadata": null,
+      "created": 1793835861778,
+      "settings": null,
+      "leg": 9,
+      "draft_picks": [
+        {
+          "round": 3,
+          "season": "2027",
+          "league_id": null,
+          "roster_id": 3,
+          "owner_id": 4,
+          "previous_owner_id": 3
+        },
+        {
+          "round": 2,
+          "season": "2028",
+          "league_id": null,
+          "roster_id": 3,
+          "owner_id": 4,
+          "previous_owner_id": 3
+        }
+      ],
+      "creator": "726077702712389632",
+      "transaction_id": "1423854440183541760",
+      "adds": {
+        "6803": 3
+      },
+      "drops": {
+        "6803": 4
+      },
+      "consenter_ids": [
+        3,
+        4
+      ],
+      "roster_ids": [
+        3,
+        4
+      ],
+      "status_updated": 1793846923883,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
       "type": "free_agent",
       "metadata": null,
       "created": 1793827447147,
@@ -5465,12 +5523,12 @@
       "adds": {
         "6118": 12
       },
-      "consenter_ids": [
-        12
-      ],
       "drops": {
         "5871": 12
       },
+      "consenter_ids": [
+        12
+      ],
       "roster_ids": [
         12
       ],
@@ -5490,12 +5548,12 @@
       "adds": {
         "11557": 6
       },
-      "consenter_ids": [
-        6
-      ],
       "drops": {
         "9230": 6
       },
+      "consenter_ids": [
+        6
+      ],
       "roster_ids": [
         6
       ],
@@ -5515,12 +5573,12 @@
       "adds": {
         "7016": 14
       },
-      "consenter_ids": [
-        14
-      ],
       "drops": {
         "12567": 14
       },
+      "consenter_ids": [
+        14
+      ],
       "roster_ids": [
         14
       ],
@@ -5540,12 +5598,12 @@
       "adds": {
         "2020": 14
       },
-      "consenter_ids": [
-        14
-      ],
       "drops": {
         "12711": 14
       },
+      "consenter_ids": [
+        14
+      ],
       "roster_ids": [
         14
       ],
@@ -5563,12 +5621,12 @@
       "creator": "733463671744880640",
       "transaction_id": "1423771797832126464",
       "adds": null,
-      "consenter_ids": [
-        11
-      ],
       "drops": {
         "5848": 11
       },
+      "consenter_ids": [
+        11
+      ],
       "roster_ids": [
         11
       ],
@@ -5588,10 +5646,10 @@
       "adds": {
         "11729": 6
       },
+      "drops": null,
       "consenter_ids": [
         6
       ],
-      "drops": null,
       "roster_ids": [
         6
       ],
@@ -5982,7 +6040,7 @@
       "full_name": "Blake Grupe",
       "position": "K",
       "team": "LAR",
-      "age": 27,
+      "age": 28,
       "status": "Inactive",
       "injury_status": "IR",
       "fantasy_positions": [
@@ -7019,7 +7077,7 @@
       "team": "TB",
       "age": 25,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "DB"
       ],
@@ -10524,7 +10582,7 @@
       "team": "PHI",
       "age": 31,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "K"
       ],
@@ -10568,7 +10626,7 @@
       "team": "LAR",
       "age": 38,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "QB"
       ],
@@ -10700,7 +10758,7 @@
       "team": "PHI",
       "age": 29,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
@@ -10788,7 +10846,7 @@
       "team": "SF",
       "age": 29,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -11848,7 +11906,7 @@
       "team": "HOU",
       "age": 29,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "LB"
       ],
@@ -11868,7 +11926,7 @@
       "full_name": "Nick Folk",
       "position": "K",
       "team": "ATL",
-      "age": 41,
+      "age": 42,
       "status": "Active",
       "injury_status": null,
       "fantasy_positions": [
@@ -12509,7 +12567,7 @@
       "team": "LAR",
       "age": 27,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "DB"
       ],
@@ -12751,7 +12809,7 @@
       "team": "TB",
       "age": 27,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
@@ -13391,7 +13449,7 @@
       "team": "WAS",
       "age": 26,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
