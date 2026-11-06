@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-06T09:24:55.399Z",
+  "fetched_at": "2026-11-06T17:29:40.019Z",
   "current_week": 9,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -327,7 +327,7 @@
         "7523",
         "9221",
         "12474",
-        "8146",
+        "10213",
         "7547",
         "4217",
         "12517",
@@ -812,7 +812,7 @@
         "7523",
         "9221",
         "12474",
-        "8146",
+        "10213",
         "7547",
         "4217",
         "12517",
@@ -5195,7 +5195,7 @@
       "team": "NYJ",
       "age": 26,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ],
@@ -5283,7 +5283,7 @@
       "team": "ATL",
       "age": 27,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "RB"
       ],
