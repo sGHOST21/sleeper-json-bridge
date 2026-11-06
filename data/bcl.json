@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-05T20:40:01.022Z",
+  "fetched_at": "2026-11-06T01:33:13.949Z",
   "current_week": 9,
   "league": {
     "name": "Brass City League",
@@ -726,13 +726,13 @@
       },
       "starters": [
         "6770",
-        "10219",
         "8132",
+        "10219",
         "10232",
-        "13296",
+        "5947",
         "11604",
         "9501",
-        "5947",
+        "13296",
         "12185",
         "8289",
         "8329",
@@ -1809,7 +1809,7 @@
       }
     },
     {
-      "points": 0,
+      "points": 2.1,
       "players": [
         "10219",
         "10232",
@@ -1846,13 +1846,13 @@
       "matchup_id": 3,
       "starters": [
         "6770",
-        "10219",
         "8132",
+        "10219",
         "10232",
-        "13296",
+        "5947",
         "11604",
         "9501",
-        "5947",
+        "13296",
         "12185",
         "8289",
         "8329",
@@ -1864,7 +1864,7 @@
         0,
         0,
         0,
-        0,
+        2.1,
         0,
         0,
         0,
@@ -1878,7 +1878,7 @@
         "421": 0,
         "3214": 0,
         "5927": 0,
-        "5947": 0,
+        "5947": 2.1,
         "5967": 0,
         "6141": 0,
         "6770": 0,
@@ -1907,7 +1907,7 @@
       }
     },
     {
-      "points": 0,
+      "points": 1,
       "players": [
         "10226",
         "11560",
@@ -1968,7 +1968,7 @@
         0,
         0,
         0,
-        0,
+        1,
         0,
         0
       ],
@@ -1979,7 +1979,7 @@
         "4195": 0,
         "5022": 0,
         "5041": 0,
-        "5332": 0,
+        "5332": 1,
         "7016": 0,
         "7564": 0,
         "7567": 0,
@@ -2005,7 +2005,7 @@
       }
     },
     {
-      "points": 0,
+      "points": 6.5,
       "players": [
         "11539",
         "11618",
@@ -2057,7 +2057,7 @@
       "starters_points": [
         0,
         0,
-        0,
+        6.5,
         0,
         0,
         0,
@@ -2090,7 +2090,7 @@
         "11635": 0,
         "11643": 0,
         "11729": 0,
-        "12490": 0,
+        "12490": 6.5,
         "12501": 0,
         "12526": 0,
         "12534": 0,
@@ -2101,7 +2101,7 @@
       }
     },
     {
-      "points": 0,
+      "points": 2.88,
       "players": [
         "10229",
         "10892",
@@ -2147,7 +2147,7 @@
         "5944"
       ],
       "starters_points": [
-        0,
+        2.88,
         0,
         0,
         0,
@@ -2167,7 +2167,7 @@
         "6650": 0,
         "6788": 0,
         "6794": 0,
-        "7523": 0,
+        "7523": 2.88,
         "7569": 0,
         "8110": 0,
         "8130": 0,
@@ -2285,7 +2285,7 @@
       }
     },
     {
-      "points": 0,
+      "points": 2.2,
       "players": [
         "11435",
         "11576",
@@ -2333,7 +2333,7 @@
       ],
       "starters_points": [
         0,
-        0,
+        2.2,
         0,
         0,
         0,
@@ -2349,7 +2349,7 @@
       "players_points": {
         "1339": 0,
         "1479": 0,
-        "3198": 0,
+        "3198": 2.2,
         "4070": 0,
         "4135": 0,
         "4217": 0,
@@ -2375,7 +2375,7 @@
       }
     },
     {
-      "points": 0,
+      "points": 1.5,
       "players": [
         "10213",
         "10859",
@@ -2434,9 +2434,9 @@
         0,
         0,
         0,
+        1,
         0,
-        0,
-        0,
+        0.5,
         0,
         0
       ],
@@ -2445,7 +2445,7 @@
         "4017": 0,
         "4046": 0,
         "4147": 0,
-        "4960": 0,
+        "4960": 0.5,
         "5844": 0,
         "6118": 0,
         "6786": 0,
@@ -2459,7 +2459,7 @@
         "10859": 0,
         "11583": 0,
         "11739": 0,
-        "11786": 0,
+        "11786": 1,
         "11792": 0,
         "12483": 0,
         "12507": 0,
@@ -2571,7 +2571,7 @@
       }
     },
     {
-      "points": 0,
+      "points": 1.1,
       "players": [
         "10917",
         "11564",
@@ -2626,7 +2626,7 @@
         0,
         0,
         0,
-        0,
+        1.1,
         0,
         0,
         0,
@@ -2651,7 +2651,7 @@
         "9500": 0,
         "9508": 0,
         "9754": 0,
-        "9997": 0,
+        "9997": 1.1,
         "10917": 0,
         "11564": 0,
         "11584": 0,
@@ -4718,7 +4718,7 @@
       "team": "KC",
       "age": 26,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -4784,7 +4784,7 @@
       "team": "BUF",
       "age": 27,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "TE"
       ],
@@ -4896,7 +4896,7 @@
       "team": "LAC",
       "age": 26,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "LB"
       ],
@@ -5293,7 +5293,7 @@
       "team": "GB",
       "age": 25,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
@@ -5711,7 +5711,7 @@
       "team": "BUF",
       "age": 23,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -5909,7 +5909,7 @@
       "team": "CLE",
       "age": 26,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "DL"
       ],
@@ -6416,7 +6416,7 @@
       "team": "JAX",
       "age": 23,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "RB"
       ],
@@ -6548,7 +6548,7 @@
       "team": "NYJ",
       "age": 22,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "TE"
       ],
@@ -6658,7 +6658,7 @@
       "team": "CLE",
       "age": 22,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "TE"
       ],
@@ -6768,7 +6768,7 @@
       "team": "TB",
       "age": 24,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -7188,7 +7188,7 @@
       "team": "NYG",
       "age": 22,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "DL",
         "LB"
@@ -8026,7 +8026,7 @@
       "team": "NYJ",
       "age": 23,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "DL",
         "LB"
@@ -8402,7 +8402,7 @@
       "team": "KC",
       "age": 37,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "TE"
       ],
@@ -9328,7 +9328,7 @@
       "team": "BAL",
       "age": 29,
       "status": "Inactive",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "fantasy_positions": [
         "QB"
       ],
@@ -10231,7 +10231,7 @@
       "team": "MIN",
       "age": 31,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "DL",
         "LB"
@@ -10298,7 +10298,7 @@
       "team": "HOU",
       "age": 29,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "LB"
       ],
@@ -10871,7 +10871,7 @@
       "team": "MIN",
       "age": 29,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -11114,7 +11114,7 @@
       "team": "TB",
       "age": 27,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "RB"
       ],
@@ -11336,7 +11336,7 @@
       "team": "SEA",
       "age": 26,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "LB"
       ],
@@ -11952,7 +11952,7 @@
       "team": "NYJ",
       "age": 25,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "RB"
       ],
@@ -12460,7 +12460,7 @@
       "team": "PHI",
       "age": 26,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "QB"
       ],
