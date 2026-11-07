@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-07T16:26:15.527Z",
+  "fetched_at": "2026-11-07T20:52:47.615Z",
   "current_week": 9,
   "league": {
     "name": "Brass City League",
@@ -1366,12 +1366,12 @@
       },
       "starters": [
         "11564",
-        "11584",
+        "7594",
         "12512",
         "2449",
         "9997",
         "12518",
-        "7594",
+        "11584",
         "8150",
         "7839",
         "10917",
@@ -2608,12 +2608,12 @@
       "matchup_id": 5,
       "starters": [
         "11564",
-        "11584",
+        "7594",
         "12512",
         "2449",
         "9997",
         "12518",
-        "7594",
+        "11584",
         "8150",
         "7839",
         "10917",
@@ -5711,7 +5711,7 @@
       "team": "BUF",
       "age": 23,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -8820,8 +8820,8 @@
       "position": "DE",
       "team": "LAR",
       "age": 30,
-      "status": "Inactive",
-      "injury_status": "IR",
+      "status": "Active",
+      "injury_status": null,
       "fantasy_positions": [
         "DL"
       ],
@@ -9482,7 +9482,7 @@
       "team": "BUF",
       "age": 29,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -9835,7 +9835,7 @@
       "team": "MIN",
       "age": 29,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "QB"
       ],
@@ -10231,7 +10231,7 @@
       "team": "MIN",
       "age": 31,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "DL",
         "LB"
@@ -10871,7 +10871,7 @@
       "team": "MIN",
       "age": 29,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ],
@@ -11597,7 +11597,7 @@
       "player_id": "8129",
       "full_name": "Dameon Pierce",
       "position": "RB",
-      "team": "PHI",
+      "team": null,
       "age": 26,
       "status": "Inactive",
       "injury_status": "Questionable",

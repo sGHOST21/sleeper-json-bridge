@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-07T16:26:14.458Z",
+  "fetched_at": "2026-11-07T20:52:46.427Z",
   "current_week": 9,
   "league": {
     "name": "The D-League",
@@ -1664,7 +1664,7 @@
         "11566",
         "9224",
         "8132",
-        "10232",
+        "2449",
         "9493",
         "5844",
         "8138",
@@ -3117,7 +3117,7 @@
         "11566",
         "9224",
         "8132",
-        "10232",
+        "2449",
         "9493",
         "5844",
         "8138",
@@ -7027,7 +7027,7 @@
       "team": "BUF",
       "age": 23,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -9451,7 +9451,7 @@
       "team": "MIN",
       "age": 23,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "RB"
       ],
@@ -10487,8 +10487,8 @@
       "position": "DE",
       "team": "LAR",
       "age": 30,
-      "status": "Inactive",
-      "injury_status": "IR",
+      "status": "Active",
+      "injury_status": null,
       "fantasy_positions": [
         "DL"
       ],
@@ -11172,7 +11172,7 @@
       "team": "BUF",
       "age": 29,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -11547,7 +11547,7 @@
       "team": "MIN",
       "age": 29,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "QB"
       ],
@@ -12054,7 +12054,7 @@
       "team": "MIN",
       "age": 31,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "DL",
         "LB"
@@ -12738,7 +12738,7 @@
       "team": "MIN",
       "age": 29,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ],
@@ -13290,7 +13290,7 @@
       "team": "BUF",
       "age": 27,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ],
@@ -13573,7 +13573,7 @@
       "player_id": "8129",
       "full_name": "Dameon Pierce",
       "position": "RB",
-      "team": "PHI",
+      "team": null,
       "age": 26,
       "status": "Inactive",
       "injury_status": "Questionable",
