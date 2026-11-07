@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-06T23:08:28.336Z",
+  "fetched_at": "2026-11-07T02:48:29.365Z",
   "current_week": 9,
   "league": {
     "name": "Brass City League",
@@ -9724,7 +9724,7 @@
       "team": "SF",
       "age": 29,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "DL"
       ],
@@ -10011,7 +10011,7 @@
       "team": "CAR",
       "age": 30,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "LB"
       ],
@@ -11336,7 +11336,7 @@
       "team": "SEA",
       "age": 26,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "LB"
       ],
@@ -11600,7 +11600,7 @@
       "team": "PHI",
       "age": 26,
       "status": "Inactive",
-      "injury_status": "IR",
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
