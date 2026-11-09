@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-09T06:29:13.275Z",
+  "fetched_at": "2026-11-09T17:29:39.685Z",
   "current_week": 9,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -63,6 +63,11 @@
     },
     "avatar": "3a2a8f32f6fec7c6b6663d1495cf1168",
     "company_id": null,
+    "sport": "nfl",
+    "season_type": "regular",
+    "season": "2026",
+    "shard": 949,
+    "last_message_id": "1425478103261605888",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -108,28 +113,18 @@
       "pts_allow_7_13": 4,
       "st_ff": 1
     },
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
-    "last_message_id": "1425215380980281344",
-    "shard": 949,
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_text_map": null,
-    "last_message_time": 1794160335349,
-    "last_pinned_message_id": null,
     "draft_id": "1400845992303022080",
+    "last_message_text_map": null,
+    "last_message_time": 1794222973222,
+    "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1400845991007019008",
     "previous_league_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -151,6 +146,11 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 8
   },
   "users": [
@@ -488,7 +488,7 @@
         "3214",
         "4943",
         "4983",
-        "5859",
+        "5844",
         "5872",
         "6806",
         "7611",
@@ -1016,6 +1016,7 @@
         "3214",
         "4943",
         "4983",
+        "5844",
         "5859",
         "5872",
         "6806",
@@ -1055,6 +1056,7 @@
         "3214": 6.5,
         "4943": 0,
         "4983": 0,
+        "5844": 0,
         "5859": 0,
         "5872": 0,
         "6806": 3.2,
@@ -2146,19 +2148,65 @@
       "status": "complete",
       "type": "free_agent",
       "metadata": null,
+      "created": 1794222973189,
+      "settings": null,
+      "leg": 9,
+      "creator": "1400900697192439808",
+      "draft_picks": [],
+      "transaction_id": "1425478103127318528",
+      "adds": {
+        "5844": 4
+      },
+      "drops": null,
+      "consenter_ids": [
+        4
+      ],
+      "roster_ids": [
+        4
+      ],
+      "status_updated": 1794222973189,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1794222963787,
+      "settings": null,
+      "leg": 9,
+      "creator": "1400900697192439808",
+      "draft_picks": [],
+      "transaction_id": "1425478063692447744",
+      "adds": null,
+      "drops": {
+        "5859": 4
+      },
+      "consenter_ids": [
+        4
+      ],
+      "roster_ids": [
+        4
+      ],
+      "status_updated": 1794222963787,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
       "created": 1794160335318,
       "settings": null,
       "leg": 9,
-      "draft_picks": [],
       "creator": "737708656518385664",
+      "draft_picks": [],
       "transaction_id": "1425215380850282496",
       "adds": null,
-      "consenter_ids": [
-        1
-      ],
       "drops": {
         "13346": 1
       },
+      "consenter_ids": [
+        1
+      ],
       "roster_ids": [
         1
       ],
@@ -2172,18 +2220,18 @@
       "created": 1793912379867,
       "settings": null,
       "leg": 9,
-      "draft_picks": [],
       "creator": "1400852933964230656",
+      "draft_picks": [],
       "transaction_id": "1424175380314468352",
       "adds": {
         "8132": 2
       },
-      "consenter_ids": [
-        2
-      ],
       "drops": {
         "13414": 2
       },
+      "consenter_ids": [
+        2
+      ],
       "roster_ids": [
         2
       ],
@@ -2197,16 +2245,16 @@
       "created": 1793912175133,
       "settings": null,
       "leg": 9,
-      "draft_picks": [],
       "creator": "737708656518385664",
+      "draft_picks": [],
       "transaction_id": "1424174521597931520",
       "adds": {
         "13346": 1
       },
+      "drops": null,
       "consenter_ids": [
         1
       ],
-      "drops": null,
       "roster_ids": [
         1
       ],
@@ -4172,6 +4220,28 @@
       "rotowire_id": 12586,
       "sportradar_id": "b55ae5ba-593f-4560-9cab-14e10698e01d",
       "fantasy_data_id": 19800
+    },
+    "5844": {
+      "player_id": "5844",
+      "full_name": "T.J. Hockenson",
+      "position": "TE",
+      "team": "MIN",
+      "age": 29,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "TE"
+      ],
+      "height": "77",
+      "weight": "248",
+      "years_exp": 7,
+      "college": "Iowa",
+      "birth_date": "1997-07-03",
+      "espn_id": 4036133,
+      "yahoo_id": 31840,
+      "rotowire_id": 13610,
+      "sportradar_id": "bd1120b6-38b3-4225-a4b0-20660a149d0d",
+      "fantasy_data_id": 20805
     },
     "5846": {
       "player_id": "5846",
