@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-09T17:29:38.748Z",
+  "fetched_at": "2026-11-10T01:31:39.555Z",
   "current_week": 9,
   "league": {
     "name": "Brass City League",
@@ -2101,7 +2101,7 @@
       }
     },
     {
-      "points": 142.38,
+      "points": 142.88,
       "players": [
         "10229",
         "10892",
@@ -2159,11 +2159,11 @@
         9,
         7.5,
         12,
-        0
+        0.5
       ],
       "players_points": {
         "5944": 0,
-        "6183": 0,
+        "6183": 0.5,
         "6650": 10,
         "6788": 12,
         "6794": 0,
@@ -2189,7 +2189,7 @@
       }
     },
     {
-      "points": 68.5,
+      "points": 69.9,
       "players": [
         "10222",
         "10236",
@@ -2239,9 +2239,9 @@
         "5876"
       ],
       "starters_points": [
-        0,
+        0.6,
         6.9,
-        0,
+        0.8,
         17.7,
         0,
         2.9,
@@ -2257,7 +2257,7 @@
         "2020": 9,
         "4039": 4.7,
         "4892": 9.72,
-        "4984": 0,
+        "4984": 0.6,
         "5001": 5.7,
         "5012": 2.9,
         "5045": 13,
@@ -2269,7 +2269,7 @@
         "6801": 17.7,
         "6813": 6.9,
         "8134": 0,
-        "8138": 0,
+        "8138": 0.8,
         "8142": 0,
         "8339": 3.5,
         "8676": 0,
@@ -2375,7 +2375,7 @@
       }
     },
     {
-      "points": 130.58,
+      "points": 131.38,
       "players": [
         "10213",
         "10859",
@@ -2433,7 +2433,7 @@
         28.5,
         5.2,
         16.8,
-        0,
+        0.8,
         17,
         8.5,
         4,
@@ -2446,7 +2446,7 @@
         "4046": 16.48,
         "4147": 4.3,
         "4960": 4,
-        "5844": 0,
+        "5844": 0.8,
         "6118": 8.5,
         "6786": 28.5,
         "6797": 11.42,
@@ -2473,7 +2473,7 @@
       }
     },
     {
-      "points": 123.96,
+      "points": 126.26,
       "players": [
         "11533",
         "11566",
@@ -2530,8 +2530,8 @@
         13.1,
         26.6,
         1.4,
-        0,
-        0,
+        0.3,
+        2,
         9,
         7,
         12.5,
@@ -2543,8 +2543,8 @@
         "4037": 3.8,
         "4081": 5.5,
         "4137": 0,
-        "4199": 0,
-        "4983": 0,
+        "4199": 0.3,
+        "4983": 2,
         "6125": 7,
         "6815": 12.5,
         "6949": 7,
@@ -2571,7 +2571,7 @@
       }
     },
     {
-      "points": 116.26,
+      "points": 117.76,
       "players": [
         "10917",
         "11564",
@@ -2634,13 +2634,13 @@
         4,
         4.5,
         5.5,
-        0
+        1.5
       ],
       "players_points": {
         "2133": 0,
         "2449": 6.6,
         "4881": 0,
-        "6217": 0,
+        "6217": 1.5,
         "7553": 3.8,
         "7594": 11.6,
         "7672": 4.5,
@@ -4790,7 +4790,7 @@
       "team": "ARI",
       "age": 26,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ],
@@ -7238,7 +7238,7 @@
       "team": "NYG",
       "age": 22,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "DL",
         "LB"
@@ -8208,7 +8208,7 @@
       "full_name": "Zach Ertz",
       "position": "TE",
       "team": "PHI",
-      "age": 35,
+      "age": 36,
       "status": "Active",
       "injury_status": null,
       "fantasy_positions": [
@@ -8812,7 +8812,7 @@
       "height": "76",
       "weight": "235",
       "years_exp": 10,
-      "college": "North Carolina State",
+      "college": "NC State",
       "birth_date": "1992-12-11",
       "espn_id": 2578570,
       "yahoo_id": 29325,
@@ -9929,7 +9929,7 @@
       "team": "GB",
       "age": 28,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "RB"
       ],
@@ -11518,7 +11518,7 @@
       "team": "DAL",
       "age": 27,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "TE"
       ],
@@ -12134,7 +12134,7 @@
       "team": "WAS",
       "age": 27,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "TE"
       ],
@@ -12685,7 +12685,7 @@
       "position": "WR",
       "team": "LAR",
       "age": 25,
-      "status": "Active",
+      "status": "Inactive",
       "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
