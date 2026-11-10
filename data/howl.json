@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-10T17:50:36.852Z",
+  "fetched_at": "2026-11-10T23:22:23.170Z",
   "current_week": 10,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -1977,8 +1977,8 @@
       "position": "WR",
       "team": "ARI",
       "age": 26,
-      "status": "Active",
-      "injury_status": "Out",
+      "status": "Inactive",
+      "injury_status": "IR",
       "fantasy_positions": [
         "WR"
       ],
@@ -2437,7 +2437,7 @@
       "player_id": "1166",
       "full_name": "Kirk Cousins",
       "position": "QB",
-      "team": "LV",
+      "team": "MIN",
       "age": 38,
       "status": "Active",
       "injury_status": null,
@@ -5187,7 +5187,7 @@
       "player_id": "9500",
       "full_name": "Josh Downs",
       "position": "WR",
-      "team": "IND",
+      "team": "KC",
       "age": 25,
       "status": "Active",
       "injury_status": null,
