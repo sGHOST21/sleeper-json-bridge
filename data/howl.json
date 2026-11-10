@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-10T09:50:29.067Z",
+  "fetched_at": "2026-11-10T17:50:36.852Z",
   "current_week": 10,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -10,7 +10,7 @@
     },
     "settings": {
       "best_ball": 0,
-      "last_report": 8,
+      "last_report": 9,
       "waiver_budget": 100,
       "disable_adds": 0,
       "capacity_override": 0,
@@ -112,7 +112,7 @@
       "pts_allow_7_13": 4,
       "st_ff": 1
     },
-    "last_message_id": "1425478103261605888",
+    "last_message_id": "1425933327679881216",
     "draft_id": "1400845992303022080",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
@@ -120,11 +120,16 @@
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1794222973222,
+    "last_message_time": 1794331507181,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1400845991007019008",
     "previous_league_id": null,
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -146,11 +151,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 8
   },
   "users": [
@@ -700,11 +700,11 @@
       "starters": [
         "9228",
         "8150",
-        "13345",
+        "11576",
         "7564",
         "9493",
         "8131",
-        "11584",
+        "9224",
         "9487",
         "6083",
         "SF"
@@ -1243,11 +1243,11 @@
       "starters": [
         "9228",
         "8150",
-        "13345",
+        "11576",
         "7564",
         "9493",
         "8131",
-        "11584",
+        "9224",
         "9487",
         "6083",
         "SF"
