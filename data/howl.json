@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-11T15:12:16.261Z",
+  "fetched_at": "2026-11-11T21:58:06.675Z",
   "current_week": 10,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -63,10 +63,10 @@
     },
     "avatar": "3a2a8f32f6fec7c6b6663d1495cf1168",
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
+    "shard": 949,
     "season": "2026",
-    "last_message_id": "1426218175602626560",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -112,19 +112,24 @@
       "pts_allow_7_13": 4,
       "st_ff": 1
     },
-    "shard": 949,
+    "last_message_id": "1426304801477492736",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1794399420217,
+    "last_message_time": 1794420073436,
+    "draft_id": "1400845992303022080",
     "last_pinned_message_id": null,
     "last_read_id": null,
-    "draft_id": "1400845992303022080",
     "league_id": "1400845991007019008",
     "previous_league_id": null,
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -146,11 +151,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 8
   },
   "users": [
@@ -421,20 +421,17 @@
         "4881",
         "6650",
         "6794",
+        "7042",
         "7553",
-        "7567",
         "8110",
         "8136",
         "8144",
         "8167",
-        "9226",
         "9754",
         "DEN",
-        "PHI"
+        "IND"
       ],
-      "reserve": [
-        "9226"
-      ],
+      "reserve": null,
       "roster_id": 3,
       "settings": {
         "fpts": 986,
@@ -454,13 +451,13 @@
         "421",
         "12507",
         "12512",
-        "13298",
+        "8144",
         "6794",
-        "8110",
+        "7553",
         "8167",
-        "4881",
-        "6650",
-        "DEN"
+        "11635",
+        "7042",
+        "IND"
       ],
       "taxi": null
     },
@@ -723,11 +720,11 @@
       "owner_id": "1401343543036882944",
       "player_map": null,
       "players": [
-        "10232",
         "11566",
         "12185",
         "12506",
         "12519",
+        "12718",
         "2216",
         "3294",
         "5012",
@@ -742,7 +739,7 @@
         "9488",
         "9500",
         "9509",
-        "NE"
+        "JAX"
       ],
       "reserve": [
         "8142"
@@ -772,7 +769,7 @@
         "7588",
         "11566",
         "12185",
-        "NE"
+        "JAX"
       ],
       "taxi": null
     }
@@ -941,16 +938,15 @@
         "4881",
         "6650",
         "6794",
+        "7042",
         "7553",
-        "7567",
         "8110",
         "8136",
         "8144",
         "8167",
-        "9226",
         "9754",
         "DEN",
-        "PHI"
+        "IND"
       ],
       "roster_id": 3,
       "custom_points": null,
@@ -959,13 +955,13 @@
         "421",
         "12507",
         "12512",
-        "13298",
+        "8144",
         "6794",
-        "8110",
+        "7553",
         "8167",
-        "4881",
-        "6650",
-        "DEN"
+        "11635",
+        "7042",
+        "IND"
       ],
       "starters_points": [
         0,
@@ -985,20 +981,19 @@
         "4881": 0,
         "6650": 0,
         "6794": 0,
+        "7042": 0,
         "7553": 0,
-        "7567": 0,
         "8110": 0,
         "8136": 0,
         "8144": 0,
         "8167": 0,
-        "9226": 0,
         "9754": 0,
         "11635": 0,
         "12507": 0,
         "12512": 0,
         "13298": 0,
         "DEN": 0,
-        "PHI": 0
+        "IND": 0
       }
     },
     {
@@ -1292,11 +1287,11 @@
     {
       "points": 0,
       "players": [
-        "10232",
         "11566",
         "12185",
         "12506",
         "12519",
+        "12718",
         "2216",
         "3294",
         "5012",
@@ -1311,7 +1306,7 @@
         "9488",
         "9500",
         "9509",
-        "NE"
+        "JAX"
       ],
       "roster_id": 8,
       "custom_points": null,
@@ -1326,7 +1321,7 @@
         "7588",
         "11566",
         "12185",
-        "NE"
+        "JAX"
       ],
       "starters_points": [
         0,
@@ -1355,12 +1350,12 @@
         "9488": 0,
         "9500": 0,
         "9509": 0,
-        "10232": 0,
         "11566": 0,
         "12185": 0,
         "12506": 0,
         "12519": 0,
-        "NE": 0
+        "12718": 0,
+        "JAX": 0
       }
     }
   ],
@@ -1938,6 +1933,150 @@
       "status": "complete",
       "type": "free_agent",
       "metadata": null,
+      "created": 1794420073404,
+      "settings": null,
+      "leg": 10,
+      "draft_picks": [],
+      "creator": "1400879577995206656",
+      "transaction_id": "1426304801343291392",
+      "adds": {
+        "7042": 3
+      },
+      "consenter_ids": [
+        3
+      ],
+      "drops": {
+        "7567": 3
+      },
+      "roster_ids": [
+        3
+      ],
+      "status_updated": 1794420073404,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1794419955814,
+      "settings": null,
+      "leg": 10,
+      "draft_picks": [],
+      "creator": "1400879577995206656",
+      "transaction_id": "1426304308135092230",
+      "adds": {
+        "IND": 3
+      },
+      "consenter_ids": [
+        3
+      ],
+      "drops": {
+        "9226": 3
+      },
+      "roster_ids": [
+        3
+      ],
+      "status_updated": 1794419955814,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1794419892839,
+      "settings": null,
+      "leg": 10,
+      "draft_picks": [],
+      "creator": "1400879577995206656",
+      "transaction_id": "1426304043998781440",
+      "adds": null,
+      "consenter_ids": [
+        3
+      ],
+      "drops": {
+        "PHI": 3
+      },
+      "roster_ids": [
+        3
+      ],
+      "status_updated": 1794419892839,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1794413709194,
+      "settings": null,
+      "leg": 10,
+      "draft_picks": [],
+      "creator": "1401343543036882944",
+      "transaction_id": "1426278107911839744",
+      "adds": {
+        "JAX": 8
+      },
+      "consenter_ids": [
+        8
+      ],
+      "drops": {
+        "NE": 8
+      },
+      "roster_ids": [
+        8
+      ],
+      "status_updated": 1794413709194,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1794413612548,
+      "settings": null,
+      "leg": 10,
+      "draft_picks": [],
+      "creator": "1401343543036882944",
+      "transaction_id": "1426277702553305088",
+      "adds": {
+        "12718": 8
+      },
+      "consenter_ids": [
+        8
+      ],
+      "drops": null,
+      "roster_ids": [
+        8
+      ],
+      "status_updated": 1794413612548,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1794413490837,
+      "settings": null,
+      "leg": 10,
+      "draft_picks": [],
+      "creator": "1401343543036882944",
+      "transaction_id": "1426277192056188928",
+      "adds": null,
+      "consenter_ids": [
+        8
+      ],
+      "drops": {
+        "10232": 8
+      },
+      "roster_ids": [
+        8
+      ],
+      "status_updated": 1794413490837,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
       "created": 1794399420186,
       "settings": null,
       "leg": 10,
@@ -2411,7 +2550,7 @@
       "team": "KC",
       "age": 23,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -2719,7 +2858,7 @@
       "team": "JAX",
       "age": 23,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
@@ -3042,6 +3181,28 @@
       "sportradar_id": "94b8f9e1-3109-4429-8f71-4f79d7588237",
       "fantasy_data_id": 23187
     },
+    "12718": {
+      "player_id": "12718",
+      "full_name": "Konata Mumpfield",
+      "position": "WR",
+      "team": "LAR",
+      "age": 24,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "WR"
+      ],
+      "height": "73",
+      "weight": "188",
+      "years_exp": 1,
+      "college": "Pittsburgh",
+      "birth_date": "2002-10-24",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 17081,
+      "sportradar_id": "ccb6d700-ac74-4f6b-9f86-d1aa74d0c318",
+      "fantasy_data_id": 25001
+    },
     "13274": {
       "player_id": "13274",
       "full_name": "Germie Bernard",
@@ -3203,7 +3364,7 @@
       "team": "CLE",
       "age": 22,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -3401,7 +3562,7 @@
       "team": "DET",
       "age": 32,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "QB"
       ],
@@ -3621,7 +3782,7 @@
       "team": "KC",
       "age": 31,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "QB"
       ],
@@ -3885,7 +4046,7 @@
       "team": "MIN",
       "age": 29,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "TE"
       ],
@@ -4061,7 +4222,7 @@
       "team": "JAX",
       "age": 30,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -4362,6 +4523,28 @@
       "sportradar_id": "bba755a2-63b6-4ac1-b806-0609816135de",
       "fantasy_data_id": 21952
     },
+    "7042": {
+      "player_id": "7042",
+      "full_name": "Tyler Bass",
+      "position": "K",
+      "team": "BUF",
+      "age": 29,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "K"
+      ],
+      "height": "70",
+      "weight": "183",
+      "years_exp": 6,
+      "college": "Georgia Southern",
+      "birth_date": "1997-02-14",
+      "espn_id": 3917232,
+      "yahoo_id": 32858,
+      "rotowire_id": 14609,
+      "sportradar_id": "bfccbff4-bc01-41ed-aa11-be976160504c",
+      "fantasy_data_id": 22108
+    },
     "7523": {
       "player_id": "7523",
       "full_name": "Trevor Lawrence",
@@ -4457,7 +4640,7 @@
       "team": "DET",
       "age": 27,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -5293,7 +5476,7 @@
       "team": "LAR",
       "age": 25,
       "status": "Inactive",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ],
@@ -5555,6 +5738,50 @@
       "full_name": "Houston Texans",
       "position": "DEF",
       "team": "HOU",
+      "age": null,
+      "status": null,
+      "injury_status": null,
+      "fantasy_positions": [
+        "DEF"
+      ],
+      "height": null,
+      "weight": null,
+      "years_exp": null,
+      "college": null,
+      "birth_date": null,
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": null,
+      "sportradar_id": null,
+      "fantasy_data_id": null
+    },
+    "IND": {
+      "player_id": "IND",
+      "full_name": "Indianapolis Colts",
+      "position": "DEF",
+      "team": "IND",
+      "age": null,
+      "status": null,
+      "injury_status": null,
+      "fantasy_positions": [
+        "DEF"
+      ],
+      "height": null,
+      "weight": null,
+      "years_exp": null,
+      "college": null,
+      "birth_date": null,
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": null,
+      "sportradar_id": null,
+      "fantasy_data_id": null
+    },
+    "JAX": {
+      "player_id": "JAX",
+      "full_name": "Jacksonville Jaguars",
+      "position": "DEF",
+      "team": "JAX",
       "age": null,
       "status": null,
       "injury_status": null,
