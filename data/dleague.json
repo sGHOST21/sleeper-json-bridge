@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-12T02:59:12.812Z",
+  "fetched_at": "2026-11-12T11:10:25.651Z",
   "current_week": 10,
   "league": {
     "name": "The D-League",
@@ -685,13 +685,13 @@
       "roster_id": 1,
       "settings": {
         "division": 1,
-        "fpts": 881,
+        "fpts": 882,
         "fpts_against": 1069,
         "fpts_against_decimal": 68,
-        "fpts_decimal": 92,
+        "fpts_decimal": 42,
         "losses": 6,
-        "ppts": 1080,
-        "ppts_decimal": 80,
+        "ppts": 1081,
+        "ppts_decimal": 30,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 45,
@@ -831,8 +831,8 @@
       "settings": {
         "division": 1,
         "fpts": 848,
-        "fpts_against": 1039,
-        "fpts_against_decimal": 54,
+        "fpts_against": 1040,
+        "fpts_against_decimal": 4,
         "fpts_decimal": 62,
         "losses": 7,
         "ppts": 969,
@@ -1488,8 +1488,8 @@
       "settings": {
         "division": 2,
         "fpts": 1012,
-        "fpts_against": 1096,
-        "fpts_against_decimal": 40,
+        "fpts_against": 1095,
+        "fpts_against_decimal": 90,
         "fpts_decimal": 26,
         "losses": 6,
         "ppts": 1112,
@@ -1721,13 +1721,13 @@
       "roster_id": 14,
       "settings": {
         "division": 2,
-        "fpts": 1381,
+        "fpts": 1380,
         "fpts_against": 1064,
         "fpts_against_decimal": 34,
-        "fpts_decimal": 28,
+        "fpts_decimal": 78,
         "losses": 3,
-        "ppts": 1558,
-        "ppts_decimal": 22,
+        "ppts": 1557,
+        "ppts_decimal": 72,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
@@ -14532,7 +14532,7 @@
       "position": "WR",
       "team": "LAR",
       "age": 25,
-      "status": "Inactive",
+      "status": "Active",
       "injury_status": "Out",
       "fantasy_positions": [
         "WR"
