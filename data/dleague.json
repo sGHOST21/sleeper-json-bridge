@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-13T16:24:11.133Z",
+  "fetched_at": "2026-11-13T22:37:52.162Z",
   "current_week": 10,
   "league": {
     "name": "The D-League",
@@ -1260,10 +1260,10 @@
         "12504",
         "12469",
         "9487",
-        "13279",
-        "4993",
         "4177",
+        "4993",
         "7562",
+        "12502",
         "3451",
         "5912",
         "8329",
@@ -2639,10 +2639,10 @@
         "12504",
         "12469",
         "9487",
-        "13279",
-        "4993",
         "4177",
+        "4993",
         "7562",
+        "12502",
         "3451",
         "5912",
         "8329",
@@ -5631,7 +5631,7 @@
       "team": "JAX",
       "age": 27,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "RB"
       ],
@@ -5763,7 +5763,7 @@
       "team": "BUF",
       "age": 27,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "TE"
       ],
@@ -6624,7 +6624,7 @@
       "team": "NYJ",
       "age": 24,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -6690,7 +6690,7 @@
       "team": "HOU",
       "age": 24,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ],
@@ -7351,7 +7351,7 @@
       "team": "HOU",
       "age": 25,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "RB"
       ],
@@ -7505,7 +7505,7 @@
       "team": "JAX",
       "age": 23,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "RB"
       ],
@@ -7747,7 +7747,7 @@
       "team": "CLE",
       "age": 22,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "TE"
       ],
@@ -8232,7 +8232,7 @@
       "team": "LV",
       "age": 23,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -8410,7 +8410,7 @@
       "team": "CLE",
       "age": 23,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "LB"
       ],
@@ -8784,7 +8784,7 @@
       "team": "TEN",
       "age": 21,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ],
@@ -9114,7 +9114,7 @@
       "team": "ATL",
       "age": 22,
       "status": "Active",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ],
@@ -9842,7 +9842,7 @@
       "team": "SF",
       "age": 33,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ],
@@ -9886,7 +9886,7 @@
       "team": "HOU",
       "age": 32,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "DL",
         "LB"
@@ -10019,7 +10019,7 @@
       "team": "MIN",
       "age": 33,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "QB"
       ],
@@ -10107,7 +10107,7 @@
       "team": "NE",
       "age": 31,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "TE"
       ],
@@ -10151,7 +10151,7 @@
       "team": "LAR",
       "age": 33,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "TE"
       ],
@@ -11077,7 +11077,7 @@
       "team": "JAX",
       "age": 29,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "fantasy_positions": [
         "DB"
       ],
@@ -11320,7 +11320,7 @@
       "team": "MIN",
       "age": 29,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "TE"
       ],
@@ -11361,7 +11361,7 @@
       "player_id": "5848",
       "full_name": "Marquise Brown",
       "position": "WR",
-      "team": "PHI",
+      "team": null,
       "age": 29,
       "status": "Active",
       "injury_status": null,
@@ -11386,7 +11386,7 @@
       "team": "MIN",
       "age": 29,
       "status": "Active",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "fantasy_positions": [
         "QB"
       ],
@@ -11430,7 +11430,7 @@
       "team": "SEA",
       "age": 30,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "QB"
       ],
@@ -11563,7 +11563,7 @@
       "team": "SF",
       "age": 30,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -11696,7 +11696,7 @@
       "team": "JAX",
       "age": 30,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -11718,7 +11718,7 @@
       "team": "TEN",
       "age": 29,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "RB"
       ],
@@ -11961,7 +11961,7 @@
       "team": "CLE",
       "age": 30,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "LB"
       ],
@@ -11983,7 +11983,7 @@
       "team": "MIN",
       "age": 30,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "LB"
       ],
@@ -12027,7 +12027,7 @@
       "team": "HOU",
       "age": 29,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "LB"
       ],
@@ -12181,7 +12181,7 @@
       "team": "GB",
       "age": 28,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "DB"
       ],
@@ -12622,7 +12622,7 @@
       "team": "MIN",
       "age": 29,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ],
@@ -13394,7 +13394,7 @@
       "team": "ARI",
       "age": 25,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "RB"
       ],
@@ -13614,7 +13614,7 @@
       "team": "DAL",
       "age": 25,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -13768,7 +13768,7 @@
       "team": "KC",
       "age": 26,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
@@ -14892,7 +14892,7 @@
       "team": "MIN",
       "age": 24,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
