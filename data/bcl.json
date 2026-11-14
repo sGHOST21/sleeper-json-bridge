@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-13T22:37:53.168Z",
+  "fetched_at": "2026-11-14T03:15:22.457Z",
   "current_week": 10,
   "league": {
     "name": "Brass City League",
@@ -6447,7 +6447,7 @@
       "team": "LAC",
       "age": 24,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -6888,7 +6888,7 @@
       "team": "DAL",
       "age": 23,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "DL",
         "LB"
@@ -9887,7 +9887,7 @@
       "full_name": "Justice Hill",
       "position": "RB",
       "team": "BAL",
-      "age": 28,
+      "age": 29,
       "status": "Active",
       "injury_status": null,
       "fantasy_positions": [
@@ -10660,7 +10660,7 @@
       "full_name": "DeVonta Smith",
       "position": "WR",
       "team": "PHI",
-      "age": 27,
+      "age": 28,
       "status": "Active",
       "injury_status": "Out",
       "fantasy_positions": [
@@ -10882,7 +10882,7 @@
       "team": "BAL",
       "age": 26,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
