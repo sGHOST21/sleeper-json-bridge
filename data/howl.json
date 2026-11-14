@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-14T10:35:04.210Z",
+  "fetched_at": "2026-11-14T17:08:10.310Z",
   "current_week": 10,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -5168,7 +5168,7 @@
       "team": "KC",
       "age": 26,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "RB"
       ],
