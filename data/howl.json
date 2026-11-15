@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-15T09:26:11.983Z",
+  "fetched_at": "2026-11-15T17:11:00.857Z",
   "current_week": 10,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -62,12 +62,8 @@
       "daily_waivers_last_ran": 6
     },
     "avatar": "3a2a8f32f6fec7c6b6663d1495cf1168",
-    "company_id": null,
     "league_id": "1400845991007019008",
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
-    "shard": 949,
+    "company_id": null,
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -113,21 +109,25 @@
       "pts_allow_7_13": 4,
       "st_ff": 1
     },
-    "last_message_id": "1426944641709641728",
+    "season": "2026",
+    "season_type": "regular",
+    "shard": 949,
+    "sport": "nfl",
+    "last_message_id": "1427733803643723776",
     "last_author_avatar": "e9e60299e9e4d98d837e7b64f2118586",
     "last_author_display_name": "Shanei",
     "last_author_id": "737708656518385664",
     "last_author_is_bot": false,
     "last_message_attachment": null,
+    "draft_id": "1400845992303022080",
     "last_message_text_map": null,
-    "last_message_time": 1794572623234,
+    "last_message_time": 1794760774106,
     "last_pinned_message_id": null,
     "last_read_id": null,
-    "draft_id": "1400845992303022080",
     "previous_league_id": null,
+    "group_id": null,
     "bracket_id": null,
     "bracket_overrides_id": null,
-    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "roster_positions": [
@@ -328,7 +328,7 @@
         "9997",
         "7547",
         "4217",
-        "9753",
+        "8146",
         "8183",
         "7839",
         "MIN"
@@ -661,11 +661,11 @@
       "players": [
         "11559",
         "11565",
-        "11576",
         "11584",
         "11834",
         "12514",
         "12534",
+        "13337",
         "13345",
         "4199",
         "6083",
@@ -676,10 +676,13 @@
         "9228",
         "9487",
         "9493",
+        "9756",
         "CIN",
         "SF"
       ],
-      "reserve": null,
+      "reserve": [
+        "9493"
+      ],
       "roster_id": 7,
       "settings": {
         "fpts": 1226,
@@ -698,7 +701,7 @@
       "starters": [
         "9228",
         "8150",
-        "11576",
+        "13337",
         "7564",
         "9487",
         "8131",
@@ -777,7 +780,7 @@
   "traded_picks": [],
   "matchups": [
     {
-      "points": 0,
+      "points": 59.3,
       "players": [
         "12474",
         "12495",
@@ -810,17 +813,17 @@
         "9997",
         "7547",
         "4217",
-        "9753",
+        "8146",
         "8183",
         "7839",
         "MIN"
       ],
       "starters_points": [
         0,
+        33.5,
         0,
         0,
-        0,
-        0,
+        25.8,
         0,
         0,
         0,
@@ -828,16 +831,16 @@
         0
       ],
       "players_points": {
-        "3163": 0,
+        "3163": 21.18,
         "4217": 0,
         "4866": 0,
         "7523": 0,
         "7525": 0,
-        "7547": 0,
+        "7547": 25.8,
         "7839": 0,
         "8146": 0,
         "8183": 0,
-        "9221": 0,
+        "9221": 33.5,
         "9753": 0,
         "9997": 0,
         "12474": 0,
@@ -997,7 +1000,7 @@
       }
     },
     {
-      "points": 34.6,
+      "points": 37.62,
       "players": [
         "10236",
         "11560",
@@ -1036,7 +1039,7 @@
         "SEA"
       ],
       "starters_points": [
-        0,
+        3.02,
         0,
         27.2,
         7.4,
@@ -1049,16 +1052,16 @@
       ],
       "players_points": {
         "2747": 0,
-        "3214": 0,
+        "3214": 4.2,
         "4943": 0,
         "4983": 0,
         "5844": 0,
         "5872": 0,
-        "7611": 0,
+        "7611": 1.5,
         "8134": 0,
         "10236": 0,
         "11560": 0,
-        "11564": 0,
+        "11564": 3.02,
         "11586": 0,
         "11624": 0,
         "11632": 7.4,
@@ -1141,7 +1144,7 @@
       }
     },
     {
-      "points": 0,
+      "points": 2.6,
       "players": [
         "10229",
         "10859",
@@ -1185,7 +1188,7 @@
         0,
         0,
         0,
-        0,
+        2.6,
         0,
         0,
         0
@@ -1204,7 +1207,7 @@
         "9484": 0,
         "9758": 0,
         "10229": 0,
-        "10859": 0,
+        "10859": 2.6,
         "11435": 0,
         "11533": 0,
         "11581": 0,
@@ -1217,11 +1220,11 @@
       "players": [
         "11559",
         "11565",
-        "11576",
         "11584",
         "11834",
         "12514",
         "12534",
+        "13337",
         "13345",
         "4199",
         "6083",
@@ -1232,6 +1235,7 @@
         "9228",
         "9487",
         "9493",
+        "9756",
         "CIN",
         "SF"
       ],
@@ -1241,7 +1245,7 @@
       "starters": [
         "9228",
         "8150",
-        "11576",
+        "13337",
         "7564",
         "9487",
         "8131",
@@ -1272,13 +1276,14 @@
         "9228": 0,
         "9487": 0,
         "9493": 0,
+        "9756": 0,
         "11559": 0,
         "11565": 18.12,
-        "11576": 0,
         "11584": 0,
         "11834": 0,
         "12514": 0,
         "12534": 0,
+        "13337": 0,
         "13345": 0,
         "CIN": 0,
         "SF": 0
@@ -1344,7 +1349,7 @@
         "6790": 0,
         "7588": 0,
         "8142": 0,
-        "8148": 0,
+        "8148": 4.7,
         "8151": 0,
         "8155": 0,
         "9488": 0,
@@ -1933,6 +1938,54 @@
       "status": "complete",
       "type": "free_agent",
       "metadata": null,
+      "created": 1794740542660,
+      "settings": null,
+      "leg": 10,
+      "draft_picks": [],
+      "creator": "1401317827809398784",
+      "transaction_id": "1427648946829799424",
+      "adds": {
+        "9756": 7
+      },
+      "consenter_ids": [
+        7
+      ],
+      "drops": {
+        "11576": 7
+      },
+      "roster_ids": [
+        7
+      ],
+      "status_updated": 1794740542660,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1794740005903,
+      "settings": null,
+      "leg": 10,
+      "draft_picks": [],
+      "creator": "1401317827809398784",
+      "transaction_id": "1427646695507787776",
+      "adds": {
+        "13337": 7
+      },
+      "consenter_ids": [
+        7
+      ],
+      "drops": null,
+      "roster_ids": [
+        7
+      ],
+      "status_updated": 1794740005903,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
       "created": 1794420073404,
       "settings": null,
       "leg": 10,
@@ -2374,7 +2427,7 @@
       "team": "NE",
       "age": 24,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "fantasy_positions": [
         "QB"
       ],
@@ -3335,6 +3388,28 @@
       "sportradar_id": "d80b6d95-5b56-4e52-9a19-05957961f506",
       "fantasy_data_id": 26859
     },
+    "13337": {
+      "player_id": "13337",
+      "full_name": "Emmett Johnson",
+      "position": "RB",
+      "team": "KC",
+      "age": 23,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "RB"
+      ],
+      "height": "71",
+      "weight": "200",
+      "years_exp": 0,
+      "college": "Nebraska",
+      "birth_date": "2003-10-10",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 19240,
+      "sportradar_id": "ec3e0874-c2bc-49f6-b4b1-dfc874eecb9b",
+      "fantasy_data_id": 26835
+    },
     "13345": {
       "player_id": "13345",
       "full_name": "Jonah Coleman",
@@ -3364,7 +3439,7 @@
       "team": "CLE",
       "age": 22,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -4134,7 +4209,7 @@
       "team": "NE",
       "age": 29,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -4618,7 +4693,7 @@
       "team": "NO",
       "age": 27,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "RB"
       ],
@@ -4640,7 +4715,7 @@
       "team": "DET",
       "age": 27,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -4816,7 +4891,7 @@
       "team": "NE",
       "age": 28,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "RB"
       ],
@@ -5102,7 +5177,7 @@
       "team": "NYJ",
       "age": 26,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -5578,6 +5653,28 @@
       "rotowire_id": 16899,
       "sportradar_id": "e648bc98-bc81-44d0-8d4b-b9223c497ff4",
       "fantasy_data_id": 24226
+    },
+    "9756": {
+      "player_id": "9756",
+      "full_name": "Jordan Addison",
+      "position": "WR",
+      "team": "MIN",
+      "age": 24,
+      "status": "Active",
+      "injury_status": "Out",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "height": "71",
+      "weight": "179",
+      "years_exp": 3,
+      "college": "USC",
+      "birth_date": "2002-01-27",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 16895,
+      "sportradar_id": "63fdd64e-1a23-4b77-9536-b1609f3a708c",
+      "fantasy_data_id": 23162
     },
     "9758": {
       "player_id": "9758",
