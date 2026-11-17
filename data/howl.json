@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-17T13:27:16.623Z",
+  "fetched_at": "2026-11-17T22:24:43.180Z",
   "current_week": 11,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -10,7 +10,7 @@
     },
     "settings": {
       "best_ball": 0,
-      "last_report": 9,
+      "last_report": 10,
       "waiver_budget": 100,
       "disable_adds": 0,
       "capacity_override": 0,
@@ -64,10 +64,6 @@
     "avatar": "3a2a8f32f6fec7c6b6663d1495cf1168",
     "company_id": null,
     "league_id": "1400845991007019008",
-    "shard": 949,
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -113,23 +109,22 @@
       "pts_allow_7_13": 4,
       "st_ff": 1
     },
-    "last_message_id": "1427802304093913088",
-    "draft_id": "1400845992303022080",
-    "last_author_avatar": "494d97104f118d2421e8db834dd899d5",
-    "last_author_display_name": "NotoriousZAE",
-    "last_author_id": "1401314114613022720",
+    "season": "2026",
+    "season_type": "regular",
+    "shard": 949,
+    "sport": "nfl",
+    "last_message_id": "1428527554972618752",
+    "last_author_avatar": "d7f3e061493481b4d3b1581cbf307a7d",
+    "last_author_display_name": "DJAY363",
+    "last_author_id": "1400900697192439808",
     "last_author_is_bot": false,
+    "draft_id": "1400845992303022080",
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1794777105882,
+    "last_message_time": 1794950019166,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "previous_league_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -151,6 +146,11 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 8
   },
   "users": [
@@ -574,15 +574,15 @@
         "wins": 4
       },
       "starters": [
-        "0",
+        "12545",
         "6813",
         "12490",
-        "2449",
+        "7569",
         "6801",
         "1466",
         "7594",
         "8228",
-        "0",
+        "3451",
         "BAL"
       ],
       "taxi": null
@@ -764,12 +764,12 @@
       },
       "starters": [
         "3294",
-        "9509",
-        "8151",
-        "9488",
-        "6786",
-        "12506",
         "7588",
+        "8151",
+        "12519",
+        "6786",
+        "5012",
+        "6790",
         "11566",
         "12185",
         "JAX"
@@ -1097,15 +1097,15 @@
       "custom_points": null,
       "matchup_id": 4,
       "starters": [
-        "0",
+        "12545",
         "6813",
         "12490",
-        "2449",
+        "7569",
         "6801",
         "1466",
         "7594",
         "8228",
-        "0",
+        "3451",
         "BAL"
       ],
       "starters_points": [
@@ -1316,12 +1316,12 @@
       "matchup_id": 3,
       "starters": [
         "3294",
-        "9509",
-        "8151",
-        "9488",
-        "6786",
-        "12506",
         "7588",
+        "8151",
+        "12519",
+        "6786",
+        "5012",
+        "6790",
         "11566",
         "12185",
         "JAX"

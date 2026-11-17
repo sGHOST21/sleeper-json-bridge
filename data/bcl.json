@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-17T13:27:15.827Z",
+  "fetched_at": "2026-11-17T22:24:42.327Z",
   "current_week": 11,
   "league": {
     "name": "Brass City League",
@@ -15,7 +15,7 @@
     },
     "settings": {
       "best_ball": 0,
-      "last_report": 9,
+      "last_report": 10,
       "waiver_budget": 100,
       "disable_adds": 0,
       "divisions": 2,
@@ -73,7 +73,6 @@
     "season": "2026",
     "season_type": "regular",
     "sport": "nfl",
-    "last_message_id": "1427745068755714048",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -131,22 +130,18 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
+    "last_message_id": "1428458674929541120",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1794763459913,
+    "last_message_time": 1794933596884,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "draft_id": "1387554218864291840",
     "previous_league_id": "1222634893318561792",
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -173,6 +168,11 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 12
   },
   "users": [
@@ -1364,19 +1364,19 @@
         "wins": 4
       },
       "starters": [
-        "11564",
+        "3257",
+        "9508",
         "7594",
-        "11586",
-        "2449",
+        "9754",
         "11646",
         "12518",
-        "9997",
-        "8150",
+        "2449",
+        "9500",
         "7839",
         "8385",
-        "7672",
+        "6217",
         "8330",
-        "7841"
+        "7672"
       ],
       "taxi": [
         "12505",
@@ -2605,18 +2605,18 @@
       "matchup_id": 5,
       "starters": [
         "3257",
-        "11584",
+        "9508",
         "7594",
-        "2449",
-        "9997",
-        "12518",
+        "9754",
         "11646",
+        "12518",
+        "2449",
         "9500",
         "7839",
         "8385",
         "6217",
         "8330",
-        "7841"
+        "7672"
       ],
       "starters_points": [
         0,
@@ -9291,8 +9291,8 @@
       "position": "LB",
       "team": "HOU",
       "age": 29,
-      "status": "Active",
-      "injury_status": "Out",
+      "status": "Inactive",
+      "injury_status": "IR",
       "fantasy_positions": [
         "LB"
       ],
@@ -10461,8 +10461,8 @@
       "position": "WR",
       "team": "TEN",
       "age": 25,
-      "status": "Active",
-      "injury_status": "Questionable",
+      "status": "Inactive",
+      "injury_status": "IR",
       "fantasy_positions": [
         "WR"
       ],
