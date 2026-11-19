@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-18T21:56:44.891Z",
+  "fetched_at": "2026-11-19T03:27:30.288Z",
   "current_week": 11,
   "league": {
     "name": "The D-League",
@@ -1639,7 +1639,7 @@
       "reserve": [
         "10232",
         "12484",
-        "13302"
+        "12536"
       ],
       "roster_id": 13,
       "settings": {
@@ -1665,7 +1665,7 @@
         "8148",
         "8131",
         "2449",
-        "7049",
+        "5844",
         "5119",
         "6125",
         "2617",
@@ -3115,7 +3115,7 @@
         "8148",
         "8131",
         "2449",
-        "7049",
+        "5844",
         "5119",
         "6125",
         "2617",
@@ -8142,7 +8142,7 @@
       "team": "LV",
       "age": 23,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -8604,7 +8604,7 @@
       "full_name": "Carson Beck",
       "position": "QB",
       "team": "ARI",
-      "age": 23,
+      "age": 24,
       "status": "Active",
       "injury_status": null,
       "fantasy_positions": [
@@ -10962,7 +10962,7 @@
       "full_name": "Fred Warner",
       "position": "LB",
       "team": "SF",
-      "age": 29,
+      "age": 30,
       "status": "Active",
       "injury_status": null,
       "fantasy_positions": [
@@ -11626,7 +11626,7 @@
       "team": "LV",
       "age": 32,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "K"
       ],
@@ -12155,7 +12155,7 @@
       "team": "PIT",
       "age": 27,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "LB"
       ],
@@ -12420,7 +12420,7 @@
       "team": "MIN",
       "age": 29,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -12574,7 +12574,7 @@
       "team": "SF",
       "age": 28,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "QB"
       ],
@@ -13918,7 +13918,7 @@
       "position": "DL",
       "team": "DET",
       "age": 26,
-      "status": "Active",
+      "status": "Inactive",
       "injury_status": "IR",
       "fantasy_positions": [
         "DL"
@@ -14094,7 +14094,7 @@
       "full_name": "Nate Landman",
       "position": "LB",
       "team": "LAR",
-      "age": 27,
+      "age": 28,
       "status": "Active",
       "injury_status": null,
       "fantasy_positions": [
