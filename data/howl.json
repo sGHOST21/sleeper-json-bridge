@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-19T13:07:16.934Z",
+  "fetched_at": "2026-11-19T21:34:10.376Z",
   "current_week": 11,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -709,7 +709,7 @@
         "9224",
         "11834",
         "6083",
-        "SF"
+        "CIN"
       ],
       "taxi": null
     },
@@ -1253,7 +1253,7 @@
         "9224",
         "11834",
         "6083",
-        "SF"
+        "CIN"
       ],
       "starters_points": [
         0,
@@ -5498,7 +5498,7 @@
       "position": "WR",
       "team": "LAR",
       "age": 25,
-      "status": "Inactive",
+      "status": "Active",
       "injury_status": "IR",
       "fantasy_positions": [
         "WR"
