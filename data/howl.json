@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-19T03:27:31.896Z",
+  "fetched_at": "2026-11-19T13:07:16.934Z",
   "current_week": 11,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -113,18 +113,23 @@
     "season_type": "regular",
     "shard": 949,
     "sport": "nfl",
-    "last_message_id": "1428900322184544256",
+    "last_message_id": "1429121482922938368",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1795038893794,
+    "last_message_time": 1795091622623,
     "last_pinned_message_id": null,
-    "draft_id": "1400845992303022080",
     "last_read_id": null,
+    "draft_id": "1400845992303022080",
     "previous_league_id": null,
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -146,11 +151,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 8
   },
   "users": [
@@ -475,11 +475,11 @@
       "players": [
         "10236",
         "11560",
+        "11576",
         "11586",
         "11624",
         "11632",
         "11637",
-        "11646",
         "12481",
         "12489",
         "12501",
@@ -515,10 +515,10 @@
       "starters": [
         "11560",
         "12481",
-        "11586",
+        "11576",
         "11632",
         "4983",
-        "5844",
+        "10236",
         "8134",
         "5872",
         "2747",
@@ -1005,11 +1005,11 @@
       "players": [
         "10236",
         "11560",
+        "11576",
         "11586",
         "11624",
         "11632",
         "11637",
-        "11646",
         "12481",
         "12489",
         "12501",
@@ -1030,10 +1030,10 @@
       "starters": [
         "11560",
         "12481",
-        "11586",
+        "11576",
         "11632",
         "4983",
-        "5844",
+        "10236",
         "8134",
         "5872",
         "2747",
@@ -1062,11 +1062,11 @@
         "8134": 0,
         "10236": 0,
         "11560": 0,
+        "11576": 0,
         "11586": 0,
         "11624": 0,
         "11632": 0,
         "11637": 0,
-        "11646": 0,
         "12481": 0,
         "12489": 0,
         "12501": 0,
@@ -2135,6 +2135,31 @@
         4
       ],
       "status_updated": 1794395548440,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1795091622595,
+      "settings": null,
+      "leg": 11,
+      "draft_picks": [],
+      "creator": "1400900697192439808",
+      "transaction_id": "1429121482805493760",
+      "adds": {
+        "11576": 4
+      },
+      "consenter_ids": [
+        4
+      ],
+      "drops": {
+        "11646": 4
+      },
+      "roster_ids": [
+        4
+      ],
+      "status_updated": 1795091622595,
       "waiver_budget": []
     },
     {
