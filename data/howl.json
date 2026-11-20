@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-19T21:34:10.376Z",
+  "fetched_at": "2026-11-20T03:15:28.072Z",
   "current_week": 11,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -113,23 +113,18 @@
     "season_type": "regular",
     "shard": 949,
     "sport": "nfl",
-    "last_message_id": "1429121482922938368",
+    "last_message_id": "1429340836654497792",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1795091622623,
+    "last_message_time": 1795143920628,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "draft_id": "1400845992303022080",
     "previous_league_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -151,6 +146,11 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 8
   },
   "users": [
@@ -347,6 +347,7 @@
       "player_map": null,
       "players": [
         "11563",
+        "11620",
         "1166",
         "11786",
         "12526",
@@ -362,7 +363,6 @@
         "7543",
         "8112",
         "8130",
-        "8132",
         "8138",
         "HOU",
         "PIT"
@@ -847,7 +847,7 @@
         "12474": 0,
         "12495": 0,
         "12517": 0,
-        "12518": 0,
+        "12518": 3.2,
         "13281": 0,
         "13287": 0,
         "13346": 0,
@@ -855,9 +855,10 @@
       }
     },
     {
-      "points": 0,
+      "points": 15,
       "players": [
         "11563",
+        "11620",
         "1166",
         "11786",
         "12526",
@@ -873,7 +874,6 @@
         "7543",
         "8112",
         "8130",
-        "8132",
         "8138",
         "HOU",
         "PIT"
@@ -903,7 +903,7 @@
         0,
         0,
         0,
-        0
+        15
       ],
       "players_points": {
         "1166": 0,
@@ -916,15 +916,15 @@
         "7543": 0,
         "8112": 0,
         "8130": 0,
-        "8132": 0,
         "8138": 0,
         "11563": 0,
+        "11620": 0,
         "11786": 0,
         "12526": 0,
         "12527": 0,
         "13279": 0,
         "13301": 0,
-        "HOU": 0,
+        "HOU": 15,
         "PIT": 0
       }
     },
@@ -1075,7 +1075,7 @@
       }
     },
     {
-      "points": 0,
+      "points": 21.6,
       "players": [
         "10222",
         "11604",
@@ -1113,14 +1113,14 @@
       ],
       "starters_points": [
         0,
+        3.8,
+        0,
+        12.8,
         0,
         0,
         0,
         0,
-        0,
-        0,
-        0,
-        0,
+        5,
         0
       ],
       "players_points": {
@@ -1128,12 +1128,12 @@
         "1466": 0,
         "2133": 0,
         "2449": 0,
-        "3451": 0,
+        "3451": 5,
         "4034": 0,
         "5045": 0,
         "6801": 0,
-        "6813": 0,
-        "7569": 0,
+        "6813": 3.8,
+        "7569": 12.8,
         "7594": 0,
         "8228": 0,
         "10222": 0,
@@ -1145,7 +1145,7 @@
       }
     },
     {
-      "points": 0,
+      "points": 1.8,
       "players": [
         "10229",
         "10859",
@@ -1185,7 +1185,7 @@
       "starters_points": [
         0,
         0,
-        0,
+        1.8,
         0,
         0,
         0,
@@ -1199,19 +1199,19 @@
         "4039": 0,
         "4046": 0,
         "4984": 0,
-        "5001": 0,
+        "5001": 2.1,
         "6804": 0,
         "7526": 0,
         "8137": 0,
         "9480": 0,
         "9484": 0,
-        "9758": 0,
+        "9758": 13.06,
         "10229": 0,
         "10859": 0,
         "11435": 0,
         "11533": 0,
         "11581": 0,
-        "13424": 0,
+        "13424": 1.8,
         "BUF": 0,
         "CAR": 0
       }
@@ -1291,7 +1291,7 @@
       }
     },
     {
-      "points": 0,
+      "points": 1,
       "players": [
         "11566",
         "12185",
@@ -1338,7 +1338,7 @@
         0,
         0,
         0,
-        0,
+        1,
         0
       ],
       "players_points": {
@@ -1357,7 +1357,7 @@
         "9500": 0,
         "9509": 0,
         "11566": 0,
-        "12185": 0,
+        "12185": 1,
         "12506": 0,
         "12519": 0,
         "12718": 0,
@@ -2141,6 +2141,31 @@
       "status": "complete",
       "type": "free_agent",
       "metadata": null,
+      "created": 1795143920599,
+      "settings": null,
+      "leg": 11,
+      "draft_picks": [],
+      "creator": "1400852933964230656",
+      "transaction_id": "1429340836528656384",
+      "adds": {
+        "11620": 2
+      },
+      "drops": {
+        "8132": 2
+      },
+      "consenter_ids": [
+        2
+      ],
+      "roster_ids": [
+        2
+      ],
+      "status_updated": 1795143920599,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
       "created": 1795091622595,
       "settings": null,
       "leg": 11,
@@ -2150,12 +2175,12 @@
       "adds": {
         "11576": 4
       },
-      "consenter_ids": [
-        4
-      ],
       "drops": {
         "11646": 4
       },
+      "consenter_ids": [
+        4
+      ],
       "roster_ids": [
         4
       ],
@@ -2175,12 +2200,12 @@
       "adds": {
         "DET": 4
       },
-      "consenter_ids": [
-        4
-      ],
       "drops": {
         "4943": 4
       },
+      "consenter_ids": [
+        4
+      ],
       "roster_ids": [
         4
       ],
@@ -2200,12 +2225,12 @@
       "adds": {
         "13424": 6
       },
-      "consenter_ids": [
-        6
-      ],
       "drops": {
         "5947": 6
       },
+      "consenter_ids": [
+        6
+      ],
       "roster_ids": [
         6
       ],
@@ -2631,6 +2656,28 @@
       "rotowire_id": 17693,
       "sportradar_id": "ad9fc7e3-0a6d-4e41-84c2-cf43b71aee13",
       "fantasy_data_id": 24943
+    },
+    "11620": {
+      "player_id": "11620",
+      "full_name": "Rome Odunze",
+      "position": "WR",
+      "team": "CHI",
+      "age": 24,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "WR"
+      ],
+      "height": "75",
+      "weight": "214",
+      "years_exp": 2,
+      "college": "Washington",
+      "birth_date": "2002-06-03",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 17020,
+      "sportradar_id": "f64694e0-0381-11ef-973d-5176a0ecbee4",
+      "fantasy_data_id": 24977
     },
     "11624": {
       "player_id": "11624",
@@ -4619,7 +4666,7 @@
       "team": "PHI",
       "age": 28,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
