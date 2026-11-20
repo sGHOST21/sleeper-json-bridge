@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-20T11:48:51.277Z",
+  "fetched_at": "2026-11-20T20:19:46.692Z",
   "current_week": 11,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -449,16 +449,16 @@
         "wins": 3
       },
       "starters": [
-        "421",
+        "96",
         "12507",
-        "12512",
+        "8136",
         "8144",
         "6794",
-        "7553",
-        "8167",
+        "8110",
+        "11635",
         "9754",
         "7042",
-        "0"
+        "DEN"
       ],
       "taxi": null
     },
@@ -955,16 +955,16 @@
       "custom_points": null,
       "matchup_id": 3,
       "starters": [
-        "421",
+        "96",
         "12507",
-        "12512",
+        "8136",
         "8144",
         "6794",
-        "7553",
-        "8167",
+        "8110",
+        "11635",
         "9754",
         "7042",
-        "0"
+        "DEN"
       ],
       "starters_points": [
         0,
@@ -2334,7 +2334,7 @@
       "team": "BUF",
       "age": 27,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Doubtful",
       "fantasy_positions": [
         "TE"
       ],
@@ -3324,7 +3324,7 @@
       "team": "NO",
       "age": 22,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -4160,7 +4160,7 @@
       "team": "MIN",
       "age": 29,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "TE"
       ],
@@ -4996,7 +4996,7 @@
       "team": "NYG",
       "age": 26,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "TE"
       ],

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-20T11:48:49.484Z",
+  "fetched_at": "2026-11-20T20:19:44.344Z",
   "current_week": 11,
   "league": {
     "name": "The D-League",
@@ -67,6 +67,10 @@
     "avatar": "31647870b5248d13691a1b97ccb9b0a0",
     "company_id": null,
     "league_id": "1384998212942692352",
+    "shard": 169,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -124,21 +128,17 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "shard": 169,
-    "sport": "nfl",
-    "last_message_id": "1429463476966785024",
+    "last_message_id": "1429597067600211968",
+    "draft_id": "1398261761102098432",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1795173160358,
+    "last_message_time": 1795205010846,
     "last_pinned_message_id": null,
     "last_read_id": null,
-    "draft_id": "1398261761102098432",
     "previous_league_id": "1222634114906075136",
     "bracket_id": null,
     "bracket_overrides_id": null,
@@ -1045,7 +1045,6 @@
         "12529",
         "12533",
         "12646",
-        "12978",
         "13305",
         "13345",
         "2133",
@@ -1061,6 +1060,7 @@
         "7841",
         "8130",
         "8136",
+        "8330",
         "8385",
         "9488",
         "9509",
@@ -1083,8 +1083,8 @@
         "ppts_decimal": 38,
         "ties": 0,
         "total_moves": 0,
-        "waiver_budget_used": 16,
-        "waiver_position": 13,
+        "waiver_budget_used": 17,
+        "waiver_position": 14,
         "wins": 8
       },
       "starters": [
@@ -1252,13 +1252,13 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 65,
-        "waiver_position": 14,
+        "waiver_position": 13,
         "wins": 3
       },
       "starters": [
         "3163",
+        "8122",
         "9227",
-        "12489",
         "9487",
         "11620",
         "4993",
@@ -1665,7 +1665,7 @@
         "8148",
         "8131",
         "2449",
-        "7049",
+        "8210",
         "5119",
         "6125",
         "2617",
@@ -2416,7 +2416,6 @@
         "12529",
         "12533",
         "12646",
-        "12978",
         "13305",
         "13345",
         "2133",
@@ -2432,6 +2431,7 @@
         "7841",
         "8130",
         "8136",
+        "8330",
         "8385",
         "9488",
         "9509",
@@ -2484,6 +2484,7 @@
         "7841": 0,
         "8130": 0,
         "8136": 0,
+        "8330": 0,
         "8385": 0,
         "9488": 0,
         "9509": 0,
@@ -2496,7 +2497,6 @@
         "12529": 0,
         "12533": 0,
         "12646": 0,
-        "12978": 0,
         "13305": 0,
         "13345": 0
       }
@@ -2633,8 +2633,8 @@
       "matchup_id": 1,
       "starters": [
         "3163",
+        "8122",
         "9227",
-        "12489",
         "9487",
         "11620",
         "4993",
@@ -3115,7 +3115,7 @@
         "8148",
         "8131",
         "2449",
-        "7049",
+        "8210",
         "5119",
         "6125",
         "2617",
@@ -5242,12 +5242,12 @@
       "adds": {
         "13333": 11
       },
-      "drops": {
-        "2020": 11
-      },
       "consenter_ids": [
         11
       ],
+      "drops": {
+        "2020": 11
+      },
       "roster_ids": [
         11
       ],
@@ -5267,12 +5267,12 @@
       "adds": {
         "6427": 11
       },
-      "drops": {
-        "3286": 11
-      },
       "consenter_ids": [
         11
       ],
+      "drops": {
+        "3286": 11
+      },
       "roster_ids": [
         11
       ],
@@ -5292,12 +5292,12 @@
       "adds": {
         "12540": 13
       },
-      "drops": {
-        "12634": 13
-      },
       "consenter_ids": [
         13
       ],
+      "drops": {
+        "12634": 13
+      },
       "roster_ids": [
         13
       ],
@@ -5322,16 +5322,46 @@
       "adds": {
         "7841": 6
       },
-      "drops": {
-        "8161": 6
-      },
       "consenter_ids": [
         6
       ],
+      "drops": {
+        "8161": 6
+      },
       "roster_ids": [
         6
       ],
       "status_updated": 1795159360757,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "waiver",
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      },
+      "created": 1795095316607,
+      "settings": {
+        "seq": 0,
+        "waiver_bid": 1
+      },
+      "leg": 11,
+      "draft_picks": [],
+      "creator": "871053074062589952",
+      "transaction_id": "1429136976610623488",
+      "adds": {
+        "8330": 6
+      },
+      "consenter_ids": [
+        6
+      ],
+      "drops": {
+        "12978": 6
+      },
+      "roster_ids": [
+        6
+      ],
+      "status_updated": 1795205010631,
       "waiver_budget": []
     },
     {
@@ -5347,12 +5377,12 @@
       "adds": {
         "8385": 6
       },
-      "drops": {
-        "7561": 6
-      },
       "consenter_ids": [
         6
       ],
+      "drops": {
+        "7561": 6
+      },
       "roster_ids": [
         6
       ],
@@ -5372,10 +5402,10 @@
       "adds": {
         "11685": 1
       },
-      "drops": null,
       "consenter_ids": [
         1
       ],
+      "drops": null,
       "roster_ids": [
         1
       ],
@@ -5395,10 +5425,10 @@
       "adds": {
         "5843": 1
       },
-      "drops": null,
       "consenter_ids": [
         1
       ],
+      "drops": null,
       "roster_ids": [
         1
       ],
@@ -5416,12 +5446,12 @@
       "creator": "716111666881851392",
       "transaction_id": "1428885182009610240",
       "adds": null,
-      "drops": {
-        "8330": 1
-      },
       "consenter_ids": [
         1
       ],
+      "drops": {
+        "8330": 1
+      },
       "roster_ids": [
         1
       ],
@@ -5439,12 +5469,12 @@
       "creator": "716111666881851392",
       "transaction_id": "1428885164640976896",
       "adds": null,
-      "drops": {
-        "6214": 1
-      },
       "consenter_ids": [
         1
       ],
+      "drops": {
+        "6214": 1
+      },
       "roster_ids": [
         1
       ],
@@ -5464,12 +5494,12 @@
       "adds": {
         "9227": 8
       },
-      "drops": {
-        "7562": 8
-      },
       "consenter_ids": [
         8
       ],
+      "drops": {
+        "7562": 8
+      },
       "roster_ids": [
         8
       ],
@@ -5494,12 +5524,12 @@
       "adds": {
         "8122": 8
       },
-      "drops": {
-        "4177": 8
-      },
       "consenter_ids": [
         8
       ],
+      "drops": {
+        "4177": 8
+      },
       "roster_ids": [
         8
       ],
@@ -5517,12 +5547,12 @@
       "creator": "728665102038966272",
       "transaction_id": "1428767219763916800",
       "adds": null,
-      "drops": {
-        "13833": 9
-      },
       "consenter_ids": [
         9
       ],
+      "drops": {
+        "13833": 9
+      },
       "roster_ids": [
         9
       ],
@@ -5542,12 +5572,12 @@
       "adds": {
         "7666": 12
       },
-      "drops": {
-        "4981": 12
-      },
       "consenter_ids": [
         12
       ],
+      "drops": {
+        "4981": 12
+      },
       "roster_ids": [
         12
       ],
@@ -5567,12 +5597,12 @@
       "adds": {
         "13453": 12
       },
-      "drops": {
-        "8122": 12
-      },
       "consenter_ids": [
         12
       ],
+      "drops": {
+        "8122": 12
+      },
       "roster_ids": [
         12
       ],
@@ -5592,12 +5622,12 @@
       "adds": {
         "2020": 11
       },
-      "drops": {
-        "11261": 11
-      },
       "consenter_ids": [
         11
       ],
+      "drops": {
+        "11261": 11
+      },
       "roster_ids": [
         11
       ],
@@ -5789,7 +5819,7 @@
       "team": "BUF",
       "age": 27,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Doubtful",
       "fantasy_positions": [
         "TE"
       ],
@@ -8832,7 +8862,7 @@
       "team": "NYJ",
       "age": 22,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ],
@@ -8876,7 +8906,7 @@
       "team": "NO",
       "age": 22,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -11345,7 +11375,7 @@
       "team": "MIN",
       "age": 29,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "TE"
       ],
@@ -11852,7 +11882,7 @@
       "team": "CHI",
       "age": 29,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "DL"
       ],
@@ -11918,7 +11948,7 @@
       "team": "MIN",
       "age": 31,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "DL",
         "LB"
@@ -11963,7 +11993,7 @@
       "team": "MIN",
       "age": 30,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "LB"
       ],
@@ -13506,7 +13536,7 @@
       "team": "NYG",
       "age": 26,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "TE"
       ],
