@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-21T17:32:25.995Z",
+  "fetched_at": "2026-11-21T23:15:53.404Z",
   "current_week": 11,
   "league": {
     "name": "The D-League",
@@ -6795,8 +6795,8 @@
       "position": "WR",
       "team": "PIT",
       "age": 25,
-      "status": "Inactive",
-      "injury_status": "IR",
+      "status": "Active",
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -8846,7 +8846,7 @@
       "team": "ARI",
       "age": 24,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "QB"
       ],
@@ -12482,8 +12482,8 @@
       "position": "LB",
       "team": "PHI",
       "age": 29,
-      "status": "Active",
-      "injury_status": "Out",
+      "status": "Inactive",
+      "injury_status": "IR",
       "fantasy_positions": [
         "LB"
       ],
@@ -13652,7 +13652,7 @@
       "team": "WAS",
       "age": 26,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -13828,7 +13828,7 @@
       "team": "LAR",
       "age": 26,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
@@ -14731,8 +14731,8 @@
       "position": "WR",
       "team": "PHI",
       "age": 25,
-      "status": "Active",
-      "injury_status": "Out",
+      "status": "Inactive",
+      "injury_status": "IR",
       "fantasy_positions": [
         "WR"
       ],
@@ -14929,8 +14929,8 @@
       "position": "RB",
       "team": "TEN",
       "age": 25,
-      "status": "Active",
-      "injury_status": "Questionable",
+      "status": "Inactive",
+      "injury_status": "IR",
       "fantasy_positions": [
         "RB"
       ],
