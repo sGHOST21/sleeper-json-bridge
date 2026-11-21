@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-21T09:54:21.354Z",
+  "fetched_at": "2026-11-21T17:32:26.928Z",
   "current_week": 11,
   "league": {
     "name": "Brass City League",
@@ -9333,7 +9333,7 @@
       "player_id": "5870",
       "full_name": "Daniel Jones",
       "position": "QB",
-      "team": "IND",
+      "team": null,
       "age": 29,
       "status": "Active",
       "injury_status": null,
