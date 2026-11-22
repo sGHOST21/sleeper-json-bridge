@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-22T03:15:09.675Z",
+  "fetched_at": "2026-11-22T11:33:40.349Z",
   "current_week": 11,
   "league": {
     "name": "Brass City League",
@@ -3918,10 +3918,10 @@
       "adds": {
         "6125": 6
       },
-      "drops": null,
       "consenter_ids": [
         6
       ],
+      "drops": null,
       "roster_ids": [
         6
       ],
@@ -3941,10 +3941,10 @@
       "adds": {
         "10923": 6
       },
-      "drops": null,
       "consenter_ids": [
         6
       ],
+      "drops": null,
       "roster_ids": [
         6
       ],
@@ -3962,12 +3962,12 @@
       "creator": "737718651813244928",
       "transaction_id": "1429332066364837888",
       "adds": null,
-      "drops": {
-        "8135": 6
-      },
       "consenter_ids": [
         6
       ],
+      "drops": {
+        "8135": 6
+      },
       "roster_ids": [
         6
       ],
@@ -3987,10 +3987,10 @@
       "adds": {
         "13968": 2
       },
-      "drops": null,
       "consenter_ids": [
         2
       ],
+      "drops": null,
       "roster_ids": [
         2
       ],
@@ -4008,12 +4008,12 @@
       "creator": "1267177164097191936",
       "transaction_id": "1429301380354445312",
       "adds": null,
-      "drops": {
-        "11647": 2
-      },
       "consenter_ids": [
         2
       ],
+      "drops": {
+        "11647": 2
+      },
       "roster_ids": [
         2
       ],
@@ -4033,12 +4033,12 @@
       "adds": {
         "11685": 7
       },
-      "drops": {
-        "6788": 7
-      },
       "consenter_ids": [
         7
       ],
+      "drops": {
+        "6788": 7
+      },
       "roster_ids": [
         7
       ],
@@ -4058,10 +4058,10 @@
       "adds": {
         "7648": 1
       },
-      "drops": null,
       "consenter_ids": [
         1
       ],
+      "drops": null,
       "roster_ids": [
         1
       ],
@@ -4079,12 +4079,12 @@
       "creator": "716111666881851392",
       "transaction_id": "1428884668136058880",
       "adds": null,
-      "drops": {
-        "8659": 1
-      },
       "consenter_ids": [
         1
       ],
+      "drops": {
+        "8659": 1
+      },
       "roster_ids": [
         1
       ],
@@ -4104,12 +4104,12 @@
       "adds": {
         "5017": 4
       },
-      "drops": {
-        "12591": 4
-      },
       "consenter_ids": [
         4
       ],
+      "drops": {
+        "12591": 4
+      },
       "roster_ids": [
         4
       ],
@@ -4129,12 +4129,12 @@
       "adds": {
         "10927": 10
       },
-      "drops": {
-        "11579": 10
-      },
       "consenter_ids": [
         10
       ],
+      "drops": {
+        "11579": 10
+      },
       "roster_ids": [
         10
       ],
@@ -4154,12 +4154,12 @@
       "adds": {
         "2020": 5
       },
-      "drops": {
-        "2747": 5
-      },
       "consenter_ids": [
         5
       ],
+      "drops": {
+        "2747": 5
+      },
       "roster_ids": [
         5
       ],
