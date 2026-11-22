@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-21T23:15:54.999Z",
+  "fetched_at": "2026-11-22T03:15:10.535Z",
   "current_week": 11,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -4972,7 +4972,7 @@
       "full_name": "Trey McBride",
       "position": "TE",
       "team": "ARI",
-      "age": 26,
+      "age": 27,
       "status": "Active",
       "injury_status": null,
       "fantasy_positions": [
@@ -5545,7 +5545,7 @@
       "position": "WR",
       "team": "LAR",
       "age": 25,
-      "status": "Active",
+      "status": "Inactive",
       "injury_status": "IR",
       "fantasy_positions": [
         "WR"

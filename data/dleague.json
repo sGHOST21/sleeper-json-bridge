@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-21T23:15:53.404Z",
+  "fetched_at": "2026-11-22T03:15:08.558Z",
   "current_week": 11,
   "league": {
     "name": "The D-League",
@@ -8580,7 +8580,7 @@
       "full_name": "Xavier Watts",
       "position": "DB",
       "team": "ATL",
-      "age": 24,
+      "age": 25,
       "status": "Active",
       "injury_status": null,
       "fantasy_positions": [
@@ -8756,7 +8756,7 @@
       "full_name": "Darius Cooper",
       "position": "WR",
       "team": "PHI",
-      "age": 24,
+      "age": 25,
       "status": "Active",
       "injury_status": null,
       "fantasy_positions": [
@@ -13298,7 +13298,7 @@
       "full_name": "Ernest Jones IV",
       "position": "LB",
       "team": "SEA",
-      "age": 26,
+      "age": 27,
       "status": "Active",
       "injury_status": null,
       "fantasy_positions": [
@@ -13562,7 +13562,7 @@
       "full_name": "Trey McBride",
       "position": "TE",
       "team": "ARI",
-      "age": 26,
+      "age": 27,
       "status": "Active",
       "injury_status": null,
       "fantasy_positions": [
@@ -14797,7 +14797,7 @@
       "position": "WR",
       "team": "LAR",
       "age": 25,
-      "status": "Active",
+      "status": "Inactive",
       "injury_status": "IR",
       "fantasy_positions": [
         "WR"
