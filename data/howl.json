@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-23T09:05:38.610Z",
+  "fetched_at": "2026-11-23T21:25:14.635Z",
   "current_week": 11,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -330,7 +330,7 @@
         "4217",
         "8146",
         "8183",
-        "7839",
+        "0",
         "MIN"
       ],
       "taxi": null
@@ -816,7 +816,7 @@
         "4217",
         "8146",
         "8183",
-        "7839",
+        "0",
         "MIN"
       ],
       "starters_points": [
@@ -2840,7 +2840,7 @@
       "team": "JAX",
       "age": 23,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "K"
       ],
@@ -2972,7 +2972,7 @@
       "team": "JAX",
       "age": 23,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
