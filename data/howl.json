@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-24T06:03:24.322Z",
+  "fetched_at": "2026-11-24T17:44:45.806Z",
   "current_week": 12,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -10,7 +10,7 @@
     },
     "settings": {
       "best_ball": 0,
-      "last_report": 10,
+      "last_report": 11,
       "waiver_budget": 100,
       "disable_adds": 0,
       "capacity_override": 0,
@@ -64,6 +64,10 @@
     "avatar": "3a2a8f32f6fec7c6b6663d1495cf1168",
     "company_id": null,
     "league_id": "1400845991007019008",
+    "shard": 949,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -109,25 +113,18 @@
       "pts_allow_7_13": 4,
       "st_ff": 1
     },
-    "season": "2026",
-    "season_type": "regular",
-    "shard": 949,
-    "sport": "nfl",
-    "last_message_id": "1429340836654497792",
+    "last_message_id": "1431006818301128704",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
-    "draft_id": "1400845992303022080",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1795143920628,
+    "last_message_time": 1795541121606,
     "last_pinned_message_id": null,
     "last_read_id": null,
+    "draft_id": "1400845992303022080",
     "previous_league_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -149,6 +146,9 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 8
@@ -322,15 +322,15 @@
         "wins": 9
       },
       "starters": [
-        "7523",
+        "3163",
         "9221",
-        "12495",
+        "4866",
         "9997",
         "7547",
         "4217",
-        "8146",
-        "8183",
-        "0",
+        "12495",
+        "7523",
+        "7839",
         "MIN"
       ],
       "taxi": null
@@ -808,15 +808,15 @@
       "custom_points": null,
       "matchup_id": 3,
       "starters": [
-        "7523",
+        "3163",
         "9221",
-        "12495",
+        "4866",
         "9997",
         "7547",
         "4217",
-        "8146",
-        "8183",
-        "0",
+        "12495",
+        "7523",
+        "7839",
         "MIN"
       ],
       "starters_points": [
