@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-24T17:44:45.806Z",
+  "fetched_at": "2026-11-25T02:28:58.731Z",
   "current_week": 12,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -2373,7 +2373,7 @@
       "full_name": "Blake Corum",
       "position": "RB",
       "team": "LAR",
-      "age": 25,
+      "age": 26,
       "status": "Active",
       "injury_status": null,
       "fantasy_positions": [
@@ -3211,7 +3211,7 @@
       "team": "CLE",
       "age": 22,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -4267,7 +4267,7 @@
       "team": "DEN",
       "age": 27,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "fantasy_positions": [
         "RB"
       ],
@@ -4397,7 +4397,7 @@
       "full_name": "Jaylen Waddle",
       "position": "WR",
       "team": "DEN",
-      "age": 27,
+      "age": 28,
       "status": "Active",
       "injury_status": null,
       "fantasy_positions": [

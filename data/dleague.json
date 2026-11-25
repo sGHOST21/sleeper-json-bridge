@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-24T17:44:43.695Z",
+  "fetched_at": "2026-11-25T02:28:56.938Z",
   "current_week": 12,
   "league": {
     "name": "The D-League",
@@ -1425,13 +1425,13 @@
         "8146",
         "2216",
         "4217",
-        "10229",
+        "4199",
         "8228",
         "7042",
         "13363",
         "13375",
         "5864",
-        "5816"
+        "5017"
       ],
       "taxi": [
         "11575",
@@ -2831,13 +2831,13 @@
         "8146",
         "2216",
         "4217",
-        "10229",
+        "4199",
         "8228",
         "7042",
         "13363",
         "13375",
         "5864",
-        "5816"
+        "5017"
       ],
       "starters_points": [
         0,
@@ -5912,7 +5912,7 @@
       "full_name": "Blake Corum",
       "position": "RB",
       "team": "LAR",
-      "age": 25,
+      "age": 26,
       "status": "Active",
       "injury_status": null,
       "fantasy_positions": [
@@ -8733,7 +8733,7 @@
       "team": "CLE",
       "age": 22,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -11622,7 +11622,7 @@
       "team": "DEN",
       "age": 27,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "fantasy_positions": [
         "RB"
       ],
@@ -11995,7 +11995,7 @@
       "full_name": "Jaylen Waddle",
       "position": "WR",
       "team": "DEN",
-      "age": 27,
+      "age": 28,
       "status": "Active",
       "injury_status": null,
       "fantasy_positions": [
