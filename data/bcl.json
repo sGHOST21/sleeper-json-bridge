@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-25T12:55:25.053Z",
+  "fetched_at": "2026-11-25T22:32:22.789Z",
   "current_week": 12,
   "league": {
     "name": "Brass City League",
@@ -968,7 +968,7 @@
       "starters": [
         "7523",
         "8155",
-        "8151",
+        "9753",
         "11632",
         "7569",
         "8130",
@@ -1212,7 +1212,7 @@
         "11792",
         "6118",
         "4960",
-        "10927",
+        "11739",
         "2617"
       ],
       "taxi": [
@@ -2134,7 +2134,7 @@
       "starters": [
         "7523",
         "8155",
-        "8151",
+        "9753",
         "11632",
         "7569",
         "8130",
@@ -2422,7 +2422,7 @@
         "11792",
         "6118",
         "4960",
-        "10927",
+        "11739",
         "2617"
       ],
       "starters_points": [
@@ -5948,7 +5948,7 @@
       "team": "CLE",
       "age": 22,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "TE"
       ],
@@ -6212,7 +6212,7 @@
       "team": "CAR",
       "age": 23,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -6478,7 +6478,7 @@
       "team": "NYG",
       "age": 22,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "DL",
         "LB"
@@ -7471,7 +7471,7 @@
       "team": "NYG",
       "age": 21,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "DL",
         "LB"
@@ -7843,7 +7843,7 @@
       "player_id": "2197",
       "full_name": "Brandin Cooks",
       "position": "WR",
-      "team": null,
+      "team": "SF",
       "age": 33,
       "status": "Active",
       "injury_status": null,
@@ -7868,7 +7868,7 @@
       "team": "SF",
       "age": 33,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -7890,7 +7890,7 @@
       "team": "WAS",
       "age": 32,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -8000,7 +8000,7 @@
       "team": "BAL",
       "age": 32,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
@@ -9235,7 +9235,7 @@
       "team": "JAX",
       "age": 30,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -9695,7 +9695,7 @@
       "player_id": "6803",
       "full_name": "Brandon Aiyuk",
       "position": "WR",
-      "team": null,
+      "team": "WAS",
       "age": 28,
       "status": "Active",
       "injury_status": null,
@@ -9742,7 +9742,7 @@
       "team": "DEN",
       "age": 27,
       "status": "Active",
-      "injury_status": "Out",
+      "injury_status": "Sus",
       "fantasy_positions": [
         "RB"
       ],
@@ -10472,7 +10472,7 @@
       "team": "DAL",
       "age": 27,
       "status": "Active",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "fantasy_positions": [
         "TE"
       ],
@@ -10538,7 +10538,7 @@
       "team": "ATL",
       "age": 26,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -10648,7 +10648,7 @@
       "team": "NYG",
       "age": 26,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "TE"
       ],
@@ -10912,7 +10912,7 @@
       "team": "KC",
       "age": 26,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "RB"
       ],
@@ -11000,7 +11000,7 @@
       "team": "SF",
       "age": 26,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "QB"
       ],

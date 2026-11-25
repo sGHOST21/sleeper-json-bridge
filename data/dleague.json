@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-25T12:55:24.015Z",
+  "fetched_at": "2026-11-25T22:32:21.518Z",
   "current_week": 12,
   "league": {
     "name": "The D-League",
@@ -702,10 +702,10 @@
         "1166",
         "12490",
         "12531",
-        "11637",
+        "12483",
         "9502",
         "13330",
-        "12493",
+        "12535",
         "13294",
         "6083",
         "11667",
@@ -776,14 +776,14 @@
         "wins": 6
       },
       "starters": [
-        "12494",
+        "6804",
         "11586",
         "8155",
-        "9504",
-        "5846",
+        "8112",
+        "8167",
         "10859",
-        "7600",
         "11783",
+        "5846",
         "7839",
         "10917",
         "7627",
@@ -1506,7 +1506,7 @@
         "8135",
         "5045",
         "5022",
-        "13424",
+        "6427",
         "4147",
         "4195",
         "10892",
@@ -1582,12 +1582,12 @@
         "12519",
         "7564",
         "12518",
-        "11635",
-        "4983",
+        "8150",
+        "12501",
         "11792",
         "6118",
-        "4960",
-        "7666",
+        "12578",
+        "11739",
         "13453"
       ],
       "taxi": [
@@ -1997,10 +1997,10 @@
         "1166",
         "12490",
         "12531",
-        "11637",
+        "12483",
         "9502",
         "13330",
-        "12493",
+        "12535",
         "13294",
         "6083",
         "11667",
@@ -2086,14 +2086,14 @@
       "custom_points": null,
       "matchup_id": 3,
       "starters": [
-        "12494",
+        "6804",
         "11586",
         "8155",
-        "9504",
-        "5846",
+        "8112",
+        "8167",
         "10859",
-        "7600",
         "11783",
+        "5846",
         "7839",
         "10917",
         "7627",
@@ -2927,7 +2927,7 @@
         "8135",
         "5045",
         "5022",
-        "13424",
+        "6427",
         "4147",
         "4195",
         "10892",
@@ -3020,12 +3020,12 @@
         "12519",
         "7564",
         "12518",
-        "11635",
-        "4983",
+        "8150",
+        "12501",
         "11792",
         "6118",
-        "4960",
-        "7666",
+        "12578",
+        "11739",
         "13453"
       ],
       "starters_points": [
@@ -5347,7 +5347,7 @@
       "team": "CHI",
       "age": 25,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "RB"
       ],
@@ -7397,7 +7397,7 @@
       "team": "CLE",
       "age": 22,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "TE"
       ],
@@ -7683,7 +7683,7 @@
       "team": "CAR",
       "age": 23,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -9072,7 +9072,7 @@
       "team": "NYG",
       "age": 21,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "DL",
         "LB"
@@ -9513,7 +9513,7 @@
       "team": "SF",
       "age": 33,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -9558,7 +9558,7 @@
       "team": "WAS",
       "age": 32,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -9690,7 +9690,7 @@
       "team": "BAL",
       "age": 32,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "RB"
       ],
@@ -11123,7 +11123,7 @@
       "team": "JAX",
       "age": 30,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -11737,7 +11737,7 @@
       "player_id": "6803",
       "full_name": "Brandon Aiyuk",
       "position": "WR",
-      "team": null,
+      "team": "WAS",
       "age": 28,
       "status": "Active",
       "injury_status": null,
@@ -11784,7 +11784,7 @@
       "team": "DEN",
       "age": 27,
       "status": "Active",
-      "injury_status": "Out",
+      "injury_status": "Sus",
       "fantasy_positions": [
         "RB"
       ],
@@ -12689,7 +12689,7 @@
       "team": "DAL",
       "age": 27,
       "status": "Active",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "fantasy_positions": [
         "TE"
       ],
@@ -12755,7 +12755,7 @@
       "team": "ATL",
       "age": 26,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -12887,7 +12887,7 @@
       "team": "NYG",
       "age": 26,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "TE"
       ],
@@ -13151,7 +13151,7 @@
       "team": "KC",
       "age": 26,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "RB"
       ],
@@ -13305,7 +13305,7 @@
       "team": "SF",
       "age": 26,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "QB"
       ],
