@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-27T08:33:40.867Z",
+  "fetched_at": "2026-11-27T18:59:27.005Z",
   "current_week": 12,
   "league": {
     "name": "Brass City League",
@@ -727,11 +727,11 @@
         "6770",
         "5967",
         "8132",
-        "13296",
         "13279",
-        "11604",
         "5947",
-        "9504",
+        "11604",
+        "13296",
+        "12506",
         "12185",
         "8343",
         "8329",
@@ -809,10 +809,10 @@
         "11560",
         "12481",
         "13337",
-        "13281",
+        "8112",
         "7564",
         "5022",
-        "4035",
+        "7611",
         "8148",
         "2020",
         "5912",
@@ -1847,11 +1847,11 @@
         "6770",
         "5967",
         "8132",
-        "13296",
         "13279",
-        "11604",
         "5947",
-        "9504",
+        "11604",
+        "13296",
+        "12506",
         "12185",
         "8343",
         "8329",
@@ -1945,10 +1945,10 @@
         "11560",
         "12481",
         "13337",
-        "13281",
+        "8112",
         "7564",
         "5022",
-        "4035",
+        "7611",
         "8148",
         "2020",
         "5912",
@@ -6909,7 +6909,7 @@
       "team": "NYJ",
       "age": 22,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ],
@@ -6958,7 +6958,7 @@
         "WR"
       ],
       "height": "74",
-      "weight": "203",
+      "weight": "200",
       "years_exp": 0,
       "college": "Arizona State",
       "birth_date": "2004-08-12",
@@ -7261,7 +7261,7 @@
       "team": "ATL",
       "age": 22,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ],
@@ -9092,7 +9092,7 @@
       "team": "NE",
       "age": 29,
       "status": "Active",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ],
@@ -10594,7 +10594,7 @@
       "team": "ATL",
       "age": 26,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ],
@@ -11675,7 +11675,7 @@
       "team": "JAX",
       "age": 24,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ],

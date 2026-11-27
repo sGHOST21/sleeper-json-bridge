@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-27T08:33:39.993Z",
+  "fetched_at": "2026-11-27T18:59:25.696Z",
   "current_week": 12,
   "league": {
     "name": "The D-League",
@@ -1257,11 +1257,11 @@
         "3163",
         "7611",
         "12469",
-        "9487",
+        "13279",
         "11620",
         "4993",
         "12514",
-        "13279",
+        "8122",
         "3451",
         "5912",
         "8329",
@@ -1504,7 +1504,7 @@
         "8135",
         "5045",
         "5022",
-        "6427",
+        "7553",
         "4147",
         "4195",
         "10892",
@@ -1663,7 +1663,7 @@
         "2449",
         "8131",
         "9753",
-        "8210",
+        "7526",
         "5119",
         "6125",
         "2617",
@@ -2631,11 +2631,11 @@
         "3163",
         "7611",
         "12469",
-        "9487",
+        "13279",
         "11620",
         "4993",
         "12514",
-        "13279",
+        "8122",
         "3451",
         "5912",
         "8329",
@@ -2923,7 +2923,7 @@
         "8135",
         "5045",
         "5022",
-        "6427",
+        "7553",
         "4147",
         "4195",
         "10892",
@@ -3111,7 +3111,7 @@
         "2449",
         "8131",
         "9753",
-        "8210",
+        "7526",
         "5119",
         "6125",
         "2617",
@@ -5193,12 +5193,12 @@
       "adds": {
         "13833": 14
       },
-      "consenter_ids": [
-        14
-      ],
       "drops": {
         "8259": 14
       },
+      "consenter_ids": [
+        14
+      ],
       "roster_ids": [
         14
       ],
@@ -5216,12 +5216,12 @@
       "creator": "703353523932336128",
       "transaction_id": "1431714571294343168",
       "adds": null,
-      "consenter_ids": [
-        4
-      ],
       "drops": {
         "2393": 4
       },
+      "consenter_ids": [
+        4
+      ],
       "roster_ids": [
         4
       ],
@@ -8389,7 +8389,7 @@
       "team": "ARI",
       "age": 24,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "QB"
       ],
@@ -8455,7 +8455,7 @@
       "team": "NYJ",
       "age": 22,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ],
@@ -8504,7 +8504,7 @@
         "WR"
       ],
       "height": "74",
-      "weight": "203",
+      "weight": "200",
       "years_exp": 0,
       "college": "Arizona State",
       "birth_date": "2004-08-12",
@@ -8807,7 +8807,7 @@
       "team": "ATL",
       "age": 22,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ],
@@ -10968,7 +10968,7 @@
       "team": "NE",
       "age": 29,
       "status": "Active",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ],
@@ -12799,7 +12799,7 @@
       "team": "ATL",
       "age": 26,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ],
@@ -13393,7 +13393,7 @@
       "team": "DEN",
       "age": 26,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "RB"
       ],
@@ -14076,7 +14076,7 @@
       "team": "JAX",
       "age": 24,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ],

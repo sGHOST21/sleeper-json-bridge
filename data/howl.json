@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-27T08:33:41.805Z",
+  "fetched_at": "2026-11-27T18:59:27.953Z",
   "current_week": 12,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -3114,7 +3114,7 @@
         "WR"
       ],
       "height": "74",
-      "weight": "203",
+      "weight": "200",
       "years_exp": 0,
       "college": "Arizona State",
       "birth_date": "2004-08-12",
@@ -4011,7 +4011,7 @@
       "team": "NE",
       "age": 29,
       "status": "Active",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ],
@@ -5243,7 +5243,7 @@
       "team": "JAX",
       "age": 24,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ],
