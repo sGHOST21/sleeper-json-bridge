@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-28T10:27:23.933Z",
+  "fetched_at": "2026-11-28T18:57:27.695Z",
   "current_week": 12,
   "league": {
     "name": "The D-League",
@@ -67,10 +67,11 @@
     "avatar": "31647870b5248d13691a1b97ccb9b0a0",
     "company_id": null,
     "league_id": "1384998212942692352",
+    "last_message_id": "1432458345809207296",
+    "sport": "nfl",
     "shard": 169,
     "season": "2026",
     "season_type": "regular",
-    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 4,
@@ -128,18 +129,20 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "last_message_id": "1431765329192681472",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1795721964694,
+    "last_message_time": 1795887192731,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "draft_id": "1398261761102098432",
     "previous_league_id": "1222634114906075136",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -165,9 +168,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 14
@@ -1614,6 +1614,7 @@
         "13302",
         "13317",
         "13337",
+        "13394",
         "2449",
         "2617",
         "3257",
@@ -1622,7 +1623,6 @@
         "5844",
         "6125",
         "6217",
-        "7049",
         "7526",
         "8131",
         "8132",
@@ -3080,6 +3080,7 @@
         "13302",
         "13317",
         "13337",
+        "13394",
         "2449",
         "2617",
         "3257",
@@ -3088,7 +3089,6 @@
         "5844",
         "6125",
         "6217",
-        "7049",
         "7526",
         "8131",
         "8132",
@@ -3142,7 +3142,6 @@
         "5844": 0,
         "6125": 2.5,
         "6217": 0,
-        "7049": 0,
         "7526": 8.3,
         "8131": 0,
         "8132": 0,
@@ -3162,7 +3161,8 @@
         "13268": 0,
         "13302": 0,
         "13317": 0,
-        "13337": 17.6
+        "13337": 17.6,
+        "13394": 0
       }
     },
     {
@@ -5178,6 +5178,31 @@
         11
       ],
       "status_updated": 1795001103287,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1795887192701,
+      "settings": null,
+      "leg": 12,
+      "draft_picks": [],
+      "creator": "737708656518385664",
+      "transaction_id": "1432458345683353600",
+      "adds": {
+        "13394": 13
+      },
+      "drops": {
+        "7049": 13
+      },
+      "consenter_ids": [
+        13
+      ],
+      "roster_ids": [
+        13
+      ],
+      "status_updated": 1795887192701,
       "waiver_budget": []
     },
     {
@@ -7727,7 +7752,7 @@
       "team": "CAR",
       "age": 23,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -9154,6 +9179,28 @@
       "sportradar_id": "58320436-f09f-41b8-9179-4076cd3e136b",
       "fantasy_data_id": 26921
     },
+    "13394": {
+      "player_id": "13394",
+      "full_name": "Josh Cameron",
+      "position": "WR",
+      "team": "JAX",
+      "age": 23,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "WR"
+      ],
+      "height": "73",
+      "weight": "224",
+      "years_exp": 0,
+      "college": "Baylor",
+      "birth_date": "2003-03-18",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 19321,
+      "sportradar_id": "29f6ab49-33a9-4fc8-838f-fc41e248829d",
+      "fantasy_data_id": 26805
+    },
     "13402": {
       "player_id": "13402",
       "full_name": "Skyler Bell",
@@ -9624,7 +9671,7 @@
       "team": "CAR",
       "age": 34,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "TE"
       ],
@@ -11454,7 +11501,7 @@
       "team": "MIN",
       "age": 30,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "LB"
       ],

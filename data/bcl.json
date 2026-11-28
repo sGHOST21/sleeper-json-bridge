@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-28T10:27:24.836Z",
+  "fetched_at": "2026-11-28T18:57:28.621Z",
   "current_week": 12,
   "league": {
     "name": "Brass City League",
@@ -6318,7 +6318,7 @@
       "team": "CAR",
       "age": 23,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -9341,7 +9341,7 @@
       "team": "CAR",
       "age": 30,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "LB"
       ],
@@ -9584,7 +9584,7 @@
       "team": "MIN",
       "age": 30,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "LB"
       ],
