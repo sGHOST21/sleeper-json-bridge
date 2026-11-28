@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-27T18:59:27.953Z",
+  "fetched_at": "2026-11-28T01:59:42.387Z",
   "current_week": 12,
   "league": {
     "name": "HouseOfWolves Fantasy League",
@@ -907,17 +907,17 @@
       ],
       "players_points": {
         "1166": 0,
-        "1945": 0,
-        "5846": 0,
+        "1945": 10,
+        "5846": 12.6,
         "5927": 0,
         "5967": 0,
         "6770": 0,
-        "7021": 0,
+        "7021": 6.4,
         "7543": 0,
         "8112": 0,
         "8130": 0,
         "8138": 19.5,
-        "11563": 0,
+        "11563": 3.46,
         "11620": 26.7,
         "11786": 0,
         "12526": 0,
@@ -925,11 +925,11 @@
         "13279": 0,
         "13301": 0,
         "HOU": 0,
-        "PIT": 0
+        "PIT": 28
       }
     },
     {
-      "points": 11,
+      "points": 18,
       "players": [
         "11635",
         "12507",
@@ -976,7 +976,7 @@
         0,
         0,
         11,
-        0
+        7
       ],
       "players_points": {
         "96": 0,
@@ -996,7 +996,7 @@
         "12507": 0,
         "12512": 0,
         "13298": 0,
-        "DEN": 0,
+        "DEN": 7,
         "KC": 10
       }
     },
@@ -1075,7 +1075,7 @@
       }
     },
     {
-      "points": 11.1,
+      "points": 16.7,
       "players": [
         "10222",
         "11604",
@@ -1119,7 +1119,7 @@
         0,
         11.1,
         0,
-        0,
+        5.6,
         0,
         0
       ],
@@ -1130,12 +1130,12 @@
         "2449": 0,
         "3451": 0,
         "4034": 0,
-        "5045": 0,
+        "5045": 1.4,
         "6801": 0,
         "6813": 0,
         "7569": 0,
         "7594": 0,
-        "8228": 0,
+        "8228": 5.6,
         "10222": 0,
         "11604": 0,
         "11631": 0,
@@ -1145,7 +1145,7 @@
       }
     },
     {
-      "points": 42.3,
+      "points": 52.6,
       "players": [
         "10229",
         "10859",
@@ -1189,7 +1189,7 @@
         3.9,
         11.7,
         0,
-        0,
+        10.3,
         7.16,
         9,
         5
@@ -1201,7 +1201,7 @@
         "4984": 5.54,
         "5001": 0,
         "6804": 10.62,
-        "7526": 0,
+        "7526": 10.3,
         "8137": 11.7,
         "9480": 0,
         "9484": 3.4,
@@ -1217,7 +1217,7 @@
       }
     },
     {
-      "points": 19.6,
+      "points": 34.8,
       "players": [
         "11559",
         "11565",
@@ -1257,7 +1257,7 @@
       ],
       "starters_points": [
         0,
-        0,
+        15.2,
         0,
         0,
         0,
@@ -1285,7 +1285,7 @@
         "12514": 0,
         "12534": 15.9,
         "13337": 19.6,
-        "13345": 0,
+        "13345": 15.2,
         "CIN": 0,
         "SF": 0
       }
@@ -2691,7 +2691,7 @@
       "team": "HOU",
       "age": 25,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "RB"
       ],
@@ -2757,7 +2757,7 @@
       "team": "JAX",
       "age": 23,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "RB"
       ],
@@ -3483,7 +3483,7 @@
       "team": "BAL",
       "age": 32,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "RB"
       ],
@@ -3857,7 +3857,7 @@
       "team": "HOU",
       "age": 30,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "TE"
       ],
@@ -3989,7 +3989,7 @@
       "team": "SEA",
       "age": 30,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "QB"
       ],
@@ -4099,7 +4099,7 @@
       "team": "JAX",
       "age": 30,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -4275,7 +4275,7 @@
       "team": "CIN",
       "age": 27,
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "fantasy_positions": [
         "WR"
       ],
@@ -4759,7 +4759,7 @@
       "team": "NYG",
       "age": 26,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "TE"
       ],
@@ -5067,7 +5067,7 @@
       "team": "SF",
       "age": 26,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "fantasy_positions": [
         "QB"
       ],
@@ -5265,7 +5265,7 @@
       "team": "SEA",
       "age": 24,
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -5419,7 +5419,7 @@
       "team": "MIN",
       "age": 24,
       "status": "Active",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "fantasy_positions": [
         "WR"
       ],
