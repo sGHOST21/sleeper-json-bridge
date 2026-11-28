@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-28T01:59:41.625Z",
+  "fetched_at": "2026-11-28T10:27:24.836Z",
   "current_week": 12,
   "league": {
     "name": "Brass City League",
@@ -130,23 +130,18 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "last_message_id": "1432180843010359296",
+    "last_message_id": "1432241486648332292",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1795821030908,
+    "last_message_time": 1795835489478,
     "last_pinned_message_id": null,
-    "last_read_id": null,
     "draft_id": "1387554218864291840",
+    "last_read_id": null,
     "previous_league_id": "1222634893318561792",
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -173,6 +168,11 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 12
   },
   "users": [
@@ -538,8 +538,8 @@
         "13453",
         "13545",
         "13968",
-        "4943",
         "6790",
+        "7527",
         "8121",
         "8183",
         "8494",
@@ -565,7 +565,7 @@
         "wins": 3
       },
       "starters": [
-        "4943",
+        "0",
         "6790",
         "13286",
         "11834",
@@ -1642,8 +1642,8 @@
         "13453",
         "13545",
         "13968",
-        "4943",
         "6790",
+        "7527",
         "8121",
         "8183",
         "8494",
@@ -1653,7 +1653,7 @@
       "custom_points": null,
       "matchup_id": 6,
       "starters": [
-        "4943",
+        "0",
         "6790",
         "13286",
         "11834",
@@ -1683,8 +1683,8 @@
         0
       ],
       "players_points": {
-        "4943": 0,
         "6790": 25.7,
+        "7527": 0,
         "8121": 0,
         "8183": 0,
         "8494": 0,
@@ -3954,6 +3954,31 @@
         5
       ],
       "status_updated": 1795001020809,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1795835489444,
+      "settings": null,
+      "leg": 12,
+      "draft_picks": [],
+      "creator": "1267177164097191936",
+      "transaction_id": "1432241486505709568",
+      "adds": {
+        "7527": 2
+      },
+      "drops": {
+        "4943": 2
+      },
+      "consenter_ids": [
+        2
+      ],
+      "roster_ids": [
+        2
+      ],
+      "status_updated": 1795835489444,
       "waiver_budget": []
     },
     {
@@ -10191,6 +10216,28 @@
       "rotowire_id": 15404,
       "sportradar_id": "0ff9a975-669d-4851-a95d-ab28d9fc29c4",
       "fantasy_data_id": 22598
+    },
+    "7527": {
+      "player_id": "7527",
+      "full_name": "Mac Jones",
+      "position": "QB",
+      "team": "SF",
+      "age": 28,
+      "status": "Active",
+      "injury_status": null,
+      "fantasy_positions": [
+        "QB"
+      ],
+      "height": "75",
+      "weight": "220",
+      "years_exp": 5,
+      "college": "Alabama",
+      "birth_date": "1998-09-05",
+      "espn_id": null,
+      "yahoo_id": null,
+      "rotowire_id": 15402,
+      "sportradar_id": "1fd00ec3-b758-46d2-a2c1-cca521ea8a54",
+      "fantasy_data_id": 22496
     },
     "7543": {
       "player_id": "7543",
